@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2058761004235002330",
+    "created_at": "2026-05-25T04:04:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T05:04:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058761004235002330"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/maisuri_zenbu/…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/maisuri_zenbu/status/2058736960005632228",
+          "start": 5,
+          "url": "https://t.co/GQh3W2ci2j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058761004235002330",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058736960005632228",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我喜欢他 https://t.co/GQh3W2ci2j"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_2058736955253456896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJIaWmfaAAAQjp6.jpg",
+        "width": 480
+      },
+      {
+        "height": 640,
+        "media_key": "3_2058736955219972096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJIaWmXbEAAC3zT.jpg",
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2058761004235002330",
+        "created_at": "2026-05-25T04:04:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T05:04:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058761004235002330"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/maisuri_zenbu/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/maisuri_zenbu/status/2058736960005632228",
+              "start": 5,
+              "url": "https://t.co/GQh3W2ci2j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058761004235002330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058736960005632228",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我喜欢他 https://t.co/GQh3W2ci2j"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058736955253456896",
+            "3_2058736955219972096"
+          ]
+        },
+        "author_id": "2047984704046149632",
+        "conversation_id": "2058736960005632228",
+        "created_at": "2026-05-25T02:28:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T03:28:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058736960005632228"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GEi0UYiEUb",
+              "end": 27,
+              "expanded_url": "https://x.com/maisuri_zenbu/status/2058736960005632228/photo/1",
+              "media_key": "3_2058736955253456896",
+              "start": 4,
+              "url": "https://t.co/GEi0UYiEUb"
+            },
+            {
+              "display_url": "pic.x.com/GEi0UYiEUb",
+              "end": 27,
+              "expanded_url": "https://x.com/maisuri_zenbu/status/2058736960005632228/photo/1",
+              "media_key": "3_2058736955219972096",
+              "start": 4,
+              "url": "https://t.co/GEi0UYiEUb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058736960005632228",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 263,
+          "like_count": 27,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "🐼👘🎀 https://t.co/GEi0UYiEUb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎些\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "罹心力",
+        "name": "禁止暴食熬夜",
+        "pinned_tweet_id": "2055238057880875086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056751575289540608/GjxoGMpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 74,
+          "like_count": 165,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 219
+        },
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-25T10:24:21.000Z",
+        "description": "神聖かまってちゃん",
+        "id": "2047984704046149632",
+        "location": "🇰🇷",
+        "name": "マイスリー",
+        "pinned_tweet_id": "2058449833443361070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048518333130276864/Nuu2ZCQs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 125,
+          "like_count": 3051,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 321
+        },
+        "username": "maisuri_zenbu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2081062570350588390",
+    "created_at": "2026-07-25T17:02:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T18:02:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081062570350588390"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/skyseafor/stat…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/skyseafor/status/2080994578493256066",
+          "start": 5,
+          "url": "https://t.co/CUqTcn7ECT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081062570350588390",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080994578493256066",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是真的 https://t.co/CUqTcn7ECT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2081062570350588390",
+        "created_at": "2026-07-25T17:02:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T18:02:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081062570350588390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/skyseafor/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/skyseafor/status/2080994578493256066",
+              "start": 5,
+              "url": "https://t.co/CUqTcn7ECT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081062570350588390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080994578493256066",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是真的 https://t.co/CUqTcn7ECT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995266194576961536",
+        "conversation_id": "2080994578493256066",
+        "created_at": "2026-07-25T12:32:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T13:32:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080994578493256066"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080994578493256066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 13545,
+          "like_count": 70,
+          "quote_count": 2,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "讲个冷知识 报警打110秒挂 警察会回拨你的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/thexiexx",
+                "end": 23,
+                "expanded_url": "https://t.me/thexiexx",
+                "start": 0,
+                "url": "https://t.co/w6gPwSRVgN"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "每天",
+        "name": "嚼嚼",
+        "pinned_tweet_id": "2077840199158296579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 223,
+          "like_count": 1591,
+          "listed_count": 0,
+          "media_count": 179,
+          "tweet_count": 1705
+        },
+        "url": "https://t.co/w6gPwSRVgN",
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 不是女生 不像男生 / 终将成为你 / 顺直勿扰 我的门槛你过不起",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2069767708934332850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2161,
+          "following_count": 220,
+          "like_count": 1238,
+          "listed_count": 1,
+          "media_count": 401,
+          "tweet_count": 859
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true
+      }
+    ]
+  }
+}

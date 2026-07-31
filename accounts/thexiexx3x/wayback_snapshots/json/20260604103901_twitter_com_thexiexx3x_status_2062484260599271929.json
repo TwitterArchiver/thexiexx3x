@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2062484260599271929",
+    "created_at": "2026-06-04T10:39:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T11:39:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062484260599271929"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2062484260599271929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我那个同桌也是傻逼，我跟她聊天的时候我跟他讲我家那个鸟，我爸不想养了就放厕所了，上厕所鸟会看你有点尴尬。然后她竟然说换一个厕所呗，我说我家只有一个厕所，她就一脸惊讶的说他家有三个厕所然后问了我一连串问题比如东西那么多放哪四个人住有点挤了吧😂好的好的我家不像你家有两层楼你牛逼你赢了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2062484260599271929",
+        "created_at": "2026-06-04T10:39:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T11:39:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062484260599271929"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062484260599271929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我那个同桌也是傻逼，我跟她聊天的时候我跟他讲我家那个鸟，我爸不想养了就放厕所了，上厕所鸟会看你有点尴尬。然后她竟然说换一个厕所呗，我说我家只有一个厕所，她就一脸惊讶的说他家有三个厕所然后问了我一连串问题比如东西那么多放哪四个人住有点挤了吧😂好的好的我家不像你家有两层楼你牛逼你赢了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎些\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "罹心力",
+        "name": "禁止暴食熬夜",
+        "pinned_tweet_id": "2061694728853455116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056751575289540608/GjxoGMpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 174,
+          "like_count": 574,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 513
+        },
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

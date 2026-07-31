@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068380611056939008"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2068380655726338557",
+    "created_at": "2026-06-20T17:09:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T18:09:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068380655726338557"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Z61a86FGNa",
+          "end": 28,
+          "expanded_url": "https://x.com/thexiexx3x/status/2068380655726338557/photo/1",
+          "media_key": "3_2068380611056939008",
+          "start": 5,
+          "url": "https://t.co/Z61a86FGNa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068380655726338557",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "画崩溃了 https://t.co/Z61a86FGNa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068380611056939008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLRdNP5asAAiLeq.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068380611056939008"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2068380655726338557",
+        "created_at": "2026-06-20T17:09:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T18:09:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068380655726338557"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z61a86FGNa",
+              "end": 28,
+              "expanded_url": "https://x.com/thexiexx3x/status/2068380655726338557/photo/1",
+              "media_key": "3_2068380611056939008",
+              "start": 5,
+              "url": "https://t.co/Z61a86FGNa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068380655726338557",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "画崩溃了 https://t.co/Z61a86FGNa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎蝎\n大哥@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "再见，再见",
+        "name": "23点准时睡觉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067460593142075392/wbHCWLJg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 173,
+          "like_count": 809,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 723
+        },
+        "url": "",
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

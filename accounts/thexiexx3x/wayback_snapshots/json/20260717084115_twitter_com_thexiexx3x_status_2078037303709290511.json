@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2077727842486669312"
+      ],
+      "media_source_tweet_id": [
+        "2077727867463782736"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2078037303709290511",
+    "created_at": "2026-07-17T08:41:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T09:41:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078037303709290511"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1786664014300508160",
+          "start": 3,
+          "username": "Rinoru1c16324"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3g2gfhvzrn",
+          "end": 42,
+          "expanded_url": "https://x.com/Rinoru1c16324/status/2077727867463782736/photo/1",
+          "media_key": "16_2077727842486669312",
+          "start": 19,
+          "url": "https://t.co/3g2gfhvzrn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078037303709290511",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 666
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077727867463782736",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rinoru1c16324: https://t.co/3g2gfhvzrn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 240,
+        "media_key": "16_2077727842486669312",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HNWSdudbUAAJT0K.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HNWSdudbUAAJT0K.mp4"
+          }
+        ],
+        "width": 320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2077727842486669312"
+          ]
+        },
+        "author_id": "1786664014300508160",
+        "conversation_id": "2077727867463782736",
+        "created_at": "2026-07-16T12:11:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T13:11:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077727867463782736"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3g2gfhvzrn",
+              "end": 23,
+              "expanded_url": "https://x.com/Rinoru1c16324/status/2077727867463782736/photo/1",
+              "media_key": "16_2077727842486669312",
+              "start": 0,
+              "url": "https://t.co/3g2gfhvzrn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077727867463782736",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 493,
+          "impression_count": 41680,
+          "like_count": 5563,
+          "quote_count": 5,
+          "reply_count": 9,
+          "retweet_count": 666
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/3g2gfhvzrn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2077727842486669312"
+          ],
+          "media_source_tweet_id": [
+            "2077727867463782736"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2078037303709290511",
+        "created_at": "2026-07-17T08:41:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T09:41:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078037303709290511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1786664014300508160",
+              "start": 3,
+              "username": "Rinoru1c16324"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3g2gfhvzrn",
+              "end": 42,
+              "expanded_url": "https://x.com/Rinoru1c16324/status/2077727867463782736/photo/1",
+              "media_key": "16_2077727842486669312",
+              "start": 19,
+              "url": "https://t.co/3g2gfhvzrn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078037303709290511",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 666
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077727867463782736",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rinoru1c16324: https://t.co/3g2gfhvzrn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎蝎\n大哥@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x",
+                "start": 0,
+                "url": "https://t.co/d5BdKxZ1m4"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "每天",
+        "name": "23点准时睡觉",
+        "pinned_tweet_id": "2077840199158296579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 186,
+          "like_count": 1149,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 1423
+        },
+        "url": "https://t.co/d5BdKxZ1m4",
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-04T07:48:02.000Z",
+        "description": "=linchen｜🇨🇳｜中文&ENG｜🎨 | 🚫AI｜vocaloid\n✉️: linchen16324@gmail.com\n宠物: @R1n0ru1incHeN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 67,
+                "username": "R1n0ru1incHeN"
+              }
+            ]
+          }
+        },
+        "id": "1786664014300508160",
+        "location": "she/her",
+        "name": "一般通过linchen",
+        "pinned_tweet_id": "2067837121893999047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018231481588756480/4IKeNnDo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 571,
+          "like_count": 18476,
+          "listed_count": 3,
+          "media_count": 610,
+          "tweet_count": 5771
+        },
+        "url": "",
+        "username": "Rinoru1c16324",
+        "verified": false
+      }
+    ]
+  }
+}

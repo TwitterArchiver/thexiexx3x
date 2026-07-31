@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2079551540923351258",
+    "created_at": "2026-07-22T00:30:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T01:30:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079725850854047894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1965129075846193152",
+          "start": 0,
+          "username": "zhi_0702"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079725850854047894",
+    "in_reply_to_user_id": "1965129075846193152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079673484117254320",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhi_0702 是啊😭我一直在哭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2079551540923351258",
+        "created_at": "2026-07-22T00:30:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T01:30:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079725850854047894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1965129075846193152",
+              "start": 0,
+              "username": "zhi_0702"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079725850854047894",
+        "in_reply_to_user_id": "1965129075846193152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079673484117254320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhi_0702 是啊😭我一直在哭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965129075846193152",
+        "conversation_id": "2079551540923351258",
+        "created_at": "2026-07-21T21:02:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T22:02:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079673484117254320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2054583279257583616",
+              "start": 0,
+              "username": "thexiexx3x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079673484117254320",
+        "in_reply_to_user_id": "2054583279257583616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079551540923351258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thexiexx3x 不是這都能被舉報。。？？然後這個傻逼黑叉還能封妳。。。。？？？？那些天天恨不得把自己賣了的一點事沒有是什麼意思呀。。xx沒有惹任何人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "每天",
+        "name": "嚼嚼",
+        "pinned_tweet_id": "2077840199158296579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 203,
+          "like_count": 1362,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 1551
+        },
+        "url": "",
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-08T19:04:27.000Z",
+        "description": "碎碎念/lesb/紫餐歐弟餐券妹/畫畫oc人/歡迎交流/匿名提問箱https://t.co/cpMSdyKEVY想被看見想交到好朋友……",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zhi68399",
+                "end": 56,
+                "expanded_url": "https://ngl.link/zhi68399",
+                "start": 33,
+                "url": "https://t.co/cpMSdyKEVY"
+              }
+            ]
+          }
+        },
+        "id": "1965129075846193152",
+        "location": "🚪28  僅聊天",
+        "name": "滯²",
+        "pinned_tweet_id": "2060018632479084970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053840204767891456/ZbYQ_j1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 80,
+          "like_count": 136,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 461
+        },
+        "url": "",
+        "username": "zhi_0702",
+        "verified": false
+      }
+    ]
+  }
+}

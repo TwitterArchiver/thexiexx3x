@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2061810619582705667",
+    "created_at": "2026-06-02T14:02:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T15:02:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061810619582705667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2008763694076014592",
+          "start": 3,
+          "username": "ssol241004"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061810619582705667",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 836
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061720015070752797",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ssol241004: 다들 학생신분 아니세요..?\n그림을\n어떻게 그리시는거에요?\n혹시 하루가 89시간이세요??"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2061810619582705667",
+        "created_at": "2026-06-02T14:02:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T15:02:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061810619582705667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2008763694076014592",
+              "start": 3,
+              "username": "ssol241004"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061810619582705667",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 836
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061720015070752797",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ssol241004: 다들 학생신분 아니세요..?\n그림을\n어떻게 그리시는거에요?\n혹시 하루가 89시간이세요??"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008763694076014592",
+        "conversation_id": "2061720015070752797",
+        "created_at": "2026-06-02T08:02:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T09:02:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061720015070752797"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061720015070752797",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 214,
+          "impression_count": 176617,
+          "like_count": 4355,
+          "quote_count": 354,
+          "reply_count": 21,
+          "retweet_count": 836
+        },
+        "reply_settings": "everyone",
+        "text": "다들 학생신분 아니세요..?\n그림을\n어떻게 그리시는거에요?\n혹시 하루가 89시간이세요??"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎些\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "罹心力",
+        "name": "禁止暴食熬夜",
+        "pinned_tweet_id": "2061694728853455116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056751575289540608/GjxoGMpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 158,
+          "like_count": 484,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 446
+        },
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-07T04:53:02.000Z",
+        "description": "연뮤,쩜오디,웹소설/괴출 ~371/솔음른,재솔,최솔/\n타장많어요",
+        "id": "2008763694076014592",
+        "location": "룩키마트 과일진열대",
+        "name": "쏠",
+        "pinned_tweet_id": "2058597915028037709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058740173526147072/gdiNe5SV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 101,
+          "like_count": 1306,
+          "listed_count": 4,
+          "media_count": 23,
+          "tweet_count": 345
+        },
+        "username": "ssol241004",
+        "verified": false
+      }
+    ]
+  }
+}

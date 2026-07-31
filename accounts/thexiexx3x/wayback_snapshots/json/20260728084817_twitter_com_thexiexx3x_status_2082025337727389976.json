@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2081699246139645952"
+      ],
+      "media_source_tweet_id": [
+        "2081699256147333625"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2082025337727389976",
+    "created_at": "2026-07-28T08:48:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T09:48:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082025337727389976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1891816595976232960",
+          "start": 3,
+          "username": "nn_gxx12"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jicWvJPJqQ",
+          "end": 57,
+          "expanded_url": "https://x.com/nn_gxx12/status/2081699256147333625/video/1",
+          "media_key": "13_2081699246139645952",
+          "start": 34,
+          "url": "https://t.co/jicWvJPJqQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082025337727389976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081699256147333625",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nn_gxx12: アイビスで頑張ったᵕ  ̫ ᵕ̩̩♥︎ https://t.co/jicWvJPJqQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7395,
+        "height": 720,
+        "media_key": "13_2081699246139645952",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081699246139645952/img/aEzoWG2gR7F2Pqdf.jpg",
+        "public_metrics": {
+          "view_count": 711
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081699246139645952/vid/avc1/320x320/0pdr_Q-Y5_J7H0ZM.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081699246139645952/vid/avc1/540x540/vBSrv-VZf8Z3_vAp.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081699246139645952/vid/avc1/720x720/8muLNtzVsV6OlRjs.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081699246139645952/pl/qUPInFWyoTljBFhz.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081699246139645952"
+          ]
+        },
+        "author_id": "1891816595976232960",
+        "conversation_id": "2081699256147333625",
+        "created_at": "2026-07-27T11:12:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T12:12:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081699256147333625"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jicWvJPJqQ",
+              "end": 43,
+              "expanded_url": "https://x.com/nn_gxx12/status/2081699256147333625/video/1",
+              "media_key": "13_2081699246139645952",
+              "start": 20,
+              "url": "https://t.co/jicWvJPJqQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081699256147333625",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1702,
+          "like_count": 79,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "アイビスで頑張ったᵕ  ̫ ᵕ̩̩♥︎ https://t.co/jicWvJPJqQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081699246139645952"
+          ],
+          "media_source_tweet_id": [
+            "2081699256147333625"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2082025337727389976",
+        "created_at": "2026-07-28T08:48:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T09:48:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082025337727389976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1891816595976232960",
+              "start": 3,
+              "username": "nn_gxx12"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jicWvJPJqQ",
+              "end": 57,
+              "expanded_url": "https://x.com/nn_gxx12/status/2081699256147333625/video/1",
+              "media_key": "13_2081699246139645952",
+              "start": 34,
+              "url": "https://t.co/jicWvJPJqQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082025337727389976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081699256147333625",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nn_gxx12: アイビスで頑張ったᵕ  ̫ ᵕ̩̩♥︎ https://t.co/jicWvJPJqQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/thexiexx",
+                "end": 23,
+                "expanded_url": "https://t.me/thexiexx",
+                "start": 0,
+                "url": "https://t.co/w6gPwSRVgN"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "mybed",
+        "name": "嚼嚼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 231,
+          "like_count": 1661,
+          "listed_count": 0,
+          "media_count": 185,
+          "tweet_count": 1774
+        },
+        "url": "https://t.co/w6gPwSRVgN",
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-18T11:46:51.000Z",
+        "description": "マジで人間",
+        "id": "1891816595976232960",
+        "name": "つかえないメイド",
+        "pinned_tweet_id": "2077788429644153260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081721528568397824/lHBl1ilz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 84,
+          "like_count": 8663,
+          "listed_count": 2,
+          "media_count": 189,
+          "tweet_count": 662
+        },
+        "url": "",
+        "username": "nn_gxx12",
+        "verified": false
+      }
+    ]
+  }
+}

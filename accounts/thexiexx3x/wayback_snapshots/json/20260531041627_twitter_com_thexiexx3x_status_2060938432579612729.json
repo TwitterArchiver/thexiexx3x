@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060937913345724416"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2060938432579612729",
+    "created_at": "2026-05-31T04:16:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T05:16:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060938432579612729"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3F7zOcoIPj",
+          "end": 36,
+          "expanded_url": "https://x.com/thexiexx3x/status/2060938432579612729/photo/1",
+          "media_key": "3_2060937913345724416",
+          "start": 13,
+          "url": "https://t.co/3F7zOcoIPj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060938432579612729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "烦死了一会儿又要回去上学 https://t.co/3F7zOcoIPj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3904,
+        "media_key": "3_2060937913345724416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJnsHOUbUAAQOSk.jpg",
+        "width": 2928
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060937913345724416"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2060938432579612729",
+        "created_at": "2026-05-31T04:16:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T05:16:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060938432579612729"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3F7zOcoIPj",
+              "end": 36,
+              "expanded_url": "https://x.com/thexiexx3x/status/2060938432579612729/photo/1",
+              "media_key": "3_2060937913345724416",
+              "start": 13,
+              "url": "https://t.co/3F7zOcoIPj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060938432579612729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "烦死了一会儿又要回去上学 https://t.co/3F7zOcoIPj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎些\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "罹心力",
+        "name": "禁止暴食熬夜",
+        "pinned_tweet_id": "2055238057880875086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056751575289540608/GjxoGMpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 136,
+          "like_count": 383,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 383
+        },
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

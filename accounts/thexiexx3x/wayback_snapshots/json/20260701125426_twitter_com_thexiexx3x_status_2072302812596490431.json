@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072302652491550721",
+        "3_2072302652495626241"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2072302812596490431",
+    "created_at": "2026-07-01T12:54:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T13:54:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072302812596490431"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1ZTif2OpA3",
+          "end": 39,
+          "expanded_url": "https://x.com/thexiexx3x/status/2072302812596490431/photo/1",
+          "media_key": "3_2072302652491550721",
+          "start": 16,
+          "url": "https://t.co/1ZTif2OpA3"
+        },
+        {
+          "display_url": "pic.x.com/1ZTif2OpA3",
+          "end": 39,
+          "expanded_url": "https://x.com/thexiexx3x/status/2072302812596490431/photo/1",
+          "media_key": "3_2072302652495626241",
+          "start": 16,
+          "url": "https://t.co/1ZTif2OpA3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072302812596490431",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小米手环vs荣耀手机，我相信谁 https://t.co/1ZTif2OpA3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072302652491550721",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMJMSGzb0AEVfV3.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2072302652495626241",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMJMSG0aAAEPh6n.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072302652491550721",
+            "3_2072302652495626241"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2072302812596490431",
+        "created_at": "2026-07-01T12:54:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T13:54:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072302812596490431"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1ZTif2OpA3",
+              "end": 39,
+              "expanded_url": "https://x.com/thexiexx3x/status/2072302812596490431/photo/1",
+              "media_key": "3_2072302652491550721",
+              "start": 16,
+              "url": "https://t.co/1ZTif2OpA3"
+            },
+            {
+              "display_url": "pic.x.com/1ZTif2OpA3",
+              "end": 39,
+              "expanded_url": "https://x.com/thexiexx3x/status/2072302812596490431/photo/1",
+              "media_key": "3_2072302652495626241",
+              "start": 16,
+              "url": "https://t.co/1ZTif2OpA3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072302812596490431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小米手环vs荣耀手机，我相信谁 https://t.co/1ZTif2OpA3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎蝎\n大哥@thexiexx\n两个号都被gostban了无法互动很抱歉orz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "再见，再见",
+        "name": "23点准时睡觉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070912725920940032/E-FS3NrH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 177,
+          "like_count": 834,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 949
+        },
+        "url": "",
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

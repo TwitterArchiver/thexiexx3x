@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2080094341645963652",
+    "created_at": "2026-07-23T00:55:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T01:55:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080094341645963652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1955287316055916544",
+          "start": 3,
+          "username": "pccqrr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080094341645963652",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7898
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079354688420323532",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @pccqrr: mundo de mierda, con razón la gente se droga"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2080094341645963652",
+        "created_at": "2026-07-23T00:55:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T01:55:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080094341645963652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1955287316055916544",
+              "start": 3,
+              "username": "pccqrr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080094341645963652",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7898
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079354688420323532",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @pccqrr: mundo de mierda, con razón la gente se droga"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955287316055916544",
+        "conversation_id": "2079354688420323532",
+        "created_at": "2026-07-20T23:56:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T00:56:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079354688420323532"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079354688420323532",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 527,
+          "impression_count": 209946,
+          "like_count": 23795,
+          "quote_count": 98,
+          "reply_count": 0,
+          "retweet_count": 7898
+        },
+        "reply_settings": "following",
+        "text": "mundo de mierda, con razón la gente se droga"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "每天",
+        "name": "嚼嚼",
+        "pinned_tweet_id": "2077840199158296579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 207,
+          "like_count": 1427,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 1580
+        },
+        "url": "",
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-12T15:16:51.000Z",
+        "description": "disfrútame, no se cuando moriré.  Im trying.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "arrivederchi.⠀",
+                "end": 23,
+                "expanded_url": "http://arrivederchi.xn--6ii/",
+                "start": 0,
+                "url": "https://t.co/nJs4MGyipo"
+              }
+            ]
+          }
+        },
+        "id": "1955287316055916544",
+        "location": "de izquierda ",
+        "name": "salishh goat",
+        "pinned_tweet_id": "2078570981946196102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078189945924075520/L9nko5ix_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 511,
+          "following_count": 206,
+          "like_count": 5461,
+          "listed_count": 2,
+          "media_count": 6,
+          "tweet_count": 1418
+        },
+        "url": "https://t.co/nJs4MGyipo",
+        "username": "pccqrr",
+        "verified": false
+      }
+    ]
+  }
+}

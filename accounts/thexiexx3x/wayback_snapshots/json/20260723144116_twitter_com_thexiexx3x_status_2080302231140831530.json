@@ -1,0 +1,380 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080202488045883392"
+      ],
+      "media_source_tweet_id": [
+        "2080202494446366991"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1256236649253449729",
+          "name": "Fashion & beauty"
+        }
+      }
+    ],
+    "conversation_id": "2080302231140831530",
+    "created_at": "2026-07-23T14:41:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T15:41:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080302231140831530"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 13,
+          "tag": "地元最高FA"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1775190592282349569",
+          "start": 3,
+          "username": "depedyl"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VASC1P1LXs",
+          "end": 52,
+          "expanded_url": "https://x.com/depedyl/status/2080202494446366991/photo/1",
+          "media_key": "3_2080202488045883392",
+          "start": 29,
+          "url": "https://t.co/VASC1P1LXs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080302231140831530",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080202494446366991",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @depedyl: #地元最高FA\n샤넬 야호~~ https://t.co/VASC1P1LXs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1640,
+        "media_key": "3_2080202488045883392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN5dJDjb0AA1mrz.jpg",
+        "width": 1640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080202488045883392"
+          ]
+        },
+        "author_id": "1775190592282349569",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          }
+        ],
+        "conversation_id": "2080202494446366991",
+        "created_at": "2026-07-23T08:04:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T09:04:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080202494446366991"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "地元最高FA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VASC1P1LXs",
+              "end": 39,
+              "expanded_url": "https://x.com/depedyl/status/2080202494446366991/photo/1",
+              "media_key": "3_2080202488045883392",
+              "start": 16,
+              "url": "https://t.co/VASC1P1LXs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080202494446366991",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 736,
+          "like_count": 21,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "#地元最高FA\n샤넬 야호~~ https://t.co/VASC1P1LXs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080202488045883392"
+          ],
+          "media_source_tweet_id": [
+            "2080202494446366991"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          }
+        ],
+        "conversation_id": "2080302231140831530",
+        "created_at": "2026-07-23T14:41:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T15:41:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080302231140831530"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 13,
+              "tag": "地元最高FA"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1775190592282349569",
+              "start": 3,
+              "username": "depedyl"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VASC1P1LXs",
+              "end": 52,
+              "expanded_url": "https://x.com/depedyl/status/2080202494446366991/photo/1",
+              "media_key": "3_2080202488045883392",
+              "start": 29,
+              "url": "https://t.co/VASC1P1LXs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080302231140831530",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080202494446366991",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @depedyl: #地元最高FA\n샤넬 야호~~ https://t.co/VASC1P1LXs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "每天",
+        "name": "嚼嚼",
+        "pinned_tweet_id": "2077840199158296579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 209,
+          "like_count": 1470,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 1607
+        },
+        "url": "",
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-02T15:56:45.000Z",
+        "description": "카엉카옹!!",
+        "id": "1775190592282349569",
+        "name": "이토",
+        "pinned_tweet_id": "2055975510468145401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080204981882531840/houyGWwS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 69,
+          "like_count": 3020,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 1984
+        },
+        "url": "",
+        "username": "depedyl",
+        "verified": false
+      }
+    ]
+  }
+}

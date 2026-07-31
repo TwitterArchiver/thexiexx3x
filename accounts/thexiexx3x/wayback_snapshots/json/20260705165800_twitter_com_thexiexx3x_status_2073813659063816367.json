@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2073813234789048503",
+    "created_at": "2026-07-05T16:58:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T17:58:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073813659063816367"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2073813659063816367",
+    "in_reply_to_user_id": "2054583279257583616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073813234789048503",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不想玩猫和老鼠了赛季初太难打了这只是个游戏我还没到痴迷的程度所以一切无所谓"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1640,
+        "media_key": "3_2073812902247813120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMep2NkaUAAfKCb.jpg",
+        "width": 2360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2073813234789048503",
+        "created_at": "2026-07-05T16:58:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T17:58:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073813659063816367"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073813659063816367",
+        "in_reply_to_user_id": "2054583279257583616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073813234789048503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不想玩猫和老鼠了赛季初太难打了这只是个游戏我还没到痴迷的程度所以一切无所谓"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073812902247813120"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2073813234789048503",
+        "created_at": "2026-07-05T16:56:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T17:56:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073813234789048503"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SqYYwBmZW9",
+              "end": 47,
+              "expanded_url": "https://x.com/thexiexx3x/status/2073813234789048503/photo/1",
+              "media_key": "3_2073812902247813120",
+              "start": 24,
+              "url": "https://t.co/SqYYwBmZW9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073813234789048503",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "罗宾汉太肥我画这么丑都对不起曾经打上三杠的战绩 https://t.co/SqYYwBmZW9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎蝎\n大哥@thexiexx\n两个号都被gostban了无法互动很抱歉orz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "再见，再见",
+        "name": "23点准时睡觉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070912725920940032/E-FS3NrH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 177,
+          "like_count": 865,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 1041
+        },
+        "url": "",
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

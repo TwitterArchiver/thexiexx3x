@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069375592546574336",
+        "3_2069375591347011584"
+      ],
+      "media_source_tweet_id": [
+        "2069375595553964472",
+        "2069375595553964472"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2069635418472284610",
+    "created_at": "2026-06-24T04:15:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T05:15:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069635418472284610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1138644300185554944",
+          "start": 3,
+          "username": "jiyouer"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hJabjkwlnM",
+          "end": 39,
+          "expanded_url": "https://x.com/jiyouer/status/2069375595553964472/photo/1",
+          "media_key": "3_2069375592546574336",
+          "start": 16,
+          "url": "https://t.co/hJabjkwlnM"
+        },
+        {
+          "display_url": "pic.x.com/hJabjkwlnM",
+          "end": 39,
+          "expanded_url": "https://x.com/jiyouer/status/2069375595553964472/photo/1",
+          "media_key": "3_2069375591347011584",
+          "start": 16,
+          "url": "https://t.co/hJabjkwlnM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069635418472284610",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 619
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069375595553964472",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jiyouer: 血亲 https://t.co/hJabjkwlnM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069375592546574336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLfmIyyaIAA-paF.jpg",
+        "width": 1402
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2069375591347011584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLfmIuUaQAAIXsp.jpg",
+        "width": 1002
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069375592546574336",
+            "3_2069375591347011584"
+          ],
+          "media_source_tweet_id": [
+            "2069375595553964472",
+            "2069375595553964472"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2069635418472284610",
+        "created_at": "2026-06-24T04:15:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T05:15:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069635418472284610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1138644300185554944",
+              "start": 3,
+              "username": "jiyouer"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hJabjkwlnM",
+              "end": 39,
+              "expanded_url": "https://x.com/jiyouer/status/2069375595553964472/photo/1",
+              "media_key": "3_2069375592546574336",
+              "start": 16,
+              "url": "https://t.co/hJabjkwlnM"
+            },
+            {
+              "display_url": "pic.x.com/hJabjkwlnM",
+              "end": 39,
+              "expanded_url": "https://x.com/jiyouer/status/2069375595553964472/photo/1",
+              "media_key": "3_2069375591347011584",
+              "start": 16,
+              "url": "https://t.co/hJabjkwlnM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069635418472284610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 619
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069375595553964472",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jiyouer: 血亲 https://t.co/hJabjkwlnM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069375592546574336",
+            "3_2069375591347011584"
+          ]
+        },
+        "author_id": "1138644300185554944",
+        "conversation_id": "2069375595553964472",
+        "created_at": "2026-06-23T11:02:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T12:02:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069375595553964472"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hJabjkwlnM",
+              "end": 26,
+              "expanded_url": "https://x.com/jiyouer/status/2069375595553964472/photo/1",
+              "media_key": "3_2069375592546574336",
+              "start": 3,
+              "url": "https://t.co/hJabjkwlnM"
+            },
+            {
+              "display_url": "pic.x.com/hJabjkwlnM",
+              "end": 26,
+              "expanded_url": "https://x.com/jiyouer/status/2069375595553964472/photo/1",
+              "media_key": "3_2069375591347011584",
+              "start": 3,
+              "url": "https://t.co/hJabjkwlnM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069375595553964472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 829,
+          "impression_count": 181223,
+          "like_count": 5161,
+          "quote_count": 14,
+          "reply_count": 10,
+          "retweet_count": 619
+        },
+        "reply_settings": "everyone",
+        "text": "血亲 https://t.co/hJabjkwlnM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎蝎\n大哥@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "再见，再见",
+        "name": "23点准时睡觉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069086562667970560/iptEZZ1u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 170,
+          "like_count": 813,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 797
+        },
+        "url": "",
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-12T03:08:50.000Z",
+        "description": "東方/主蕾咲/蕾米all向/普通蕾米厨",
+        "id": "1138644300185554944",
+        "name": "棘又",
+        "pinned_tweet_id": "2009421931603447899",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1243615709353000960/aci_Dj64_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5202,
+          "following_count": 742,
+          "like_count": 6077,
+          "listed_count": 23,
+          "media_count": 631,
+          "tweet_count": 3595
+        },
+        "url": "",
+        "username": "jiyouer",
+        "verified": false
+      }
+    ]
+  }
+}

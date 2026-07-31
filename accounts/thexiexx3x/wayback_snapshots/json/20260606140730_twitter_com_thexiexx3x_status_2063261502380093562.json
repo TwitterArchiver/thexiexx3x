@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2063257374832668954",
+    "created_at": "2026-06-06T14:07:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T15:07:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063261502380093562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1652115424270774272",
+          "start": 0,
+          "username": "Cco127"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063261502380093562",
+    "in_reply_to_user_id": "1652115424270774272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063257374832668954",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cco127 笑炸了卧槽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2063257374832668954",
+        "created_at": "2026-06-06T14:07:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T15:07:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063261502380093562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1652115424270774272",
+              "start": 0,
+              "username": "Cco127"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063261502380093562",
+        "in_reply_to_user_id": "1652115424270774272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063257374832668954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cco127 笑炸了卧槽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1652115424270774272",
+        "conversation_id": "2063257374832668954",
+        "created_at": "2026-06-06T13:51:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T14:51:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063257374832668954"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063257374832668954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "特么noko评论区都有减重🈷️泡的人机，笑死我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎些\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "罹心力",
+        "name": "禁止暴食熬夜",
+        "pinned_tweet_id": "2061694728853455116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056751575289540608/GjxoGMpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 184,
+          "like_count": 679,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 577
+        },
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-29T01:00:00.000Z",
+        "description": "中国人 17岁 只会中文 其他语言都用的翻译器\nlike：크러쉬/뇽토리/神聖かまってちゃん/\n電波少女｜ADV",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/zh-tw/brhRfQum…",
+                "end": 23,
+                "expanded_url": "https://lit.link/zh-tw/brhRfQumlNaEATtTHJQsrxLNqrK2",
+                "start": 0,
+                "url": "https://t.co/KHgX5VoH5F"
+              }
+            ]
+          }
+        },
+        "id": "1652115424270774272",
+        "location": "幸せが欲しければ  さっさと死んでちょうだいな",
+        "name": "Moco",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062158842453270528/nLHeF0GN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 423,
+          "like_count": 19241,
+          "listed_count": 2,
+          "media_count": 1317,
+          "tweet_count": 11386
+        },
+        "url": "https://t.co/KHgX5VoH5F",
+        "username": "Cco127",
+        "verified": false
+      }
+    ]
+  }
+}

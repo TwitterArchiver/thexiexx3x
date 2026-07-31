@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2062957730219081767",
+    "created_at": "2026-06-05T18:20:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T19:20:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062962882757931463"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2062962882757931463",
+    "in_reply_to_user_id": "2054583279257583616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062957730219081767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "时间线回到现在。我是绝对不想上医院，主要是怕全封闭住院和病耻感。还有是怕吃药的副作用。\n现在浮木发现我自残他们都要把我往门外拽啊说要我上精神病院，大前提是我自残。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2062957730219081767",
+        "created_at": "2026-06-05T18:20:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T19:20:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062962882757931463"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062962882757931463",
+        "in_reply_to_user_id": "2054583279257583616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062957730219081767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "时间线回到现在。我是绝对不想上医院，主要是怕全封闭住院和病耻感。还有是怕吃药的副作用。\n现在浮木发现我自残他们都要把我往门外拽啊说要我上精神病院，大前提是我自残。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2062957730219081767",
+        "created_at": "2026-06-05T18:00:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T19:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062957730219081767"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062957730219081767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我意识到病好像影响到生活了 如果我两年前就去医院的话是不是不会变成今天这样？那时候我一定不会承认自己生病了吧。到初三的时候我自残被家长发现，家长嘴上说着上医院其实是死也不想去呀，我当时是非常想去看病的。但是家长是觉得会影响到自己工作名誉问题吧就是不愿意去。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎些\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "罹心力",
+        "name": "禁止暴食熬夜",
+        "pinned_tweet_id": "2061694728853455116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056751575289540608/GjxoGMpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 181,
+          "like_count": 629,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 549
+        },
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

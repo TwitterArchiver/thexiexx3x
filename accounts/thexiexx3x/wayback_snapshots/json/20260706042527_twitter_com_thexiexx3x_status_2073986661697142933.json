@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073986653031628800",
+        "3_2073986653035905025"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2073986661697142933",
+    "created_at": "2026-07-06T04:25:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T05:25:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073986661697142933"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7PcG3MjgzT",
+          "end": 26,
+          "expanded_url": "https://x.com/thexiexx3x/status/2073986661697142933/photo/1",
+          "media_key": "3_2073986653031628800",
+          "start": 3,
+          "url": "https://t.co/7PcG3MjgzT"
+        },
+        {
+          "display_url": "pic.x.com/7PcG3MjgzT",
+          "end": 26,
+          "expanded_url": "https://x.com/thexiexx3x/status/2073986661697142933/photo/1",
+          "media_key": "3_2073986653035905025",
+          "start": 3,
+          "url": "https://t.co/7PcG3MjgzT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073986661697142933",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "了了 https://t.co/7PcG3MjgzT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1423,
+        "media_key": "3_2073986653031628800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMhH31raAAA8Hf_.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1423,
+        "media_key": "3_2073986653035905025",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMhH31sbQAElTJw.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073986653031628800",
+            "3_2073986653035905025"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2073986661697142933",
+        "created_at": "2026-07-06T04:25:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T05:25:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073986661697142933"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7PcG3MjgzT",
+              "end": 26,
+              "expanded_url": "https://x.com/thexiexx3x/status/2073986661697142933/photo/1",
+              "media_key": "3_2073986653031628800",
+              "start": 3,
+              "url": "https://t.co/7PcG3MjgzT"
+            },
+            {
+              "display_url": "pic.x.com/7PcG3MjgzT",
+              "end": 26,
+              "expanded_url": "https://x.com/thexiexx3x/status/2073986661697142933/photo/1",
+              "media_key": "3_2073986653035905025",
+              "start": 3,
+              "url": "https://t.co/7PcG3MjgzT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073986661697142933",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "了了 https://t.co/7PcG3MjgzT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎蝎\n大哥@thexiexx\n两个号都被gostban了无法互动很抱歉orz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "再见，再见",
+        "name": "23点准时睡觉",
+        "pinned_tweet_id": "2073818859916890480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070912725920940032/E-FS3NrH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 177,
+          "like_count": 871,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 1062
+        },
+        "url": "",
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

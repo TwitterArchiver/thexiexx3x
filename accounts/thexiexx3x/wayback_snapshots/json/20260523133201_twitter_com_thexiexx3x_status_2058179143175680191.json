@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2058179143175680191",
+    "created_at": "2026-05-23T13:32:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T14:32:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058179143175680191"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2053727173895430144",
+          "start": 3,
+          "username": "zylyangnuosxh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058179143175680191",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058150660269654464",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zylyangnuosxh: 互fo！互转!!我爱你们"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2058179143175680191",
+        "created_at": "2026-05-23T13:32:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T14:32:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058179143175680191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2053727173895430144",
+              "start": 3,
+              "username": "zylyangnuosxh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058179143175680191",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058150660269654464",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zylyangnuosxh: 互fo！互转!!我爱你们"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053727173895430144",
+        "conversation_id": "2058150660269654464",
+        "created_at": "2026-05-23T11:38:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T12:38:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058150660269654464"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058150660269654464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "互fo！互转!!我爱你们"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎些\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "罹心力",
+        "name": "禁止暴食熬夜",
+        "pinned_tweet_id": "2055238057880875086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056751575289540608/GjxoGMpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 64,
+          "like_count": 106,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 160
+        },
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-11T06:43:20.000Z",
+        "description": "前世两个号都被封\nod｜餐券｜重度抑郁重度焦虑｜\n我是刻薄逼别来惹我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/croissant56414",
+                "end": 23,
+                "expanded_url": "https://ngl.link/croissant56414",
+                "start": 0,
+                "url": "https://t.co/PjGFp6c8JZ"
+              }
+            ]
+          }
+        },
+        "id": "2053727173895430144",
+        "location": "🚪52纯绿",
+        "name": "可颂🥐(3.0)",
+        "pinned_tweet_id": "2053732777242284339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058004655465259008/mLttTZjH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 221,
+          "like_count": 391,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 198
+        },
+        "url": "https://t.co/PjGFp6c8JZ",
+        "username": "zylyangnuosxh",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2068737384313950628",
+    "created_at": "2026-06-21T16:46:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T17:46:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068737384313950628"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2068737384313950628",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "知道吗 我大号和这个号 叫那个什么对照实验 都被gostban了这个号正常发推极少量互动 大号锁推不登 msk个死妈崽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2068737384313950628",
+        "created_at": "2026-06-21T16:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T17:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068737384313950628"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068737384313950628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "知道吗 我大号和这个号 叫那个什么对照实验 都被gostban了这个号正常发推极少量互动 大号锁推不登 msk个死妈崽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎蝎\n大哥@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "再见，再见",
+        "name": "23点准时睡觉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067460593142075392/wbHCWLJg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 167,
+          "like_count": 809,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 757
+        },
+        "url": "",
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

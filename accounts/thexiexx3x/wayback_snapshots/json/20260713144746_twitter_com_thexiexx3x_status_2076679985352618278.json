@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2076676394994802998",
+    "created_at": "2026-07-13T14:47:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T15:47:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076679985352618278"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2076679985352618278",
+    "in_reply_to_user_id": "2054583279257583616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076676394994802998",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "0个人想知道的自设眼睛一个黑另一个黄，因为我产品，少女终末旅行小千和尤莉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2076676394994802998",
+        "created_at": "2026-07-13T14:47:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T15:47:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076679985352618278"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076679985352618278",
+        "in_reply_to_user_id": "2054583279257583616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076676394994802998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "0个人想知道的自设眼睛一个黑另一个黄，因为我产品，少女终末旅行小千和尤莉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2076676394994802998",
+        "created_at": "2026-07-13T14:33:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T15:33:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076676394994802998"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lkuaix_xie/sta…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/lkuaix_xie/status/2076675215573307776",
+              "start": 4,
+              "url": "https://t.co/bI8Q2c2irT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076676394994802998",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076675215573307776",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我自设 https://t.co/bI8Q2c2irT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎蝎\n大哥@thexiexx\n                                     体温箱▼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x",
+                "start": 0,
+                "url": "https://t.co/d5BdKxZ1m4"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "再见，再见",
+        "name": "23点准时睡觉🧠",
+        "pinned_tweet_id": "2073818859916890480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 189,
+          "like_count": 1046,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 1288
+        },
+        "url": "https://t.co/d5BdKxZ1m4",
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

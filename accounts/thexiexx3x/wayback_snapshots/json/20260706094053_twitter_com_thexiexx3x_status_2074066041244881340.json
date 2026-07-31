@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074065865176432640"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2074066041244881340",
+    "created_at": "2026-07-06T09:40:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T10:40:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074066041244881340"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NAsb6BLpWc",
+          "end": 49,
+          "expanded_url": "https://x.com/thexiexx3x/status/2074066041244881340/photo/1",
+          "media_key": "3_2074065865176432640",
+          "start": 26,
+          "url": "https://t.co/NAsb6BLpWc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074066041244881340",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我今天竟然磕了825㎎卧槽下次不能这样了不然不够吃 https://t.co/NAsb6BLpWc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1695,
+        "media_key": "3_2074065865176432640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMiP6l6awAAeIJk.jpg",
+        "width": 763
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074065865176432640"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2074066041244881340",
+        "created_at": "2026-07-06T09:40:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T10:40:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074066041244881340"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NAsb6BLpWc",
+              "end": 49,
+              "expanded_url": "https://x.com/thexiexx3x/status/2074066041244881340/photo/1",
+              "media_key": "3_2074065865176432640",
+              "start": 26,
+              "url": "https://t.co/NAsb6BLpWc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074066041244881340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我今天竟然磕了825㎎卧槽下次不能这样了不然不够吃 https://t.co/NAsb6BLpWc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎蝎\n大哥@thexiexx\n两个号都被gostban了无法互动很抱歉orz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "再见，再见",
+        "name": "23点准时睡觉",
+        "pinned_tweet_id": "2073818859916890480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070912725920940032/E-FS3NrH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 177,
+          "like_count": 873,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 1074
+        },
+        "url": "",
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

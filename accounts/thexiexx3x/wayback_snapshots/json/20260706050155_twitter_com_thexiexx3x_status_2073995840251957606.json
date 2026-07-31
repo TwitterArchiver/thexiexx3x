@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2073995840251957606",
+    "created_at": "2026-07-06T05:01:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T06:01:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073995840251957606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2069284731880112128",
+          "start": 3,
+          "username": "nanjiaoshou6819"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073995840251957606",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073951039540351378",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nanjiaoshou6819: 对于pr80，管控确实不应该，好好禁毒就好了，治病良药，你吧他禁了就是不讲道理、"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2073995840251957606",
+        "created_at": "2026-07-06T05:01:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T06:01:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073995840251957606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2069284731880112128",
+              "start": 3,
+              "username": "nanjiaoshou6819"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073995840251957606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073951039540351378",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nanjiaoshou6819: 对于pr80，管控确实不应该，好好禁毒就好了，治病良药，你吧他禁了就是不讲道理、"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2069284731880112128",
+        "conversation_id": "2073951039540351378",
+        "created_at": "2026-07-06T02:03:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T03:03:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073951039540351378"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073951039540351378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "对于pr80，管控确实不应该，好好禁毒就好了，治病良药，你吧他禁了就是不讲道理、"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎蝎\n大哥@thexiexx\n两个号都被gostban了无法互动很抱歉orz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "再见，再见",
+        "name": "23点准时睡觉",
+        "pinned_tweet_id": "2073818859916890480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070912725920940032/E-FS3NrH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 177,
+          "like_count": 873,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 1064
+        },
+        "url": "",
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-23T05:02:35.000Z",
+        "description": "https://t.co/zY12GwTQA8\n聊天全部上飞机✈️.\n科普目的，需要了解相关知识的滴滴我。\n拜托举报者/手下留情/爱你",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/anan995555",
+                "end": 23,
+                "expanded_url": "https://t.me/anan995555",
+                "start": 0,
+                "url": "https://t.co/zY12GwTQA8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/anan995555",
+                "end": 23,
+                "expanded_url": "https://t.me/anan995555",
+                "start": 0,
+                "url": "https://t.co/zY12GwTQA8"
+              }
+            ]
+          }
+        },
+        "id": "2069284731880112128",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "楠教授科普4-ho-met和pr",
+        "pinned_tweet_id": "2069291560865550601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069285132952092672/dN60TEpS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 180,
+          "like_count": 416,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 39
+        },
+        "url": "https://t.co/zY12GwTQA8",
+        "username": "nanjiaoshou6819",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2082040458264596490",
+    "created_at": "2026-07-28T09:48:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T10:48:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082040458264596490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2082036945237241856",
+          "start": 3,
+          "username": "maipianbuaini"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082040458264596490",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082038900219088968",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @maipianbuaini: 大家转发好吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2082040458264596490",
+        "created_at": "2026-07-28T09:48:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T10:48:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082040458264596490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2082036945237241856",
+              "start": 3,
+              "username": "maipianbuaini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082040458264596490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082038900219088968",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @maipianbuaini: 大家转发好吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082036945237241856",
+        "conversation_id": "2082038900219088968",
+        "created_at": "2026-07-28T09:42:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T10:42:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082038900219088968"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/maipianbuaini/…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/maipianbuaini/status/2082038045608648903",
+              "start": 7,
+              "url": "https://t.co/5kvyl0n1aC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082038900219088968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082038045608648903",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大家转发好吗 https://t.co/5kvyl0n1aC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/thexiexx",
+                "end": 23,
+                "expanded_url": "https://t.me/thexiexx",
+                "start": 0,
+                "url": "https://t.co/w6gPwSRVgN"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "mybed",
+        "name": "嚼嚼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 234,
+          "like_count": 1661,
+          "listed_count": 0,
+          "media_count": 185,
+          "tweet_count": 1778
+        },
+        "url": "https://t.co/w6gPwSRVgN",
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-28T09:36:00.000Z",
+        "description": "麦片二代目\n原账号@maipianaini0930",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "2082036945237241856",
+        "name": "maipian",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082038298940526592/9gheaS-9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 14,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "url": "",
+        "username": "maipianbuaini",
+        "verified": false
+      }
+    ]
+  }
+}

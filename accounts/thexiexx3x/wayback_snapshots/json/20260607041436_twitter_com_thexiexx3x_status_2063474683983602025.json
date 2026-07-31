@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2063242285387792484",
+    "created_at": "2026-06-07T04:14:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T05:14:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063474683983602025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1677673534607466497",
+          "start": 0,
+          "username": "qeiyeu7777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063474683983602025",
+    "in_reply_to_user_id": "1677673534607466497",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063470146614935900",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qeiyeu7777 泡芙"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2063242285387792484",
+        "created_at": "2026-06-07T04:14:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T05:14:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063474683983602025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1677673534607466497",
+              "start": 0,
+              "username": "qeiyeu7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063474683983602025",
+        "in_reply_to_user_id": "1677673534607466497",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063470146614935900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qeiyeu7777 泡芙"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1677673534607466497",
+        "conversation_id": "2063242285387792484",
+        "created_at": "2026-06-07T03:56:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T04:56:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063470146614935900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2054583279257583616",
+              "start": 0,
+              "username": "thexiexx3x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063470146614935900",
+        "in_reply_to_user_id": "2054583279257583616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063242285387792484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thexiexx3x 这是什么🤤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎些\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "罹心力",
+        "name": "禁止暴食熬夜",
+        "pinned_tweet_id": "2061694728853455116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056751575289540608/GjxoGMpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 186,
+          "like_count": 705,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 593
+        },
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-08T13:38:47.000Z",
+        "description": "Mementomori",
+        "id": "1677673534607466497",
+        "location": "1.324AU(水星)",
+        "name": "qeuyei",
+        "pinned_tweet_id": "1942593764540965339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032871359236419584/zJiP5Pr0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 220,
+          "like_count": 15176,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 3399
+        },
+        "username": "qeiyeu7777",
+        "verified": false
+      }
+    ]
+  }
+}

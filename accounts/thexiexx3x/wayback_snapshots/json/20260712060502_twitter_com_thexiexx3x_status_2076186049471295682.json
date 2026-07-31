@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2076183272137339184",
+    "created_at": "2026-07-12T06:05:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T07:05:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076186049471295682"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2076186049471295682",
+    "in_reply_to_user_id": "2054583279257583616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076183272137339184",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "软件不会用我放弃了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2076183239237173248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNAVp-9aAAAnYjH.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2076183272137339184",
+        "created_at": "2026-07-12T06:05:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T07:05:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076186049471295682"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076186049471295682",
+        "in_reply_to_user_id": "2054583279257583616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076183272137339184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "软件不会用我放弃了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076183239237173248"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2076183272137339184",
+        "created_at": "2026-07-12T05:54:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T06:54:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076183272137339184"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WeaRiB5gFN",
+              "end": 33,
+              "expanded_url": "https://x.com/thexiexx3x/status/2076183272137339184/photo/1",
+              "media_key": "3_2076183239237173248",
+              "start": 10,
+              "url": "https://t.co/WeaRiB5gFN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076183272137339184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "OK呀我不会画画了 https://t.co/WeaRiB5gFN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎蝎\n大哥@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "再见，再见",
+        "name": "23点准时睡觉🧠",
+        "pinned_tweet_id": "2073818859916890480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 186,
+          "like_count": 1007,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 1235
+        },
+        "url": "",
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080464882118635520"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2080464889005679031",
+    "created_at": "2026-07-24T01:27:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T02:27:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080464889005679031"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mNzP7sJOxJ",
+          "end": 34,
+          "expanded_url": "https://x.com/thexiexx3x/status/2080464889005679031/photo/1",
+          "media_key": "3_2080464882118635520",
+          "start": 11,
+          "url": "https://t.co/mNzP7sJOxJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080464889005679031",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "wtf什么鬼啊就刚才 https://t.co/mNzP7sJOxJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080464882118635520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN9LyZpbMAAOJfg.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080464882118635520"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2080464889005679031",
+        "created_at": "2026-07-24T01:27:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T02:27:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080464889005679031"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mNzP7sJOxJ",
+              "end": 34,
+              "expanded_url": "https://x.com/thexiexx3x/status/2080464889005679031/photo/1",
+              "media_key": "3_2080464882118635520",
+              "start": 11,
+              "url": "https://t.co/mNzP7sJOxJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080464889005679031",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "wtf什么鬼啊就刚才 https://t.co/mNzP7sJOxJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "每天",
+        "name": "嚼嚼",
+        "pinned_tweet_id": "2077840199158296579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 210,
+          "like_count": 1476,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 1616
+        },
+        "url": "",
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2061029106591150282",
+    "created_at": "2026-05-31T10:16:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T11:16:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061029106591150282"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "歌曲名《わたしは人類》，别名《我是人类》，由 やくしまるえつこ 演唱，收录于《わたしは人類》专辑中，《わたしは人類》下载，《わたしは人類》在线试听，更多わたしは人類相关歌曲推荐，尽在网易云音乐",
+          "display_url": "163cn.tv/765nD8g",
+          "end": 53,
+          "expanded_url": "https://163cn.tv/765nD8g",
+          "start": 30,
+          "status": 200,
+          "title": "わたしは人類（我是人类） - やくしまるえつこ - 单曲 - 网易云音乐",
+          "unwound_url": "https://y.music.163.com/m/song?id=430208819&uct2=tr%2FLwoJhIhKisnXP7PrWkw%3D%3D&fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=&fx-listentest=t3&H5_DownloadVIPGift=&playerUIModeId=1379005&PlayerStyles_SynchronousSharing=t3&dlt=0846&app_version=9.5.15&sc=wm&tn=",
+          "url": "https://t.co/E71xiYdv0X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061029106591150282",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "mentionedUsers",
+    "text": "分享やくしまるえつこ的单曲《わたしは人類 (我是人类)》: https://t.co/E71xiYdv0X (来自@网易云音乐)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2061029106591150282",
+        "created_at": "2026-05-31T10:16:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T11:16:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061029106591150282"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "歌曲名《わたしは人類》，别名《我是人类》，由 やくしまるえつこ 演唱，收录于《わたしは人類》专辑中，《わたしは人類》下载，《わたしは人類》在线试听，更多わたしは人類相关歌曲推荐，尽在网易云音乐",
+              "display_url": "163cn.tv/765nD8g",
+              "end": 53,
+              "expanded_url": "https://163cn.tv/765nD8g",
+              "start": 30,
+              "status": 200,
+              "title": "わたしは人類（我是人类） - やくしまるえつこ - 单曲 - 网易云音乐",
+              "unwound_url": "https://y.music.163.com/m/song?id=430208819&uct2=tr%2FLwoJhIhKisnXP7PrWkw%3D%3D&fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=&fx-listentest=t3&H5_DownloadVIPGift=&playerUIModeId=1379005&PlayerStyles_SynchronousSharing=t3&dlt=0846&app_version=9.5.15&sc=wm&tn=",
+              "url": "https://t.co/E71xiYdv0X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061029106591150282",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "分享やくしまるえつこ的单曲《わたしは人類 (我是人类)》: https://t.co/E71xiYdv0X (来自@网易云音乐)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎些\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "罹心力",
+        "name": "禁止暴食熬夜",
+        "pinned_tweet_id": "2055238057880875086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056751575289540608/GjxoGMpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 140,
+          "like_count": 405,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 393
+        },
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075248321221025792"
+      ],
+      "media_source_tweet_id": [
+        "2075248326468149526"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2075255058015654012",
+    "created_at": "2026-07-09T16:25:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T17:25:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075255058015654012"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "899502186",
+          "start": 3,
+          "username": "0u0HaNako666"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VdnUABfHjm",
+          "end": 65,
+          "expanded_url": "https://x.com/0u0HaNako666/status/2075248326468149526/photo/1",
+          "media_key": "3_2075248321221025792",
+          "start": 42,
+          "url": "https://t.co/VdnUABfHjm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075255058015654012",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 80
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075248326468149526",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0u0HaNako666: ねむたいのにマイスリーハイになってねれないアホ https://t.co/VdnUABfHjm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075248321221025792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMzDWl8a4AAhQxY.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075248321221025792"
+          ],
+          "media_source_tweet_id": [
+            "2075248326468149526"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2075255058015654012",
+        "created_at": "2026-07-09T16:25:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T17:25:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075255058015654012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "899502186",
+              "start": 3,
+              "username": "0u0HaNako666"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VdnUABfHjm",
+              "end": 65,
+              "expanded_url": "https://x.com/0u0HaNako666/status/2075248326468149526/photo/1",
+              "media_key": "3_2075248321221025792",
+              "start": 42,
+              "url": "https://t.co/VdnUABfHjm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075255058015654012",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 80
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075248326468149526",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0u0HaNako666: ねむたいのにマイスリーハイになってねれないアホ https://t.co/VdnUABfHjm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075248321221025792"
+          ]
+        },
+        "author_id": "899502186",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2075248326468149526",
+        "created_at": "2026-07-09T15:58:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T16:58:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075248326468149526"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VdnUABfHjm",
+              "end": 47,
+              "expanded_url": "https://x.com/0u0HaNako666/status/2075248326468149526/photo/1",
+              "media_key": "3_2075248321221025792",
+              "start": 24,
+              "url": "https://t.co/VdnUABfHjm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075248326468149526",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 8234,
+          "like_count": 732,
+          "quote_count": 14,
+          "reply_count": 37,
+          "retweet_count": 80
+        },
+        "reply_settings": "everyone",
+        "text": "ねむたいのにマイスリーハイになってねれないアホ https://t.co/VdnUABfHjm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎蝎\n大哥@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "再见，再见",
+        "name": "23点准时睡觉♴",
+        "pinned_tweet_id": "2073818859916890480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070912725920940032/E-FS3NrH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 185,
+          "like_count": 924,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 1156
+        },
+        "url": "",
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2012-10-23T08:30:24.000Z",
+        "description": "神聖かまってちゃん\n「進撃の巨人」 OP / ED他アニメ・映画主題歌、大体担当\n自主制作Pv：https://t.co/TSG9iEnYCk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/user/vivaru",
+                "end": 71,
+                "expanded_url": "https://youtube.com/user/vivaru",
+                "start": 48,
+                "url": "https://t.co/TSG9iEnYCk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/nekonokonekono…",
+                "end": 23,
+                "expanded_url": "http://lit.link/nekonokonekonoko",
+                "start": 0,
+                "url": "https://t.co/dKaVW0fg08"
+              }
+            ]
+          }
+        },
+        "id": "899502186",
+        "name": "の子",
+        "pinned_tweet_id": "1885316431317000694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058561149671727104/2IM1lRK__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180399,
+          "following_count": 227,
+          "like_count": 365635,
+          "listed_count": 1359,
+          "media_count": 2733,
+          "tweet_count": 54971
+        },
+        "url": "https://t.co/dKaVW0fg08",
+        "username": "0u0HaNako666",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2076603335856280025",
+    "created_at": "2026-07-13T09:43:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T10:43:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076603335856280025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "899502186",
+          "start": 3,
+          "username": "0u0HaNako666"
+        }
+      ],
+      "urls": [
+        {
+          "description": "あ",
+          "display_url": "youtu.be/w-NSaCMZGHs",
+          "end": 65,
+          "expanded_url": "https://youtu.be/w-NSaCMZGHs",
+          "images": [
+            {
+              "height": 360,
+              "url": "https://pbs.twimg.com/news_img/2075466275112013824/Leyu2Mu9?format=jpg&name=orig",
+              "width": 480
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2075466275112013824/Leyu2Mu9?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 42,
+          "status": 200,
+          "title": "るるちゃんの自殺配信 Pv 神聖かまってちゃん",
+          "unwound_url": "https://www.youtube.com/watch?v=w-NSaCMZGHs&feature=youtu.be",
+          "url": "https://t.co/IOJ8Fr73Bj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076603335856280025",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1222
+    },
+    "referenced_tweets": [
+      {
+        "id": "1003621038314303488",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0u0HaNako666: 「るるちゃんの自殺配信」って曲です(❀・x・）\nhttps://t.co/IOJ8Fr73Bj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2076603335856280025",
+        "created_at": "2026-07-13T09:43:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T10:43:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076603335856280025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "899502186",
+              "start": 3,
+              "username": "0u0HaNako666"
+            }
+          ],
+          "urls": [
+            {
+              "description": "あ",
+              "display_url": "youtu.be/w-NSaCMZGHs",
+              "end": 65,
+              "expanded_url": "https://youtu.be/w-NSaCMZGHs",
+              "images": [
+                {
+                  "height": 360,
+                  "url": "https://pbs.twimg.com/news_img/2075466275112013824/Leyu2Mu9?format=jpg&name=orig",
+                  "width": 480
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2075466275112013824/Leyu2Mu9?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 42,
+              "status": 200,
+              "title": "るるちゃんの自殺配信 Pv 神聖かまってちゃん",
+              "unwound_url": "https://www.youtube.com/watch?v=w-NSaCMZGHs&feature=youtu.be",
+              "url": "https://t.co/IOJ8Fr73Bj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076603335856280025",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1222
+        },
+        "referenced_tweets": [
+          {
+            "id": "1003621038314303488",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0u0HaNako666: 「るるちゃんの自殺配信」って曲です(❀・x・）\nhttps://t.co/IOJ8Fr73Bj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "899502186",
+        "conversation_id": "1003621038314303488",
+        "created_at": "2018-06-04T12:54:36.000Z",
+        "edit_controls": {
+          "editable_until": "2018-06-04T13:24:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1003621038314303488"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "あ",
+              "display_url": "youtu.be/w-NSaCMZGHs",
+              "end": 47,
+              "expanded_url": "https://youtu.be/w-NSaCMZGHs",
+              "images": [
+                {
+                  "height": 360,
+                  "url": "https://pbs.twimg.com/news_img/2075466275112013824/Leyu2Mu9?format=jpg&name=orig",
+                  "width": 480
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2075466275112013824/Leyu2Mu9?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 24,
+              "status": 200,
+              "title": "るるちゃんの自殺配信 Pv 神聖かまってちゃん",
+              "unwound_url": "https://www.youtube.com/watch?v=w-NSaCMZGHs&feature=youtu.be",
+              "url": "https://t.co/IOJ8Fr73Bj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1003621038314303488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 75,
+          "impression_count": 0,
+          "like_count": 4161,
+          "quote_count": 89,
+          "reply_count": 152,
+          "retweet_count": 1222
+        },
+        "reply_settings": "everyone",
+        "text": "「るるちゃんの自殺配信」って曲です(❀・x・）\nhttps://t.co/IOJ8Fr73Bj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎蝎\n大哥@thexiexx\n                                     体温箱▼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x",
+                "start": 0,
+                "url": "https://t.co/d5BdKxZ1m4"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "再见，再见",
+        "name": "23点准时睡觉🧠",
+        "pinned_tweet_id": "2073818859916890480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 188,
+          "like_count": 1031,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 1263
+        },
+        "url": "https://t.co/d5BdKxZ1m4",
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2012-10-23T08:30:24.000Z",
+        "description": "神聖かまってちゃん\n「進撃の巨人」 OP / ED他アニメ・映画主題歌、大体担当\n自主制作Pv：https://t.co/TSG9iEnYCk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/user/vivaru",
+                "end": 71,
+                "expanded_url": "https://youtube.com/user/vivaru",
+                "start": 48,
+                "url": "https://t.co/TSG9iEnYCk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/nekonokonekono…",
+                "end": 23,
+                "expanded_url": "http://lit.link/nekonokonekonoko",
+                "start": 0,
+                "url": "https://t.co/dKaVW0fg08"
+              }
+            ]
+          }
+        },
+        "id": "899502186",
+        "name": "の子",
+        "pinned_tweet_id": "1885316431317000694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058561149671727104/2IM1lRK__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181064,
+          "following_count": 227,
+          "like_count": 366062,
+          "listed_count": 1361,
+          "media_count": 2736,
+          "tweet_count": 54981
+        },
+        "url": "https://t.co/dKaVW0fg08",
+        "username": "0u0HaNako666",
+        "verified": false
+      }
+    ]
+  }
+}

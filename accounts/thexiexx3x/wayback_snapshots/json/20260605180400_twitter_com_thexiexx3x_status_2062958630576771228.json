@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2062957730219081767",
+    "created_at": "2026-06-05T18:04:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T19:04:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062958630576771228"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2062958630576771228",
+    "in_reply_to_user_id": "2054583279257583616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062957730219081767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有一天晚上那个车都开出去了最后又掉头了。我家长感觉把我当个怪物看当个狂犬看当个疯子或者犯人看，我操，越说越气，我妈跟我说话一张脸我爸在旁边又一张脸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2062957730219081767",
+        "created_at": "2026-06-05T18:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T19:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062958630576771228"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062958630576771228",
+        "in_reply_to_user_id": "2054583279257583616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062957730219081767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有一天晚上那个车都开出去了最后又掉头了。我家长感觉把我当个怪物看当个狂犬看当个疯子或者犯人看，我操，越说越气，我妈跟我说话一张脸我爸在旁边又一张脸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2062957730219081767",
+        "created_at": "2026-06-05T18:00:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T19:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062957730219081767"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062957730219081767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我意识到病好像影响到生活了 如果我两年前就去医院的话是不是不会变成今天这样？那时候我一定不会承认自己生病了吧。到初三的时候我自残被家长发现，家长嘴上说着上医院其实是死也不想去呀，我当时是非常想去看病的。但是家长是觉得会影响到自己工作名誉问题吧就是不愿意去。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎些\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "罹心力",
+        "name": "禁止暴食熬夜",
+        "pinned_tweet_id": "2061694728853455116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056751575289540608/GjxoGMpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 181,
+          "like_count": 629,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 546
+        },
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074060439538077696"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2074060872646111517",
+    "created_at": "2026-07-06T09:20:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T10:20:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074060872646111517"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TOc70ez3oL",
+          "end": 92,
+          "expanded_url": "https://x.com/thexiexx3x/status/2074060872646111517/photo/1",
+          "media_key": "3_2074060439538077696",
+          "start": 69,
+          "url": "https://t.co/TOc70ez3oL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074060872646111517",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "渴的受不了了，那个奢侈商场买了一杯奢侈酸奶，然后呢，我的小猪脑发现京东只要18块钱，他这一杯本来30块，然后呢我就18块钱喝爽了，好好喝 https://t.co/TOc70ez3oL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2570,
+        "media_key": "3_2074060439538077696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMiK-x1bkAAwHCh.jpg",
+        "width": 1927
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074060439538077696"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2074060872646111517",
+        "created_at": "2026-07-06T09:20:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T10:20:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074060872646111517"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TOc70ez3oL",
+              "end": 92,
+              "expanded_url": "https://x.com/thexiexx3x/status/2074060872646111517/photo/1",
+              "media_key": "3_2074060439538077696",
+              "start": 69,
+              "url": "https://t.co/TOc70ez3oL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074060872646111517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "渴的受不了了，那个奢侈商场买了一杯奢侈酸奶，然后呢，我的小猪脑发现京东只要18块钱，他这一杯本来30块，然后呢我就18块钱喝爽了，好好喝 https://t.co/TOc70ez3oL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎蝎\n大哥@thexiexx\n两个号都被gostban了无法互动很抱歉orz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "再见，再见",
+        "name": "23点准时睡觉",
+        "pinned_tweet_id": "2073818859916890480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070912725920940032/E-FS3NrH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 177,
+          "like_count": 873,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 1071
+        },
+        "url": "",
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

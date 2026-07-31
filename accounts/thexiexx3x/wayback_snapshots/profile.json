@@ -1,0 +1,20 @@
+{
+  "name": "嚼嚼",
+  "username": "@thexiexx3x",
+  "bio": "人类的嚎叫 大号@thexiexx",
+  "location": "mybed",
+  "link": "https://t.me/thexiexx",
+  "avatar": "avatar/avatar.jpg",
+  "banner": "avatar/1500x500.jpg",
+  "pinned": "",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 17,
+        "start": 8,
+        "username": "thexiexx"
+      }
+    ]
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg"
+}

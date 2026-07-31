@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2081342012306178524",
+    "created_at": "2026-07-26T11:33:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T12:33:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081342105956626618"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2081342105956626618",
+    "in_reply_to_user_id": "2054583279257583616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081342012306178524",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我还吃了两个雪糕哦谢特"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2081342012306178524",
+        "created_at": "2026-07-26T11:33:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T12:33:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081342105956626618"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081342105956626618",
+        "in_reply_to_user_id": "2054583279257583616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081342012306178524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我还吃了两个雪糕哦谢特"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2081342012306178524",
+        "created_at": "2026-07-26T11:32:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T12:32:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081342012306178524"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081342012306178524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天吃了零顿正餐一瓶魔爪和无印良品一个离奇好吃的三文鱼皮零食还有一些西瓜应该没了 明天没零食吃了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/thexiexx",
+                "end": 23,
+                "expanded_url": "https://t.me/thexiexx",
+                "start": 0,
+                "url": "https://t.co/w6gPwSRVgN"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "每天",
+        "name": "嚼嚼",
+        "pinned_tweet_id": "2077840199158296579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 226,
+          "like_count": 1611,
+          "listed_count": 0,
+          "media_count": 183,
+          "tweet_count": 1722
+        },
+        "url": "https://t.co/w6gPwSRVgN",
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

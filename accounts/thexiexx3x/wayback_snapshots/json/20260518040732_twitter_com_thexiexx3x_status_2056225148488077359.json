@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055997598708989952"
+      ],
+      "media_source_tweet_id": [
+        "2055997607491837986"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2056225148488077359",
+    "created_at": "2026-05-18T04:07:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T05:07:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056225148488077359"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 16,
+          "tag": "ガルクラ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1522191157777809410",
+          "start": 3,
+          "username": "3xxHwaIn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SUjPYszJl8",
+          "end": 45,
+          "expanded_url": "https://x.com/3xxHwaIn/status/2055997607491837986/photo/1",
+          "media_key": "3_2055997598708989952",
+          "start": 22,
+          "url": "https://t.co/SUjPYszJl8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056225148488077359",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 969
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055997607491837986",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @3xxHwaIn: 📸\n#ガルクラ https://t.co/SUjPYszJl8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055997598708989952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIhe7EIbAAAfKnG.jpg",
+        "width": 1863
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055997598708989952"
+          ],
+          "media_source_tweet_id": [
+            "2055997607491837986"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2056225148488077359",
+        "created_at": "2026-05-18T04:07:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T05:07:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056225148488077359"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 16,
+              "tag": "ガルクラ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1522191157777809410",
+              "start": 3,
+              "username": "3xxHwaIn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SUjPYszJl8",
+              "end": 45,
+              "expanded_url": "https://x.com/3xxHwaIn/status/2055997607491837986/photo/1",
+              "media_key": "3_2055997598708989952",
+              "start": 22,
+              "url": "https://t.co/SUjPYszJl8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056225148488077359",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 969
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055997607491837986",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @3xxHwaIn: 📸\n#ガルクラ https://t.co/SUjPYszJl8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055997598708989952"
+          ]
+        },
+        "author_id": "1522191157777809410",
+        "conversation_id": "2055997607491837986",
+        "created_at": "2026-05-17T13:03:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T14:03:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055997607491837986"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 2,
+              "tag": "ガルクラ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SUjPYszJl8",
+              "end": 31,
+              "expanded_url": "https://x.com/3xxHwaIn/status/2055997607491837986/photo/1",
+              "media_key": "3_2055997598708989952",
+              "start": 8,
+              "url": "https://t.co/SUjPYszJl8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055997607491837986",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 556,
+          "impression_count": 57757,
+          "like_count": 6410,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 969
+        },
+        "reply_settings": "everyone",
+        "text": "📸\n#ガルクラ https://t.co/SUjPYszJl8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "@thexiexx\n蝎些副本小号，前两世一个被贴了临时标签限流另一个在封号中。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "name": "禁止暴食熬夜",
+        "pinned_tweet_id": "2055238057880875086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054585406960914432/2-JpaGc7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 44,
+          "like_count": 52,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 78
+        },
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-05T12:29:10.000Z",
+        "description": "絵を描きたい、でも眠い。",
+        "id": "1522191157777809410",
+        "name": "無名さん",
+        "pinned_tweet_id": "2035679375681859753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950138428177469440/RS9PuG0M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2664,
+          "following_count": 282,
+          "like_count": 4495,
+          "listed_count": 7,
+          "media_count": 146,
+          "tweet_count": 158
+        },
+        "username": "3xxHwaIn",
+        "verified": false
+      }
+    ]
+  }
+}

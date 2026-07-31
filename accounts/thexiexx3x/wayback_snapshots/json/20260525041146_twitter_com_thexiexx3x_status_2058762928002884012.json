@@ -1,0 +1,650 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058132337737785345",
+        "3_2058132337737818112",
+        "3_2058132337746161664",
+        "3_2058132337725259776"
+      ],
+      "media_source_tweet_id": [
+        "2058132612368236657",
+        "2058132612368236657",
+        "2058132612368236657",
+        "2058132612368236657"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Drums",
+          "id": "898269950124490756",
+          "name": "Drums"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Musical Instruments",
+          "id": "1131990542198247424",
+          "name": "Musical instruments"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drums",
+          "id": "898269950124490756",
+          "name": "Drums"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Musical Instruments",
+          "id": "1131990542198247424",
+          "name": "Musical instruments"
+        }
+      }
+    ],
+    "conversation_id": "2058762928002884012",
+    "created_at": "2026-05-25T04:11:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T05:11:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058762928002884012"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 55,
+          "start": 50,
+          "tag": "森道市場"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1939783095433273348",
+          "start": 3,
+          "username": "335neo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yvPV7FYaQh",
+          "end": 79,
+          "expanded_url": "https://x.com/335neo/status/2058132612368236657/photo/1",
+          "media_key": "3_2058132337737785345",
+          "start": 56,
+          "url": "https://t.co/yvPV7FYaQh"
+        },
+        {
+          "display_url": "pic.x.com/yvPV7FYaQh",
+          "end": 79,
+          "expanded_url": "https://x.com/335neo/status/2058132612368236657/photo/1",
+          "media_key": "3_2058132337737818112",
+          "start": 56,
+          "url": "https://t.co/yvPV7FYaQh"
+        },
+        {
+          "display_url": "pic.x.com/yvPV7FYaQh",
+          "end": 79,
+          "expanded_url": "https://x.com/335neo/status/2058132612368236657/photo/1",
+          "media_key": "3_2058132337746161664",
+          "start": 56,
+          "url": "https://t.co/yvPV7FYaQh"
+        },
+        {
+          "display_url": "pic.x.com/yvPV7FYaQh",
+          "end": 79,
+          "expanded_url": "https://x.com/335neo/status/2058132612368236657/photo/1",
+          "media_key": "3_2058132337725259776",
+          "start": 56,
+          "url": "https://t.co/yvPV7FYaQh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058762928002884012",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 53
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058132612368236657",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @335neo: ありがとうございましたー！ドラムです！\n\nみさこと愉快な動物たち＆カレー\n\n#森道市場 https://t.co/yvPV7FYaQh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2058132337737785345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI_0dOua4AELqmk.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2058132337737818112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI_0dOubYAAdol7.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2058132337746161664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI_0dOwasAA98da.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2058132337725259776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI_0dOrbwAAm28c.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058132337737785345",
+            "3_2058132337737818112",
+            "3_2058132337746161664",
+            "3_2058132337725259776"
+          ],
+          "media_source_tweet_id": [
+            "2058132612368236657",
+            "2058132612368236657",
+            "2058132612368236657",
+            "2058132612368236657"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Drums",
+              "id": "898269950124490756",
+              "name": "Drums"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drums",
+              "id": "898269950124490756",
+              "name": "Drums"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          }
+        ],
+        "conversation_id": "2058762928002884012",
+        "created_at": "2026-05-25T04:11:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T05:11:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058762928002884012"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 50,
+              "tag": "森道市場"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1939783095433273348",
+              "start": 3,
+              "username": "335neo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yvPV7FYaQh",
+              "end": 79,
+              "expanded_url": "https://x.com/335neo/status/2058132612368236657/photo/1",
+              "media_key": "3_2058132337737785345",
+              "start": 56,
+              "url": "https://t.co/yvPV7FYaQh"
+            },
+            {
+              "display_url": "pic.x.com/yvPV7FYaQh",
+              "end": 79,
+              "expanded_url": "https://x.com/335neo/status/2058132612368236657/photo/1",
+              "media_key": "3_2058132337737818112",
+              "start": 56,
+              "url": "https://t.co/yvPV7FYaQh"
+            },
+            {
+              "display_url": "pic.x.com/yvPV7FYaQh",
+              "end": 79,
+              "expanded_url": "https://x.com/335neo/status/2058132612368236657/photo/1",
+              "media_key": "3_2058132337746161664",
+              "start": 56,
+              "url": "https://t.co/yvPV7FYaQh"
+            },
+            {
+              "display_url": "pic.x.com/yvPV7FYaQh",
+              "end": 79,
+              "expanded_url": "https://x.com/335neo/status/2058132612368236657/photo/1",
+              "media_key": "3_2058132337725259776",
+              "start": 56,
+              "url": "https://t.co/yvPV7FYaQh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058762928002884012",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 53
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058132612368236657",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @335neo: ありがとうございましたー！ドラムです！\n\nみさこと愉快な動物たち＆カレー\n\n#森道市場 https://t.co/yvPV7FYaQh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058132337737785345",
+            "3_2058132337737818112",
+            "3_2058132337746161664",
+            "3_2058132337725259776"
+          ]
+        },
+        "author_id": "1939783095433273348",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Drums",
+              "id": "898269950124490756",
+              "name": "Drums"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drums",
+              "id": "898269950124490756",
+              "name": "Drums"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          }
+        ],
+        "conversation_id": "2058132612368236657",
+        "created_at": "2026-05-23T10:27:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T11:26:07.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058132358063346065",
+          "2058132612368236657"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 43,
+              "start": 38,
+              "tag": "森道市場"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yvPV7FYaQh",
+              "end": 67,
+              "expanded_url": "https://x.com/335neo/status/2058132612368236657/photo/1",
+              "media_key": "3_2058132337737785345",
+              "start": 44,
+              "url": "https://t.co/yvPV7FYaQh"
+            },
+            {
+              "display_url": "pic.x.com/yvPV7FYaQh",
+              "end": 67,
+              "expanded_url": "https://x.com/335neo/status/2058132612368236657/photo/1",
+              "media_key": "3_2058132337737818112",
+              "start": 44,
+              "url": "https://t.co/yvPV7FYaQh"
+            },
+            {
+              "display_url": "pic.x.com/yvPV7FYaQh",
+              "end": 67,
+              "expanded_url": "https://x.com/335neo/status/2058132612368236657/photo/1",
+              "media_key": "3_2058132337746161664",
+              "start": 44,
+              "url": "https://t.co/yvPV7FYaQh"
+            },
+            {
+              "display_url": "pic.x.com/yvPV7FYaQh",
+              "end": 67,
+              "expanded_url": "https://x.com/335neo/status/2058132612368236657/photo/1",
+              "media_key": "3_2058132337725259776",
+              "start": 44,
+              "url": "https://t.co/yvPV7FYaQh"
+            },
+            {
+              "display_url": "x.com/kamattechaninf…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/kamattechaninfo/status/2058129844748325208",
+              "start": 68,
+              "url": "https://t.co/cVtuNXjRyv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058132612368236657",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 25374,
+          "like_count": 631,
+          "quote_count": 5,
+          "reply_count": 10,
+          "retweet_count": 53
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058129844748325208",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ありがとうございましたー！ドラムです！\n\nみさこと愉快な動物たち＆カレー\n\n#森道市場 https://t.co/yvPV7FYaQh https://t.co/cVtuNXjRyv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎些\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "罹心力",
+        "name": "禁止暴食熬夜",
+        "pinned_tweet_id": "2055238057880875086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056751575289540608/GjxoGMpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 75,
+          "like_count": 169,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 221
+        },
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-30T20:28:42.000Z",
+        "description": "私です、みさこです。神聖かまってちゃんとバンもん！の人です。去年全てのSNSを乗っ取られて乳がんもとって新しい私に",
+        "id": "1939783095433273348",
+        "location": "日本",
+        "name": "みさこセカンドステージ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021568007471054848/pdgJ5Jr8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8394,
+          "following_count": 350,
+          "like_count": 14465,
+          "listed_count": 31,
+          "media_count": 251,
+          "tweet_count": 1748
+        },
+        "username": "335neo",
+        "verified": false
+      }
+    ]
+  }
+}

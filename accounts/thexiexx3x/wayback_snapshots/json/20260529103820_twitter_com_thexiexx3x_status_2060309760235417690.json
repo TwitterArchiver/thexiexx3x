@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2060308948167856137",
+    "created_at": "2026-05-29T10:38:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T11:38:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060309760235417690"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2060309760235417690",
+    "in_reply_to_user_id": "2054583279257583616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060308948167856137",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "她判断我回不回来还要取决于什么课😂我难道说体育课吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2060308948167856137",
+        "created_at": "2026-05-29T10:38:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T11:38:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060309760235417690"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060309760235417690",
+        "in_reply_to_user_id": "2054583279257583616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060308948167856137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "她判断我回不回来还要取决于什么课😂我难道说体育课吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2060308948167856137",
+        "created_at": "2026-05-29T10:35:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T11:35:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060308948167856137"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060308948167856137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操了我妈死了吧晚上我不想上了而且我他妈生理期弄裤子上了 卫生巾用完了 班主任就让我用她手机打电话给我妈 我操她非要说我耍什么滑头要是别人家长直接就是接回家了啊我妈是死也不愿意让我回来呀我想死好想死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎些\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "罹心力",
+        "name": "禁止暴食熬夜",
+        "pinned_tweet_id": "2055238057880875086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056751575289540608/GjxoGMpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 120,
+          "like_count": 309,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 342
+        },
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

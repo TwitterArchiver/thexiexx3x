@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2057505993517646221",
+    "created_at": "2026-05-21T17:09:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T18:09:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057508971762884789"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2057508971762884789",
+    "in_reply_to_user_id": "2054583279257583616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057505993517646221",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "就是早死晚死罢了啊我讨厌的人他们我希望明天就去死最好我能亲手杀掉，这怎么可能。我们都会死的就是死法还有时间什么的不同罢了。他妈百分之九十以上的概率是八十年后老死或者几十年后老死还有几年后事故死了的，我呢可能就几年后或者几个月后和我想和她一起死的人手牵手自杀了，当然大概率还是单排。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2057505993517646221",
+        "created_at": "2026-05-21T17:09:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T18:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057508971762884789"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057508971762884789",
+        "in_reply_to_user_id": "2054583279257583616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057505993517646221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就是早死晚死罢了啊我讨厌的人他们我希望明天就去死最好我能亲手杀掉，这怎么可能。我们都会死的就是死法还有时间什么的不同罢了。他妈百分之九十以上的概率是八十年后老死或者几十年后老死还有几年后事故死了的，我呢可能就几年后或者几个月后和我想和她一起死的人手牵手自杀了，当然大概率还是单排。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2057505993517646221",
+        "created_at": "2026-05-21T16:57:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T17:57:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057505993517646221"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057505993517646221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我们有一天都会死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "@thexiexx\n蝎些副本小号，前两世一个被贴了临时标签限流另一个在封号中。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "罹心力",
+        "name": "禁止暴食熬夜",
+        "pinned_tweet_id": "2055238057880875086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056751575289540608/GjxoGMpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 56,
+          "like_count": 85,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 123
+        },
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

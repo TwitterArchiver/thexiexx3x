@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2076132228132942024",
+    "created_at": "2026-07-12T02:32:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T03:32:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076132519418941712"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2076132519418941712",
+    "in_reply_to_user_id": "2054583279257583616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076132228132942024",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "而且那个七只鸟他妈天天叫他妈的逼吵死了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1027,
+        "media_key": "3_2076132031696904192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM_nFUAaoAAke9c.jpg",
+        "width": 1027
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2076132228132942024",
+        "created_at": "2026-07-12T02:32:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T03:32:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076132519418941712"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076132519418941712",
+        "in_reply_to_user_id": "2054583279257583616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076132228132942024",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "而且那个七只鸟他妈天天叫他妈的逼吵死了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076132031696904192"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2076132228132942024",
+        "created_at": "2026-07-12T02:31:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T03:31:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076132228132942024"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uEpqzfYcU9",
+              "end": 136,
+              "expanded_url": "https://x.com/thexiexx3x/status/2076132228132942024/photo/1",
+              "media_key": "3_2076132031696904192",
+              "start": 113,
+              "url": "https://t.co/uEpqzfYcU9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076132228132942024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我爸天天买鸟也不养昨天又买了两只厕所地上搞得全是笼子现在家里厕所里他妈逼七只鸟地上全是鸟饲料妈的脏死了搞得我上厕所都尴尬我让他买个大的那种落地的亚克力鸟笼类似这种的估计他又嫌贵😅他说那个鹦鹉10块钱一只估计他就是看便宜买的， https://t.co/uEpqzfYcU9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎蝎\n大哥@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "再见，再见",
+        "name": "23点准时睡觉🧠",
+        "pinned_tweet_id": "2073818859916890480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 186,
+          "like_count": 1007,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 1231
+        },
+        "url": "",
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

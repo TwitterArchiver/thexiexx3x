@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2063563311778808022",
+    "created_at": "2026-06-07T10:06:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T11:06:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063563311778808022"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/thexiexx3x/sta…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/thexiexx3x/status/2062549717771505863",
+          "start": 40,
+          "url": "https://t.co/6ZOxHEqiLK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063563311778808022",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062549717771505863",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "就因为这个逼鬼东西我当时把榴莲全吃了，他妈的导致我现在嘴唇上火破了一块卧槽泥马 https://t.co/6ZOxHEqiLK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062549683797663744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-mAnJaoAAcLYG.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2063563311778808022",
+        "created_at": "2026-06-07T10:06:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T11:06:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063563311778808022"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/thexiexx3x/sta…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/thexiexx3x/status/2062549717771505863",
+              "start": 40,
+              "url": "https://t.co/6ZOxHEqiLK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063563311778808022",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062549717771505863",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就因为这个逼鬼东西我当时把榴莲全吃了，他妈的导致我现在嘴唇上火破了一块卧槽泥马 https://t.co/6ZOxHEqiLK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062549683797663744"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2062549717771505863",
+        "created_at": "2026-06-04T14:59:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T15:59:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062549717771505863"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LV1ODGQ1xu",
+              "end": 29,
+              "expanded_url": "https://x.com/thexiexx3x/status/2062549717771505863/photo/1",
+              "media_key": "3_2062549683797663744",
+              "start": 6,
+              "url": "https://t.co/LV1ODGQ1xu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062549717771505863",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 184,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啃冰冻榴莲 https://t.co/LV1ODGQ1xu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎些\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "罹心力",
+        "name": "禁止暴食熬夜",
+        "pinned_tweet_id": "2063475995626307922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056751575289540608/GjxoGMpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 190,
+          "like_count": 731,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 615
+        },
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

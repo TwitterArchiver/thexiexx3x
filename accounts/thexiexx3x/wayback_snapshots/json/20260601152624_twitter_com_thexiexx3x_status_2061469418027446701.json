@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2061469418027446701",
+    "created_at": "2026-06-01T15:26:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T16:26:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061469418027446701"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2061469418027446701",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今年他妈的竟然都过了一半了？马上都要过年了？世界就是重复的过年上学过年上学循环循环循环，一年过一年。管他什么呢我他妈礼拜四继续磕耀，今天感觉吃少了一点都不好玩。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2061469418027446701",
+        "created_at": "2026-06-01T15:26:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T16:26:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061469418027446701"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061469418027446701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今年他妈的竟然都过了一半了？马上都要过年了？世界就是重复的过年上学过年上学循环循环循环，一年过一年。管他什么呢我他妈礼拜四继续磕耀，今天感觉吃少了一点都不好玩。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎些\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "罹心力",
+        "name": "禁止暴食熬夜",
+        "pinned_tweet_id": "2055238057880875086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056751575289540608/GjxoGMpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 147,
+          "like_count": 457,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 425
+        },
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

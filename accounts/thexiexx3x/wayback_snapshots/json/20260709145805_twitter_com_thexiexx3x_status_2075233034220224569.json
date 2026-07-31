@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075220464210001920"
+      ],
+      "media_source_tweet_id": [
+        "2075220519859966130"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2075233034220224569",
+    "created_at": "2026-07-09T14:58:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T15:58:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075233034220224569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2047984704046149632",
+          "start": 3,
+          "username": "maisuri_zenbu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/REsKBaRcRM",
+          "end": 56,
+          "expanded_url": "https://x.com/maisuri_zenbu/status/2075220519859966130/photo/1",
+          "media_key": "3_2075220464210001920",
+          "start": 33,
+          "url": "https://t.co/REsKBaRcRM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075233034220224569",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075220519859966130",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @maisuri_zenbu: 전부 없애버리고 싶습니다 https://t.co/REsKBaRcRM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 507,
+        "media_key": "3_2075220464210001920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMyqBGfbwAAUbTK.jpg",
+        "width": 906
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075220464210001920"
+          ],
+          "media_source_tweet_id": [
+            "2075220519859966130"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2075233034220224569",
+        "created_at": "2026-07-09T14:58:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T15:58:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075233034220224569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2047984704046149632",
+              "start": 3,
+              "username": "maisuri_zenbu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/REsKBaRcRM",
+              "end": 56,
+              "expanded_url": "https://x.com/maisuri_zenbu/status/2075220519859966130/photo/1",
+              "media_key": "3_2075220464210001920",
+              "start": 33,
+              "url": "https://t.co/REsKBaRcRM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075233034220224569",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075220519859966130",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @maisuri_zenbu: 전부 없애버리고 싶습니다 https://t.co/REsKBaRcRM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075220464210001920"
+          ]
+        },
+        "author_id": "2047984704046149632",
+        "conversation_id": "2075220519859966130",
+        "created_at": "2026-07-09T14:08:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T15:08:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075220519859966130"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/REsKBaRcRM",
+              "end": 37,
+              "expanded_url": "https://x.com/maisuri_zenbu/status/2075220519859966130/photo/1",
+              "media_key": "3_2075220464210001920",
+              "start": 14,
+              "url": "https://t.co/REsKBaRcRM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075220519859966130",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "전부 없애버리고 싶습니다 https://t.co/REsKBaRcRM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎蝎\n大哥@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "再见，再见",
+        "name": "23点准时睡觉♴",
+        "pinned_tweet_id": "2073818859916890480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070912725920940032/E-FS3NrH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 185,
+          "like_count": 923,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 1153
+        },
+        "url": "",
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-25T10:24:21.000Z",
+        "description": "ネ申耳口\n⠀⠀⠀王",
+        "id": "2047984704046149632",
+        "location": "🇰🇷",
+        "name": "マイスリー",
+        "pinned_tweet_id": "2073781167565017228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048518333130276864/Nuu2ZCQs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 213,
+          "like_count": 4687,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 650
+        },
+        "url": "",
+        "username": "maisuri_zenbu",
+        "verified": false
+      }
+    ]
+  }
+}

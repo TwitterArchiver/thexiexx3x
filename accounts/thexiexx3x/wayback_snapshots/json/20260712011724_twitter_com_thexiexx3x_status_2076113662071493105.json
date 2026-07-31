@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2076112936528183668",
+    "created_at": "2026-07-12T01:17:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T02:17:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076113662071493105"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2076113662071493105",
+    "in_reply_to_user_id": "2054583279257583616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076112936528183668",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "赶紧的等半衰期过了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076112890130833408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM_VrIHboAAqZx_.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2076112936528183668",
+        "created_at": "2026-07-12T01:17:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T02:17:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076113662071493105"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076113662071493105",
+        "in_reply_to_user_id": "2054583279257583616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076112936528183668",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "赶紧的等半衰期过了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076112890130833408"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2076112936528183668",
+        "created_at": "2026-07-12T01:14:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T02:14:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076112936528183668"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PiqShhTi8Q",
+              "end": 65,
+              "expanded_url": "https://x.com/thexiexx3x/status/2076112936528183668/photo/1",
+              "media_key": "3_2076112890130833408",
+              "start": 42,
+              "url": "https://t.co/PiqShhTi8Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076112936528183668",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的发我睡着了麻痹的我操我睡死了三个闹钟没醒好浪费我踏马服了我的要笑一点没有的…… https://t.co/PiqShhTi8Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎蝎\n大哥@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "再见，再见",
+        "name": "23点准时睡觉🧠",
+        "pinned_tweet_id": "2073818859916890480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 185,
+          "like_count": 1000,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 1224
+        },
+        "url": "",
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

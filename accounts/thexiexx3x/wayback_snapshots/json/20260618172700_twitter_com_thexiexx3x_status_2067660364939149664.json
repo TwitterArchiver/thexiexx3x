@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2067660364939149664",
+    "created_at": "2026-06-18T17:27:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T18:27:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067660364939149664"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "歌曲名《モノクローム》，由 未來電波基地 演唱，收录于《船橋INCIDENT / 717》专辑中，《モノクローム》下载，《モノクローム》在线试听，更多モノクローム相关歌曲推荐，尽在网易云音乐",
+          "display_url": "163cn.tv/9hQJJUF",
+          "end": 44,
+          "expanded_url": "https://163cn.tv/9hQJJUF",
+          "images": [
+            {
+              "height": 1600,
+              "url": "https://pbs.twimg.com/news_img/2067660382978842624/rdHaiVZI?format=jpg&name=orig",
+              "width": 1600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2067660382978842624/rdHaiVZI?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 21,
+          "status": 200,
+          "title": "モノクローム - 未來電波基地 - 单曲 - 网易云音乐",
+          "unwound_url": "https://y.music.163.com/m/song?id=1824943641&uct2=tr%2FLwoJhIhKisnXP7PrWkw%3D%3D&fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=&fx-listentest=t3&H5_DownloadVIPGift=&playerUIModeId=1379005&PlayerStyles_SynchronousSharing=t3&dlt=0846&app_version=9.5.35&sc=wm&tn=",
+          "url": "https://t.co/RlVgP0d1Qy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067660364939149664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "分享未來電波基地的单曲《モノクローム》: https://t.co/RlVgP0d1Qy (来自@网易云音乐)这个咳嗽声给我听立了呀这个歌咋这么好听"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2067660364939149664",
+        "created_at": "2026-06-18T17:27:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T18:27:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067660364939149664"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "歌曲名《モノクローム》，由 未來電波基地 演唱，收录于《船橋INCIDENT / 717》专辑中，《モノクローム》下载，《モノクローム》在线试听，更多モノクローム相关歌曲推荐，尽在网易云音乐",
+              "display_url": "163cn.tv/9hQJJUF",
+              "end": 44,
+              "expanded_url": "https://163cn.tv/9hQJJUF",
+              "images": [
+                {
+                  "height": 1600,
+                  "url": "https://pbs.twimg.com/news_img/2067660382978842624/rdHaiVZI?format=jpg&name=orig",
+                  "width": 1600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2067660382978842624/rdHaiVZI?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 21,
+              "status": 200,
+              "title": "モノクローム - 未來電波基地 - 单曲 - 网易云音乐",
+              "unwound_url": "https://y.music.163.com/m/song?id=1824943641&uct2=tr%2FLwoJhIhKisnXP7PrWkw%3D%3D&fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=&fx-listentest=t3&H5_DownloadVIPGift=&playerUIModeId=1379005&PlayerStyles_SynchronousSharing=t3&dlt=0846&app_version=9.5.35&sc=wm&tn=",
+              "url": "https://t.co/RlVgP0d1Qy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067660364939149664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "分享未來電波基地的单曲《モノクローム》: https://t.co/RlVgP0d1Qy (来自@网易云音乐)这个咳嗽声给我听立了呀这个歌咋这么好听"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎蝎\n大哥@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "再见，再见",
+        "name": "23点准时睡觉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067460593142075392/wbHCWLJg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 186,
+          "like_count": 809,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 659
+        },
+        "url": "",
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

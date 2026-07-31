@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078010310548676608"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2078010333306998947",
+    "created_at": "2026-07-17T06:54:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T07:54:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078010333306998947"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yrK62VxIu0",
+          "end": 117,
+          "expanded_url": "https://x.com/thexiexx3x/status/2078010333306998947/photo/1",
+          "media_key": "3_2078010310548676608",
+          "start": 94,
+          "url": "https://t.co/yrK62VxIu0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078010333306998947",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "尝试了一下苹果原相机 比那个傻逼荣耀好用太多了 没化妆没修图 可以看出号主皮肤非常之差 那个荣耀他妈有个自动美化功能然后拍完眼睛给你P个光皮肤给你白成鬼 然后呢吉他张把你整完的鼻子给我呗 https://t.co/yrK62VxIu0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2078010310548676608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNaTXh_aYAAZRDO.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078010310548676608"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2078010333306998947",
+        "created_at": "2026-07-17T06:54:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T07:54:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078010333306998947"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yrK62VxIu0",
+              "end": 117,
+              "expanded_url": "https://x.com/thexiexx3x/status/2078010333306998947/photo/1",
+              "media_key": "3_2078010310548676608",
+              "start": 94,
+              "url": "https://t.co/yrK62VxIu0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078010333306998947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "尝试了一下苹果原相机 比那个傻逼荣耀好用太多了 没化妆没修图 可以看出号主皮肤非常之差 那个荣耀他妈有个自动美化功能然后拍完眼睛给你P个光皮肤给你白成鬼 然后呢吉他张把你整完的鼻子给我呗 https://t.co/yrK62VxIu0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎蝎\n大哥@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x",
+                "start": 0,
+                "url": "https://t.co/d5BdKxZ1m4"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "每天",
+        "name": "23点准时睡觉",
+        "pinned_tweet_id": "2077840199158296579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 186,
+          "like_count": 1141,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 1408
+        },
+        "url": "https://t.co/d5BdKxZ1m4",
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

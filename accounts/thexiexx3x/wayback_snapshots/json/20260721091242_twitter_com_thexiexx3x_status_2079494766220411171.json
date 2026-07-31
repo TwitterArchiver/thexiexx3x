@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079451969983565824"
+      ],
+      "media_source_tweet_id": [
+        "2079451979160715678"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2079494766220411171",
+    "created_at": "2026-07-21T09:12:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T10:12:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079494766220411171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3120915403",
+          "start": 3,
+          "username": "kuiruri"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5UhBTEdJ2S",
+          "end": 55,
+          "expanded_url": "https://x.com/kuiruri/status/2079451979160715678/photo/1",
+          "media_key": "3_2079451969983565824",
+          "start": 32,
+          "url": "https://t.co/5UhBTEdJ2S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079494766220411171",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 195
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079451979160715678",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kuiruri: 「おいでよイヴ！」\n※スクロール推奨 https://t.co/5UhBTEdJ2S"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079451969983565824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNuyjJ5bUAAYp3S.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079451969983565824"
+          ]
+        },
+        "author_id": "3120915403",
+        "conversation_id": "2079451979160715678",
+        "created_at": "2026-07-21T06:22:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T07:22:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079451979160715678"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5UhBTEdJ2S",
+              "end": 42,
+              "expanded_url": "https://x.com/kuiruri/status/2079451979160715678/photo/1",
+              "media_key": "3_2079451969983565824",
+              "start": 19,
+              "url": "https://t.co/5UhBTEdJ2S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079451979160715678",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 119,
+          "impression_count": 44533,
+          "like_count": 2491,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 195
+        },
+        "reply_settings": "everyone",
+        "text": "「おいでよイヴ！」\n※スクロール推奨 https://t.co/5UhBTEdJ2S"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079451969983565824"
+          ],
+          "media_source_tweet_id": [
+            "2079451979160715678"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2079494766220411171",
+        "created_at": "2026-07-21T09:12:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T10:12:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079494766220411171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3120915403",
+              "start": 3,
+              "username": "kuiruri"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5UhBTEdJ2S",
+              "end": 55,
+              "expanded_url": "https://x.com/kuiruri/status/2079451979160715678/photo/1",
+              "media_key": "3_2079451969983565824",
+              "start": 32,
+              "url": "https://t.co/5UhBTEdJ2S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079494766220411171",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 195
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079451979160715678",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kuiruri: 「おいでよイヴ！」\n※スクロール推奨 https://t.co/5UhBTEdJ2S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "每天",
+        "name": "嚼嚼",
+        "pinned_tweet_id": "2077840199158296579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 199,
+          "like_count": 1313,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 1518
+        },
+        "url": "",
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2015-03-31T16:38:31.000Z",
+        "description": "illustrator／漫画家🌸｜単行本発売中\nお仕事→sakurapurin0218@gmail.com(企業様用)\n◆portfolio https://t.co/2q9QCYZdbB\n◆Skeb https://t.co/HjgjVWjPew\n◆無断転載・AI学習禁止",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "foriio.com/kuiruri",
+                "end": 94,
+                "expanded_url": "https://foriio.com/kuiruri",
+                "start": 71,
+                "url": "https://t.co/2q9QCYZdbB"
+              },
+              {
+                "display_url": "skeb.jp/@kuiruri",
+                "end": 124,
+                "expanded_url": "https://skeb.jp/@kuiruri",
+                "start": 101,
+                "url": "https://t.co/HjgjVWjPew"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/84118608",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/84118608",
+                "start": 0,
+                "url": "https://t.co/MgH0OFtJa4"
+              }
+            ]
+          }
+        },
+        "id": "3120915403",
+        "location": "個人様のご依頼はDMから",
+        "name": "桜プリン🐾書籍発売中！",
+        "pinned_tweet_id": "2075777096719515777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1000609982272827392/xKq4lyaq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152403,
+          "following_count": 230,
+          "like_count": 12490,
+          "listed_count": 446,
+          "media_count": 2057,
+          "tweet_count": 30774
+        },
+        "url": "https://t.co/MgH0OFtJa4",
+        "username": "kuiruri",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,370 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072728025956036608",
+        "3_2072728027046502400",
+        "3_2072728028782968833",
+        "3_2072728029923872768"
+      ],
+      "media_source_tweet_id": [
+        "2072728031840608413",
+        "2072728031840608413",
+        "2072728031840608413",
+        "2072728031840608413"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2073024455010644004",
+    "created_at": "2026-07-03T12:41:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T13:41:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073024455010644004"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2038519337284173824",
+          "start": 3,
+          "username": "KddU287467"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AuDLhI8Crx",
+          "end": 46,
+          "expanded_url": "https://x.com/KddU287467/status/2072728031840608413/photo/1",
+          "media_key": "3_2072728025956036608",
+          "start": 23,
+          "url": "https://t.co/AuDLhI8Crx"
+        },
+        {
+          "display_url": "pic.x.com/AuDLhI8Crx",
+          "end": 46,
+          "expanded_url": "https://x.com/KddU287467/status/2072728031840608413/photo/1",
+          "media_key": "3_2072728027046502400",
+          "start": 23,
+          "url": "https://t.co/AuDLhI8Crx"
+        },
+        {
+          "display_url": "pic.x.com/AuDLhI8Crx",
+          "end": 46,
+          "expanded_url": "https://x.com/KddU287467/status/2072728031840608413/photo/1",
+          "media_key": "3_2072728028782968833",
+          "start": 23,
+          "url": "https://t.co/AuDLhI8Crx"
+        },
+        {
+          "display_url": "pic.x.com/AuDLhI8Crx",
+          "end": 46,
+          "expanded_url": "https://x.com/KddU287467/status/2072728031840608413/photo/1",
+          "media_key": "3_2072728029923872768",
+          "start": 23,
+          "url": "https://t.co/AuDLhI8Crx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073024455010644004",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 48
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072728031840608413",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KddU287467: 오늘 그린거 https://t.co/AuDLhI8Crx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 730,
+        "media_key": "3_2072728025956036608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMPPKGcbMAAfgPT.jpg",
+        "width": 691
+      },
+      {
+        "height": 512,
+        "media_key": "3_2072728027046502400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMPPKKgaYAA2gHg.jpg",
+        "width": 607
+      },
+      {
+        "height": 792,
+        "media_key": "3_2072728028782968833",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMPPKQ-awAEwwXs.jpg",
+        "width": 624
+      },
+      {
+        "height": 627,
+        "media_key": "3_2072728029923872768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMPPKVObkAALi74.jpg",
+        "width": 722
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072728025956036608",
+            "3_2072728027046502400",
+            "3_2072728028782968833",
+            "3_2072728029923872768"
+          ],
+          "media_source_tweet_id": [
+            "2072728031840608413",
+            "2072728031840608413",
+            "2072728031840608413",
+            "2072728031840608413"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2073024455010644004",
+        "created_at": "2026-07-03T12:41:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T13:41:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073024455010644004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2038519337284173824",
+              "start": 3,
+              "username": "KddU287467"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AuDLhI8Crx",
+              "end": 46,
+              "expanded_url": "https://x.com/KddU287467/status/2072728031840608413/photo/1",
+              "media_key": "3_2072728025956036608",
+              "start": 23,
+              "url": "https://t.co/AuDLhI8Crx"
+            },
+            {
+              "display_url": "pic.x.com/AuDLhI8Crx",
+              "end": 46,
+              "expanded_url": "https://x.com/KddU287467/status/2072728031840608413/photo/1",
+              "media_key": "3_2072728027046502400",
+              "start": 23,
+              "url": "https://t.co/AuDLhI8Crx"
+            },
+            {
+              "display_url": "pic.x.com/AuDLhI8Crx",
+              "end": 46,
+              "expanded_url": "https://x.com/KddU287467/status/2072728031840608413/photo/1",
+              "media_key": "3_2072728028782968833",
+              "start": 23,
+              "url": "https://t.co/AuDLhI8Crx"
+            },
+            {
+              "display_url": "pic.x.com/AuDLhI8Crx",
+              "end": 46,
+              "expanded_url": "https://x.com/KddU287467/status/2072728031840608413/photo/1",
+              "media_key": "3_2072728029923872768",
+              "start": 23,
+              "url": "https://t.co/AuDLhI8Crx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073024455010644004",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 48
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072728031840608413",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KddU287467: 오늘 그린거 https://t.co/AuDLhI8Crx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072728025956036608",
+            "3_2072728027046502400",
+            "3_2072728028782968833",
+            "3_2072728029923872768"
+          ]
+        },
+        "author_id": "2038519337284173824",
+        "conversation_id": "2072728031840608413",
+        "created_at": "2026-07-02T17:04:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T18:04:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072728031840608413"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AuDLhI8Crx",
+              "end": 30,
+              "expanded_url": "https://x.com/KddU287467/status/2072728031840608413/photo/1",
+              "media_key": "3_2072728025956036608",
+              "start": 7,
+              "url": "https://t.co/AuDLhI8Crx"
+            },
+            {
+              "display_url": "pic.x.com/AuDLhI8Crx",
+              "end": 30,
+              "expanded_url": "https://x.com/KddU287467/status/2072728031840608413/photo/1",
+              "media_key": "3_2072728027046502400",
+              "start": 7,
+              "url": "https://t.co/AuDLhI8Crx"
+            },
+            {
+              "display_url": "pic.x.com/AuDLhI8Crx",
+              "end": 30,
+              "expanded_url": "https://x.com/KddU287467/status/2072728031840608413/photo/1",
+              "media_key": "3_2072728028782968833",
+              "start": 7,
+              "url": "https://t.co/AuDLhI8Crx"
+            },
+            {
+              "display_url": "pic.x.com/AuDLhI8Crx",
+              "end": 30,
+              "expanded_url": "https://x.com/KddU287467/status/2072728031840608413/photo/1",
+              "media_key": "3_2072728029923872768",
+              "start": 7,
+              "url": "https://t.co/AuDLhI8Crx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072728031840608413",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 3758,
+          "like_count": 194,
+          "quote_count": 5,
+          "reply_count": 1,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "오늘 그린거 https://t.co/AuDLhI8Crx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎蝎\n大哥@thexiexx\n两个号都被gostban了无法互动很抱歉orz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "再见，再见",
+        "name": "23点准时睡觉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070912725920940032/E-FS3NrH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 176,
+          "like_count": 851,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 986
+        },
+        "url": "",
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-30T07:31:38.000Z",
+        "description": "식의 잡곡밥계 타장르 이야기 개많아요\n요즘마이붐:(고향최고)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/Sik_4",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/Sik_4",
+                "start": 0,
+                "url": "https://t.co/fIWzXMl81Y"
+              }
+            ]
+          }
+        },
+        "id": "2038519337284173824",
+        "name": "식사",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067883949322608640/3Nkcnnqd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 57,
+          "like_count": 969,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 419
+        },
+        "url": "https://t.co/fIWzXMl81Y",
+        "username": "KddU287467",
+        "verified": false
+      }
+    ]
+  }
+}

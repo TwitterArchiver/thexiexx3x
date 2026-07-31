@@ -1,0 +1,445 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075541849700511744"
+      ],
+      "media_source_tweet_id": [
+        "2075541857011216583"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "2075880958289752389",
+    "created_at": "2026-07-11T09:52:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T10:52:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075880958289752389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1522867361832783872",
+          "start": 3,
+          "username": "sakura_nuts00"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kpIVGbP2oK",
+          "end": 53,
+          "expanded_url": "https://x.com/sakura_nuts00/status/2075541857011216583/photo/1",
+          "media_key": "3_2075541849700511744",
+          "start": 30,
+          "url": "https://t.co/kpIVGbP2oK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075880958289752389",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 213
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075541857011216583",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sakura_nuts00: makima/マキマ https://t.co/kpIVGbP2oK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1722,
+        "media_key": "3_2075541849700511744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM3OUMvbMAAiuPe.jpg",
+        "width": 1228
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075541849700511744"
+          ],
+          "media_source_tweet_id": [
+            "2075541857011216583"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2075880958289752389",
+        "created_at": "2026-07-11T09:52:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T10:52:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075880958289752389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1522867361832783872",
+              "start": 3,
+              "username": "sakura_nuts00"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kpIVGbP2oK",
+              "end": 53,
+              "expanded_url": "https://x.com/sakura_nuts00/status/2075541857011216583/photo/1",
+              "media_key": "3_2075541849700511744",
+              "start": 30,
+              "url": "https://t.co/kpIVGbP2oK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075880958289752389",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 213
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075541857011216583",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sakura_nuts00: makima/マキマ https://t.co/kpIVGbP2oK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075541849700511744"
+          ]
+        },
+        "author_id": "1522867361832783872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2075541857011216583",
+        "created_at": "2026-07-10T11:25:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T12:25:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075541857011216583"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kpIVGbP2oK",
+              "end": 34,
+              "expanded_url": "https://x.com/sakura_nuts00/status/2075541857011216583/photo/1",
+              "media_key": "3_2075541849700511744",
+              "start": 11,
+              "url": "https://t.co/kpIVGbP2oK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075541857011216583",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 241,
+          "impression_count": 12439,
+          "like_count": 1938,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 213
+        },
+        "reply_settings": "everyone",
+        "text": "makima/マキマ https://t.co/kpIVGbP2oK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎蝎\n大哥@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "再见，再见",
+        "name": "23点准时睡觉🧠",
+        "pinned_tweet_id": "2073818859916890480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 184,
+          "like_count": 977,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 1206
+        },
+        "url": "",
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-07T09:14:53.000Z",
+        "description": "チェンソーマン、ポケモン等のイラストを描いています！ご依頼は下記のメールかリンクからお願いします！\nGmail▶︎sakurana012sa@gmail.com\nskeb▶︎https://t.co/k4fgT5e1OU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@sakura_nuts00",
+                "end": 110,
+                "expanded_url": "https://skeb.jp/@sakura_nuts00",
+                "start": 87,
+                "url": "https://t.co/k4fgT5e1OU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/89969507",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/89969507",
+                "start": 0,
+                "url": "https://t.co/4FNRTBIxM1"
+              }
+            ]
+          }
+        },
+        "id": "1522867361832783872",
+        "name": "サクラナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985026659003863040/DpF0Dstp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2471,
+          "following_count": 144,
+          "like_count": 2050,
+          "listed_count": 8,
+          "media_count": 108,
+          "tweet_count": 208
+        },
+        "url": "https://t.co/4FNRTBIxM1",
+        "username": "sakura_nuts00",
+        "verified": true
+      }
+    ]
+  }
+}

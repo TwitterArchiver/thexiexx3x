@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2068728212528746941",
+    "created_at": "2026-06-21T16:44:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T17:44:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068736801972645937"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1652115424270774272",
+          "start": 0,
+          "username": "Cco127"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068736801972645937",
+    "in_reply_to_user_id": "1652115424270774272",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068728212528746941",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cco127 🫂🫂🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2068728212528746941",
+        "created_at": "2026-06-21T16:44:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T17:44:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068736801972645937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1652115424270774272",
+              "start": 0,
+              "username": "Cco127"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068736801972645937",
+        "in_reply_to_user_id": "1652115424270774272",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068728212528746941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cco127 🫂🫂🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1652115424270774272",
+        "conversation_id": "2068728212528746941",
+        "created_at": "2026-06-21T16:10:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T17:10:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068728212528746941"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068728212528746941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我，我真是，我，唉我真的，我就知道，当初说的朋友也是假的你就他妈骗我玩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎蝎\n大哥@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "再见，再见",
+        "name": "23点准时睡觉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067460593142075392/wbHCWLJg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 167,
+          "like_count": 809,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 756
+        },
+        "url": "",
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-29T01:00:00.000Z",
+        "description": "中国人 17岁 只会中文 其他语言都用的翻译器\nlike：크러쉬/뇽토리/神聖かまってちゃん/\n電波少女｜ADV",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/zh-tw/brhRfQum…",
+                "end": 23,
+                "expanded_url": "https://lit.link/zh-tw/brhRfQumlNaEATtTHJQsrxLNqrK2",
+                "start": 0,
+                "url": "https://t.co/KHgX5VoH5F"
+              }
+            ]
+          }
+        },
+        "id": "1652115424270774272",
+        "location": "^ ̳    ̫   ̳ ^",
+        "name": "Moco",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068155566938284032/Wkkc7HV2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 435,
+          "like_count": 20181,
+          "listed_count": 2,
+          "media_count": 1339,
+          "tweet_count": 11680
+        },
+        "url": "https://t.co/KHgX5VoH5F",
+        "username": "Cco127",
+        "verified": false
+      }
+    ]
+  }
+}

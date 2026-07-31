@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2081742134768799844",
+    "created_at": "2026-07-27T14:02:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T15:02:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081742134768799844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1132729630245265408",
+          "start": 3,
+          "username": "pr80net"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081742134768799844",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 58
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081306817825735152",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pr80net: 这里是永夜安港的新转生号置顶。\n有关于我们社区和社区衍生内容请移步网站。\n本帖开展有史以来最大的抽奖活动，奖品为10份\n来自Zakky's 的典藏套装，每份含有新老包装各一盒的【99.7% pr80原粉 10g】。也就是总计20盒，10位中奖者。\n抽奖…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2081305818302205952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOJInVDbUAAgwIC.png",
+        "width": 2000
+      },
+      {
+        "height": 741,
+        "media_key": "3_2081305841056313344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOJIop0bcAABRD_.png",
+        "width": 658
+      },
+      {
+        "height": 2000,
+        "media_key": "3_2081305887873101824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOJIrYOa8AAfuah.jpg",
+        "width": 2000
+      },
+      {
+        "height": 450,
+        "media_key": "3_2081305906026049537",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOJIsb2a8AEnfO6.png",
+        "width": 648
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2081742134768799844",
+        "created_at": "2026-07-27T14:02:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T15:02:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081742134768799844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1132729630245265408",
+              "start": 3,
+              "username": "pr80net"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081742134768799844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 58
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081306817825735152",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pr80net: 这里是永夜安港的新转生号置顶。\n有关于我们社区和社区衍生内容请移步网站。\n本帖开展有史以来最大的抽奖活动，奖品为10份\n来自Zakky's 的典藏套装，每份含有新老包装各一盒的【99.7% pr80原粉 10g】。也就是总计20盒，10位中奖者。\n抽奖…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081305818302205952",
+            "3_2081305841056313344",
+            "3_2081305887873101824",
+            "3_2081305906026049537"
+          ]
+        },
+        "author_id": "1132729630245265408",
+        "conversation_id": "2081306817825735152",
+        "created_at": "2026-07-26T09:13:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T10:13:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081306817825735152"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Upo0GQAQxg",
+              "end": 176,
+              "expanded_url": "https://x.com/pr80net/status/2081306817825735152/photo/1",
+              "media_key": "3_2081305818302205952",
+              "start": 153,
+              "url": "https://t.co/Upo0GQAQxg"
+            },
+            {
+              "display_url": "pic.x.com/Upo0GQAQxg",
+              "end": 176,
+              "expanded_url": "https://x.com/pr80net/status/2081306817825735152/photo/1",
+              "media_key": "3_2081305841056313344",
+              "start": 153,
+              "url": "https://t.co/Upo0GQAQxg"
+            },
+            {
+              "display_url": "pic.x.com/Upo0GQAQxg",
+              "end": 176,
+              "expanded_url": "https://x.com/pr80net/status/2081306817825735152/photo/1",
+              "media_key": "3_2081305887873101824",
+              "start": 153,
+              "url": "https://t.co/Upo0GQAQxg"
+            },
+            {
+              "display_url": "pic.x.com/Upo0GQAQxg",
+              "end": 176,
+              "expanded_url": "https://x.com/pr80net/status/2081306817825735152/photo/1",
+              "media_key": "3_2081305906026049537",
+              "start": 153,
+              "url": "https://t.co/Upo0GQAQxg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081306817825735152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2749,
+          "like_count": 43,
+          "quote_count": 4,
+          "reply_count": 25,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "这里是永夜安港的新转生号置顶。\n有关于我们社区和社区衍生内容请移步网站。\n本帖开展有史以来最大的抽奖活动，奖品为10份\n来自Zakky's 的典藏套装，每份含有新老包装各一盒的【99.7% pr80原粉 10g】。也就是总计20盒，10位中奖者。\n抽奖条件为关注此X账号并转发此推文，百转后开放抽奖结果。 https://t.co/Upo0GQAQxg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/thexiexx",
+                "end": 23,
+                "expanded_url": "https://t.me/thexiexx",
+                "start": 0,
+                "url": "https://t.co/w6gPwSRVgN"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "mybed",
+        "name": "嚼嚼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 229,
+          "like_count": 1620,
+          "listed_count": 0,
+          "media_count": 184,
+          "tweet_count": 1742
+        },
+        "url": "https://t.co/w6gPwSRVgN",
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5UAb8\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's pr80原粉 @ZakkyV10\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 105,
+                "username": "ZakkyV10"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5UAb8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1RGI"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "location": "永夜安港",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2081306817825735152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 378,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 57
+        },
+        "url": "https://t.co/Un7kre1RGI",
+        "username": "pr80net",
+        "verified": true
+      }
+    ]
+  }
+}

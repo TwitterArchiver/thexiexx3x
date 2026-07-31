@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2058907317018701939",
+    "created_at": "2026-05-25T14:37:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T15:37:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058920317150695884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2021882125960777728",
+          "start": 0,
+          "username": "StopAnyting"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058920317150695884",
+    "in_reply_to_user_id": "2021882125960777728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058907317018701939",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@StopAnyting 也许休息一下😭🫳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2058907317018701939",
+        "created_at": "2026-05-25T14:37:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T15:37:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058920317150695884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2021882125960777728",
+              "start": 0,
+              "username": "StopAnyting"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058920317150695884",
+        "in_reply_to_user_id": "2021882125960777728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058907317018701939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StopAnyting 也许休息一下😭🫳"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021882125960777728",
+        "conversation_id": "2058907317018701939",
+        "created_at": "2026-05-25T13:45:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T14:45:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058907317018701939"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058907317018701939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我愈发觉得有些事情没有结束 像一个千斤的滚筒  我一直被它逼迫着走  但与此同时  我自己也没有太多力气了   也许它真的毁掉了我的双腿 也许我只是在愤怒与怨恨中无法脱身 如果还有精力 我也会奔跑着试图摆脱\n但是我没有太多力气了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎些\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "罹心力",
+        "name": "禁止暴食熬夜",
+        "pinned_tweet_id": "2055238057880875086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056751575289540608/GjxoGMpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 79,
+          "like_count": 177,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 227
+        },
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-12T09:40:48.000Z",
+        "description": "三叉神经",
+        "id": "2021882125960777728",
+        "name": "蠖",
+        "pinned_tweet_id": "2036841865446932725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047672632586440704/Nr52OSN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 211,
+          "like_count": 3395,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1900
+        },
+        "username": "StopAnyting",
+        "verified": false
+      }
+    ]
+  }
+}

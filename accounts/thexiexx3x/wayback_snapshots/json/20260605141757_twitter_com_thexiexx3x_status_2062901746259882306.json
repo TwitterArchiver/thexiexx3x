@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062901673551708160"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2062901746259882306",
+    "created_at": "2026-06-05T14:17:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T15:17:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062901746259882306"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zES2LfvShW",
+          "end": 33,
+          "expanded_url": "https://x.com/thexiexx3x/status/2062901746259882306/photo/1",
+          "media_key": "3_2062901673551708160",
+          "start": 10,
+          "url": "https://t.co/zES2LfvShW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062901746259882306",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "等我暑假我也这样拍 https://t.co/zES2LfvShW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062901673551708160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKDmJHKbwAAOxHw.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062901673551708160"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2062901746259882306",
+        "created_at": "2026-06-05T14:17:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T15:17:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062901746259882306"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zES2LfvShW",
+              "end": 33,
+              "expanded_url": "https://x.com/thexiexx3x/status/2062901746259882306/photo/1",
+              "media_key": "3_2062901673551708160",
+              "start": 10,
+              "url": "https://t.co/zES2LfvShW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062901746259882306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "等我暑假我也这样拍 https://t.co/zES2LfvShW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎些\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "罹心力",
+        "name": "禁止暴食熬夜",
+        "pinned_tweet_id": "2061694728853455116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056751575289540608/GjxoGMpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 180,
+          "like_count": 621,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 538
+        },
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

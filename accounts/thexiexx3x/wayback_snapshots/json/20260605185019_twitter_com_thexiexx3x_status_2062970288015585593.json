@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2062970288015585593",
+    "created_at": "2026-06-05T18:50:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T19:50:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062970288015585593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2058593205067841536",
+          "start": 3,
+          "username": "mndfu1s7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062970288015585593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062949471454134348",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mndfu1s7: 好想od😋我的记忆力😢好想od😋我的记忆力😢好想od😋我的记忆力😢好想od😋我的记忆力😢好想od😋我的记忆力😢好想od😋我的记忆力😢好想od😋我的记忆力😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2062970288015585593",
+        "created_at": "2026-06-05T18:50:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T19:50:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062970288015585593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2058593205067841536",
+              "start": 3,
+              "username": "mndfu1s7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062970288015585593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062949471454134348",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mndfu1s7: 好想od😋我的记忆力😢好想od😋我的记忆力😢好想od😋我的记忆力😢好想od😋我的记忆力😢好想od😋我的记忆力😢好想od😋我的记忆力😢好想od😋我的记忆力😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058593205067841536",
+        "conversation_id": "2062949471454134348",
+        "created_at": "2026-06-05T17:27:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T18:27:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062949471454134348"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062949471454134348",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好想od😋我的记忆力😢好想od😋我的记忆力😢好想od😋我的记忆力😢好想od😋我的记忆力😢好想od😋我的记忆力😢好想od😋我的记忆力😢好想od😋我的记忆力😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎些\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "罹心力",
+        "name": "禁止暴食熬夜",
+        "pinned_tweet_id": "2061694728853455116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056751575289540608/GjxoGMpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 181,
+          "like_count": 641,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 553
+        },
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-24T16:58:27.000Z",
+        "description": "=钰柠 09女高餐券妹 中抑 精神状态很差 我是双也许是le 我会在这里发一堆我的梦话 以及裸照/雪兔/o相关 贝贝们来和我互fo互推呀TvT",
+        "id": "2058593205067841536",
+        "name": "為什麽我們不能成為永恆",
+        "pinned_tweet_id": "2060366138304008510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058594428982603776/w9DolSRO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 115,
+          "like_count": 1393,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 360
+        },
+        "username": "mndfu1s7",
+        "verified": false
+      }
+    ]
+  }
+}

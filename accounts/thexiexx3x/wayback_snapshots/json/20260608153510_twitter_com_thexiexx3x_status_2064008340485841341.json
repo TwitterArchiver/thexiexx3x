@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2064008340485841341",
+    "created_at": "2026-06-08T15:35:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T16:35:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064008340485841341"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cybercxre/stat…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/cybercxre/status/2063923996941299767",
+          "start": 6,
+          "url": "https://t.co/QWLq9XqLeZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064008340485841341",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063923996941299767",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我要抽这个 https://t.co/QWLq9XqLeZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 736,
+        "media_key": "3_2063721440642220032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKPPt1jWQAA9JXw.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2064008340485841341",
+        "created_at": "2026-06-08T15:35:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T16:35:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064008340485841341"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cybercxre/stat…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/cybercxre/status/2063923996941299767",
+              "start": 6,
+              "url": "https://t.co/QWLq9XqLeZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064008340485841341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063923996941299767",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要抽这个 https://t.co/QWLq9XqLeZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063721440642220032"
+          ]
+        },
+        "author_id": "1238520105841168386",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2063923996941299767",
+        "created_at": "2026-06-08T10:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T11:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063923996941299767"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MLJQPVYnKy",
+              "end": 23,
+              "expanded_url": "https://x.com/cybercxre/status/2063923996941299767/photo/1",
+              "media_key": "3_2063721440642220032",
+              "start": 0,
+              "url": "https://t.co/MLJQPVYnKy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063923996941299767",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 12655,
+          "like_count": 809,
+          "quote_count": 5,
+          "reply_count": 5,
+          "retweet_count": 104
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/MLJQPVYnKy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎些\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "罹心力",
+        "name": "神经精神病",
+        "pinned_tweet_id": "2063475995626307922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056751575289540608/GjxoGMpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 190,
+          "like_count": 799,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 638
+        },
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-13T17:40:00.000Z",
+        "description": "plin plin plon",
+        "id": "1238520105841168386",
+        "name": "cybercore",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052839544215556097/AdMZJt62_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100329,
+          "following_count": 28,
+          "like_count": 2381,
+          "listed_count": 139,
+          "media_count": 2571,
+          "tweet_count": 2778
+        },
+        "username": "cybercxre",
+        "verified": true
+      }
+    ]
+  }
+}

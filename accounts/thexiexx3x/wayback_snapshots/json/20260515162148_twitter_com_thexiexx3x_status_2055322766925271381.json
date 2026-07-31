@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055322627317886976"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2055322766925271381",
+    "created_at": "2026-05-15T16:21:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T17:21:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055322766925271381"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ANUM3iYdl3",
+          "end": 37,
+          "expanded_url": "https://x.com/thexiexx3x/status/2055322766925271381/photo/1",
+          "media_key": "3_2055322627317886976",
+          "start": 14,
+          "url": "https://t.co/ANUM3iYdl3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055322766925271381",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在教室手机不小心户外露出。 https://t.co/ANUM3iYdl3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3904,
+        "media_key": "3_2055322627317886976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIX5Cjwa8AAqedO.jpg",
+        "width": 2928
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055322627317886976"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2055322766925271381",
+        "created_at": "2026-05-15T16:21:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T17:21:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055322766925271381"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ANUM3iYdl3",
+              "end": 37,
+              "expanded_url": "https://x.com/thexiexx3x/status/2055322766925271381/photo/1",
+              "media_key": "3_2055322627317886976",
+              "start": 14,
+              "url": "https://t.co/ANUM3iYdl3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055322766925271381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在教室手机不小心户外露出。 https://t.co/ANUM3iYdl3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "@thexiexx\n蝎些副本小号，前两世一个被贴了临时标签限流另一个在封号中。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "name": "蝎些3Xplus",
+        "pinned_tweet_id": "2055238057880875086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054585406960914432/2-JpaGc7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 34,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 35
+        },
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

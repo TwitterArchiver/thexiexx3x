@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2063506621545009480",
+    "created_at": "2026-06-07T07:16:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T08:16:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063520399468757490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1965129075846193152",
+          "start": 0,
+          "username": "ukhai15367842"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063520399468757490",
+    "in_reply_to_user_id": "1965129075846193152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063506621545009480",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ukhai15367842 好帅！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063506611004645376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKMMVGyaIAAJr9d.jpg",
+        "width": 1422
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2063506621545009480",
+        "created_at": "2026-06-07T07:16:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T08:16:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063520399468757490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1965129075846193152",
+              "start": 0,
+              "username": "ukhai15367842"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063520399468757490",
+        "in_reply_to_user_id": "1965129075846193152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063506621545009480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ukhai15367842 好帅！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063506611004645376"
+          ]
+        },
+        "author_id": "1965129075846193152",
+        "conversation_id": "2063506621545009480",
+        "created_at": "2026-06-07T06:21:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T07:21:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063506621545009480"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ifDvolt7P5",
+              "end": 36,
+              "expanded_url": "https://x.com/ukhai15367842/status/2063506621545009480/photo/1",
+              "media_key": "3_2063506611004645376",
+              "start": 13,
+              "url": "https://t.co/ifDvolt7P5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063506621545009480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啦啦啦啦啦啦啦啦啦啦啦啦 https://t.co/ifDvolt7P5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎些\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "罹心力",
+        "name": "禁止暴食熬夜",
+        "pinned_tweet_id": "2063475995626307922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056751575289540608/GjxoGMpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 189,
+          "like_count": 724,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 608
+        },
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-08T19:04:27.000Z",
+        "description": "碎碎念/lesb/🔪🩸注意⚠️/歡迎互fo互轉/匿名提問箱https://t.co/cpMSdyKEVY想被看見想交到好朋友……",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zhi68399",
+                "end": 52,
+                "expanded_url": "https://ngl.link/zhi68399",
+                "start": 29,
+                "url": "https://t.co/cpMSdyKEVY"
+              }
+            ]
+          }
+        },
+        "id": "1965129075846193152",
+        "name": "小小滯",
+        "pinned_tweet_id": "2060018632479084970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053840204767891456/ZbYQ_j1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 54,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 296
+        },
+        "username": "ukhai15367842",
+        "verified": false
+      }
+    ]
+  }
+}

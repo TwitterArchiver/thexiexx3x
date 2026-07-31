@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2063472306748567563",
+    "created_at": "2026-06-07T04:05:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T05:05:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063472383525302294"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2063472383525302294",
+    "in_reply_to_user_id": "2054583279257583616",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063472306748567563",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "作死"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063472296698970112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKLtHwCaAAAmuu8.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2063472296665460736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKLtHv6asAAo-kK.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2063472306748567563",
+        "created_at": "2026-06-07T04:05:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T05:05:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063472383525302294"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063472383525302294",
+        "in_reply_to_user_id": "2054583279257583616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063472306748567563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "作死"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063472296698970112",
+            "3_2063472296665460736"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2063472306748567563",
+        "created_at": "2026-06-07T04:05:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T05:05:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063472306748567563"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bouwqVVWQu",
+              "end": 23,
+              "expanded_url": "https://x.com/thexiexx3x/status/2063472306748567563/photo/1",
+              "media_key": "3_2063472296698970112",
+              "start": 0,
+              "url": "https://t.co/bouwqVVWQu"
+            },
+            {
+              "display_url": "pic.x.com/bouwqVVWQu",
+              "end": 23,
+              "expanded_url": "https://x.com/thexiexx3x/status/2063472306748567563/photo/1",
+              "media_key": "3_2063472296665460736",
+              "start": 0,
+              "url": "https://t.co/bouwqVVWQu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063472306748567563",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/bouwqVVWQu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎些\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "罹心力",
+        "name": "禁止暴食熬夜",
+        "pinned_tweet_id": "2061694728853455116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056751575289540608/GjxoGMpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 186,
+          "like_count": 705,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 591
+        },
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

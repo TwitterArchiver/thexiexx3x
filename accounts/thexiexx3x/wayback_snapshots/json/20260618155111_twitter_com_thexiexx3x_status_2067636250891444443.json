@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067635994963345408"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2067636250891444443",
+    "created_at": "2026-06-18T15:51:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T16:51:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067636250891444443"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JAszW8OE2A",
+          "end": 46,
+          "expanded_url": "https://x.com/thexiexx3x/status/2067636250891444443/photo/1",
+          "media_key": "3_2067635994963345408",
+          "start": 23,
+          "url": "https://t.co/JAszW8OE2A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067636250891444443",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我小猪手上的疤被手表和串子闷出来了好几个痘😅 https://t.co/JAszW8OE2A"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067635994963345408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLG3-4yaAAAfm5r.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067635994963345408"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2067636250891444443",
+        "created_at": "2026-06-18T15:51:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T16:51:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067636250891444443"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JAszW8OE2A",
+              "end": 46,
+              "expanded_url": "https://x.com/thexiexx3x/status/2067636250891444443/photo/1",
+              "media_key": "3_2067635994963345408",
+              "start": 23,
+              "url": "https://t.co/JAszW8OE2A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067636250891444443",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我小猪手上的疤被手表和串子闷出来了好几个痘😅 https://t.co/JAszW8OE2A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎蝎\n大哥@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "再见，再见",
+        "name": "23点准时睡觉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067460593142075392/wbHCWLJg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 186,
+          "like_count": 809,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 654
+        },
+        "url": "",
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

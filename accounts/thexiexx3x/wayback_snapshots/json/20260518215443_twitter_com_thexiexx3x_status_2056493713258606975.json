@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2056012095301562485",
+    "created_at": "2026-05-18T21:54:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T22:54:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056493713258606975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1679521924903489543",
+          "start": 0,
+          "username": "QWQQ775497"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056493713258606975",
+    "in_reply_to_user_id": "1679521924903489543",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056426671469961391",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QWQQ775497 嗷嗷当时梯子可能用的人比较多过一会儿就好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2056012095301562485",
+        "created_at": "2026-05-18T21:54:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T22:54:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056493713258606975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1679521924903489543",
+              "start": 0,
+              "username": "QWQQ775497"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056493713258606975",
+        "in_reply_to_user_id": "1679521924903489543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056426671469961391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QWQQ775497 嗷嗷当时梯子可能用的人比较多过一会儿就好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679521924903489543",
+        "conversation_id": "2056012095301562485",
+        "created_at": "2026-05-18T17:28:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T18:28:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056426671469961391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2054583279257583616",
+              "start": 0,
+              "username": "thexiexx3x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056426671469961391",
+        "in_reply_to_user_id": "2054583279257583616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056012095301562485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thexiexx3x 后面咋整的嘞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "@thexiexx\n蝎些副本小号，前两世一个被贴了临时标签限流另一个在封号中。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "name": "禁止暴食熬夜",
+        "pinned_tweet_id": "2055238057880875086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054585406960914432/2-JpaGc7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 45,
+          "like_count": 52,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 79
+        },
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-13T16:03:45.000Z",
+        "description": "Salute",
+        "id": "1679521924903489543",
+        "location": "Japan",
+        "name": "Salute",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009897340455493632/F42XhnQe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 25,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 28
+        },
+        "username": "QWQQ775497",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2058209644800307665",
+    "created_at": "2026-05-23T18:04:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T19:04:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058247635514048941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2057363646423117824",
+          "start": 0,
+          "username": "12sygdsbi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058247635514048941",
+    "in_reply_to_user_id": "2057363646423117824",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058209644800307665",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@12sygdsbi 起飞🛫"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058209635312824321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJA6wiobcAEMBC5.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2058209635438661632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJA6wjGbkAA9Mgn.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2058209644800307665",
+        "created_at": "2026-05-23T18:04:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T19:04:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058247635514048941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2057363646423117824",
+              "start": 0,
+              "username": "12sygdsbi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058247635514048941",
+        "in_reply_to_user_id": "2057363646423117824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058209644800307665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@12sygdsbi 起飞🛫"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058209635312824321",
+            "3_2058209635438661632"
+          ]
+        },
+        "author_id": "2057363646423117824",
+        "conversation_id": "2058209644800307665",
+        "created_at": "2026-05-23T15:33:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T16:33:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058209644800307665"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VFDdvMIAxc",
+              "end": 32,
+              "expanded_url": "https://x.com/12sygdsbi/status/2058209644800307665/photo/1",
+              "media_key": "3_2058209635312824321",
+              "start": 9,
+              "url": "https://t.co/VFDdvMIAxc"
+            },
+            {
+              "display_url": "pic.x.com/VFDdvMIAxc",
+              "end": 32,
+              "expanded_url": "https://x.com/12sygdsbi/status/2058209644800307665/photo/1",
+              "media_key": "3_2058209635438661632",
+              "start": 9,
+              "url": "https://t.co/VFDdvMIAxc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058209644800307665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 138,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所有人准备打飞机 https://t.co/VFDdvMIAxc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎些\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "罹心力",
+        "name": "禁止暴食熬夜",
+        "pinned_tweet_id": "2055238057880875086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056751575289540608/GjxoGMpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 66,
+          "like_count": 122,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 181
+        },
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-21T07:32:40.000Z",
+        "description": "mtm/mua/mao/神秘烟男/我脑子有病，健全人最好还是别看我的空间了",
+        "id": "2057363646423117824",
+        "name": "12",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057374664301907968/Tggw9B0r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 137,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 157
+        },
+        "username": "12sygdsbi",
+        "verified": false
+      }
+    ]
+  }
+}

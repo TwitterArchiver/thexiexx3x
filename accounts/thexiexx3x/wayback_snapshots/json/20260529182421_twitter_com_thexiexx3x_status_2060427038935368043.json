@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2060427038935368043",
+    "created_at": "2026-05-29T18:24:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T19:24:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060427038935368043"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "歌曲名《ベランダ》，别名《阳台》，由 未來電波基地 演唱，收录于《Bible》专辑中，《ベランダ》下载，《ベランダ》在线试听，更多ベランダ相关歌曲推荐，尽在网易云音乐",
+          "display_url": "163cn.tv/70epCQw",
+          "end": 47,
+          "expanded_url": "https://163cn.tv/70epCQw",
+          "start": 24,
+          "status": 200,
+          "title": "ベランダ（阳台） - 未來電波基地 - 单曲 - 网易云音乐",
+          "unwound_url": "https://y.music.163.com/m/song?id=1824700323&uct2=tr%2FLwoJhIhKisnXP7PrWkw%3D%3D&fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=&fx-listentest=t3&H5_DownloadVIPGift=&playerUIModeId=1379005&PlayerStyles_SynchronousSharing=t3&dlt=0846&app_version=9.5.15&sc=wm&tn=",
+          "url": "https://t.co/5PXWev3UZJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060427038935368043",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "分享未來電波基地的单曲《ベランダ (阳台)》: https://t.co/5PXWev3UZJ (来自@网易云音乐)听哭了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2060427038935368043",
+        "created_at": "2026-05-29T18:24:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T19:24:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060427038935368043"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "歌曲名《ベランダ》，别名《阳台》，由 未來電波基地 演唱，收录于《Bible》专辑中，《ベランダ》下载，《ベランダ》在线试听，更多ベランダ相关歌曲推荐，尽在网易云音乐",
+              "display_url": "163cn.tv/70epCQw",
+              "end": 47,
+              "expanded_url": "https://163cn.tv/70epCQw",
+              "start": 24,
+              "status": 200,
+              "title": "ベランダ（阳台） - 未來電波基地 - 单曲 - 网易云音乐",
+              "unwound_url": "https://y.music.163.com/m/song?id=1824700323&uct2=tr%2FLwoJhIhKisnXP7PrWkw%3D%3D&fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=&fx-listentest=t3&H5_DownloadVIPGift=&playerUIModeId=1379005&PlayerStyles_SynchronousSharing=t3&dlt=0846&app_version=9.5.15&sc=wm&tn=",
+              "url": "https://t.co/5PXWev3UZJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060427038935368043",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "分享未來電波基地的单曲《ベランダ (阳台)》: https://t.co/5PXWev3UZJ (来自@网易云音乐)听哭了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎些\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "罹心力",
+        "name": "禁止暴食熬夜",
+        "pinned_tweet_id": "2055238057880875086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056751575289540608/GjxoGMpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 126,
+          "like_count": 333,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 359
+        },
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

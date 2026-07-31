@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2079391022912872753",
+    "created_at": "2026-07-21T02:20:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T03:20:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079391022912872753"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/thexiexx/statu…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/thexiexx/status/2079170719985139920",
+          "start": 13,
+          "url": "https://t.co/Q96b1LUvhf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079391022912872753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079170719985139920",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "他这个题材只适合第一视角 https://t.co/Q96b1LUvhf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2079391022912872753",
+        "created_at": "2026-07-21T02:20:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T03:20:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079391022912872753"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/thexiexx/statu…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/thexiexx/status/2079170719985139920",
+              "start": 13,
+              "url": "https://t.co/Q96b1LUvhf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079391022912872753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079170719985139920",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "他这个题材只适合第一视角 https://t.co/Q96b1LUvhf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954524887454011392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2079170719985139920",
+        "created_at": "2026-07-20T11:45:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T12:45:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079170719985139920"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079170719985139920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我还是觉得后室这种题材被拍成电影怪怪的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "每天",
+        "name": "嚼嚼",
+        "pinned_tweet_id": "2077840199158296579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 198,
+          "like_count": 1281,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 1509
+        },
+        "url": "",
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-10T12:47:15.000Z",
+        "description": "這裏沒有你想看的。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x",
+                "start": 0,
+                "url": "https://t.co/PSJUHfKjg3"
+              }
+            ]
+          }
+        },
+        "id": "1954524887454011392",
+        "location": "記憶之後",
+        "name": "些邪血屑X",
+        "pinned_tweet_id": "2065855807766560852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078855056640868352/eAzOWAcV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 465,
+          "like_count": 3546,
+          "listed_count": 0,
+          "media_count": 281,
+          "tweet_count": 2984
+        },
+        "url": "https://t.co/PSJUHfKjg3",
+        "username": "thexiexx",
+        "verified": false
+      }
+    ]
+  }
+}

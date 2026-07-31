@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071244926743130112"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2071245567699865962",
+    "created_at": "2026-06-28T14:53:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T15:53:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071245567699865962"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7POHcW4C4y",
+          "end": 155,
+          "expanded_url": "https://x.com/thexiexx3x/status/2071245567699865962/photo/1",
+          "media_key": "3_2071244926743130112",
+          "start": 132,
+          "url": "https://t.co/7POHcW4C4y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071245567699865962",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "神经病，刚才我给我妈看美甲那个照片就一个一个划嘛，然后就划到大岛亮介😅然后过了几秒，我妈就问我这男的谁😅我就说是个歌手40多岁了然后我一直在强调40多岁，然后我说做头像，我妈就说为什么要用男的做头像？然后就一直在说。我现在微信头像也是大刀两截，大岛亮介怎么你了😅 https://t.co/7POHcW4C4y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1363,
+        "media_key": "3_2071244926743130112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL6KSXVasAAPByK.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071244926743130112"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2071245567699865962",
+        "created_at": "2026-06-28T14:53:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T15:53:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071245567699865962"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7POHcW4C4y",
+              "end": 155,
+              "expanded_url": "https://x.com/thexiexx3x/status/2071245567699865962/photo/1",
+              "media_key": "3_2071244926743130112",
+              "start": 132,
+              "url": "https://t.co/7POHcW4C4y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071245567699865962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "神经病，刚才我给我妈看美甲那个照片就一个一个划嘛，然后就划到大岛亮介😅然后过了几秒，我妈就问我这男的谁😅我就说是个歌手40多岁了然后我一直在强调40多岁，然后我说做头像，我妈就说为什么要用男的做头像？然后就一直在说。我现在微信头像也是大刀两截，大岛亮介怎么你了😅 https://t.co/7POHcW4C4y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎蝎\n大哥@thexiexx\n两个号都被gostban了无法互动很抱歉orz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "再见，再见",
+        "name": "23点准时睡觉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070912725920940032/E-FS3NrH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 174,
+          "like_count": 823,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 884
+        },
+        "url": "",
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

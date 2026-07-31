@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2067962379103846586",
+    "created_at": "2026-06-20T03:21:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T04:21:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068172275409621277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2049544022331719680",
+          "start": 0,
+          "username": "Kikiqc8d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068172275409621277",
+    "in_reply_to_user_id": "2049544022331719680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068171948065280415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kikiqc8d 泪目了谢谢宝宝🥹🥹🥹🥹🫶🫶🫶🫶🫶❤️❤️❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2067962379103846586",
+        "created_at": "2026-06-20T03:21:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T04:21:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068172275409621277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2049544022331719680",
+              "start": 0,
+              "username": "Kikiqc8d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068172275409621277",
+        "in_reply_to_user_id": "2049544022331719680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068171948065280415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kikiqc8d 泪目了谢谢宝宝🥹🥹🥹🥹🫶🫶🫶🫶🫶❤️❤️❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049544022331719680",
+        "conversation_id": "2067962379103846586",
+        "created_at": "2026-06-20T03:19:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T04:19:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068171948065280415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2054583279257583616",
+              "start": 0,
+              "username": "thexiexx3x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068171948065280415",
+        "in_reply_to_user_id": "2054583279257583616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067962379103846586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thexiexx3x 蝎蝎是萌萌小蛋糕🐰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎蝎\n大哥@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "再见，再见",
+        "name": "23点准时睡觉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067460593142075392/wbHCWLJg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 173,
+          "like_count": 809,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 706
+        },
+        "url": "",
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-29T17:40:17.000Z",
+        "description": "",
+        "id": "2049544022331719680",
+        "name": "Kikixixi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049579593884168192/sbL7Xdcp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 57,
+          "like_count": 86,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 93
+        },
+        "url": "",
+        "username": "Kikiqc8d",
+        "verified": false
+      }
+    ]
+  }
+}

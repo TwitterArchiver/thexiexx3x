@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2059124837629739188",
+    "created_at": "2026-05-26T04:09:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T05:09:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059124837629739188"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "歌曲名《未完成》，由 THE MUSMUS 演唱，收录于《Uplift Spice》专辑中，《未完成》下载，《未完成》在线试听，更多未完成相关歌曲推荐，尽在网易云音乐",
+          "display_url": "163cn.tv/7L1Xh2w",
+          "end": 45,
+          "expanded_url": "https://163cn.tv/7L1Xh2w",
+          "start": 22,
+          "status": 200,
+          "title": "未完成 - THE MUSMUS - 单曲 - 网易云音乐",
+          "unwound_url": "https://y.music.163.com/m/song?id=22736702&uct2=tr%2FLwoJhIhKisnXP7PrWkw%3D%3D&fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=&fx-listentest=t3&H5_DownloadVIPGift=&playerUIModeId=1379005&PlayerStyles_SynchronousSharing=t3&dlt=0846&app_version=9.5.15&sc=wm&tn=",
+          "url": "https://t.co/KIvlxwy5Aw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059124837629739188",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "分享THE MUSMUS的单曲《未完成》: https://t.co/KIvlxwy5Aw (来自@网易云音乐)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2059124837629739188",
+        "created_at": "2026-05-26T04:09:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T05:09:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059124837629739188"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "歌曲名《未完成》，由 THE MUSMUS 演唱，收录于《Uplift Spice》专辑中，《未完成》下载，《未完成》在线试听，更多未完成相关歌曲推荐，尽在网易云音乐",
+              "display_url": "163cn.tv/7L1Xh2w",
+              "end": 45,
+              "expanded_url": "https://163cn.tv/7L1Xh2w",
+              "start": 22,
+              "status": 200,
+              "title": "未完成 - THE MUSMUS - 单曲 - 网易云音乐",
+              "unwound_url": "https://y.music.163.com/m/song?id=22736702&uct2=tr%2FLwoJhIhKisnXP7PrWkw%3D%3D&fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=&fx-listentest=t3&H5_DownloadVIPGift=&playerUIModeId=1379005&PlayerStyles_SynchronousSharing=t3&dlt=0846&app_version=9.5.15&sc=wm&tn=",
+              "url": "https://t.co/KIvlxwy5Aw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059124837629739188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "分享THE MUSMUS的单曲《未完成》: https://t.co/KIvlxwy5Aw (来自@网易云音乐)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎些\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "罹心力",
+        "name": "禁止暴食熬夜",
+        "pinned_tweet_id": "2055238057880875086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056751575289540608/GjxoGMpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 86,
+          "like_count": 198,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 248
+        },
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

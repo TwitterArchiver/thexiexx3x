@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2062953791536898116",
+    "created_at": "2026-06-05T17:44:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T18:44:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062953791536898116"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2062953791536898116",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我跳了吧尝试画了一个晚上，都画的很丑画的恶心 同学朋友圈发去年的画而且人家不学美术进步贼大现在比我画的好多了 我好难过我是废物为什么什么都做不好啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2062953791536898116",
+        "created_at": "2026-06-05T17:44:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T18:44:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062953791536898116"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062953791536898116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我跳了吧尝试画了一个晚上，都画的很丑画的恶心 同学朋友圈发去年的画而且人家不学美术进步贼大现在比我画的好多了 我好难过我是废物为什么什么都做不好啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎些\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "罹心力",
+        "name": "禁止暴食熬夜",
+        "pinned_tweet_id": "2061694728853455116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056751575289540608/GjxoGMpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 181,
+          "like_count": 629,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 544
+        },
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968197013490855936"
+      ],
+      "media_source_tweet_id": [
+        "1968197018616205424"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2080515379244503319",
+    "created_at": "2026-07-24T04:48:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T05:48:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080515379244503319"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 11,
+          "tag": "神聖かまってちゃん"
+        },
+        {
+          "end": 29,
+          "start": 22,
+          "tag": "SKC美術部"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1900830230266474499",
+          "start": 3,
+          "username": "e2ze2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IE2ds7xy4J",
+          "end": 60,
+          "expanded_url": "https://x.com/e2ze2/status/1968197018616205424/photo/1",
+          "media_key": "3_1968197013490855936",
+          "start": 37,
+          "url": "https://t.co/IE2ds7xy4J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080515379244503319",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968197018616205424",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @e2ze2: #神聖かまってちゃん\n#SKC美術部\n復帰ライブ！ https://t.co/IE2ds7xy4J"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1968197013490855936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1BwwX0bcAAWV0p.jpg",
+        "width": 1584
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968197013490855936"
+          ]
+        },
+        "author_id": "1900830230266474499",
+        "conversation_id": "1968197018616205424",
+        "created_at": "2025-09-17T06:15:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T07:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968197018616205424"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "神聖かまってちゃん"
+            },
+            {
+              "end": 18,
+              "start": 11,
+              "tag": "SKC美術部"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IE2ds7xy4J",
+              "end": 49,
+              "expanded_url": "https://x.com/e2ze2/status/1968197018616205424/photo/1",
+              "media_key": "3_1968197013490855936",
+              "start": 26,
+              "url": "https://t.co/IE2ds7xy4J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968197018616205424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 6661,
+          "like_count": 299,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "#神聖かまってちゃん\n#SKC美術部\n復帰ライブ！ https://t.co/IE2ds7xy4J"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968197013490855936"
+          ],
+          "media_source_tweet_id": [
+            "1968197018616205424"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2080515379244503319",
+        "created_at": "2026-07-24T04:48:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T05:48:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080515379244503319"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 11,
+              "tag": "神聖かまってちゃん"
+            },
+            {
+              "end": 29,
+              "start": 22,
+              "tag": "SKC美術部"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1900830230266474499",
+              "start": 3,
+              "username": "e2ze2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IE2ds7xy4J",
+              "end": 60,
+              "expanded_url": "https://x.com/e2ze2/status/1968197018616205424/photo/1",
+              "media_key": "3_1968197013490855936",
+              "start": 37,
+              "url": "https://t.co/IE2ds7xy4J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080515379244503319",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968197018616205424",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @e2ze2: #神聖かまってちゃん\n#SKC美術部\n復帰ライブ！ https://t.co/IE2ds7xy4J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "每天",
+        "name": "嚼嚼",
+        "pinned_tweet_id": "2077840199158296579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 210,
+          "like_count": 1479,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 1627
+        },
+        "url": "",
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-15T08:43:45.000Z",
+        "description": "神聖かまってちゃん 絵を描きます",
+        "id": "1900830230266474499",
+        "name": "りょう",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048291799366766592/puB7XvqZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 25,
+          "like_count": 236,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 150
+        },
+        "url": "",
+        "username": "e2ze2",
+        "verified": false
+      }
+    ]
+  }
+}

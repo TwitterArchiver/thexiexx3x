@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2074147790507405319",
+    "created_at": "2026-07-06T15:05:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T16:05:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074147790507405319"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2074147790507405319",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "烦死了每次都要坐在这好久讲她的歪理有什么好讲的跟审犯人一样问我刀在哪你现在有没有刀一大堆逼我讲不想谈论的问题又扯一大堆我本来能十点就睡着的好不容易一次耀效的尾巴现在又搞这一出我真好想死唉手背已经被撞青掉了吧额头也是我不想谈未来怎么样你们意识不到位已经不是正常人了吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2074147790507405319",
+        "created_at": "2026-07-06T15:05:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T16:05:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074147790507405319"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074147790507405319",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "烦死了每次都要坐在这好久讲她的歪理有什么好讲的跟审犯人一样问我刀在哪你现在有没有刀一大堆逼我讲不想谈论的问题又扯一大堆我本来能十点就睡着的好不容易一次耀效的尾巴现在又搞这一出我真好想死唉手背已经被撞青掉了吧额头也是我不想谈未来怎么样你们意识不到位已经不是正常人了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎蝎\n大哥@thexiexx\n两个号都被gostban了无法互动很抱歉orz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "再见，再见",
+        "name": "23点准时睡觉",
+        "pinned_tweet_id": "2073818859916890480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070912725920940032/E-FS3NrH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 177,
+          "like_count": 874,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 1086
+        },
+        "url": "",
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

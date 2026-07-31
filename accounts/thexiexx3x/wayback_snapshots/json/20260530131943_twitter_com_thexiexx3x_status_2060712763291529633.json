@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060712579157331970"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2060712763291529633",
+    "created_at": "2026-05-30T13:19:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T14:19:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060712763291529633"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/h3xph3Yzah",
+          "end": 43,
+          "expanded_url": "https://x.com/thexiexx3x/status/2060712763291529633/photo/1",
+          "media_key": "3_2060712579157331970",
+          "start": 20,
+          "url": "https://t.co/h3xph3Yzah"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060712763291529633",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的GABA受体将在下周三赢得全面复活 https://t.co/h3xph3Yzah"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 758,
+        "media_key": "3_2060712579157331970",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJkfLDDaEAIYlkd.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060712579157331970"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2060712763291529633",
+        "created_at": "2026-05-30T13:19:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T14:19:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060712763291529633"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h3xph3Yzah",
+              "end": 43,
+              "expanded_url": "https://x.com/thexiexx3x/status/2060712763291529633/photo/1",
+              "media_key": "3_2060712579157331970",
+              "start": 20,
+              "url": "https://t.co/h3xph3Yzah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060712763291529633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的GABA受体将在下周三赢得全面复活 https://t.co/h3xph3Yzah"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎些\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "罹心力",
+        "name": "禁止暴食熬夜",
+        "pinned_tweet_id": "2055238057880875086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056751575289540608/GjxoGMpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 133,
+          "like_count": 362,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 371
+        },
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

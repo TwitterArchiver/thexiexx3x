@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071973912120872960",
+        "3_2071973912116637696"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2071973926939574457",
+    "created_at": "2026-06-30T15:07:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T16:07:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071973926939574457"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4x0x2pGvD4",
+          "end": 23,
+          "expanded_url": "https://x.com/thexiexx3x/status/2071973926939574457/photo/1",
+          "media_key": "3_2071973912120872960",
+          "start": 0,
+          "url": "https://t.co/4x0x2pGvD4"
+        },
+        {
+          "display_url": "pic.x.com/4x0x2pGvD4",
+          "end": 23,
+          "expanded_url": "https://x.com/thexiexx3x/status/2071973926939574457/photo/1",
+          "media_key": "3_2071973912116637696",
+          "start": 0,
+          "url": "https://t.co/4x0x2pGvD4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071973926939574457",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/4x0x2pGvD4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 450,
+        "media_key": "3_2071973912120872960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMEhS5fXUAArAwm.jpg",
+        "width": 800
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2071973912116637696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMEhS5eWsAAgXrV.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071973912120872960",
+            "3_2071973912116637696"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2071973926939574457",
+        "created_at": "2026-06-30T15:07:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T16:07:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071973926939574457"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4x0x2pGvD4",
+              "end": 23,
+              "expanded_url": "https://x.com/thexiexx3x/status/2071973926939574457/photo/1",
+              "media_key": "3_2071973912120872960",
+              "start": 0,
+              "url": "https://t.co/4x0x2pGvD4"
+            },
+            {
+              "display_url": "pic.x.com/4x0x2pGvD4",
+              "end": 23,
+              "expanded_url": "https://x.com/thexiexx3x/status/2071973926939574457/photo/1",
+              "media_key": "3_2071973912116637696",
+              "start": 0,
+              "url": "https://t.co/4x0x2pGvD4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071973926939574457",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/4x0x2pGvD4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎蝎\n大哥@thexiexx\n两个号都被gostban了无法互动很抱歉orz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "再见，再见",
+        "name": "23点准时睡觉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070912725920940032/E-FS3NrH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 176,
+          "like_count": 834,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 913
+        },
+        "url": "",
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063475615504936960"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2063475652905648355",
+    "created_at": "2026-06-07T04:18:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T05:18:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063475652905648355"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/csnziQSlUS",
+          "end": 45,
+          "expanded_url": "https://x.com/thexiexx3x/status/2063475652905648355/photo/1",
+          "media_key": "3_2063475615504936960",
+          "start": 22,
+          "url": "https://t.co/csnziQSlUS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063475652905648355",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@砂\n是和砂的互绘！oc宝宝简直又帅又萌哇 https://t.co/csnziQSlUS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063475615504936960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKLwI7jaMAAZ2a8.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063475615504936960"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2063475652905648355",
+        "created_at": "2026-06-07T04:18:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T05:18:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063475652905648355"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/csnziQSlUS",
+              "end": 45,
+              "expanded_url": "https://x.com/thexiexx3x/status/2063475652905648355/photo/1",
+              "media_key": "3_2063475615504936960",
+              "start": 22,
+              "url": "https://t.co/csnziQSlUS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063475652905648355",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@砂\n是和砂的互绘！oc宝宝简直又帅又萌哇 https://t.co/csnziQSlUS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎些\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "罹心力",
+        "name": "禁止暴食熬夜",
+        "pinned_tweet_id": "2061694728853455116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056751575289540608/GjxoGMpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 186,
+          "like_count": 706,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 596
+        },
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

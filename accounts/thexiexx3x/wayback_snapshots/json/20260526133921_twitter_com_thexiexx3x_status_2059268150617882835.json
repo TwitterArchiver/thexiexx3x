@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059238756603850752"
+      ],
+      "media_source_tweet_id": [
+        "2059238759166624072"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2059268150617882835",
+    "created_at": "2026-05-26T13:39:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T14:39:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059268150617882835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "898784633852219392",
+          "start": 3,
+          "username": "Yumzy__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CiR8CF0995",
+          "end": 36,
+          "expanded_url": "https://x.com/Yumzy__/status/2059238759166624072/photo/1",
+          "media_key": "3_2059238756603850752",
+          "start": 13,
+          "url": "https://t.co/CiR8CF0995"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059268150617882835",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059238759166624072",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yumzy__: https://t.co/CiR8CF0995"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 920,
+        "media_key": "3_2059238756603850752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJPivSMW8AAol89.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059238756603850752"
+          ],
+          "media_source_tweet_id": [
+            "2059238759166624072"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2059268150617882835",
+        "created_at": "2026-05-26T13:39:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T14:39:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059268150617882835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "898784633852219392",
+              "start": 3,
+              "username": "Yumzy__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CiR8CF0995",
+              "end": 36,
+              "expanded_url": "https://x.com/Yumzy__/status/2059238759166624072/photo/1",
+              "media_key": "3_2059238756603850752",
+              "start": 13,
+              "url": "https://t.co/CiR8CF0995"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059268150617882835",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059238759166624072",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yumzy__: https://t.co/CiR8CF0995"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059238756603850752"
+          ]
+        },
+        "author_id": "898784633852219392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2059238759166624072",
+        "created_at": "2026-05-26T11:42:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T12:42:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059238759166624072"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CiR8CF0995",
+              "end": 23,
+              "expanded_url": "https://x.com/Yumzy__/status/2059238759166624072/photo/1",
+              "media_key": "3_2059238756603850752",
+              "start": 0,
+              "url": "https://t.co/CiR8CF0995"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059238759166624072",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 808,
+          "like_count": 105,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/CiR8CF0995"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎些\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "罹心力",
+        "name": "禁止暴食熬夜",
+        "pinned_tweet_id": "2055238057880875086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056751575289540608/GjxoGMpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 93,
+          "like_count": 222,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 264
+        },
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-19T05:52:10.000Z",
+        "description": "Daily dessert bliss 🍰 Follow for your sweet fix!",
+        "id": "898784633852219392",
+        "name": "YUMZY",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965162674347507712/le6Twxq5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24315,
+          "following_count": 775,
+          "like_count": 1906,
+          "listed_count": 94,
+          "media_count": 4974,
+          "tweet_count": 8117
+        },
+        "username": "Yumzy__",
+        "verified": true
+      }
+    ]
+  }
+}

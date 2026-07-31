@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2077409204101685381",
+    "created_at": "2026-07-15T15:05:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T16:05:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077409204101685381"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/thexiexx3x/sta…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/thexiexx3x/status/2077331560005882202",
+          "start": 13,
+          "url": "https://t.co/GwA9QpRneT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077409204101685381",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077331560005882202",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "耳朵变成这首歌的形状了😂 https://t.co/GwA9QpRneT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2077409204101685381",
+        "created_at": "2026-07-15T15:05:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T16:05:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077409204101685381"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/thexiexx3x/sta…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/thexiexx3x/status/2077331560005882202",
+              "start": 13,
+              "url": "https://t.co/GwA9QpRneT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077409204101685381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077331560005882202",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "耳朵变成这首歌的形状了😂 https://t.co/GwA9QpRneT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2077331560005882202",
+        "created_at": "2026-07-15T09:56:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T10:56:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077331560005882202"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "歌曲名《the world of scarlet (saturated ex)》，由 OfficialAz3 演唱，收录于《New Exclusive Chapter》专辑中，《the world of scarlet (saturated ex)》下载，《the world of scarlet (saturated ex)》在线试听，更多the world of scarlet (saturated ex)相关歌曲推荐，尽在网易云音乐",
+              "display_url": "163cn.tv/ba4y1dnb",
+              "end": 76,
+              "expanded_url": "https://163cn.tv/ba4y1dnb",
+              "start": 53,
+              "status": 200,
+              "title": "the world of scarlet (saturated ex) - OfficialAz3 - 单曲 - 网易云音乐",
+              "unwound_url": "https://y.music.163.com/m/song?fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=&id=3365633801&PlayerStyles_SynchronousSharing=t3&fx-listentest=t3&H5_DownloadVIPGift=&uct2=tr%2FLwoJhIhKisnXP7PrWkw==&playerUIModeId=1379005&app_version=9.5.50&dlt=0846",
+              "url": "https://t.co/sn9tGrUDcg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077331560005882202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "分享OfficialAz3的单曲《the world of scarlet (saturated ex)》https://t.co/sn9tGrUDcg (@网易云音乐)\n雷霆好听呀这个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎蝎\n大哥@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x",
+                "start": 0,
+                "url": "https://t.co/d5BdKxZ1m4"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "这里没有你想看的。",
+        "name": "23点准时睡觉🧠",
+        "pinned_tweet_id": "2073818859916890480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 182,
+          "like_count": 1093,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 1355
+        },
+        "url": "https://t.co/d5BdKxZ1m4",
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

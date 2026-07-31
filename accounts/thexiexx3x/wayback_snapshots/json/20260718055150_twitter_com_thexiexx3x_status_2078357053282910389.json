@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2078357053282910389",
+    "created_at": "2026-07-18T05:51:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T06:51:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078357053282910389"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rezehyuuga/sta…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/rezehyuuga/status/2078072724694376584",
+          "start": 10,
+          "url": "https://t.co/5JIsAMFWtk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078357053282910389",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078072724694376584",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "唉推特更新完真难用 https://t.co/5JIsAMFWtk"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7871,
+        "height": 692,
+        "media_key": "13_2074500272890753025",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2074500272890753025/img/92VZ8aWHESStCoF_.jpg",
+        "public_metrics": {
+          "view_count": 1322261
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074500272890753025/vid/avc1/346x270/Yc7XmMe8FGwbd3h7.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074500272890753025/vid/avc1/460x360/IAGaJ05LY3aT4sn6.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074500272890753025/vid/avc1/888x692/ZhUyBm83YXRYGL5k.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2074500272890753025/pl/WxD0lG0pe4H4nKVM.m3u8"
+          }
+        ],
+        "width": 888
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2078357053282910389",
+        "created_at": "2026-07-18T05:51:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T06:51:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078357053282910389"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rezehyuuga/sta…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/rezehyuuga/status/2078072724694376584",
+              "start": 10,
+              "url": "https://t.co/5JIsAMFWtk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078357053282910389",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078072724694376584",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唉推特更新完真难用 https://t.co/5JIsAMFWtk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2074500272890753025"
+          ],
+          "media_source_tweet_id": [
+            "2074500354616795617"
+          ]
+        },
+        "author_id": "1753166549509124096",
+        "conversation_id": "2078072724694376584",
+        "created_at": "2026-07-17T11:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T12:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078072724694376584"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dpiYtzlQhL",
+              "end": 84,
+              "expanded_url": "https://x.com/michin_saekki1/status/2074500354616795617/video/1",
+              "media_key": "13_2074500272890753025",
+              "start": 61,
+              "url": "https://t.co/dpiYtzlQhL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078072724694376584",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1442,
+          "impression_count": 354427,
+          "like_count": 28517,
+          "quote_count": 868,
+          "reply_count": 210,
+          "retweet_count": 5810
+        },
+        "reply_settings": "everyone",
+        "text": "eu nao estou ACREDITANDO que separaram os reposts dos posts \nhttps://t.co/dpiYtzlQhL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎蝎\n大哥@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x",
+                "start": 0,
+                "url": "https://t.co/d5BdKxZ1m4"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "每天",
+        "name": "23点准时睡觉",
+        "pinned_tweet_id": "2077840199158296579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 190,
+          "like_count": 1197,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 1458
+        },
+        "url": "https://t.co/d5BdKxZ1m4",
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-01T21:22:07.000Z",
+        "description": "naruto, gojo lover ♡",
+        "id": "1753166549509124096",
+        "location": "🍥",
+        "name": "luanna",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076751231444234240/3AgcOZI0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760,
+          "following_count": 606,
+          "like_count": 163812,
+          "listed_count": 14,
+          "media_count": 179,
+          "tweet_count": 7842
+        },
+        "url": "",
+        "username": "rezehyuuga",
+        "verified": false
+      }
+    ]
+  }
+}

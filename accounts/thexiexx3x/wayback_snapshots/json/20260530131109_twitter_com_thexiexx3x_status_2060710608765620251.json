@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060710432445448192"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2060710608765620251",
+    "created_at": "2026-05-30T13:11:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T14:11:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060710608765620251"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/N0lrDhWrn7",
+          "end": 27,
+          "expanded_url": "https://x.com/thexiexx3x/status/2060710608765620251/photo/1",
+          "media_key": "3_2060710432445448192",
+          "start": 4,
+          "url": "https://t.co/N0lrDhWrn7"
+        },
+        {
+          "display_url": "x.com/laigendianziya…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/laigendianziyan/status/2060693336475029784",
+          "start": 28,
+          "url": "https://t.co/ah6hwcaDu3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060710608765620251",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060693336475029784",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "消亡吗 https://t.co/N0lrDhWrn7 https://t.co/ah6hwcaDu3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3344,
+        "media_key": "3_2060710432445448192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJkdOF7aQAA-tLL.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2060693324781223936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJkNqS6agAAzNDq.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060710432445448192"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2060710608765620251",
+        "created_at": "2026-05-30T13:11:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T14:11:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060710608765620251"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N0lrDhWrn7",
+              "end": 27,
+              "expanded_url": "https://x.com/thexiexx3x/status/2060710608765620251/photo/1",
+              "media_key": "3_2060710432445448192",
+              "start": 4,
+              "url": "https://t.co/N0lrDhWrn7"
+            },
+            {
+              "display_url": "x.com/laigendianziya…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/laigendianziyan/status/2060693336475029784",
+              "start": 28,
+              "url": "https://t.co/ah6hwcaDu3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060710608765620251",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060693336475029784",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "消亡吗 https://t.co/N0lrDhWrn7 https://t.co/ah6hwcaDu3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060693324781223936"
+          ]
+        },
+        "author_id": "1732763258325762048",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2060693336475029784",
+        "created_at": "2026-05-30T12:02:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T13:02:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060693336475029784"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "深层恐惧探测器旨在通过10个核心存在维度，精准定位你灵魂深处的阴影点位，帮你识别那些潜伏在潜意识中影响你决策、性格与安全感的底层恐惧。",
+              "display_url": "arealme.com/phobia-test/cn…",
+              "end": 23,
+              "expanded_url": "https://www.arealme.com/phobia-test/cn/?_wv=1",
+              "start": 0,
+              "status": 200,
+              "title": "深层恐惧探测器 - 你的人生最怕什么？直面你灵魂最深处的阴影",
+              "unwound_url": "https://www.arealme.com/phobia-test/cn/?_wv=1",
+              "url": "https://t.co/0tcCIpEntV"
+            },
+            {
+              "display_url": "pic.x.com/J25810voAh",
+              "end": 47,
+              "expanded_url": "https://x.com/laigendianziyan/status/2060693336475029784/photo/1",
+              "media_key": "3_2060693324781223936",
+              "start": 24,
+              "url": "https://t.co/J25810voAh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060693336475029784",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 102,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/0tcCIpEntV https://t.co/J25810voAh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎些\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "罹心力",
+        "name": "禁止暴食熬夜",
+        "pinned_tweet_id": "2055238057880875086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056751575289540608/GjxoGMpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 130,
+          "like_count": 353,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 369
+        },
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "description": "罗生门前的，长夜难明。\n应是那永恒的未许之地。\n欢迎互fo看到fo基本都会回微查成分致歉\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitR0OB"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "location": "玉川上水",
+        "name": "raincandy_U",
+        "pinned_tweet_id": "2059521197839384951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053853903444381696/z7Kqgead_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 276,
+          "like_count": 13499,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 938
+        },
+        "url": "https://t.co/tFlSitR0OB",
+        "username": "laigendianziyan",
+        "verified": false
+      }
+    ]
+  }
+}

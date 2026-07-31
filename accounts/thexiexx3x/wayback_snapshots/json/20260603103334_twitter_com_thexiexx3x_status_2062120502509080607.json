@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2062120502509080607",
+    "created_at": "2026-06-03T10:33:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T11:33:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062120502509080607"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2062120502509080607",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "傻叉吧我操你他妈真是贱畜老子招惹你碍着你了啊？我他妈账号都被限流了，您还要专门搜我名字甚至二月一号的帖子都要举报，翻这么久还真麻烦您了啊😂你他妈这么闲不如回家看看你全家还在不在？我把你妈皮扒了用你妈肋骨刷牙把你妈肠子挂出来张灯结彩发推特啊举报不举报？😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2062120502509080607",
+        "created_at": "2026-06-03T10:33:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T11:33:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062120502509080607"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062120502509080607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "傻叉吧我操你他妈真是贱畜老子招惹你碍着你了啊？我他妈账号都被限流了，您还要专门搜我名字甚至二月一号的帖子都要举报，翻这么久还真麻烦您了啊😂你他妈这么闲不如回家看看你全家还在不在？我把你妈皮扒了用你妈肋骨刷牙把你妈肠子挂出来张灯结彩发推特啊举报不举报？😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎些\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "罹心力",
+        "name": "禁止暴食熬夜",
+        "pinned_tweet_id": "2061694728853455116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056751575289540608/GjxoGMpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 166,
+          "like_count": 523,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 461
+        },
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

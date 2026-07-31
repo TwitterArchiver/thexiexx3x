@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2062199975300542708",
+    "created_at": "2026-06-04T10:40:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T11:40:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062484680948244689"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1968940871660744705",
+          "start": 0,
+          "username": "guest07080279"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062484680948244689",
+    "in_reply_to_user_id": "1968940871660744705",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062199975300542708",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guest07080279 妹子妹子申请互绘！🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2062199975300542708",
+        "created_at": "2026-06-04T10:40:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T11:40:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062484680948244689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1968940871660744705",
+              "start": 0,
+              "username": "guest07080279"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062484680948244689",
+        "in_reply_to_user_id": "1968940871660744705",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062199975300542708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guest07080279 妹子妹子申请互绘！🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1968940871660744705",
+        "conversation_id": "2062199975300542708",
+        "created_at": "2026-06-03T15:49:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T16:49:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062199975300542708"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062199975300542708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在考虑要不要再开无偿练手，或者再多练习一段时间…想接一点朋友的无偿什么的🥺🥺等明天我可能放一下以前的稿件…总之，先展示一下？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎些\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "罹心力",
+        "name": "禁止暴食熬夜",
+        "pinned_tweet_id": "2061694728853455116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056751575289540608/GjxoGMpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 174,
+          "like_count": 575,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 514
+        },
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-19T07:31:18.000Z",
+        "description": "画画人超级大进击！臭搞自设的，欢迎来和我玩🥺🥺！！\n🔥画🔥画🔥屌🔥丝🔥火🔥热🔥画🔥史🔥",
+        "id": "1968940871660744705",
+        "name": "砂",
+        "pinned_tweet_id": "2062376988007141487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050055162207846400/9aL-7zhd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 16,
+          "like_count": 7972,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 213
+        },
+        "username": "guest07080279",
+        "verified": false
+      }
+    ]
+  }
+}

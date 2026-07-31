@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055738959146467328"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2055739131649720361",
+    "created_at": "2026-05-16T19:56:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T20:56:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055739131649720361"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OrJaGTkfPH",
+          "end": 35,
+          "expanded_url": "https://x.com/thexiexx3x/status/2055739131649720361/photo/1",
+          "media_key": "3_2055738959146467328",
+          "start": 12,
+          "url": "https://t.co/OrJaGTkfPH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055739131649720361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "靠死play#死亡遊戲 https://t.co/OrJaGTkfPH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2309,
+        "media_key": "3_2055738959146467328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIdzsQrbQAAKXDI.jpg",
+        "width": 2503
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055738959146467328"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2055739131649720361",
+        "created_at": "2026-05-16T19:56:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T20:56:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055739131649720361"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OrJaGTkfPH",
+              "end": 35,
+              "expanded_url": "https://x.com/thexiexx3x/status/2055739131649720361/photo/1",
+              "media_key": "3_2055738959146467328",
+              "start": 12,
+              "url": "https://t.co/OrJaGTkfPH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055739131649720361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "靠死play#死亡遊戲 https://t.co/OrJaGTkfPH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "@thexiexx\n蝎些副本小号，前两世一个被贴了临时标签限流另一个在封号中。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "name": "蝎些3Xplus",
+        "pinned_tweet_id": "2055238057880875086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054585406960914432/2-JpaGc7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 38,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 50
+        },
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

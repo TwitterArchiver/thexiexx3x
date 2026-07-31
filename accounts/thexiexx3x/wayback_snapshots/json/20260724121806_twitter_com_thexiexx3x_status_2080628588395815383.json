@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2080423424103514112"
+      ],
+      "media_source_tweet_id": [
+        "2080423953097466335"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2080628588395815383",
+    "created_at": "2026-07-24T12:18:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T13:18:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080628588395815383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1944830677893177345",
+          "start": 3,
+          "username": "schitzoe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DKX83PXqZD",
+          "end": 102,
+          "expanded_url": "https://x.com/schitzoe/status/2080423953097466335/video/1",
+          "media_key": "13_2080423424103514112",
+          "start": 79,
+          "url": "https://t.co/DKX83PXqZD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080628588395815383",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080423953097466335",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @schitzoe: STOP BEING EMO: GET SILLY !\n&gt; lowpoly 3DArt made with Blender https://t.co/DKX83PXqZD"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11266,
+        "height": 1180,
+        "media_key": "13_2080423424103514112",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080423424103514112/img/cUCFhRUCP1T2234g.jpg",
+        "public_metrics": {
+          "view_count": 467
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080423424103514112/vid/avc1/320x320/asUxKdv7Pb4RBEVK.mp4"
+          },
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080423424103514112/vid/avc1/1180x1180/LqC9U76wg3PzXiBH.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080423424103514112/vid/avc1/540x540/ESGWgTDpm6G8Hu2a.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080423424103514112/vid/avc1/720x720/Ys585FiIf3N_80O6.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080423424103514112/pl/UOY4_Cfd9-tn1FJz.m3u8"
+          }
+        ],
+        "width": 1180
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080423424103514112"
+          ]
+        },
+        "author_id": "1944830677893177345",
+        "conversation_id": "2080423953097466335",
+        "created_at": "2026-07-23T22:44:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T23:44:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080423953097466335"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DKX83PXqZD",
+              "end": 88,
+              "expanded_url": "https://x.com/schitzoe/status/2080423953097466335/video/1",
+              "media_key": "13_2080423424103514112",
+              "start": 65,
+              "url": "https://t.co/DKX83PXqZD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080423953097466335",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 1631,
+          "like_count": 137,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "STOP BEING EMO: GET SILLY !\n&gt; lowpoly 3DArt made with Blender https://t.co/DKX83PXqZD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080423424103514112"
+          ],
+          "media_source_tweet_id": [
+            "2080423953097466335"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2080628588395815383",
+        "created_at": "2026-07-24T12:18:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T13:18:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080628588395815383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1944830677893177345",
+              "start": 3,
+              "username": "schitzoe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DKX83PXqZD",
+              "end": 102,
+              "expanded_url": "https://x.com/schitzoe/status/2080423953097466335/video/1",
+              "media_key": "13_2080423424103514112",
+              "start": 79,
+              "url": "https://t.co/DKX83PXqZD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080628588395815383",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080423953097466335",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @schitzoe: STOP BEING EMO: GET SILLY !\n&gt; lowpoly 3DArt made with Blender https://t.co/DKX83PXqZD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "每天",
+        "name": "嚼嚼",
+        "pinned_tweet_id": "2077840199158296579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 216,
+          "like_count": 1509,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 1639
+        },
+        "url": "",
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-14T18:45:52.000Z",
+        "description": "lowpoly swag\nex aaa dev",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kick.com/lobotomy",
+                "end": 23,
+                "expanded_url": "https://kick.com/lobotomy",
+                "start": 0,
+                "url": "https://t.co/v2TcdTH7gZ"
+              }
+            ]
+          }
+        },
+        "id": "1944830677893177345",
+        "location": "LOBOTOMY",
+        "name": "SCHITZOE ☆ 3D",
+        "pinned_tweet_id": "2045378624212103307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080023486043414528/KCEmaM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6719,
+          "following_count": 2266,
+          "like_count": 26673,
+          "listed_count": 39,
+          "media_count": 944,
+          "tweet_count": 4265
+        },
+        "url": "https://t.co/v2TcdTH7gZ",
+        "username": "schitzoe",
+        "verified": true
+      }
+    ]
+  }
+}

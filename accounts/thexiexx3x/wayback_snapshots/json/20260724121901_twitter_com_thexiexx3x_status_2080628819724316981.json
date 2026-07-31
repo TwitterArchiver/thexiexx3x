@@ -1,0 +1,576 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "General Fashion",
+          "id": "844604232737087488",
+          "name": "General Fashion"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Outerwear",
+          "id": "846722850627080192",
+          "name": "Outerwear"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Outerwear",
+          "id": "846722850627080192",
+          "name": "Outerwear"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Outerwear",
+          "id": "846722850627080192",
+          "name": "Outerwear"
+        }
+      }
+    ],
+    "conversation_id": "2080628819724316981",
+    "created_at": "2026-07-24T12:19:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T13:19:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080628819724316981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "149891783",
+          "start": 3,
+          "username": "Kobaryo_2b1c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080628819724316981",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 126
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080523457285197991",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kobaryo_2b1c: 【告知】\n\n┈⊹ ɴᴇᴡ ꜱᴏɴɢ ⊹┈┈┈┈┈┈┈┈\n🌠Kobaryo - Hope Rewrites\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n\n本日リリースされました✨\n\nジャケットイラスト、デザイン、\n動画も担当しております🔥\n\nよろしくね✲ﾟ…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1400,
+        "media_key": "3_2080522850012975104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN-Agk4bUAA2UVb.jpg",
+        "width": 1400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "General Fashion",
+              "id": "844604232737087488",
+              "name": "General Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          }
+        ],
+        "conversation_id": "2080628819724316981",
+        "created_at": "2026-07-24T12:19:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T13:19:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080628819724316981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "149891783",
+              "start": 3,
+              "username": "Kobaryo_2b1c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080628819724316981",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 126
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080523457285197991",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kobaryo_2b1c: 【告知】\n\n┈⊹ ɴᴇᴡ ꜱᴏɴɢ ⊹┈┈┈┈┈┈┈┈\n🌠Kobaryo - Hope Rewrites\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n\n本日リリースされました✨\n\nジャケットイラスト、デザイン、\n動画も担当しております🔥\n\nよろしくね✲ﾟ…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080522850012975104"
+          ]
+        },
+        "author_id": "149891783",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "General Fashion",
+              "id": "844604232737087488",
+              "name": "General Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          }
+        ],
+        "conversation_id": "2080523457285197991",
+        "created_at": "2026-07-24T05:20:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T06:20:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080523457285197991"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 151,
+              "start": 145,
+              "tag": "tanoc"
+            },
+            {
+              "end": 163,
+              "start": 152,
+              "tag": "Syndrome20"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lHSV3rLEON",
+              "end": 187,
+              "expanded_url": "https://x.com/Kobaryo_2b1c/status/2080523457285197991/photo/1",
+              "media_key": "3_2080522850012975104",
+              "start": 164,
+              "url": "https://t.co/lHSV3rLEON"
+            },
+            {
+              "display_url": "x.com/tanoc_official…",
+              "end": 211,
+              "expanded_url": "https://twitter.com/tanoc_official/status/2080488142956560857",
+              "start": 188,
+              "url": "https://t.co/wYS3b4hk2q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080523457285197991",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 20861,
+          "like_count": 474,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 126
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080488142956560857",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "【告知】\n\n┈⊹ ɴᴇᴡ ꜱᴏɴɢ ⊹┈┈┈┈┈┈┈┈\n🌠Kobaryo - Hope Rewrites\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n\n本日リリースされました✨\n\nジャケットイラスト、デザイン、\n動画も担当しております🔥\n\nよろしくね✲ﾟ｡.(✿╹◡╹)ﾉ☆.｡₀:*ﾟ✲ﾟ*:₀｡\n\n#tanoc #Syndrome20 https://t.co/lHSV3rLEON https://t.co/wYS3b4hk2q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "每天",
+        "name": "嚼嚼",
+        "pinned_tweet_id": "2077840199158296579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 216,
+          "like_count": 1510,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 1640
+        },
+        "url": "",
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2010-05-30T14:17:24.000Z",
+        "description": "❏ 作曲 / イラスト / デザイン\n❏ 楽曲提供: D4DJ、SEGA、WACCA、アリス・ギア・アイギス、東方ダンマクカグラ、神椿市協奏中。ゆんゆん電波シンドローム等\n\n❖ https://t.co/Fj3rbQDFim\n❖ https://t.co/uxuPmECOCE\n❖ @hitnex\n❖ #HiTNEX",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 158,
+                "start": 151,
+                "tag": "HiTNEX"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 148,
+                "start": 141,
+                "username": "hitnex"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/c/Kobaryo",
+                "end": 112,
+                "expanded_url": "http://youtube.com/c/Kobaryo",
+                "start": 89,
+                "url": "https://t.co/Fj3rbQDFim"
+              },
+              {
+                "display_url": "pixiv.me/mdkb",
+                "end": 138,
+                "expanded_url": "http://pixiv.me/mdkb",
+                "start": 115,
+                "url": "https://t.co/uxuPmECOCE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/Kobaryo",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/Kobaryo",
+                "start": 0,
+                "url": "https://t.co/bcOfK2ajJo"
+              }
+            ]
+          }
+        },
+        "id": "149891783",
+        "location": "ご依頼等→ cutemachine268@gmail.com",
+        "name": "Kobaryo",
+        "pinned_tweet_id": "2045789505521684951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1510608573667373056/roCBB1VY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76919,
+          "following_count": 1531,
+          "like_count": 175244,
+          "listed_count": 381,
+          "media_count": 4411,
+          "tweet_count": 27164
+        },
+        "url": "https://t.co/bcOfK2ajJo",
+        "username": "Kobaryo_2b1c",
+        "verified": true
+      }
+    ]
+  }
+}

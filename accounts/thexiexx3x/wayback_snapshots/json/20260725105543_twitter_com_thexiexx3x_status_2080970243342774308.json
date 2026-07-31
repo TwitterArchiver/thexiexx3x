@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "TV Tokyo (テレビ東京)",
+          "id": "1034877896068816896",
+          "name": "TV Tokyo (テレビ東京)"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "TV Tokyo (テレビ東京)",
+          "id": "1034877896068816896",
+          "name": "TV Tokyo (テレビ東京)"
+        }
+      }
+    ],
+    "conversation_id": "2080970243342774308",
+    "created_at": "2026-07-25T10:55:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T11:55:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080970243342774308"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 4,
+          "start": 0,
+          "tag": "ano"
+        },
+        {
+          "end": 10,
+          "start": 6,
+          "tag": "愛晩餐"
+        },
+        {
+          "end": 23,
+          "start": 19,
+          "tag": "惡の華"
+        },
+        {
+          "end": 36,
+          "start": 29,
+          "tag": "shorts"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 72,
+          "id": "10228272",
+          "start": 64,
+          "username": "YouTube"
+        }
+      ],
+      "urls": [
+        {
+          "description": "[#ano ]ano Hall Tour 2026 DUAL DINER大阪公演の「#愛晩餐 」ライブ映像を公開🥀(テレ東系ドラ...",
+          "display_url": "youtu.be/u3ojfZZXsSY?si…",
+          "end": 60,
+          "expanded_url": "https://youtu.be/u3ojfZZXsSY?si=KF08N8PHpZgAWwEY",
+          "start": 37,
+          "status": 200,
+          "title": "#ano #愛晩餐 テレ東系ドラマ『#惡の華 』主題歌 #shorts",
+          "unwound_url": "https://www.youtube.com/watch?si=KF08N8PHpZgAWwEY&v=u3ojfZZXsSY&feature=youtu.be",
+          "url": "https://t.co/c6m0cWNXTM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080970243342774308",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#ano  #愛晩餐 テレ東系ドラマ『#惡の華 』主題歌 #shorts https://t.co/c6m0cWNXTM 来自 @YouTube我能看1w遍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "TV Tokyo (テレビ東京)",
+              "id": "1034877896068816896",
+              "name": "TV Tokyo (テレビ東京)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "TV Tokyo (テレビ東京)",
+              "id": "1034877896068816896",
+              "name": "TV Tokyo (テレビ東京)"
+            }
+          }
+        ],
+        "conversation_id": "2080970243342774308",
+        "created_at": "2026-07-25T10:55:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T11:55:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080970243342774308"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "ano"
+            },
+            {
+              "end": 10,
+              "start": 6,
+              "tag": "愛晩餐"
+            },
+            {
+              "end": 23,
+              "start": 19,
+              "tag": "惡の華"
+            },
+            {
+              "end": 36,
+              "start": 29,
+              "tag": "shorts"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 72,
+              "id": "10228272",
+              "start": 64,
+              "username": "YouTube"
+            }
+          ],
+          "urls": [
+            {
+              "description": "[#ano ]ano Hall Tour 2026 DUAL DINER大阪公演の「#愛晩餐 」ライブ映像を公開🥀(テレ東系ドラ...",
+              "display_url": "youtu.be/u3ojfZZXsSY?si…",
+              "end": 60,
+              "expanded_url": "https://youtu.be/u3ojfZZXsSY?si=KF08N8PHpZgAWwEY",
+              "start": 37,
+              "status": 200,
+              "title": "#ano #愛晩餐 テレ東系ドラマ『#惡の華 』主題歌 #shorts",
+              "unwound_url": "https://www.youtube.com/watch?si=KF08N8PHpZgAWwEY&v=u3ojfZZXsSY&feature=youtu.be",
+              "url": "https://t.co/c6m0cWNXTM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080970243342774308",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#ano  #愛晩餐 テレ東系ドラマ『#惡の華 』主題歌 #shorts https://t.co/c6m0cWNXTM 来自 @YouTube我能看1w遍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/thexiexx",
+                "end": 23,
+                "expanded_url": "https://t.me/thexiexx",
+                "start": 0,
+                "url": "https://t.co/w6gPwSRVgN"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "每天",
+        "name": "嚼嚼",
+        "pinned_tweet_id": "2077840199158296579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 223,
+          "like_count": 1574,
+          "listed_count": 0,
+          "media_count": 176,
+          "tweet_count": 1679
+        },
+        "url": "https://t.co/w6gPwSRVgN",
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2007-11-13T21:43:46.000Z",
+        "description": "like & subscribe",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "",
+                "end": 23,
+                "expanded_url": "",
+                "start": 0,
+                "url": "https://t.co/GIOK0JwagA"
+              }
+            ]
+          }
+        },
+        "id": "10228272",
+        "location": "San Bruno, CA",
+        "name": "YouTube",
+        "pinned_tweet_id": "2064694071537352925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984471345854566400/5pd8GpgC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68723954,
+          "following_count": 1144,
+          "like_count": 6025,
+          "listed_count": 74058,
+          "media_count": 16173,
+          "tweet_count": 61296
+        },
+        "url": "https://t.co/GIOK0JwagA",
+        "username": "YouTube",
+        "verified": true
+      }
+    ]
+  }
+}

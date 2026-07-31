@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081752716334829569"
+      ],
+      "media_source_tweet_id": [
+        "2081752744038207877"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2082056434821517537",
+    "created_at": "2026-07-28T10:51:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T11:51:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082056434821517537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1479118183797645317",
+          "start": 3,
+          "username": "goo_vision"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/c3LOSrp82A",
+          "end": 39,
+          "expanded_url": "https://x.com/goo_vision/status/2081752744038207877/photo/1",
+          "media_key": "3_2081752716334829569",
+          "start": 16,
+          "url": "https://t.co/c3LOSrp82A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082056434821517537",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081752744038207877",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @goo_vision: https://t.co/c3LOSrp82A"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2081752716334829569",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOPfEN9XkAEH2oe.jpg",
+        "width": 1984
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081752716334829569"
+          ]
+        },
+        "author_id": "1479118183797645317",
+        "conversation_id": "2081752744038207877",
+        "created_at": "2026-07-27T14:45:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T15:45:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081752744038207877"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c3LOSrp82A",
+              "end": 23,
+              "expanded_url": "https://x.com/goo_vision/status/2081752744038207877/photo/1",
+              "media_key": "3_2081752716334829569",
+              "start": 0,
+              "url": "https://t.co/c3LOSrp82A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081752744038207877",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 4146,
+          "like_count": 252,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/c3LOSrp82A"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081752716334829569"
+          ],
+          "media_source_tweet_id": [
+            "2081752744038207877"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2082056434821517537",
+        "created_at": "2026-07-28T10:51:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T11:51:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082056434821517537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1479118183797645317",
+              "start": 3,
+              "username": "goo_vision"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/c3LOSrp82A",
+              "end": 39,
+              "expanded_url": "https://x.com/goo_vision/status/2081752744038207877/photo/1",
+              "media_key": "3_2081752716334829569",
+              "start": 16,
+              "url": "https://t.co/c3LOSrp82A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082056434821517537",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081752744038207877",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @goo_vision: https://t.co/c3LOSrp82A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/thexiexx",
+                "end": 23,
+                "expanded_url": "https://t.me/thexiexx",
+                "start": 0,
+                "url": "https://t.co/w6gPwSRVgN"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "mybed",
+        "name": "嚼嚼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 235,
+          "like_count": 1675,
+          "listed_count": 0,
+          "media_count": 186,
+          "tweet_count": 1792
+        },
+        "url": "https://t.co/w6gPwSRVgN",
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-06T15:51:07.000Z",
+        "description": "Artist and Designer  🇩🇪  |  Visions from the latent space\nManifold  |  https://t.co/Th2o1ZeBby\nOBJKT  |  https://t.co/pD7UdMIIdS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "manifold.xyz/@goovision",
+                "end": 94,
+                "expanded_url": "https://manifold.xyz/@goovision",
+                "start": 71,
+                "url": "https://t.co/Th2o1ZeBby"
+              },
+              {
+                "display_url": "objkt.com/@goovision",
+                "end": 128,
+                "expanded_url": "https://objkt.com/@goovision",
+                "start": 105,
+                "url": "https://t.co/pD7UdMIIdS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/goovision",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/goovision",
+                "start": 0,
+                "url": "https://t.co/rXFA2ejpcU"
+              }
+            ]
+          }
+        },
+        "id": "1479118183797645317",
+        "name": "goo.vision",
+        "pinned_tweet_id": "2070223388031774905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023487210302173190/fVNP9plu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45385,
+          "following_count": 572,
+          "like_count": 30187,
+          "listed_count": 353,
+          "media_count": 2884,
+          "tweet_count": 11256
+        },
+        "url": "https://t.co/rXFA2ejpcU",
+        "username": "goo_vision",
+        "verified": true
+      }
+    ]
+  }
+}

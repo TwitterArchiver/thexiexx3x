@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2060418450573721753",
+    "created_at": "2026-05-29T17:50:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T18:50:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060418450573721753"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2060418450573721753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我以为我能免疫那个同桌天天炫耀自己六一万圣节能拿礼物收钱屁点小事都能让老爷子或父母爆金币哦还有暑假说自己能拿大几千你滚啊小姐姐你天天在哭穷什么呀？？天天蹭我食物我自己都舍不得啊。我他妈昨天去无印良品买了一堆临期美食花了我28大洋我支付宝就5块钱了啊我都不好意思找我马要。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2060418450573721753",
+        "created_at": "2026-05-29T17:50:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T18:50:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060418450573721753"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060418450573721753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我以为我能免疫那个同桌天天炫耀自己六一万圣节能拿礼物收钱屁点小事都能让老爷子或父母爆金币哦还有暑假说自己能拿大几千你滚啊小姐姐你天天在哭穷什么呀？？天天蹭我食物我自己都舍不得啊。我他妈昨天去无印良品买了一堆临期美食花了我28大洋我支付宝就5块钱了啊我都不好意思找我马要。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎些\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "罹心力",
+        "name": "禁止暴食熬夜",
+        "pinned_tweet_id": "2055238057880875086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056751575289540608/GjxoGMpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 125,
+          "like_count": 330,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 355
+        },
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2073818196684206149",
+    "created_at": "2026-07-05T17:51:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T18:51:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073827051111637182"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2073827051111637182",
+    "in_reply_to_user_id": "2054583279257583616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073824433584882055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "加上本身意志不坚定迟早有一天会发展成这种鬼样子变成其中一员趁早没有真正碰这个鬼东西赶紧回归正常生活好好治疗一切重回正轨如果真碰了就永远脱轨了。那我可能是羡慕你说出这些屁话。呃叠甲我在说梦话，说我爹味重那那很坏了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2073818196684206149",
+        "created_at": "2026-07-05T17:51:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T18:51:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073827051111637182"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073827051111637182",
+        "in_reply_to_user_id": "2054583279257583616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073824433584882055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "加上本身意志不坚定迟早有一天会发展成这种鬼样子变成其中一员趁早没有真正碰这个鬼东西赶紧回归正常生活好好治疗一切重回正轨如果真碰了就永远脱轨了。那我可能是羡慕你说出这些屁话。呃叠甲我在说梦话，说我爹味重那那很坏了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2073818196684206149",
+        "created_at": "2026-07-05T17:40:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T18:40:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073824433584882055"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073824433584882055",
+        "in_reply_to_user_id": "2054583279257583616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073818196684206149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实这不是重点。技术水平不是问题所在，我他妈烦的是这个人不知道在装啥一副无病呻吟想求认同的样子，我问你，真给你那些物质，你敢吞下去吗？以为自己知道点名字知道点皮毛就牛逼的很。你的双引号作品，简直就是叶公好龙。我完全没有教唆希渡的意思，就是觉得你年龄不大接触这些东西和人，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎蝎\n大哥@thexiexx\n两个号都被gostban了无法互动很抱歉orz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "再见，再见",
+        "name": "23点准时睡觉",
+        "pinned_tweet_id": "2073818859916890480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070912725920940032/E-FS3NrH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 177,
+          "like_count": 865,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 1050
+        },
+        "url": "",
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

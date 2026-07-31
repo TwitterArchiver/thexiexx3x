@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2078459410746356050",
+    "created_at": "2026-07-18T15:01:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T16:01:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078495481932702169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2021882125960777728",
+          "start": 0,
+          "username": "StopAnyting"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078495481932702169",
+    "in_reply_to_user_id": "2021882125960777728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078459410746356050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@StopAnyting 马斯克扫码了😡我大号也是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2078459410746356050",
+        "created_at": "2026-07-18T15:01:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T16:01:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078495481932702169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2021882125960777728",
+              "start": 0,
+              "username": "StopAnyting"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078495481932702169",
+        "in_reply_to_user_id": "2021882125960777728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078459410746356050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StopAnyting 马斯克扫码了😡我大号也是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021882125960777728",
+        "conversation_id": "2078459410746356050",
+        "created_at": "2026-07-18T12:38:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T13:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078459410746356050"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078459410746356050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我怎么还在被ghost ban"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎蝎\n大哥@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x",
+                "start": 0,
+                "url": "https://t.co/d5BdKxZ1m4"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "每天",
+        "name": "23点准时睡觉",
+        "pinned_tweet_id": "2077840199158296579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 191,
+          "like_count": 1215,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 1466
+        },
+        "url": "https://t.co/d5BdKxZ1m4",
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-12T09:40:48.000Z",
+        "description": "三叉神经",
+        "id": "2021882125960777728",
+        "name": "蠖",
+        "pinned_tweet_id": "2036841865446932725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047672632586440704/Nr52OSN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 249,
+          "like_count": 4741,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 2473
+        },
+        "url": "",
+        "username": "StopAnyting",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2079572219882311680"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2079571234371903571",
+    "created_at": "2026-07-21T14:26:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T15:26:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079573856126472218"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pIgummvzq4",
+          "end": 34,
+          "expanded_url": "https://x.com/thexiexx3x/status/2079573856126472218/video/1",
+          "media_key": "13_2079572219882311680",
+          "start": 11,
+          "url": "https://t.co/pIgummvzq4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079573856126472218",
+    "in_reply_to_user_id": "2054583279257583616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079571234371903571",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "来来来听一下我操你的 https://t.co/pIgummvzq4"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29371,
+        "height": 1920,
+        "media_key": "13_2079572219882311680",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079572219882311680/img/VLQeWadAIKHGpQzX.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079572219882311680/pl/uwjfWGlBvh6ppnlm.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079572219882311680/vid/avc1/1080x1920/hh5oWyj2zy-6dYka.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079572219882311680/vid/avc1/720x1280/9jX1dHGXmTW1onrF.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079572219882311680/vid/avc1/480x852/TBUUXlzxUmCvMllX.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079572219882311680/vid/avc1/320x568/SRJXn0aiJBNzCEVr.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079572219882311680"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2079571234371903571",
+        "created_at": "2026-07-21T14:26:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T15:26:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079573856126472218"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pIgummvzq4",
+              "end": 34,
+              "expanded_url": "https://x.com/thexiexx3x/status/2079573856126472218/video/1",
+              "media_key": "13_2079572219882311680",
+              "start": 11,
+              "url": "https://t.co/pIgummvzq4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079573856126472218",
+        "in_reply_to_user_id": "2054583279257583616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079571234371903571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "来来来听一下我操你的 https://t.co/pIgummvzq4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2079571234371903571",
+        "created_at": "2026-07-21T14:16:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T15:16:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079571234371903571"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079571234371903571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "烦不烦烦不烦还在听你的圣经"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "每天",
+        "name": "嚼嚼",
+        "pinned_tweet_id": "2077840199158296579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 203,
+          "like_count": 1354,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 1547
+        },
+        "url": "",
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

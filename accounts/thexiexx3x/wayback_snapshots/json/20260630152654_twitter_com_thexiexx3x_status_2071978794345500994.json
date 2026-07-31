@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071978729232908288"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2071978794345500994",
+    "created_at": "2026-06-30T15:26:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T16:26:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071978794345500994"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CE34cOfsFc",
+          "end": 61,
+          "expanded_url": "https://x.com/thexiexx3x/status/2071978794345500994/photo/1",
+          "media_key": "3_2071978729232908288",
+          "start": 38,
+          "url": "https://t.co/CE34cOfsFc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071978794345500994",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我从10点到家就一直在不停的看手机电脑屏幕平板 手机好无聊所以我明天要出去 https://t.co/CE34cOfsFc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071978729232908288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMElrSoXwAAP0Xc.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071978729232908288"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2071978794345500994",
+        "created_at": "2026-06-30T15:26:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T16:26:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071978794345500994"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CE34cOfsFc",
+              "end": 61,
+              "expanded_url": "https://x.com/thexiexx3x/status/2071978794345500994/photo/1",
+              "media_key": "3_2071978729232908288",
+              "start": 38,
+              "url": "https://t.co/CE34cOfsFc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071978794345500994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我从10点到家就一直在不停的看手机电脑屏幕平板 手机好无聊所以我明天要出去 https://t.co/CE34cOfsFc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎蝎\n大哥@thexiexx\n两个号都被gostban了无法互动很抱歉orz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "再见，再见",
+        "name": "23点准时睡觉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070912725920940032/E-FS3NrH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 176,
+          "like_count": 834,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 915
+        },
+        "url": "",
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

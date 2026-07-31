@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2074953856673574912"
+      ],
+      "media_source_tweet_id": [
+        "2074953911782511024"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2075154383336353872",
+    "created_at": "2026-07-09T09:45:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T10:45:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075154383336353872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3334042759",
+          "start": 3,
+          "username": "revol4357"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/y14TjqxsqD",
+          "end": 44,
+          "expanded_url": "https://x.com/revol4357/status/2074953911782511024/photo/1",
+          "media_key": "16_2074953856673574912",
+          "start": 21,
+          "url": "https://t.co/y14TjqxsqD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075154383336353872",
+    "lang": "tl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 379
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074953911782511024",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @revol4357: ANGEL https://t.co/y14TjqxsqD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "16_2074953856673574912",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HMu3igBa8AAmfGe.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HMu3igBa8AAmfGe.mp4"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2074953856673574912"
+          ],
+          "media_source_tweet_id": [
+            "2074953911782511024"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2075154383336353872",
+        "created_at": "2026-07-09T09:45:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T10:45:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075154383336353872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3334042759",
+              "start": 3,
+              "username": "revol4357"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/y14TjqxsqD",
+              "end": 44,
+              "expanded_url": "https://x.com/revol4357/status/2074953911782511024/photo/1",
+              "media_key": "16_2074953856673574912",
+              "start": 21,
+              "url": "https://t.co/y14TjqxsqD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075154383336353872",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 379
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074953911782511024",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @revol4357: ANGEL https://t.co/y14TjqxsqD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2074953856673574912"
+          ]
+        },
+        "author_id": "3334042759",
+        "conversation_id": "2074953911782511024",
+        "created_at": "2026-07-08T20:28:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T21:28:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074953911782511024"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y14TjqxsqD",
+              "end": 29,
+              "expanded_url": "https://x.com/revol4357/status/2074953911782511024/photo/1",
+              "media_key": "16_2074953856673574912",
+              "start": 6,
+              "url": "https://t.co/y14TjqxsqD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074953911782511024",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 214,
+          "impression_count": 26890,
+          "like_count": 3318,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 379
+        },
+        "reply_settings": "everyone",
+        "text": "ANGEL https://t.co/y14TjqxsqD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎蝎\n大哥@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "再见，再见",
+        "name": "23点准时睡觉♴",
+        "pinned_tweet_id": "2073818859916890480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070912725920940032/E-FS3NrH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 184,
+          "like_count": 911,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 1144
+        },
+        "url": "",
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2015-08-25T05:22:06.000Z",
+        "description": "=revol/Original artworks/中文,Eng,少し日本語&lernen Deutsch/創作sketches→@rev404_ /ins:revol404",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 64,
+                "username": "rev404_"
+              }
+            ]
+          }
+        },
+        "id": "3334042759",
+        "location": "🚫无授权转载🚫AI",
+        "name": ".",
+        "pinned_tweet_id": "2074946927796609175",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564710107107053569/vsidR1i__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152476,
+          "following_count": 580,
+          "like_count": 5541,
+          "listed_count": 803,
+          "media_count": 1101,
+          "tweet_count": 2005
+        },
+        "url": "",
+        "username": "revol4357",
+        "verified": false
+      }
+    ]
+  }
+}

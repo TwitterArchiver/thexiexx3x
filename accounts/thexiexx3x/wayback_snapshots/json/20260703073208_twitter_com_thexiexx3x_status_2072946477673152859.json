@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2072946477673152859",
+    "created_at": "2026-07-03T07:32:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T08:32:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072946477673152859"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/0u0HaNako666/s…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/0u0HaNako666/status/2072659662319861880",
+          "start": 7,
+          "url": "https://t.co/EYQZSqIwNW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072946477673152859",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072659662319861880",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我支持我炮友 https://t.co/EYQZSqIwNW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2072946477673152859",
+        "created_at": "2026-07-03T07:32:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T08:32:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072946477673152859"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0u0HaNako666/s…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/0u0HaNako666/status/2072659662319861880",
+              "start": 7,
+              "url": "https://t.co/EYQZSqIwNW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072946477673152859",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072659662319861880",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我支持我炮友 https://t.co/EYQZSqIwNW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "899502186",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2072659662319861880",
+        "created_at": "2026-07-02T12:32:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T13:32:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072659662319861880"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072659662319861880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 318,
+          "impression_count": 169161,
+          "like_count": 5345,
+          "quote_count": 89,
+          "reply_count": 95,
+          "retweet_count": 732
+        },
+        "reply_settings": "everyone",
+        "text": "精神の病なんて治らないし治らないでいいからな、月一で精神薬もらってなるべくラリってたい、正気ではこの社会は生きていけないの\nなんか文句あんの？ねーよな？どうせさっさと死ぬんだし、楽しくなくちゃ意味ないぢゃん🐼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎蝎\n大哥@thexiexx\n两个号都被gostban了无法互动很抱歉orz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "再见，再见",
+        "name": "23点准时睡觉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070912725920940032/E-FS3NrH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 176,
+          "like_count": 850,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 975
+        },
+        "url": "",
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2012-10-23T08:30:24.000Z",
+        "description": "神聖かまってちゃん\n「進撃の巨人」 OP / ED他アニメ・映画主題歌、大体担当\n自主制作Pv：https://t.co/TSG9iEnYCk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/user/vivaru",
+                "end": 71,
+                "expanded_url": "https://youtube.com/user/vivaru",
+                "start": 48,
+                "url": "https://t.co/TSG9iEnYCk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/nekonokonekono…",
+                "end": 23,
+                "expanded_url": "http://lit.link/nekonokonekonoko",
+                "start": 0,
+                "url": "https://t.co/dKaVW0fg08"
+              }
+            ]
+          }
+        },
+        "id": "899502186",
+        "name": "の子",
+        "pinned_tweet_id": "1885316431317000694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058561149671727104/2IM1lRK__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179852,
+          "following_count": 227,
+          "like_count": 365406,
+          "listed_count": 1358,
+          "media_count": 2731,
+          "tweet_count": 54953
+        },
+        "url": "https://t.co/dKaVW0fg08",
+        "username": "0u0HaNako666",
+        "verified": false
+      }
+    ]
+  }
+}

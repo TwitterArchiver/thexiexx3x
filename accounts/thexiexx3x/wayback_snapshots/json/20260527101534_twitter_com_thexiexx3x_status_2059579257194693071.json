@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2059579257194693071",
+    "created_at": "2026-05-27T10:15:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T11:15:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059579257194693071"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059579257194693071",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "操你妈的老子考的好崩溃啊语文政治我一直在犯困语文第一个阅读最简单的那种我他妈写了二十多分钟就几题我好困而且根本集中不了注意力我都想去wc割一下手作文我有28分钟写好在赶完了那个文言文默写我唯一会背的那篇因为太久远了也忘记了 然后考那个政治 我又莫名其妙犯困 选择题16个我他妈写快一个小时"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2059579257194693071",
+        "created_at": "2026-05-27T10:15:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T11:15:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059579257194693071"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059579257194693071",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "操你妈的老子考的好崩溃啊语文政治我一直在犯困语文第一个阅读最简单的那种我他妈写了二十多分钟就几题我好困而且根本集中不了注意力我都想去wc割一下手作文我有28分钟写好在赶完了那个文言文默写我唯一会背的那篇因为太久远了也忘记了 然后考那个政治 我又莫名其妙犯困 选择题16个我他妈写快一个小时"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎些\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "罹心力",
+        "name": "禁止暴食熬夜",
+        "pinned_tweet_id": "2055238057880875086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056751575289540608/GjxoGMpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 95,
+          "like_count": 233,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 277
+        },
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

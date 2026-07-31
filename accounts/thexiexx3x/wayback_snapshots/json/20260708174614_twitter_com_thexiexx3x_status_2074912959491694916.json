@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2074912959491694916",
+    "created_at": "2026-07-08T17:46:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T18:46:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074912959491694916"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Liminal_Places…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/Liminal_Places/status/2074840423168938351",
+          "start": 9,
+          "url": "https://t.co/1sRS5MPZHl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074912959491694916",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074840423168938351",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好想去这样的地方 https://t.co/1sRS5MPZHl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_2072364164434231296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMKEOkpaAAAfR66.jpg",
+        "width": 602
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2074912959491694916",
+        "created_at": "2026-07-08T17:46:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T18:46:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074912959491694916"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Liminal_Places…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/Liminal_Places/status/2074840423168938351",
+              "start": 9,
+              "url": "https://t.co/1sRS5MPZHl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074912959491694916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074840423168938351",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好想去这样的地方 https://t.co/1sRS5MPZHl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072364164434231296"
+          ]
+        },
+        "author_id": "3729973457",
+        "conversation_id": "2074840423168938351",
+        "created_at": "2026-07-08T12:58:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T13:58:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074840423168938351"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bBBclU9MED",
+              "end": 23,
+              "expanded_url": "https://x.com/Liminal_Places/status/2074840423168938351/photo/1",
+              "media_key": "3_2072364164434231296",
+              "start": 0,
+              "url": "https://t.co/bBBclU9MED"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074840423168938351",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 5980,
+          "like_count": 375,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/bBBclU9MED"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎蝎\n大哥@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "再见，再见",
+        "name": "23点准时睡觉♴",
+        "pinned_tweet_id": "2073818859916890480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070912725920940032/E-FS3NrH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 183,
+          "like_count": 905,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 1140
+        },
+        "url": "",
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2015-09-21T16:36:16.000Z",
+        "description": "the end of the road",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/twitter",
+                "end": 23,
+                "expanded_url": "http://discord.gg/twitter",
+                "start": 0,
+                "url": "https://t.co/gJSf5pkiOT"
+              }
+            ]
+          }
+        },
+        "id": "3729973457",
+        "location": "Backrooms",
+        "name": "Liminal Spaces",
+        "pinned_tweet_id": "2060154151875625383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1300988606325166082/Ut4gG7mU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110327,
+          "following_count": 4,
+          "like_count": 2401,
+          "listed_count": 344,
+          "media_count": 6796,
+          "tweet_count": 8209
+        },
+        "url": "https://t.co/gJSf5pkiOT",
+        "username": "Liminal_Places",
+        "verified": false
+      }
+    ]
+  }
+}

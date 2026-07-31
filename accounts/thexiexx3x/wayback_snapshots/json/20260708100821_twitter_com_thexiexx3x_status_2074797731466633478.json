@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074769474629390336"
+      ],
+      "media_source_tweet_id": [
+        "2074769496670445707"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2074797731466633478",
+    "created_at": "2026-07-08T10:08:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T11:08:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074797731466633478"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 20,
+          "tag": "神聖かまってちゃん"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2020935362386984964",
+          "start": 3,
+          "username": "Gen_ei_SKC0218"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/S7fXy1m0IN",
+          "end": 54,
+          "expanded_url": "https://x.com/Gen_ei_SKC0218/status/2074769496670445707/photo/1",
+          "media_key": "3_2074769474629390336",
+          "start": 31,
+          "url": "https://t.co/S7fXy1m0IN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074797731466633478",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074769496670445707",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Gen_ei_SKC0218: #神聖かまってちゃん https://t.co/S7fXy1m0IN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 519,
+        "media_key": "3_2074769474629390336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMsP2DYb0AASWfO.jpg",
+        "width": 882
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074769474629390336"
+          ],
+          "media_source_tweet_id": [
+            "2074769496670445707"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2074797731466633478",
+        "created_at": "2026-07-08T10:08:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T11:08:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074797731466633478"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 20,
+              "tag": "神聖かまってちゃん"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2020935362386984964",
+              "start": 3,
+              "username": "Gen_ei_SKC0218"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/S7fXy1m0IN",
+              "end": 54,
+              "expanded_url": "https://x.com/Gen_ei_SKC0218/status/2074769496670445707/photo/1",
+              "media_key": "3_2074769474629390336",
+              "start": 31,
+              "url": "https://t.co/S7fXy1m0IN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074797731466633478",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074769496670445707",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Gen_ei_SKC0218: #神聖かまってちゃん https://t.co/S7fXy1m0IN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074769474629390336"
+          ]
+        },
+        "author_id": "2020935362386984964",
+        "conversation_id": "2074769496670445707",
+        "created_at": "2026-07-08T08:16:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T09:16:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074769496670445707"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "神聖かまってちゃん"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/S7fXy1m0IN",
+              "end": 34,
+              "expanded_url": "https://x.com/Gen_ei_SKC0218/status/2074769496670445707/photo/1",
+              "media_key": "3_2074769474629390336",
+              "start": 11,
+              "url": "https://t.co/S7fXy1m0IN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074769496670445707",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 138,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "#神聖かまってちゃん https://t.co/S7fXy1m0IN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎蝎\n大哥@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "再见，再见",
+        "name": "23点准时睡觉♴",
+        "pinned_tweet_id": "2073818859916890480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070912725920940032/E-FS3NrH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 181,
+          "like_count": 890,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 1119
+        },
+        "url": "",
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-09T18:58:46.000Z",
+        "description": "一個小油條🇨🇳 \n爱人：@meyuyume121\nrip：@yume_121_3\n神聖かまってちゃん🎸（Japan）、低苦艾、李志（China），羅大佑、陳昇（Taiwan），黃耀明、達明一派、Beyond（HongKong）が好きです。\n日本語が基礎がなく、翻訳ツールしか使えません、すみません",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "meyuyume121"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "yume_121_3"
+              }
+            ]
+          }
+        },
+        "id": "2020935362386984964",
+        "location": "玄英",
+        "name": "Gen eiかまってちゃん🎸",
+        "pinned_tweet_id": "2045440180946079798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065306892021432320/rjm-g9Hw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 193,
+          "like_count": 6625,
+          "listed_count": 1,
+          "media_count": 215,
+          "tweet_count": 1647
+        },
+        "url": "",
+        "username": "Gen_ei_SKC0218",
+        "verified": false
+      }
+    ]
+  }
+}

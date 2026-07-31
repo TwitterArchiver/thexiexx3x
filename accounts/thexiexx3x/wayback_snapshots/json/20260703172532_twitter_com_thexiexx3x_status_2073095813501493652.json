@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073095411213201408",
+        "3_2073095411213242368",
+        "3_2073095457094631424",
+        "3_2073095506000314368"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2073095813501493652",
+    "created_at": "2026-07-03T17:25:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T18:25:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073095813501493652"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/edwQyRgTDK",
+          "end": 39,
+          "expanded_url": "https://x.com/thexiexx3x/status/2073095813501493652/photo/1",
+          "media_key": "3_2073095411213201408",
+          "start": 16,
+          "url": "https://t.co/edwQyRgTDK"
+        },
+        {
+          "display_url": "pic.x.com/edwQyRgTDK",
+          "end": 39,
+          "expanded_url": "https://x.com/thexiexx3x/status/2073095813501493652/photo/1",
+          "media_key": "3_2073095411213242368",
+          "start": 16,
+          "url": "https://t.co/edwQyRgTDK"
+        },
+        {
+          "display_url": "pic.x.com/edwQyRgTDK",
+          "end": 39,
+          "expanded_url": "https://x.com/thexiexx3x/status/2073095813501493652/photo/1",
+          "media_key": "3_2073095457094631424",
+          "start": 16,
+          "url": "https://t.co/edwQyRgTDK"
+        },
+        {
+          "display_url": "pic.x.com/edwQyRgTDK",
+          "end": 39,
+          "expanded_url": "https://x.com/thexiexx3x/status/2073095813501493652/photo/1",
+          "media_key": "3_2073095506000314368",
+          "start": 16,
+          "url": "https://t.co/edwQyRgTDK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073095813501493652",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "挑选你的毒虫多排头像我还没画完 https://t.co/edwQyRgTDK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1640,
+        "media_key": "3_2073095411213201408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMUdSvLa8AAnxvy.jpg",
+        "width": 2360
+      },
+      {
+        "height": 1640,
+        "media_key": "3_2073095411213242368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMUdSvLbkAA0hoy.jpg",
+        "width": 2360
+      },
+      {
+        "height": 1640,
+        "media_key": "3_2073095457094631424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMUdVaGaAAAQDm9.jpg",
+        "width": 2360
+      },
+      {
+        "height": 1079,
+        "media_key": "3_2073095506000314368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMUdYQSbgAAzZY8.jpg",
+        "width": 1554
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073095411213201408",
+            "3_2073095411213242368",
+            "3_2073095457094631424",
+            "3_2073095506000314368"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2073095813501493652",
+        "created_at": "2026-07-03T17:25:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T18:25:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073095813501493652"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/edwQyRgTDK",
+              "end": 39,
+              "expanded_url": "https://x.com/thexiexx3x/status/2073095813501493652/photo/1",
+              "media_key": "3_2073095411213201408",
+              "start": 16,
+              "url": "https://t.co/edwQyRgTDK"
+            },
+            {
+              "display_url": "pic.x.com/edwQyRgTDK",
+              "end": 39,
+              "expanded_url": "https://x.com/thexiexx3x/status/2073095813501493652/photo/1",
+              "media_key": "3_2073095411213242368",
+              "start": 16,
+              "url": "https://t.co/edwQyRgTDK"
+            },
+            {
+              "display_url": "pic.x.com/edwQyRgTDK",
+              "end": 39,
+              "expanded_url": "https://x.com/thexiexx3x/status/2073095813501493652/photo/1",
+              "media_key": "3_2073095457094631424",
+              "start": 16,
+              "url": "https://t.co/edwQyRgTDK"
+            },
+            {
+              "display_url": "pic.x.com/edwQyRgTDK",
+              "end": 39,
+              "expanded_url": "https://x.com/thexiexx3x/status/2073095813501493652/photo/1",
+              "media_key": "3_2073095506000314368",
+              "start": 16,
+              "url": "https://t.co/edwQyRgTDK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073095813501493652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "挑选你的毒虫多排头像我还没画完 https://t.co/edwQyRgTDK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎蝎\n大哥@thexiexx\n两个号都被gostban了无法互动很抱歉orz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "再见，再见",
+        "name": "23点准时睡觉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070912725920940032/E-FS3NrH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 176,
+          "like_count": 852,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 993
+        },
+        "url": "",
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059983621914865664"
+      ],
+      "media_source_tweet_id": [
+        "2059983627510010280"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2060007087711953091",
+    "created_at": "2026-05-28T14:35:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T15:35:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060007087711953091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "899502186",
+          "start": 3,
+          "username": "0u0HaNako666"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NoYbIFEzSC",
+          "end": 41,
+          "expanded_url": "https://x.com/0u0HaNako666/status/2059983627510010280/photo/1",
+          "media_key": "3_2059983621914865664",
+          "start": 18,
+          "url": "https://t.co/NoYbIFEzSC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060007087711953091",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 170
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059983627510010280",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0u0HaNako666: https://t.co/NoYbIFEzSC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059983621914865664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJaIMJtbsAAT3xJ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059983621914865664"
+          ],
+          "media_source_tweet_id": [
+            "2059983627510010280"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2060007087711953091",
+        "created_at": "2026-05-28T14:35:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T15:35:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060007087711953091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "899502186",
+              "start": 3,
+              "username": "0u0HaNako666"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NoYbIFEzSC",
+              "end": 41,
+              "expanded_url": "https://x.com/0u0HaNako666/status/2059983627510010280/photo/1",
+              "media_key": "3_2059983621914865664",
+              "start": 18,
+              "url": "https://t.co/NoYbIFEzSC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060007087711953091",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 170
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059983627510010280",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0u0HaNako666: https://t.co/NoYbIFEzSC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059983621914865664"
+          ]
+        },
+        "author_id": "899502186",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2059983627510010280",
+        "created_at": "2026-05-28T13:02:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T14:02:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059983627510010280"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NoYbIFEzSC",
+              "end": 23,
+              "expanded_url": "https://x.com/0u0HaNako666/status/2059983627510010280/photo/1",
+              "media_key": "3_2059983621914865664",
+              "start": 0,
+              "url": "https://t.co/NoYbIFEzSC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059983627510010280",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 16113,
+          "like_count": 1641,
+          "quote_count": 16,
+          "reply_count": 45,
+          "retweet_count": 170
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/NoYbIFEzSC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎些\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "罹心力",
+        "name": "禁止暴食熬夜",
+        "pinned_tweet_id": "2055238057880875086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056751575289540608/GjxoGMpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 116,
+          "like_count": 288,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 320
+        },
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2012-10-23T08:30:24.000Z",
+        "description": "神聖かまってちゃん\n「進撃の巨人」 OP / ED他アニメ・映画主題歌、大体担当\n自主制作Pv：https://t.co/TSG9iEnYCk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/user/vivaru",
+                "end": 71,
+                "expanded_url": "https://youtube.com/user/vivaru",
+                "start": 48,
+                "url": "https://t.co/TSG9iEnYCk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/nekonokonekono…",
+                "end": 23,
+                "expanded_url": "http://lit.link/nekonokonekonoko",
+                "start": 0,
+                "url": "https://t.co/dKaVW0fg08"
+              }
+            ]
+          }
+        },
+        "id": "899502186",
+        "name": "の子",
+        "pinned_tweet_id": "1885316431317000694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058561149671727104/2IM1lRK__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179465,
+          "following_count": 227,
+          "like_count": 364647,
+          "listed_count": 1361,
+          "media_count": 2721,
+          "tweet_count": 54878
+        },
+        "url": "https://t.co/dKaVW0fg08",
+        "username": "0u0HaNako666",
+        "verified": false
+      }
+    ]
+  }
+}

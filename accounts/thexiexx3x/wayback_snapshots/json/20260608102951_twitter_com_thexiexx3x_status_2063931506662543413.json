@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063710811185717248"
+      ],
+      "media_source_tweet_id": [
+        "2063710819016413555"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2063931506662543413",
+    "created_at": "2026-06-08T10:29:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T11:29:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063931506662543413"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1934340791453073408",
+          "start": 3,
+          "username": "kaogo55"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oDOr0XGy0P",
+          "end": 60,
+          "expanded_url": "https://x.com/kaogo55/status/2063710819016413555/photo/1",
+          "media_key": "3_2063710811185717248",
+          "start": 37,
+          "url": "https://t.co/oDOr0XGy0P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063931506662543413",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2032
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063710819016413555",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kaogo55: カフェインとアドレナリンで覚醒してしまう(笑) https://t.co/oDOr0XGy0P"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1356,
+        "media_key": "3_2063710811185717248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKPGDHvboAAnPzn.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063710811185717248"
+          ],
+          "media_source_tweet_id": [
+            "2063710819016413555"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2063931506662543413",
+        "created_at": "2026-06-08T10:29:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T11:29:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063931506662543413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1934340791453073408",
+              "start": 3,
+              "username": "kaogo55"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oDOr0XGy0P",
+              "end": 60,
+              "expanded_url": "https://x.com/kaogo55/status/2063710819016413555/photo/1",
+              "media_key": "3_2063710811185717248",
+              "start": 37,
+              "url": "https://t.co/oDOr0XGy0P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063931506662543413",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2030
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063710819016413555",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kaogo55: カフェインとアドレナリンで覚醒してしまう(笑) https://t.co/oDOr0XGy0P"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063710811185717248"
+          ]
+        },
+        "author_id": "1934340791453073408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2063710819016413555",
+        "created_at": "2026-06-07T19:52:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T20:52:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063710819016413555"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oDOr0XGy0P",
+              "end": 47,
+              "expanded_url": "https://x.com/kaogo55/status/2063710819016413555/photo/1",
+              "media_key": "3_2063710811185717248",
+              "start": 24,
+              "url": "https://t.co/oDOr0XGy0P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063710819016413555",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1188,
+          "impression_count": 1203561,
+          "like_count": 16122,
+          "quote_count": 355,
+          "reply_count": 249,
+          "retweet_count": 2030
+        },
+        "reply_settings": "everyone",
+        "text": "カフェインとアドレナリンで覚醒してしまう(笑) https://t.co/oDOr0XGy0P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎些\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "罹心力",
+        "name": "禁止暴食熬夜",
+        "pinned_tweet_id": "2063475995626307922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056751575289540608/GjxoGMpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 190,
+          "like_count": 777,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 629
+        },
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-15T20:02:45.000Z",
+        "description": "年間1000件くらい全国のグルメ食べ歩きしてます🚶ラーメン🍜大好き！旅行✈️も大好きなんまで景色もツイートします😊たまにプレゼント企画します🎁新店舗のPR.お仕事のご依頼はDMください！！",
+        "id": "1934340791453073408",
+        "location": "大阪",
+        "name": "ひかたんグルメ🍚🍴",
+        "pinned_tweet_id": "2053132678556537162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001300338197004288/NuJ_wjEH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9410,
+          "following_count": 10018,
+          "like_count": 57,
+          "listed_count": 26,
+          "media_count": 571,
+          "tweet_count": 730
+        },
+        "username": "kaogo55",
+        "verified": true
+      }
+    ]
+  }
+}

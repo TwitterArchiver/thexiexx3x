@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2068558347134234928",
+    "created_at": "2026-07-07T16:50:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T17:50:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074536663402033602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2044796543837040640",
+          "start": 0,
+          "username": "xkl2xkl2xkl2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074536663402033602",
+    "in_reply_to_user_id": "2044796543837040640",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068558347134234928",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xkl2xkl2xkl2 cgannvwnjtrgnm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2068558347134234928",
+        "created_at": "2026-07-07T16:50:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T17:50:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074536663402033602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2044796543837040640",
+              "start": 0,
+              "username": "xkl2xkl2xkl2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074536663402033602",
+        "in_reply_to_user_id": "2044796543837040640",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068558347134234928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xkl2xkl2xkl2 cgannvwnjtrgnm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044796543837040640",
+        "conversation_id": "2068558347134234928",
+        "created_at": "2026-06-21T04:55:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T05:55:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068558347134234928"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068558347134234928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有的傻逼打着女高个标签引nm流装个二次元用个那种头像到底在干嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎蝎\n大哥@thexiexx\n两个号都被gostban了无法互动很抱歉orz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "再见，再见",
+        "name": "23点准时睡觉♴",
+        "pinned_tweet_id": "2073818859916890480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070912725920940032/E-FS3NrH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 180,
+          "like_count": 887,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 1116
+        },
+        "url": "",
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-16T15:17:46.000Z",
+        "description": "別和我杠",
+        "id": "2044796543837040640",
+        "location": "暴論兼色情人格",
+        "name": "雪空髏初號機",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071998633646727168/u6EfZceF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 77,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 22
+        },
+        "url": "",
+        "username": "xkl2xkl2xkl2",
+        "verified": false
+      }
+    ]
+  }
+}

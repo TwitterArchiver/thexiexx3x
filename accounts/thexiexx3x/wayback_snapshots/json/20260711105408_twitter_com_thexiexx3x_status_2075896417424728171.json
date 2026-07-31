@@ -1,0 +1,130 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2075896417424728171",
+    "created_at": "2026-07-11T10:54:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T11:54:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075896417424728171"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "163cn.tv/baOuznEt",
+          "end": 97,
+          "expanded_url": "https://163cn.tv/baOuznEt",
+          "start": 74,
+          "status": 200,
+          "unwound_url": "https://y.music.163.com/m/song?id=3314565571&uct2=tr%2FLwoJhIhKisnXP7PrWkw%3D%3D&fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=&fx-listentest=t3&H5_DownloadVIPGift=&playerUIModeId=1379005&PlayerStyles_SynchronousSharing=t3&dlt=0846&app_version=9.5.45&sc=wm&tn=",
+          "url": "https://t.co/ITHmIgma8f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075896417424728171",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "分享Ninajirachi/Frost Children的单曲《**** My Computer (Frost Children Remix)》: https://t.co/ITHmIgma8f (来自@网易云音乐)\n发现一首雷霆好听的歌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2075896417424728171",
+        "created_at": "2026-07-11T10:54:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T11:54:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075896417424728171"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "163cn.tv/baOuznEt",
+              "end": 97,
+              "expanded_url": "https://163cn.tv/baOuznEt",
+              "start": 74,
+              "status": 200,
+              "unwound_url": "https://y.music.163.com/m/song?id=3314565571&uct2=tr%2FLwoJhIhKisnXP7PrWkw%3D%3D&fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=&fx-listentest=t3&H5_DownloadVIPGift=&playerUIModeId=1379005&PlayerStyles_SynchronousSharing=t3&dlt=0846&app_version=9.5.45&sc=wm&tn=",
+              "url": "https://t.co/ITHmIgma8f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075896417424728171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "分享Ninajirachi/Frost Children的单曲《**** My Computer (Frost Children Remix)》: https://t.co/ITHmIgma8f (来自@网易云音乐)\n发现一首雷霆好听的歌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎蝎\n大哥@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "再见，再见",
+        "name": "23点准时睡觉🧠",
+        "pinned_tweet_id": "2073818859916890480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 184,
+          "like_count": 984,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 1209
+        },
+        "url": "",
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059039227451731968"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2059039260335034762",
+    "created_at": "2026-05-25T22:29:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T23:29:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059039260335034762"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EMPS0o0phS",
+          "end": 26,
+          "expanded_url": "https://x.com/thexiexx3x/status/2059039260335034762/photo/1",
+          "media_key": "3_2059039227451731968",
+          "start": 3,
+          "url": "https://t.co/EMPS0o0phS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059039260335034762",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "淤青 https://t.co/EMPS0o0phS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059039227451731968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJMtRKLa8AASxbB.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059039227451731968"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2059039260335034762",
+        "created_at": "2026-05-25T22:29:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T23:29:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059039260335034762"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EMPS0o0phS",
+              "end": 26,
+              "expanded_url": "https://x.com/thexiexx3x/status/2059039260335034762/photo/1",
+              "media_key": "3_2059039227451731968",
+              "start": 3,
+              "url": "https://t.co/EMPS0o0phS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059039260335034762",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "淤青 https://t.co/EMPS0o0phS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎些\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "罹心力",
+        "name": "禁止暴食熬夜",
+        "pinned_tweet_id": "2055238057880875086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056751575289540608/GjxoGMpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 81,
+          "like_count": 188,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 243
+        },
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

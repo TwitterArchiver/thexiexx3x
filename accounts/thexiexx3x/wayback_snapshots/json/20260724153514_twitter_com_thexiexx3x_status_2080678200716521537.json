@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080678036920549376",
+        "3_2080678036941557760"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2080678200716521537",
+    "created_at": "2026-07-24T15:35:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T16:35:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080678200716521537"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Jlq4VSLKTp",
+          "end": 157,
+          "expanded_url": "https://x.com/thexiexx3x/status/2080678200716521537/photo/1",
+          "media_key": "3_2080678036920549376",
+          "start": 134,
+          "url": "https://t.co/Jlq4VSLKTp"
+        },
+        {
+          "display_url": "pic.x.com/Jlq4VSLKTp",
+          "end": 157,
+          "expanded_url": "https://x.com/thexiexx3x/status/2080678200716521537/photo/1",
+          "media_key": "3_2080678036941557760",
+          "start": 134,
+          "url": "https://t.co/Jlq4VSLKTp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080678200716521537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "之前没否定过小红书的搜索引擎功能现在这点也是傻逼 前天昨天去澳门被骗去吃了一家冰淇凌巨死妈难找而且难吃还他妈贵卧槽被晒的热死了妈的我现在没钱了想想就来气关键小红书搜澳门搜出来全是这个sb冰淇凌还有昨天下午在香港第一顿我搜出来说都在好评一个抹茶店然后这个也很难找还强制 https://t.co/Jlq4VSLKTp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080678036920549376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOANppKbQAASLmU.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080678036941557760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOANppPb0AABRe8.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080678036920549376",
+            "3_2080678036941557760"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2080678200716521537",
+        "created_at": "2026-07-24T15:35:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T16:35:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080678200716521537"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jlq4VSLKTp",
+              "end": 157,
+              "expanded_url": "https://x.com/thexiexx3x/status/2080678200716521537/photo/1",
+              "media_key": "3_2080678036920549376",
+              "start": 134,
+              "url": "https://t.co/Jlq4VSLKTp"
+            },
+            {
+              "display_url": "pic.x.com/Jlq4VSLKTp",
+              "end": 157,
+              "expanded_url": "https://x.com/thexiexx3x/status/2080678200716521537/photo/1",
+              "media_key": "3_2080678036941557760",
+              "start": 134,
+              "url": "https://t.co/Jlq4VSLKTp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080678200716521537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "之前没否定过小红书的搜索引擎功能现在这点也是傻逼 前天昨天去澳门被骗去吃了一家冰淇凌巨死妈难找而且难吃还他妈贵卧槽被晒的热死了妈的我现在没钱了想想就来气关键小红书搜澳门搜出来全是这个sb冰淇凌还有昨天下午在香港第一顿我搜出来说都在好评一个抹茶店然后这个也很难找还强制 https://t.co/Jlq4VSLKTp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "每天",
+        "name": "嚼嚼",
+        "pinned_tweet_id": "2077840199158296579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 219,
+          "like_count": 1528,
+          "listed_count": 0,
+          "media_count": 173,
+          "tweet_count": 1650
+        },
+        "url": "",
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

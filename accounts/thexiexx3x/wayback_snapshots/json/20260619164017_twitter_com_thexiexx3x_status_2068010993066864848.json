@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068010743182815233"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2068010993066864848",
+    "created_at": "2026-06-19T16:40:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T17:40:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068010993066864848"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BYL1OLW91H",
+          "end": 54,
+          "expanded_url": "https://x.com/thexiexx3x/status/2068010993066864848/photo/1",
+          "media_key": "3_2068010743182815233",
+          "start": 31,
+          "url": "https://t.co/BYL1OLW91H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068010993066864848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "才第七天 我还是希望赶紧考完期末考试到27号然后吃一下dxm https://t.co/BYL1OLW91H"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1244,
+        "media_key": "3_2068010743182815233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLMM0GsacAEKE5u.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068010743182815233"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2068010993066864848",
+        "created_at": "2026-06-19T16:40:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T17:40:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068010993066864848"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BYL1OLW91H",
+              "end": 54,
+              "expanded_url": "https://x.com/thexiexx3x/status/2068010993066864848/photo/1",
+              "media_key": "3_2068010743182815233",
+              "start": 31,
+              "url": "https://t.co/BYL1OLW91H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068010993066864848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "才第七天 我还是希望赶紧考完期末考试到27号然后吃一下dxm https://t.co/BYL1OLW91H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎蝎\n大哥@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "再见，再见",
+        "name": "23点准时睡觉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067460593142075392/wbHCWLJg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 173,
+          "like_count": 809,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 701
+        },
+        "url": "",
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

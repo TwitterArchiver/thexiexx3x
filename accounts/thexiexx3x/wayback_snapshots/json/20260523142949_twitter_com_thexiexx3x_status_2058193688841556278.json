@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048737802154577920"
+      ],
+      "media_source_tweet_id": [
+        "2058159760353214526"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2058193688841556278",
+    "created_at": "2026-05-23T14:29:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T15:29:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058193688841556278"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260232577379598337",
+          "start": 3,
+          "username": "OsakaMyGirl"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/X3exWuEyG0",
+          "end": 40,
+          "expanded_url": "https://x.com/OsakaMyGirl/status/2058159760353214526/photo/1",
+          "media_key": "3_2048737802154577920",
+          "start": 17,
+          "url": "https://t.co/X3exWuEyG0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058193688841556278",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058159760353214526",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OsakaMyGirl: https://t.co/X3exWuEyG0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1124,
+        "media_key": "3_2048737802154577920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6ULSdWkAAz8rp.jpg",
+        "width": 827
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048737802154577920"
+          ],
+          "media_source_tweet_id": [
+            "2058159760353214526"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2058193688841556278",
+        "created_at": "2026-05-23T14:29:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T15:29:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058193688841556278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260232577379598337",
+              "start": 3,
+              "username": "OsakaMyGirl"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/X3exWuEyG0",
+              "end": 40,
+              "expanded_url": "https://x.com/OsakaMyGirl/status/2058159760353214526/photo/1",
+              "media_key": "3_2048737802154577920",
+              "start": 17,
+              "url": "https://t.co/X3exWuEyG0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058193688841556278",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058159760353214526",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OsakaMyGirl: https://t.co/X3exWuEyG0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048737802154577920"
+          ]
+        },
+        "author_id": "1260232577379598337",
+        "conversation_id": "2058159760353214526",
+        "created_at": "2026-05-23T12:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T13:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058159760353214526"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X3exWuEyG0",
+              "end": 23,
+              "expanded_url": "https://x.com/OsakaMyGirl/status/2058159760353214526/photo/1",
+              "media_key": "3_2048737802154577920",
+              "start": 0,
+              "url": "https://t.co/X3exWuEyG0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058159760353214526",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 670,
+          "like_count": 82,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/X3exWuEyG0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎些\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "罹心力",
+        "name": "禁止暴食熬夜",
+        "pinned_tweet_id": "2055238057880875086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056751575289540608/GjxoGMpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 65,
+          "like_count": 111,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 167
+        },
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-12T15:37:32.000Z",
+        "description": "Every day a random image from my pics folder will be posted. Maybe more.\nYou can ask me to RT anything\n\nDisclaimer: Occasional ecchi. Grow up.",
+        "id": "1260232577379598337",
+        "location": "my download folder",
+        "name": "Osaka Lover (picture spammer)",
+        "pinned_tweet_id": "1980012944478887991",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739786909419728896/b7x9Ga_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21044,
+          "following_count": 3371,
+          "like_count": 50977,
+          "listed_count": 61,
+          "media_count": 34273,
+          "tweet_count": 44737
+        },
+        "username": "OsakaMyGirl",
+        "verified": false
+      }
+    ]
+  }
+}

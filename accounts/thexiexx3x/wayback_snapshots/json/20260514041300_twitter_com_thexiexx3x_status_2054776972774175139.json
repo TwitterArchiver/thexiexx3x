@@ -1,0 +1,143 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054776903001866240"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2054776972774175139",
+    "created_at": "2026-05-14T04:13:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T05:13:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054776972774175139"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/b6KUXDOkd9",
+          "end": 31,
+          "expanded_url": "https://x.com/thexiexx3x/status/2054776972774175139/photo/1",
+          "media_key": "3_2054776903001866240",
+          "start": 8,
+          "url": "https://t.co/b6KUXDOkd9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054776972774175139",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "忧郁程度不详。 https://t.co/b6KUXDOkd9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2928,
+        "media_key": "3_2054776903001866240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIQItOQagAAKDcP.jpg",
+        "width": 3904
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054776903001866240"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2054776972774175139",
+        "created_at": "2026-05-14T04:13:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T05:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054776972774175139"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b6KUXDOkd9",
+              "end": 31,
+              "expanded_url": "https://x.com/thexiexx3x/status/2054776972774175139/photo/1",
+              "media_key": "3_2054776903001866240",
+              "start": 8,
+              "url": "https://t.co/b6KUXDOkd9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054776972774175139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "忧郁程度不详。 https://t.co/b6KUXDOkd9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "@thexiexx\n蝎些副本小号，前两世一个被贴了临时标签限流另一个在封号中。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "name": "蝎些Xplus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054585406960914432/2-JpaGc7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 5,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 5
+        },
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

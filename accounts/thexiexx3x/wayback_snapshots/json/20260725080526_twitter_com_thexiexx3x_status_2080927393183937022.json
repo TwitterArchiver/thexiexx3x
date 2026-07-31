@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2080927393183937022",
+    "created_at": "2026-07-25T08:05:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T09:05:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080927393183937022"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2080927393183937022",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "明天我能去哪？这七天天天吃的胃要炸了搞头发我都刻意避开镜子不看脸看到脸就很不舒服 更不可能出门啊出门会被像看猪一样凝视好恐怖 未来起码五天都会只靠喝汽水过日子我什么都不会吃的在瘦到需要的体重之前"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2080927393183937022",
+        "created_at": "2026-07-25T08:05:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T09:05:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080927393183937022"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080927393183937022",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明天我能去哪？这七天天天吃的胃要炸了搞头发我都刻意避开镜子不看脸看到脸就很不舒服 更不可能出门啊出门会被像看猪一样凝视好恐怖 未来起码五天都会只靠喝汽水过日子我什么都不会吃的在瘦到需要的体重之前"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "每天",
+        "name": "嚼嚼",
+        "pinned_tweet_id": "2077840199158296579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 223,
+          "like_count": 1556,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 1668
+        },
+        "url": "",
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

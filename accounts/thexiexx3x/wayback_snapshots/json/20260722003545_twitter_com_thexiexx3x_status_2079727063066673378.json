@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079575571751993344"
+      ],
+      "media_source_tweet_id": [
+        "2079582169874280731"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2079727063066673378",
+    "created_at": "2026-07-22T00:35:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T01:35:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079727063066673378"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 64,
+          "start": 57,
+          "tag": "SKC美術部"
+        },
+        {
+          "end": 78,
+          "start": 65,
+          "tag": "神聖かまってちゃん48h"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2071841333095051265",
+          "start": 3,
+          "username": "kamattechan_pj"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6Q7cbet4HK",
+          "end": 102,
+          "expanded_url": "https://x.com/kamattechan_pj/status/2079582169874280731/photo/1",
+          "media_key": "3_2079575571751993344",
+          "start": 79,
+          "url": "https://t.co/6Q7cbet4HK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079727063066673378",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079582169874280731",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kamattechan_pj: 神聖かまってちゃん48h\n7.22/0：00\n安某人\n前：千禧残存进行时\n#SKC美術部\n#神聖かまってちゃん48h https://t.co/6Q7cbet4HK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1463,
+        "media_key": "3_2079575571751993344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNwi9uXbgAAkDFh.jpg",
+        "width": 1208
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079575571751993344"
+          ]
+        },
+        "author_id": "2071841333095051265",
+        "conversation_id": "2079582169874280731",
+        "created_at": "2026-07-21T15:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T16:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079582169874280731"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 44,
+              "start": 37,
+              "tag": "SKC美術部"
+            },
+            {
+              "end": 58,
+              "start": 45,
+              "tag": "神聖かまってちゃん48h"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6Q7cbet4HK",
+              "end": 82,
+              "expanded_url": "https://x.com/kamattechan_pj/status/2079582169874280731/photo/1",
+              "media_key": "3_2079575571751993344",
+              "start": 59,
+              "url": "https://t.co/6Q7cbet4HK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079582169874280731",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 438,
+          "like_count": 67,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "神聖かまってちゃん48h\n7.22/0：00\n安某人\n前：千禧残存进行时\n#SKC美術部\n#神聖かまってちゃん48h https://t.co/6Q7cbet4HK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079575571751993344"
+          ],
+          "media_source_tweet_id": [
+            "2079582169874280731"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2079727063066673378",
+        "created_at": "2026-07-22T00:35:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T01:35:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079727063066673378"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 64,
+              "start": 57,
+              "tag": "SKC美術部"
+            },
+            {
+              "end": 78,
+              "start": 65,
+              "tag": "神聖かまってちゃん48h"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2071841333095051265",
+              "start": 3,
+              "username": "kamattechan_pj"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6Q7cbet4HK",
+              "end": 102,
+              "expanded_url": "https://x.com/kamattechan_pj/status/2079582169874280731/photo/1",
+              "media_key": "3_2079575571751993344",
+              "start": 79,
+              "url": "https://t.co/6Q7cbet4HK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079727063066673378",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079582169874280731",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kamattechan_pj: 神聖かまってちゃん48h\n7.22/0：00\n安某人\n前：千禧残存进行时\n#SKC美術部\n#神聖かまってちゃん48h https://t.co/6Q7cbet4HK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "每天",
+        "name": "嚼嚼",
+        "pinned_tweet_id": "2077840199158296579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 203,
+          "like_count": 1366,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 1555
+        },
+        "url": "",
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-30T06:25:09.000Z",
+        "description": "神聖かまってちゃんの非公式24h同人企画アカウントです。\n📅 開催日：20～21日（毎時間投稿）\n⚠️ 本企画はファンによる非公式の活動であり、公式・関係者様とは一切関係ありません。作品の無断転載はご遠慮ください。",
+        "id": "2071841333095051265",
+        "name": "神聖かまってちゃん 48h非公式企画",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071842884546969601/jiILDyiC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 33,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 59
+        },
+        "url": "",
+        "username": "kamattechan_pj",
+        "verified": true
+      }
+    ]
+  }
+}

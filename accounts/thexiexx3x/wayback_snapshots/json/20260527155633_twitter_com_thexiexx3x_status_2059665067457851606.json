@@ -1,0 +1,601 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059454864623587329",
+        "3_2059454864623546369",
+        "3_2059454864623579136",
+        "3_2059454864623599617"
+      ],
+      "media_source_tweet_id": [
+        "2059454876703150406",
+        "2059454876703150406",
+        "2059454876703150406",
+        "2059454876703150406"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Painting",
+          "id": "847869659957182464",
+          "name": "Painting"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Painting",
+          "id": "847869659957182464",
+          "name": "Painting"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2059665067457851606",
+    "created_at": "2026-05-27T15:56:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T16:56:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059665067457851606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1557517339167522818",
+          "start": 3,
+          "username": "humanfleshdoII"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5nm02EIvmE",
+          "end": 92,
+          "expanded_url": "https://x.com/humanfleshdoII/status/2059454876703150406/photo/1",
+          "media_key": "3_2059454864623587329",
+          "start": 69,
+          "url": "https://t.co/5nm02EIvmE"
+        },
+        {
+          "display_url": "pic.x.com/5nm02EIvmE",
+          "end": 92,
+          "expanded_url": "https://x.com/humanfleshdoII/status/2059454876703150406/photo/1",
+          "media_key": "3_2059454864623546369",
+          "start": 69,
+          "url": "https://t.co/5nm02EIvmE"
+        },
+        {
+          "display_url": "pic.x.com/5nm02EIvmE",
+          "end": 92,
+          "expanded_url": "https://x.com/humanfleshdoII/status/2059454876703150406/photo/1",
+          "media_key": "3_2059454864623579136",
+          "start": 69,
+          "url": "https://t.co/5nm02EIvmE"
+        },
+        {
+          "display_url": "pic.x.com/5nm02EIvmE",
+          "end": 92,
+          "expanded_url": "https://x.com/humanfleshdoII/status/2059454876703150406/photo/1",
+          "media_key": "3_2059454864623599617",
+          "start": 69,
+          "url": "https://t.co/5nm02EIvmE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059665067457851606",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 988
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059454876703150406",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @humanfleshdoII: a yuko tatsushima é uma artista do CARALHO alias https://t.co/5nm02EIvmE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2059454864623587329",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJSnSbTW0AE8s6K.jpg",
+        "width": 695
+      },
+      {
+        "height": 358,
+        "media_key": "3_2059454864623546369",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJSnSbTWMAEb1AY.jpg",
+        "width": 350
+      },
+      {
+        "height": 370,
+        "media_key": "3_2059454864623579136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJSnSbTWsAAakPJ.jpg",
+        "width": 258
+      },
+      {
+        "height": 208,
+        "media_key": "3_2059454864623599617",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJSnSbTXAAEDPqY.jpg",
+        "width": 358
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059454864623587329",
+            "3_2059454864623546369",
+            "3_2059454864623579136",
+            "3_2059454864623599617"
+          ],
+          "media_source_tweet_id": [
+            "2059454876703150406",
+            "2059454876703150406",
+            "2059454876703150406",
+            "2059454876703150406"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Painting",
+              "id": "847869659957182464",
+              "name": "Painting"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Painting",
+              "id": "847869659957182464",
+              "name": "Painting"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2059665067457851606",
+        "created_at": "2026-05-27T15:56:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T16:56:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059665067457851606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1557517339167522818",
+              "start": 3,
+              "username": "humanfleshdoII"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5nm02EIvmE",
+              "end": 92,
+              "expanded_url": "https://x.com/humanfleshdoII/status/2059454876703150406/photo/1",
+              "media_key": "3_2059454864623587329",
+              "start": 69,
+              "url": "https://t.co/5nm02EIvmE"
+            },
+            {
+              "display_url": "pic.x.com/5nm02EIvmE",
+              "end": 92,
+              "expanded_url": "https://x.com/humanfleshdoII/status/2059454876703150406/photo/1",
+              "media_key": "3_2059454864623546369",
+              "start": 69,
+              "url": "https://t.co/5nm02EIvmE"
+            },
+            {
+              "display_url": "pic.x.com/5nm02EIvmE",
+              "end": 92,
+              "expanded_url": "https://x.com/humanfleshdoII/status/2059454876703150406/photo/1",
+              "media_key": "3_2059454864623579136",
+              "start": 69,
+              "url": "https://t.co/5nm02EIvmE"
+            },
+            {
+              "display_url": "pic.x.com/5nm02EIvmE",
+              "end": 92,
+              "expanded_url": "https://x.com/humanfleshdoII/status/2059454876703150406/photo/1",
+              "media_key": "3_2059454864623599617",
+              "start": 69,
+              "url": "https://t.co/5nm02EIvmE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059665067457851606",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 988
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059454876703150406",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @humanfleshdoII: a yuko tatsushima é uma artista do CARALHO alias https://t.co/5nm02EIvmE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059454864623587329",
+            "3_2059454864623546369",
+            "3_2059454864623579136",
+            "3_2059454864623599617"
+          ]
+        },
+        "author_id": "1557517339167522818",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Painting",
+              "id": "847869659957182464",
+              "name": "Painting"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Painting",
+              "id": "847869659957182464",
+              "name": "Painting"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2059454876703150406",
+        "created_at": "2026-05-27T02:01:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T03:01:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059454876703150406"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5nm02EIvmE",
+              "end": 72,
+              "expanded_url": "https://x.com/humanfleshdoII/status/2059454876703150406/photo/1",
+              "media_key": "3_2059454864623587329",
+              "start": 49,
+              "url": "https://t.co/5nm02EIvmE"
+            },
+            {
+              "display_url": "pic.x.com/5nm02EIvmE",
+              "end": 72,
+              "expanded_url": "https://x.com/humanfleshdoII/status/2059454876703150406/photo/1",
+              "media_key": "3_2059454864623546369",
+              "start": 49,
+              "url": "https://t.co/5nm02EIvmE"
+            },
+            {
+              "display_url": "pic.x.com/5nm02EIvmE",
+              "end": 72,
+              "expanded_url": "https://x.com/humanfleshdoII/status/2059454876703150406/photo/1",
+              "media_key": "3_2059454864623579136",
+              "start": 49,
+              "url": "https://t.co/5nm02EIvmE"
+            },
+            {
+              "display_url": "pic.x.com/5nm02EIvmE",
+              "end": 72,
+              "expanded_url": "https://x.com/humanfleshdoII/status/2059454876703150406/photo/1",
+              "media_key": "3_2059454864623599617",
+              "start": 49,
+              "url": "https://t.co/5nm02EIvmE"
+            },
+            {
+              "display_url": "x.com/phantasmarina/…",
+              "end": 96,
+              "expanded_url": "https://twitter.com/phantasmarina/status/2058731633130266844",
+              "start": 73,
+              "url": "https://t.co/7jXXJoU9im"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059454876703150406",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1078,
+          "impression_count": 429774,
+          "like_count": 6535,
+          "quote_count": 22,
+          "reply_count": 7,
+          "retweet_count": 988
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058731633130266844",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "a yuko tatsushima é uma artista do CARALHO alias https://t.co/5nm02EIvmE https://t.co/7jXXJoU9im"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎些\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "罹心力",
+        "name": "禁止暴食熬夜",
+        "pinned_tweet_id": "2055238057880875086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056751575289540608/GjxoGMpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 100,
+          "like_count": 254,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 291
+        },
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-11T00:00:57.000Z",
+        "description": "─── ･ ｡ﾟ☆: *.♡.* :☆ﾟ. ───\ncomment te dire adieu",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rottingporcelainangel.straw.page",
+                "end": 23,
+                "expanded_url": "https://rottingporcelainangel.straw.page/",
+                "start": 0,
+                "url": "https://t.co/ZaManSTzVH"
+              }
+            ]
+          }
+        },
+        "id": "1557517339167522818",
+        "location": "she/her ♡ 20  ",
+        "name": "heather mason da silva",
+        "pinned_tweet_id": "1998858508398371037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037578217347768321/9iaoSoqn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 917,
+          "like_count": 16569,
+          "listed_count": 1,
+          "media_count": 3274,
+          "tweet_count": 44349
+        },
+        "url": "https://t.co/ZaManSTzVH",
+        "username": "humanfleshdoII",
+        "verified": false
+      }
+    ]
+  }
+}

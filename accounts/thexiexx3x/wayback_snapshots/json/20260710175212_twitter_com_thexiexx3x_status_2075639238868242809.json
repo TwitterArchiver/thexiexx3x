@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075625953464569856"
+      ],
+      "media_source_tweet_id": [
+        "2075625962960506969"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2075639238868242809",
+    "created_at": "2026-07-10T17:52:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T18:52:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075639238868242809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1893231806180478976",
+          "start": 3,
+          "username": "ChefOfXxx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2h8GBgyIup",
+          "end": 38,
+          "expanded_url": "https://x.com/ChefOfXxx/status/2075625962960506969/photo/1",
+          "media_key": "3_2075625953464569856",
+          "start": 15,
+          "url": "https://t.co/2h8GBgyIup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075639238868242809",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075625962960506969",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ChefOfXxx: https://t.co/2h8GBgyIup"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 926,
+        "media_key": "3_2075625953464569856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM4azrrWUAAVcLj.jpg",
+        "width": 609
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075625953464569856"
+          ],
+          "media_source_tweet_id": [
+            "2075625962960506969"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2075639238868242809",
+        "created_at": "2026-07-10T17:52:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T18:52:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075639238868242809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1893231806180478976",
+              "start": 3,
+              "username": "ChefOfXxx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2h8GBgyIup",
+              "end": 38,
+              "expanded_url": "https://x.com/ChefOfXxx/status/2075625962960506969/photo/1",
+              "media_key": "3_2075625953464569856",
+              "start": 15,
+              "url": "https://t.co/2h8GBgyIup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075639238868242809",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075625962960506969",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ChefOfXxx: https://t.co/2h8GBgyIup"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075625953464569856"
+          ]
+        },
+        "author_id": "1893231806180478976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2075625962960506969",
+        "created_at": "2026-07-10T16:59:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T17:59:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075625962960506969"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2h8GBgyIup",
+              "end": 23,
+              "expanded_url": "https://x.com/ChefOfXxx/status/2075625962960506969/photo/1",
+              "media_key": "3_2075625953464569856",
+              "start": 0,
+              "url": "https://t.co/2h8GBgyIup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075625962960506969",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 178,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/2h8GBgyIup"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎蝎\n大哥@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "再见，再见",
+        "name": "23点准时睡觉🧠",
+        "pinned_tweet_id": "2073818859916890480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 185,
+          "like_count": 951,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 1183
+        },
+        "url": "",
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T09:30:36.000Z",
+        "description": "Passionate about cooking & sharing mouthwatering recipes. Follow for daily kitchen inspiration! 👩‍🍳🔥\n GOOD FOOD = GOOD MOOD !🥗🥑",
+        "id": "1893231806180478976",
+        "location": "DM for the Promo 💌♥️",
+        "name": "𝑪𝑯𝑬𝑭 𝑿",
+        "pinned_tweet_id": "1942191574944764259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893239451997917184/aDjeojOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37043,
+          "following_count": 175,
+          "like_count": 33700,
+          "listed_count": 109,
+          "media_count": 28684,
+          "tweet_count": 38013
+        },
+        "url": "",
+        "username": "ChefOfXxx",
+        "verified": true
+      }
+    ]
+  }
+}

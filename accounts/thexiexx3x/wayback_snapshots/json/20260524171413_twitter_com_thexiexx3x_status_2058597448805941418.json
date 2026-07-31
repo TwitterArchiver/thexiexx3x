@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2058343572202569728"
+      ],
+      "media_source_tweet_id": [
+        "2058343635897200993"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2058597448805941418",
+    "created_at": "2026-05-24T17:14:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T18:14:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058597448805941418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1282594683949064192",
+          "start": 3,
+          "username": "RatBeef95"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/k0S5naniLp",
+          "end": 38,
+          "expanded_url": "https://x.com/RatBeef95/status/2058343635897200993/video/1",
+          "media_key": "13_2058343572202569728",
+          "start": 15,
+          "url": "https://t.co/k0S5naniLp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058597448805941418",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 578
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058343635897200993",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RatBeef95: https://t.co/k0S5naniLp"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7056,
+        "height": 720,
+        "media_key": "13_2058343572202569728",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2058343572202569728/img/IMrGTVIR6XlCZ6Za.jpg",
+        "public_metrics": {
+          "view_count": 21921
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058343572202569728/vid/avc1/480x270/GgGJVcpWvKCuljnQ.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058343572202569728/vid/avc1/640x360/Ih6VyZase4H0ExS9.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058343572202569728/vid/avc1/1280x720/z5ib2-ymOWiT6DdM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2058343572202569728/pl/hW5I0sdNiWQF6f3X.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2058343572202569728"
+          ],
+          "media_source_tweet_id": [
+            "2058343635897200993"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2058597448805941418",
+        "created_at": "2026-05-24T17:14:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T18:14:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058597448805941418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1282594683949064192",
+              "start": 3,
+              "username": "RatBeef95"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/k0S5naniLp",
+              "end": 38,
+              "expanded_url": "https://x.com/RatBeef95/status/2058343635897200993/video/1",
+              "media_key": "13_2058343572202569728",
+              "start": 15,
+              "url": "https://t.co/k0S5naniLp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058597448805941418",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 578
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058343635897200993",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RatBeef95: https://t.co/k0S5naniLp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2058343572202569728"
+          ]
+        },
+        "author_id": "1282594683949064192",
+        "conversation_id": "2058343635897200993",
+        "created_at": "2026-05-24T00:25:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T01:25:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058343635897200993"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k0S5naniLp",
+              "end": 23,
+              "expanded_url": "https://x.com/RatBeef95/status/2058343635897200993/video/1",
+              "media_key": "13_2058343572202569728",
+              "start": 0,
+              "url": "https://t.co/k0S5naniLp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058343635897200993",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 355,
+          "impression_count": 59891,
+          "like_count": 2960,
+          "quote_count": 43,
+          "reply_count": 8,
+          "retweet_count": 578
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/k0S5naniLp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎些\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "罹心力",
+        "name": "禁止暴食熬夜",
+        "pinned_tweet_id": "2055238057880875086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056751575289540608/GjxoGMpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 75,
+          "like_count": 159,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 212
+        },
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-13T08:36:29.000Z",
+        "description": "I post photography and guns.\nPhotos posted by me are taken by me.\nnsfw @RodentMeat95\nI follow most back at random.\nDM's are ok just be 18+ please.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 71,
+                "username": "RodentMeat95"
+              }
+            ]
+          }
+        },
+        "id": "1282594683949064192",
+        "location": "somewhere in the mountains",
+        "name": "Rat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043738794940096512/luQQK6NV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 650,
+          "following_count": 395,
+          "like_count": 2972,
+          "listed_count": 2,
+          "media_count": 488,
+          "tweet_count": 717
+        },
+        "username": "RatBeef95",
+        "verified": false
+      }
+    ]
+  }
+}

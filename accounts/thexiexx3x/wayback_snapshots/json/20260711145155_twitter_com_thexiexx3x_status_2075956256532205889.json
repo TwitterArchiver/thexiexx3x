@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075895807488966656"
+      ],
+      "media_source_tweet_id": [
+        "2075895811943334272"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2075956256532205889",
+    "created_at": "2026-07-11T14:51:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T15:51:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075956256532205889"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 14,
+          "tag": "SKC美術部"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2021274890083631106",
+          "start": 3,
+          "username": "icn12san"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SipBulDnXq",
+          "end": 45,
+          "expanded_url": "https://x.com/icn12san/status/2075895811943334272/photo/1",
+          "media_key": "3_2075895807488966656",
+          "start": 22,
+          "url": "https://t.co/SipBulDnXq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075956256532205889",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075895811943334272",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @icn12san: #SKC美術部 https://t.co/SipBulDnXq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 487,
+        "media_key": "3_2075895807488966656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM8QPQQaQAAtCvC.jpg",
+        "width": 1399
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075895807488966656"
+          ],
+          "media_source_tweet_id": [
+            "2075895811943334272"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2075956256532205889",
+        "created_at": "2026-07-11T14:51:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T15:51:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075956256532205889"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 14,
+              "tag": "SKC美術部"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2021274890083631106",
+              "start": 3,
+              "username": "icn12san"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SipBulDnXq",
+              "end": 45,
+              "expanded_url": "https://x.com/icn12san/status/2075895811943334272/photo/1",
+              "media_key": "3_2075895807488966656",
+              "start": 22,
+              "url": "https://t.co/SipBulDnXq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075956256532205889",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075895811943334272",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @icn12san: #SKC美術部 https://t.co/SipBulDnXq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075895807488966656"
+          ]
+        },
+        "author_id": "2021274890083631106",
+        "conversation_id": "2075895811943334272",
+        "created_at": "2026-07-11T10:51:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T11:51:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075895811943334272"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "SKC美術部"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SipBulDnXq",
+              "end": 31,
+              "expanded_url": "https://x.com/icn12san/status/2075895811943334272/photo/1",
+              "media_key": "3_2075895807488966656",
+              "start": 8,
+              "url": "https://t.co/SipBulDnXq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075895811943334272",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 1155,
+          "like_count": 116,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "#SKC美術部 https://t.co/SipBulDnXq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎蝎\n大哥@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "再见，再见",
+        "name": "23点准时睡觉🧠",
+        "pinned_tweet_id": "2073818859916890480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 184,
+          "like_count": 992,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 1212
+        },
+        "url": "",
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-10T17:27:49.000Z",
+        "description": "SKC",
+        "id": "2021274890083631106",
+        "name": "いちに",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040837047955689472/Z-INEGs8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 61,
+          "like_count": 10160,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 384
+        },
+        "url": "",
+        "username": "icn12san",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055322197846265857"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2055322345448051031",
+    "created_at": "2026-05-15T16:20:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T17:20:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055322345448051031"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0NdfcrNEby",
+          "end": 31,
+          "expanded_url": "https://x.com/thexiexx3x/status/2055322345448051031/photo/1",
+          "media_key": "3_2055322197846265857",
+          "start": 8,
+          "url": "https://t.co/0NdfcrNEby"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055322345448051031",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "之前看过一个番 https://t.co/0NdfcrNEby"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3904,
+        "media_key": "3_2055322197846265857",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIX4pj2aEAEuESX.jpg",
+        "width": 2928
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055322197846265857"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2055322345448051031",
+        "created_at": "2026-05-15T16:20:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T17:20:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055322345448051031"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0NdfcrNEby",
+              "end": 31,
+              "expanded_url": "https://x.com/thexiexx3x/status/2055322345448051031/photo/1",
+              "media_key": "3_2055322197846265857",
+              "start": 8,
+              "url": "https://t.co/0NdfcrNEby"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055322345448051031",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "之前看过一个番 https://t.co/0NdfcrNEby"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "@thexiexx\n蝎些副本小号，前两世一个被贴了临时标签限流另一个在封号中。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "name": "蝎些3Xplus",
+        "pinned_tweet_id": "2055238057880875086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054585406960914432/2-JpaGc7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 34,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 34
+        },
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

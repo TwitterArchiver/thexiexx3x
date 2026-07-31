@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080976235623305216",
+        "3_2080976235572948992",
+        "3_2080976235556122624",
+        "3_2080976235560353792"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2080976260977869004",
+    "created_at": "2026-07-25T11:19:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T12:19:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080976260977869004"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FOs0U2nf3h",
+          "end": 31,
+          "expanded_url": "https://x.com/thexiexx3x/status/2080976260977869004/photo/1",
+          "media_key": "3_2080976235623305216",
+          "start": 8,
+          "url": "https://t.co/FOs0U2nf3h"
+        },
+        {
+          "display_url": "pic.x.com/FOs0U2nf3h",
+          "end": 31,
+          "expanded_url": "https://x.com/thexiexx3x/status/2080976260977869004/photo/1",
+          "media_key": "3_2080976235572948992",
+          "start": 8,
+          "url": "https://t.co/FOs0U2nf3h"
+        },
+        {
+          "display_url": "pic.x.com/FOs0U2nf3h",
+          "end": 31,
+          "expanded_url": "https://x.com/thexiexx3x/status/2080976260977869004/photo/1",
+          "media_key": "3_2080976235556122624",
+          "start": 8,
+          "url": "https://t.co/FOs0U2nf3h"
+        },
+        {
+          "display_url": "pic.x.com/FOs0U2nf3h",
+          "end": 31,
+          "expanded_url": "https://x.com/thexiexx3x/status/2080976260977869004/photo/1",
+          "media_key": "3_2080976235560353792",
+          "start": 8,
+          "url": "https://t.co/FOs0U2nf3h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080976260977869004",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "澳门威信谁敢加 https://t.co/FOs0U2nf3h"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080976235623305216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOEc3F5bUAAezG8.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080976235572948992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOEc3Fta8AAJ5At.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080976235556122624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOEc3FpaMAAPdxk.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080976235560353792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOEc3FqawAAxVEr.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080976235623305216",
+            "3_2080976235572948992",
+            "3_2080976235556122624",
+            "3_2080976235560353792"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2080976260977869004",
+        "created_at": "2026-07-25T11:19:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T12:19:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080976260977869004"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FOs0U2nf3h",
+              "end": 31,
+              "expanded_url": "https://x.com/thexiexx3x/status/2080976260977869004/photo/1",
+              "media_key": "3_2080976235623305216",
+              "start": 8,
+              "url": "https://t.co/FOs0U2nf3h"
+            },
+            {
+              "display_url": "pic.x.com/FOs0U2nf3h",
+              "end": 31,
+              "expanded_url": "https://x.com/thexiexx3x/status/2080976260977869004/photo/1",
+              "media_key": "3_2080976235572948992",
+              "start": 8,
+              "url": "https://t.co/FOs0U2nf3h"
+            },
+            {
+              "display_url": "pic.x.com/FOs0U2nf3h",
+              "end": 31,
+              "expanded_url": "https://x.com/thexiexx3x/status/2080976260977869004/photo/1",
+              "media_key": "3_2080976235556122624",
+              "start": 8,
+              "url": "https://t.co/FOs0U2nf3h"
+            },
+            {
+              "display_url": "pic.x.com/FOs0U2nf3h",
+              "end": 31,
+              "expanded_url": "https://x.com/thexiexx3x/status/2080976260977869004/photo/1",
+              "media_key": "3_2080976235560353792",
+              "start": 8,
+              "url": "https://t.co/FOs0U2nf3h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080976260977869004",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "澳门威信谁敢加 https://t.co/FOs0U2nf3h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/thexiexx",
+                "end": 23,
+                "expanded_url": "https://t.me/thexiexx",
+                "start": 0,
+                "url": "https://t.co/w6gPwSRVgN"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "每天",
+        "name": "嚼嚼",
+        "pinned_tweet_id": "2077840199158296579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 223,
+          "like_count": 1576,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 1685
+        },
+        "url": "https://t.co/w6gPwSRVgN",
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

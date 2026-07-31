@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2061694728853455116",
+    "created_at": "2026-06-02T07:17:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T08:17:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061708886122623114"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2061708886122623114",
+    "in_reply_to_user_id": "2054583279257583616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061694728853455116",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "宝宝们看到可以转一下嘛？谢谢｜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2061694728853455116",
+        "created_at": "2026-06-02T07:17:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T08:17:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061708886122623114"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061708886122623114",
+        "in_reply_to_user_id": "2054583279257583616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061694728853455116",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "宝宝们看到可以转一下嘛？谢谢｜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2061694728853455116",
+        "created_at": "2026-06-02T06:21:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T07:21:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061694728853455116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 74,
+              "id": "1954524887454011392",
+              "start": 65,
+              "username": "thexiexx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061694728853455116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "＝蝎些\nshe/her\nsh｜药｜烟酒｜画画｜精神病｜听电音日摇俄摇｜全性别友好｜爱吃甜品｜同类互fo｜健全人粉红宅男哥别来\n大号@thexiexx被隐ban被贴了临时标签，互关寻回(ᐡ т  ‸ т ᐡ)。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎些\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "罹心力",
+        "name": "禁止暴食熬夜",
+        "pinned_tweet_id": "2061694728853455116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056751575289540608/GjxoGMpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 152,
+          "like_count": 468,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 439
+        },
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

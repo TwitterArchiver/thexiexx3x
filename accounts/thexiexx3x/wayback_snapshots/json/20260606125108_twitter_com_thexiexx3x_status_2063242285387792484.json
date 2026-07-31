@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063242084031795200"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2063242285387792484",
+    "created_at": "2026-06-06T12:51:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T13:51:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063242285387792484"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tgzkKGZSeo",
+          "end": 45,
+          "expanded_url": "https://x.com/thexiexx3x/status/2063242285387792484/photo/1",
+          "media_key": "3_2063242084031795200",
+          "start": 22,
+          "url": "https://t.co/tgzkKGZSeo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063242285387792484",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "速通完了呀兄弟们就算世界末日我也要吃这个。 https://t.co/tgzkKGZSeo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3904,
+        "media_key": "3_2063242084031795200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKIbvnBaEAAfWQ5.jpg",
+        "width": 2928
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063242084031795200"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2063242285387792484",
+        "created_at": "2026-06-06T12:51:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T13:51:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063242285387792484"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tgzkKGZSeo",
+              "end": 45,
+              "expanded_url": "https://x.com/thexiexx3x/status/2063242285387792484/photo/1",
+              "media_key": "3_2063242084031795200",
+              "start": 22,
+              "url": "https://t.co/tgzkKGZSeo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063242285387792484",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "速通完了呀兄弟们就算世界末日我也要吃这个。 https://t.co/tgzkKGZSeo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎些\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "罹心力",
+        "name": "禁止暴食熬夜",
+        "pinned_tweet_id": "2061694728853455116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056751575289540608/GjxoGMpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 182,
+          "like_count": 660,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 571
+        },
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

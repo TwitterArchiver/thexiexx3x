@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2060808942712664355",
+    "created_at": "2026-05-31T05:16:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T06:16:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060953607948919238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1632832954421633029",
+          "start": 0,
+          "username": "482xxnay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060953607948919238",
+    "in_reply_to_user_id": "1632832954421633029",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060808942712664355",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@482xxnay 我去小盐妈妈呀我埋！！( ˚̄ᵓ̮˚̄ )"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2060808903273660416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJl2x2WWwAAdKaT.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2060808903265320964",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJl2x2UXgAQG9Cl.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2060808903311380487",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJl2x2fWUAcnOYR.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2060808942712664355",
+        "created_at": "2026-05-31T05:16:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T06:16:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060953607948919238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1632832954421633029",
+              "start": 0,
+              "username": "482xxnay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060953607948919238",
+        "in_reply_to_user_id": "1632832954421633029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060808942712664355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@482xxnay 我去小盐妈妈呀我埋！！( ˚̄ᵓ̮˚̄ )"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060808903273660416",
+            "3_2060808903265320964",
+            "3_2060808903311380487"
+          ]
+        },
+        "author_id": "1632832954421633029",
+        "conversation_id": "2060808942712664355",
+        "created_at": "2026-05-30T19:41:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T20:41:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060808942712664355"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n19Yb8Tp4W",
+              "end": 40,
+              "expanded_url": "https://x.com/482xxnay/status/2060808942712664355/photo/1",
+              "media_key": "3_2060808903273660416",
+              "start": 17,
+              "url": "https://t.co/n19Yb8Tp4W"
+            },
+            {
+              "display_url": "pic.x.com/n19Yb8Tp4W",
+              "end": 40,
+              "expanded_url": "https://x.com/482xxnay/status/2060808942712664355/photo/1",
+              "media_key": "3_2060808903265320964",
+              "start": 17,
+              "url": "https://t.co/n19Yb8Tp4W"
+            },
+            {
+              "display_url": "pic.x.com/n19Yb8Tp4W",
+              "end": 40,
+              "expanded_url": "https://x.com/482xxnay/status/2060808942712664355/photo/1",
+              "media_key": "3_2060808903311380487",
+              "start": 17,
+              "url": "https://t.co/n19Yb8Tp4W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060808942712664355",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 182,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "总之很热 sh不行那就稍微发穿搭 https://t.co/n19Yb8Tp4W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎些\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "罹心力",
+        "name": "禁止暴食熬夜",
+        "pinned_tweet_id": "2055238057880875086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056751575289540608/GjxoGMpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 136,
+          "like_count": 386,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 387
+        },
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-06T19:58:19.000Z",
+        "description": "no way…！my life is so suck 自我生存娱乐空间 内可能含有NSFW 有SH pill 20+警告 they 我想复健产粮..懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和随时锁推 业余的很笨 有不对的请不要说我对异形勃起欢迎讨论 不会讨厌谁叫我什么都可以不会外语一切用翻译器人很佛",
+        "id": "1632832954421633029",
+        "name": "im gay（盐被肉鸦制2.0）",
+        "pinned_tweet_id": "2060229801282306383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052762986327240704/uZOTKK3r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 609,
+          "like_count": 4108,
+          "listed_count": 0,
+          "media_count": 288,
+          "tweet_count": 4363
+        },
+        "username": "482xxnay",
+        "verified": false
+      }
+    ]
+  }
+}

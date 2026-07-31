@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2071227886942699909",
+    "created_at": "2026-06-28T13:43:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T14:43:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071228052223431030"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2071228052223431030",
+    "in_reply_to_user_id": "2054583279257583616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071227886942699909",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "他吗逼她自己画的画唐的一批"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2071227886942699909",
+        "created_at": "2026-06-28T13:43:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T14:43:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071228052223431030"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071228052223431030",
+        "in_reply_to_user_id": "2054583279257583616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071227886942699909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "他吗逼她自己画的画唐的一批"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2071227886942699909",
+        "created_at": "2026-06-28T13:43:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T14:43:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071227886942699909"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/thexiexx3x/sta…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/thexiexx3x/status/2070885170727829583",
+              "start": 57,
+              "url": "https://t.co/9b8uvHB30C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071227886942699909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070885170727829583",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "给死妈同桌看直接一句好丑 我他妈画个画她也在嘲讽说像鞋拔子你去死吧我好气但又不能说好想哭怎么会有情商这么低的傻逼 https://t.co/9b8uvHB30C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎蝎\n大哥@thexiexx\n两个号都被gostban了无法互动很抱歉orz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "再见，再见",
+        "name": "23点准时睡觉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070912725920940032/E-FS3NrH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 173,
+          "like_count": 824,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 883
+        },
+        "url": "",
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

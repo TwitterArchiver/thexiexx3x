@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2079225251976954357",
+    "created_at": "2026-07-20T15:21:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T16:21:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079225251976954357"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2079225251976954357",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "妈的广州那么多好玩的地方你是一个不愿意去啊非要浪费时间让所有人去什么博物馆和把那啥那啥爱那啥主译教育那啥色基地全走一遍😅😅😅😅我要疯掉了还要我必须拍照我就不拍他还骂我😅这个人也是一直在把那个那个词当圣经念了呀吵死了还让一直让豆包生成文案声音开的巨大就是故意放出来的每次旅游都这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2079225251976954357",
+        "created_at": "2026-07-20T15:21:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T16:21:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079225251976954357"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079225251976954357",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妈的广州那么多好玩的地方你是一个不愿意去啊非要浪费时间让所有人去什么博物馆和把那啥那啥爱那啥主译教育那啥色基地全走一遍😅😅😅😅我要疯掉了还要我必须拍照我就不拍他还骂我😅这个人也是一直在把那个那个词当圣经念了呀吵死了还让一直让豆包生成文案声音开的巨大就是故意放出来的每次旅游都这样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "每天",
+        "name": "嚼嚼",
+        "pinned_tweet_id": "2077840199158296579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 199,
+          "like_count": 1267,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 1505
+        },
+        "url": "",
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

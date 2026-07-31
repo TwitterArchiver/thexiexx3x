@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080955482223816704",
+        "3_2080955482265759744",
+        "3_2080955482190323712",
+        "3_2080955482089603072"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2080955522006794476",
+    "created_at": "2026-07-25T09:57:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T10:57:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080955522006794476"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LWGN59ta1U",
+          "end": 47,
+          "expanded_url": "https://x.com/thexiexx3x/status/2080955522006794476/photo/1",
+          "media_key": "3_2080955482223816704",
+          "start": 24,
+          "url": "https://t.co/LWGN59ta1U"
+        },
+        {
+          "display_url": "pic.x.com/LWGN59ta1U",
+          "end": 47,
+          "expanded_url": "https://x.com/thexiexx3x/status/2080955522006794476/photo/1",
+          "media_key": "3_2080955482265759744",
+          "start": 24,
+          "url": "https://t.co/LWGN59ta1U"
+        },
+        {
+          "display_url": "pic.x.com/LWGN59ta1U",
+          "end": 47,
+          "expanded_url": "https://x.com/thexiexx3x/status/2080955522006794476/photo/1",
+          "media_key": "3_2080955482190323712",
+          "start": 24,
+          "url": "https://t.co/LWGN59ta1U"
+        },
+        {
+          "display_url": "pic.x.com/LWGN59ta1U",
+          "end": 47,
+          "expanded_url": "https://x.com/thexiexx3x/status/2080955522006794476/photo/1",
+          "media_key": "3_2080955482089603072",
+          "start": 24,
+          "url": "https://t.co/LWGN59ta1U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080955522006794476",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "懊闷手机号注册的微颤特它一直说我是诈骗的😅😅😅 https://t.co/LWGN59ta1U"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080955482223816704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOEJ_FdaMAA0H2s.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080955482265759744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOEJ_FnaMAAJH2r.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080955482190323712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOEJ_FVbIAAiQCU.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080955482089603072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOEJ_E9aQAAD1OR.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080955482223816704",
+            "3_2080955482265759744",
+            "3_2080955482190323712",
+            "3_2080955482089603072"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2080955522006794476",
+        "created_at": "2026-07-25T09:57:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T10:57:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080955522006794476"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LWGN59ta1U",
+              "end": 47,
+              "expanded_url": "https://x.com/thexiexx3x/status/2080955522006794476/photo/1",
+              "media_key": "3_2080955482223816704",
+              "start": 24,
+              "url": "https://t.co/LWGN59ta1U"
+            },
+            {
+              "display_url": "pic.x.com/LWGN59ta1U",
+              "end": 47,
+              "expanded_url": "https://x.com/thexiexx3x/status/2080955522006794476/photo/1",
+              "media_key": "3_2080955482265759744",
+              "start": 24,
+              "url": "https://t.co/LWGN59ta1U"
+            },
+            {
+              "display_url": "pic.x.com/LWGN59ta1U",
+              "end": 47,
+              "expanded_url": "https://x.com/thexiexx3x/status/2080955522006794476/photo/1",
+              "media_key": "3_2080955482190323712",
+              "start": 24,
+              "url": "https://t.co/LWGN59ta1U"
+            },
+            {
+              "display_url": "pic.x.com/LWGN59ta1U",
+              "end": 47,
+              "expanded_url": "https://x.com/thexiexx3x/status/2080955522006794476/photo/1",
+              "media_key": "3_2080955482089603072",
+              "start": 24,
+              "url": "https://t.co/LWGN59ta1U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080955522006794476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "懊闷手机号注册的微颤特它一直说我是诈骗的😅😅😅 https://t.co/LWGN59ta1U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/thexiexx",
+                "end": 23,
+                "expanded_url": "https://t.me/thexiexx",
+                "start": 0,
+                "url": "https://t.co/w6gPwSRVgN"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "每天",
+        "name": "嚼嚼",
+        "pinned_tweet_id": "2077840199158296579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 223,
+          "like_count": 1567,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 1676
+        },
+        "url": "https://t.co/w6gPwSRVgN",
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

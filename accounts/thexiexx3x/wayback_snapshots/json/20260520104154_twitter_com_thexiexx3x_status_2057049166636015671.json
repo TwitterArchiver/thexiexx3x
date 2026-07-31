@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2057049049799520257",
+    "created_at": "2026-05-20T10:41:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T11:41:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057049166636015671"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2057049166636015671",
+    "in_reply_to_user_id": "2054583279257583616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057049049799520257",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我现在胳膊也不酸了脖子也不疼了呼吸顺畅前天差点被打死掐死被两位神人弄的满屋子满身血的事我是完全不会去想到了😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2057049049799520257",
+        "created_at": "2026-05-20T10:41:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T11:41:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057049166636015671"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057049166636015671",
+        "in_reply_to_user_id": "2054583279257583616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057049049799520257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我现在胳膊也不酸了脖子也不疼了呼吸顺畅前天差点被打死掐死被两位神人弄的满屋子满身血的事我是完全不会去想到了😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2057049049799520257",
+        "created_at": "2026-05-20T10:41:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T11:41:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057049049799520257"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057049049799520257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "普那个蕊⑧灵是神药吧我心情如同死了十个妈然后就不小心那个pr掉到嘴里了750毫克然后我胳膊也不酸了对了还有20mg巴绿分然后我死掉的十个妈妈犹如都复活了。等下的三门考试都无所谓了考就考吧这辈子也就这样了。考你妈逼啊三门我现在很鱿鱼。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "@thexiexx\n蝎些副本小号，前两世一个被贴了临时标签限流另一个在封号中。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "罹心力",
+        "name": "禁止暴食熬夜",
+        "pinned_tweet_id": "2055238057880875086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056751575289540608/GjxoGMpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 50,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 96
+        },
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

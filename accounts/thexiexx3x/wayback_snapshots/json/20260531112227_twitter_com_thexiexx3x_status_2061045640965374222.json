@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2061045640965374222",
+    "created_at": "2026-05-31T11:22:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T12:22:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061045640965374222"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2061045640965374222",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "mentionedUsers",
+    "text": "现在割手不割到脂肪层真皮层根本无法变得冷静，但是这样做的话藏不了，家长叫的我嫌烦动不动就要报沟子或者把我送脑科医院。不能歌手好难受"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2061045640965374222",
+        "created_at": "2026-05-31T11:22:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T12:22:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061045640965374222"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061045640965374222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "现在割手不割到脂肪层真皮层根本无法变得冷静，但是这样做的话藏不了，家长叫的我嫌烦动不动就要报沟子或者把我送脑科医院。不能歌手好难受"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎些\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "罹心力",
+        "name": "禁止暴食熬夜",
+        "pinned_tweet_id": "2055238057880875086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056751575289540608/GjxoGMpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 140,
+          "like_count": 408,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 395
+        },
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

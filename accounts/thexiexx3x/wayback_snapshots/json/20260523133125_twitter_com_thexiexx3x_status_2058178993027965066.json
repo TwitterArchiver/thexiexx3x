@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2058120521024442835",
+    "created_at": "2026-05-23T13:31:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T14:31:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058178993027965066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2021882125960777728",
+          "start": 0,
+          "username": "StopAnyting"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058178993027965066",
+    "in_reply_to_user_id": "2021882125960777728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058130173216833854",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@StopAnyting 啊 还能这样啊 下次试试😯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2058120521024442835",
+        "created_at": "2026-05-23T13:31:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T14:31:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058178993027965066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2021882125960777728",
+              "start": 0,
+              "username": "StopAnyting"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058178993027965066",
+        "in_reply_to_user_id": "2021882125960777728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058130173216833854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StopAnyting 啊 还能这样啊 下次试试😯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021882125960777728",
+        "conversation_id": "2058120521024442835",
+        "created_at": "2026-05-23T10:17:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T11:17:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058130173216833854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2054583279257583616",
+              "start": 0,
+              "username": "thexiexx3x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058130173216833854",
+        "in_reply_to_user_id": "2054583279257583616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058120521024442835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thexiexx3x 你也背单词吧  背一会就会被字母绕晕然后不知道什么时候就入眠了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎些\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "罹心力",
+        "name": "禁止暴食熬夜",
+        "pinned_tweet_id": "2055238057880875086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056751575289540608/GjxoGMpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 64,
+          "like_count": 105,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 159
+        },
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-12T09:40:48.000Z",
+        "description": "三叉神经",
+        "id": "2021882125960777728",
+        "name": "蠖",
+        "pinned_tweet_id": "2036841865446932725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047672632586440704/Nr52OSN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 207,
+          "like_count": 3305,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1861
+        },
+        "username": "StopAnyting",
+        "verified": false
+      }
+    ]
+  }
+}

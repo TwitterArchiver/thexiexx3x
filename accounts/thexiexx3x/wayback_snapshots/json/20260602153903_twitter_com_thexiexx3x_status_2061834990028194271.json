@@ -1,0 +1,396 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061832158126436352",
+        "3_2061832158139006977",
+        "3_2061832158143303681",
+        "3_2061832158164189184"
+      ],
+      "media_source_tweet_id": [
+        "2061832165810463167",
+        "2061832165810463167",
+        "2061832165810463167",
+        "2061832165810463167"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2061834990028194271",
+    "created_at": "2026-06-02T15:39:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T16:39:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061834990028194271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "899502186",
+          "start": 3,
+          "username": "0u0HaNako666"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PKBrBW4JCw",
+          "end": 82,
+          "expanded_url": "https://x.com/0u0HaNako666/status/2061832165810463167/photo/1",
+          "media_key": "3_2061832158126436352",
+          "start": 59,
+          "url": "https://t.co/PKBrBW4JCw"
+        },
+        {
+          "display_url": "pic.x.com/PKBrBW4JCw",
+          "end": 82,
+          "expanded_url": "https://x.com/0u0HaNako666/status/2061832165810463167/photo/1",
+          "media_key": "3_2061832158139006977",
+          "start": 59,
+          "url": "https://t.co/PKBrBW4JCw"
+        },
+        {
+          "display_url": "pic.x.com/PKBrBW4JCw",
+          "end": 82,
+          "expanded_url": "https://x.com/0u0HaNako666/status/2061832165810463167/photo/1",
+          "media_key": "3_2061832158143303681",
+          "start": 59,
+          "url": "https://t.co/PKBrBW4JCw"
+        },
+        {
+          "display_url": "pic.x.com/PKBrBW4JCw",
+          "end": 82,
+          "expanded_url": "https://x.com/0u0HaNako666/status/2061832165810463167/photo/1",
+          "media_key": "3_2061832158164189184",
+          "start": 59,
+          "url": "https://t.co/PKBrBW4JCw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061834990028194271",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 91
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061832165810463167",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0u0HaNako666: 「14歳の夏休み」ツアー\nありがとうございました\nphoto :Sota Edo https://t.co/PKBrBW4JCw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061832158126436352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ0ZbHuacAAQaUP.jpg",
+        "width": 1362
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2061832158139006977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ0ZbHxaQAEogqC.jpg",
+        "width": 1367
+      },
+      {
+        "height": 1362,
+        "media_key": "3_2061832158143303681",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ0ZbHyb0AE1UTA.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1362,
+        "media_key": "3_2061832158164189184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ0ZbH3agAAuyEP.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061832158126436352",
+            "3_2061832158139006977",
+            "3_2061832158143303681",
+            "3_2061832158164189184"
+          ],
+          "media_source_tweet_id": [
+            "2061832165810463167",
+            "2061832165810463167",
+            "2061832165810463167",
+            "2061832165810463167"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2061834990028194271",
+        "created_at": "2026-06-02T15:39:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T16:39:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061834990028194271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "899502186",
+              "start": 3,
+              "username": "0u0HaNako666"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PKBrBW4JCw",
+              "end": 82,
+              "expanded_url": "https://x.com/0u0HaNako666/status/2061832165810463167/photo/1",
+              "media_key": "3_2061832158126436352",
+              "start": 59,
+              "url": "https://t.co/PKBrBW4JCw"
+            },
+            {
+              "display_url": "pic.x.com/PKBrBW4JCw",
+              "end": 82,
+              "expanded_url": "https://x.com/0u0HaNako666/status/2061832165810463167/photo/1",
+              "media_key": "3_2061832158139006977",
+              "start": 59,
+              "url": "https://t.co/PKBrBW4JCw"
+            },
+            {
+              "display_url": "pic.x.com/PKBrBW4JCw",
+              "end": 82,
+              "expanded_url": "https://x.com/0u0HaNako666/status/2061832165810463167/photo/1",
+              "media_key": "3_2061832158143303681",
+              "start": 59,
+              "url": "https://t.co/PKBrBW4JCw"
+            },
+            {
+              "display_url": "pic.x.com/PKBrBW4JCw",
+              "end": 82,
+              "expanded_url": "https://x.com/0u0HaNako666/status/2061832165810463167/photo/1",
+              "media_key": "3_2061832158164189184",
+              "start": 59,
+              "url": "https://t.co/PKBrBW4JCw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061834990028194271",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 91
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061832165810463167",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0u0HaNako666: 「14歳の夏休み」ツアー\nありがとうございました\nphoto :Sota Edo https://t.co/PKBrBW4JCw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061832158126436352",
+            "3_2061832158139006977",
+            "3_2061832158143303681",
+            "3_2061832158164189184"
+          ]
+        },
+        "author_id": "899502186",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2061832165810463167",
+        "created_at": "2026-06-02T15:27:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T16:27:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061832165810463167"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PKBrBW4JCw",
+              "end": 64,
+              "expanded_url": "https://x.com/0u0HaNako666/status/2061832165810463167/photo/1",
+              "media_key": "3_2061832158126436352",
+              "start": 41,
+              "url": "https://t.co/PKBrBW4JCw"
+            },
+            {
+              "display_url": "pic.x.com/PKBrBW4JCw",
+              "end": 64,
+              "expanded_url": "https://x.com/0u0HaNako666/status/2061832165810463167/photo/1",
+              "media_key": "3_2061832158139006977",
+              "start": 41,
+              "url": "https://t.co/PKBrBW4JCw"
+            },
+            {
+              "display_url": "pic.x.com/PKBrBW4JCw",
+              "end": 64,
+              "expanded_url": "https://x.com/0u0HaNako666/status/2061832165810463167/photo/1",
+              "media_key": "3_2061832158143303681",
+              "start": 41,
+              "url": "https://t.co/PKBrBW4JCw"
+            },
+            {
+              "display_url": "pic.x.com/PKBrBW4JCw",
+              "end": 64,
+              "expanded_url": "https://x.com/0u0HaNako666/status/2061832165810463167/photo/1",
+              "media_key": "3_2061832158164189184",
+              "start": 41,
+              "url": "https://t.co/PKBrBW4JCw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061832165810463167",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3748,
+          "like_count": 313,
+          "quote_count": 9,
+          "reply_count": 35,
+          "retweet_count": 91
+        },
+        "reply_settings": "everyone",
+        "text": "「14歳の夏休み」ツアー\nありがとうございました\nphoto :Sota Edo https://t.co/PKBrBW4JCw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎些\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "罹心力",
+        "name": "禁止暴食熬夜",
+        "pinned_tweet_id": "2061694728853455116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056751575289540608/GjxoGMpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 160,
+          "like_count": 497,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 453
+        },
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2012-10-23T08:30:24.000Z",
+        "description": "神聖かまってちゃん\n「進撃の巨人」 OP / ED他アニメ・映画主題歌、大体担当\n自主制作Pv：https://t.co/TSG9iEnYCk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/user/vivaru",
+                "end": 71,
+                "expanded_url": "https://youtube.com/user/vivaru",
+                "start": 48,
+                "url": "https://t.co/TSG9iEnYCk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/nekonokonekono…",
+                "end": 23,
+                "expanded_url": "http://lit.link/nekonokonekonoko",
+                "start": 0,
+                "url": "https://t.co/dKaVW0fg08"
+              }
+            ]
+          }
+        },
+        "id": "899502186",
+        "name": "の子",
+        "pinned_tweet_id": "1885316431317000694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058561149671727104/2IM1lRK__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179354,
+          "following_count": 227,
+          "like_count": 364702,
+          "listed_count": 1357,
+          "media_count": 2722,
+          "tweet_count": 54893
+        },
+        "url": "https://t.co/dKaVW0fg08",
+        "username": "0u0HaNako666",
+        "verified": false
+      }
+    ]
+  }
+}

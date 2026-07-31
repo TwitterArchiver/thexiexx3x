@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2063348826057150614",
+    "created_at": "2026-06-06T19:54:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T20:54:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063348826057150614"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2063348826057150614",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "从来没跟现实中的人吐槽过负面情绪问题我也懒得说。对别人来说就像是嘴里被强行塞垃圾。而且本来就没什么朋友。这导致，我有一段时间太难受脑子犯抽和好朋友说对不起我觉得我太负面了我们不适合做朋友，对方说你哪里负面了。然后她把我这段话发朋友圈了我连夜换头像呀祈祷不要有人认出我当时感觉像裸奔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2063348826057150614",
+        "created_at": "2026-06-06T19:54:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T20:54:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063348826057150614"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063348826057150614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从来没跟现实中的人吐槽过负面情绪问题我也懒得说。对别人来说就像是嘴里被强行塞垃圾。而且本来就没什么朋友。这导致，我有一段时间太难受脑子犯抽和好朋友说对不起我觉得我太负面了我们不适合做朋友，对方说你哪里负面了。然后她把我这段话发朋友圈了我连夜换头像呀祈祷不要有人认出我当时感觉像裸奔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎些\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "罹心力",
+        "name": "禁止暴食熬夜",
+        "pinned_tweet_id": "2061694728853455116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056751575289540608/GjxoGMpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 186,
+          "like_count": 701,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 584
+        },
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

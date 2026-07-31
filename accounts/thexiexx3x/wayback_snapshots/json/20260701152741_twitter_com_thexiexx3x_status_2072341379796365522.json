@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072341348439695360"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2072341379796365522",
+    "created_at": "2026-07-01T15:27:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T16:27:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072341379796365522"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ooUfhMYbwd",
+          "end": 26,
+          "expanded_url": "https://x.com/thexiexx3x/status/2072341379796365522/photo/1",
+          "media_key": "3_2072341348439695360",
+          "start": 3,
+          "url": "https://t.co/ooUfhMYbwd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072341379796365522",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🐘🦵 https://t.co/ooUfhMYbwd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3264,
+        "media_key": "3_2072341348439695360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMJvegcaIAA5g86.jpg",
+        "width": 2445
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072341348439695360"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2072341379796365522",
+        "created_at": "2026-07-01T15:27:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T16:27:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072341379796365522"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ooUfhMYbwd",
+              "end": 26,
+              "expanded_url": "https://x.com/thexiexx3x/status/2072341379796365522/photo/1",
+              "media_key": "3_2072341348439695360",
+              "start": 3,
+              "url": "https://t.co/ooUfhMYbwd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072341379796365522",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🐘🦵 https://t.co/ooUfhMYbwd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎蝎\n大哥@thexiexx\n两个号都被gostban了无法互动很抱歉orz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "再见，再见",
+        "name": "23点准时睡觉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070912725920940032/E-FS3NrH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 178,
+          "like_count": 839,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 958
+        },
+        "url": "",
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

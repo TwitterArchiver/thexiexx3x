@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059580891723345921"
+      ],
+      "media_source_tweet_id": [
+        "2059581440963260481"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2059647958262706490",
+    "created_at": "2026-05-27T14:48:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T15:48:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059647958262706490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1298774791",
+          "start": 3,
+          "username": "shycocoa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pJqy52VRP2",
+          "end": 45,
+          "expanded_url": "https://x.com/shycocoa/status/2059581440963260481/photo/1",
+          "media_key": "3_2059580891723345921",
+          "start": 22,
+          "url": "https://t.co/pJqy52VRP2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059647958262706490",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1703
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059581440963260481",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shycocoa: いますぐ輪廻💫 https://t.co/pJqy52VRP2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2950,
+        "media_key": "3_2059580891723345921",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJUZ6K1aMAEI4Zo.jpg",
+        "width": 1758
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059580891723345921"
+          ],
+          "media_source_tweet_id": [
+            "2059581440963260481"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2059647958262706490",
+        "created_at": "2026-05-27T14:48:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T15:48:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059647958262706490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1298774791",
+              "start": 3,
+              "username": "shycocoa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pJqy52VRP2",
+              "end": 45,
+              "expanded_url": "https://x.com/shycocoa/status/2059581440963260481/photo/1",
+              "media_key": "3_2059580891723345921",
+              "start": 22,
+              "url": "https://t.co/pJqy52VRP2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059647958262706490",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1703
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059581440963260481",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shycocoa: いますぐ輪廻💫 https://t.co/pJqy52VRP2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059580891723345921"
+          ]
+        },
+        "author_id": "1298774791",
+        "conversation_id": "2059581440963260481",
+        "created_at": "2026-05-27T10:24:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T11:24:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059581440963260481"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pJqy52VRP2",
+              "end": 31,
+              "expanded_url": "https://x.com/shycocoa/status/2059581440963260481/photo/1",
+              "media_key": "3_2059580891723345921",
+              "start": 8,
+              "url": "https://t.co/pJqy52VRP2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059581440963260481",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1570,
+          "impression_count": 124521,
+          "like_count": 13975,
+          "quote_count": 35,
+          "reply_count": 8,
+          "retweet_count": 1703
+        },
+        "reply_settings": "everyone",
+        "text": "いますぐ輪廻💫 https://t.co/pJqy52VRP2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎些\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "罹心力",
+        "name": "禁止暴食熬夜",
+        "pinned_tweet_id": "2055238057880875086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056751575289540608/GjxoGMpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 99,
+          "like_count": 250,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 289
+        },
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2013-03-25T10:20:11.000Z",
+        "description": "PROPIC academy | codusee@gmail.com | 26년도 외주 안받습니다.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/shycocoa",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/shycocoa",
+                "start": 0,
+                "url": "https://t.co/xc4PoA2msZ"
+              }
+            ]
+          }
+        },
+        "id": "1298774791",
+        "name": "수줍 Sjoop / 콜로소 오픈",
+        "pinned_tweet_id": "2032744246508401078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/928774060602884096/dGfPiIij_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280134,
+          "following_count": 259,
+          "like_count": 4377,
+          "listed_count": 2151,
+          "media_count": 202,
+          "tweet_count": 1927
+        },
+        "url": "https://t.co/xc4PoA2msZ",
+        "username": "shycocoa",
+        "verified": true
+      }
+    ]
+  }
+}

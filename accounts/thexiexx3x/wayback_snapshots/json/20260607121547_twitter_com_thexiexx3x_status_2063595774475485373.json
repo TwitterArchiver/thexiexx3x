@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2063590123493814384",
+    "created_at": "2026-06-07T12:15:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T13:15:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063595774475485373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1968940871660744705",
+          "start": 0,
+          "username": "guest07080279"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063595774475485373",
+    "in_reply_to_user_id": "1968940871660744705",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063590123493814384",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guest07080279 馋哭了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1560,
+        "media_key": "3_2063590080112189441",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNYPpcbYAE_BBx.jpg",
+        "width": 2080
+      },
+      {
+        "height": 1560,
+        "media_key": "3_2063590089515798528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNYQMebEAAmVdm.jpg",
+        "width": 2080
+      },
+      {
+        "height": 1560,
+        "media_key": "3_2063590085703196672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNYP-RbYAAPpVO.jpg",
+        "width": 2080
+      },
+      {
+        "height": 1560,
+        "media_key": "3_2063590089532510208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNYQMiaEAA9kG2.jpg",
+        "width": 2080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2063590123493814384",
+        "created_at": "2026-06-07T12:15:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T13:15:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063595774475485373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1968940871660744705",
+              "start": 0,
+              "username": "guest07080279"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063595774475485373",
+        "in_reply_to_user_id": "1968940871660744705",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063590123493814384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guest07080279 馋哭了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063590080112189441",
+            "3_2063590089515798528",
+            "3_2063590085703196672",
+            "3_2063590089532510208"
+          ]
+        },
+        "author_id": "1968940871660744705",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sushi",
+              "id": "825054873343234048",
+              "name": "Sushi"
+            }
+          }
+        ],
+        "conversation_id": "2063590123493814384",
+        "created_at": "2026-06-07T11:53:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T12:53:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063590123493814384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TmIAICVsJc",
+              "end": 28,
+              "expanded_url": "https://x.com/guest07080279/status/2063590123493814384/photo/1",
+              "media_key": "3_2063590080112189441",
+              "start": 5,
+              "url": "https://t.co/TmIAICVsJc"
+            },
+            {
+              "display_url": "pic.x.com/TmIAICVsJc",
+              "end": 28,
+              "expanded_url": "https://x.com/guest07080279/status/2063590123493814384/photo/1",
+              "media_key": "3_2063590089515798528",
+              "start": 5,
+              "url": "https://t.co/TmIAICVsJc"
+            },
+            {
+              "display_url": "pic.x.com/TmIAICVsJc",
+              "end": 28,
+              "expanded_url": "https://x.com/guest07080279/status/2063590123493814384/photo/1",
+              "media_key": "3_2063590085703196672",
+              "start": 5,
+              "url": "https://t.co/TmIAICVsJc"
+            },
+            {
+              "display_url": "pic.x.com/TmIAICVsJc",
+              "end": 28,
+              "expanded_url": "https://x.com/guest07080279/status/2063590123493814384/photo/1",
+              "media_key": "3_2063590089532510208",
+              "start": 5,
+              "url": "https://t.co/TmIAICVsJc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063590123493814384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "滨寿司！ https://t.co/TmIAICVsJc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎些\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "罹心力",
+        "name": "禁止暴食熬夜",
+        "pinned_tweet_id": "2063475995626307922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056751575289540608/GjxoGMpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 190,
+          "like_count": 741,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 617
+        },
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-19T07:31:18.000Z",
+        "description": "画画人超级大进击！欢迎来和我玩🥺🥺！！\n    💖DM大欢迎！💖\n   无言关注失礼了！是超级喜欢或者感觉超级有潜力的意思🥺！\n🔥画🔥画🔥屌🔥丝🔥火🔥热🔥画🔥史🔥",
+        "id": "1968940871660744705",
+        "name": "砂",
+        "pinned_tweet_id": "2063447096565662099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050055162207846400/9aL-7zhd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 40,
+          "like_count": 8466,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 253
+        },
+        "username": "guest07080279",
+        "verified": false
+      }
+    ]
+  }
+}

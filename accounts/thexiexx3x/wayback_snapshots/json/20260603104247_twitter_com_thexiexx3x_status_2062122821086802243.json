@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2062095637538386019",
+    "created_at": "2026-06-03T10:42:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T11:42:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062122821086802243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1965129075846193152",
+          "start": 0,
+          "username": "ukhai15367842"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062122821086802243",
+    "in_reply_to_user_id": "1965129075846193152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062095637538386019",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ukhai15367842 抱抱小滞🥹🫳好漂亮的疤痕…学师范已经很厉害了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062095628793217024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ4JDIcbAAAqwHq.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2062095637538386019",
+        "created_at": "2026-06-03T10:42:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T11:42:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062122821086802243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1965129075846193152",
+              "start": 0,
+              "username": "ukhai15367842"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062122821086802243",
+        "in_reply_to_user_id": "1965129075846193152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062095637538386019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ukhai15367842 抱抱小滞🥹🫳好漂亮的疤痕…学师范已经很厉害了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062095628793217024"
+          ]
+        },
+        "author_id": "1965129075846193152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Exercise and fitness",
+              "id": "847872878041219072",
+              "name": "Fitness"
+            }
+          },
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Exercises",
+              "id": "872554146750017536",
+              "name": "Exercises"
+            }
+          }
+        ],
+        "conversation_id": "2062095637538386019",
+        "created_at": "2026-06-03T08:54:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T09:54:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062095637538386019"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xqmao131wd",
+              "end": 79,
+              "expanded_url": "https://x.com/ukhai15367842/status/2062095637538386019/photo/1",
+              "media_key": "3_2062095628793217024",
+              "start": 56,
+              "url": "https://t.co/Xqmao131wd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062095637538386019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一運動我的疤就變得粉粉的，唉，倒也不指望它能徹底淡下去了。不過我學師範的以後真的能有單位要我這樣的人嗎……😿 https://t.co/Xqmao131wd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎些\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "罹心力",
+        "name": "禁止暴食熬夜",
+        "pinned_tweet_id": "2061694728853455116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056751575289540608/GjxoGMpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 167,
+          "like_count": 525,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 464
+        },
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-08T19:04:27.000Z",
+        "description": "碎碎念/lesb/🔪🩸注意⚠️/歡迎互fo互轉/匿名提問箱https://t.co/cpMSdyKEVY想被看見想交到好朋友……",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zhi68399",
+                "end": 52,
+                "expanded_url": "https://ngl.link/zhi68399",
+                "start": 29,
+                "url": "https://t.co/cpMSdyKEVY"
+              }
+            ]
+          }
+        },
+        "id": "1965129075846193152",
+        "name": "小小滯",
+        "pinned_tweet_id": "2060018632479084970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053840204767891456/ZbYQ_j1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 40,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 189
+        },
+        "username": "ukhai15367842",
+        "verified": false
+      }
+    ]
+  }
+}

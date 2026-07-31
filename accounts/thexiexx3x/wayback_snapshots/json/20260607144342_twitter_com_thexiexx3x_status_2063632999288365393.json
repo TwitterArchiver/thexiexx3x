@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2063632938215063552"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2063632999288365393",
+    "created_at": "2026-06-07T14:43:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T15:43:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063632999288365393"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1dqMTqghHk",
+          "end": 28,
+          "expanded_url": "https://x.com/thexiexx3x/status/2063632999288365393/video/1",
+          "media_key": "13_2063632938215063552",
+          "start": 5,
+          "url": "https://t.co/1dqMTqghHk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063632999288365393",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我是活人 https://t.co/1dqMTqghHk"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4280,
+        "height": 1280,
+        "media_key": "13_2063632938215063552",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2063632938215063552/img/uUF4z_C279z0a0WN.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063632938215063552/vid/avc1/320x568/QhaANwEPZLy2D9Mp.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063632938215063552/vid/avc1/480x852/ICMEIXq8j1ysnxxy.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063632938215063552/vid/avc1/720x1280/F154lRjA0dRMChIP.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2063632938215063552/pl/ehqNziHQPzCIaIou.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2063632938215063552"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2063632999288365393",
+        "created_at": "2026-06-07T14:43:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T15:43:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063632999288365393"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1dqMTqghHk",
+              "end": 28,
+              "expanded_url": "https://x.com/thexiexx3x/status/2063632999288365393/video/1",
+              "media_key": "13_2063632938215063552",
+              "start": 5,
+              "url": "https://t.co/1dqMTqghHk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063632999288365393",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是活人 https://t.co/1dqMTqghHk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎些\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "罹心力",
+        "name": "禁止暴食熬夜",
+        "pinned_tweet_id": "2063475995626307922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056751575289540608/GjxoGMpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 190,
+          "like_count": 748,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 620
+        },
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

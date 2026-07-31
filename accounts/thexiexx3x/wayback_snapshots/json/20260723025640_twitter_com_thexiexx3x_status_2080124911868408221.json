@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080050334953832448",
+        "3_2080050363022151680",
+        "3_2080050373981798401"
+      ],
+      "media_source_tweet_id": [
+        "2080050376326476073",
+        "2080050376326476073",
+        "2080050376326476073"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2080124911868408221",
+    "created_at": "2026-07-23T02:56:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T03:56:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080124911868408221"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1996655575564947456",
+          "start": 3,
+          "username": "tVbk41"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8jWvAvwwrA",
+          "end": 50,
+          "expanded_url": "https://x.com/tVbk41/status/2080050376326476073/photo/1",
+          "media_key": "3_2080050334953832448",
+          "start": 27,
+          "url": "https://t.co/8jWvAvwwrA"
+        },
+        {
+          "display_url": "pic.x.com/8jWvAvwwrA",
+          "end": 50,
+          "expanded_url": "https://x.com/tVbk41/status/2080050376326476073/photo/1",
+          "media_key": "3_2080050363022151680",
+          "start": 27,
+          "url": "https://t.co/8jWvAvwwrA"
+        },
+        {
+          "display_url": "pic.x.com/8jWvAvwwrA",
+          "end": 50,
+          "expanded_url": "https://x.com/tVbk41/status/2080050376326476073/photo/1",
+          "media_key": "3_2080050373981798401",
+          "start": 27,
+          "url": "https://t.co/8jWvAvwwrA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080124911868408221",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 214
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080050376326476073",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tVbk41: 얼굴칠할때 신경쓰는건 이거 https://t.co/8jWvAvwwrA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1843,
+        "media_key": "3_2080050334953832448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN3SwlHbAAALkyi.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1078,
+        "media_key": "3_2080050363022151680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN3SyNrbkAAKNb2.jpg",
+        "width": 1165
+      },
+      {
+        "height": 686,
+        "media_key": "3_2080050373981798401",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN3Sy2gagAESbMC.jpg",
+        "width": 715
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080050334953832448",
+            "3_2080050363022151680",
+            "3_2080050373981798401"
+          ]
+        },
+        "author_id": "1996655575564947456",
+        "conversation_id": "2080050376326476073",
+        "created_at": "2026-07-22T22:00:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T23:00:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080050376326476073"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8jWvAvwwrA",
+              "end": 38,
+              "expanded_url": "https://x.com/tVbk41/status/2080050376326476073/photo/1",
+              "media_key": "3_2080050334953832448",
+              "start": 15,
+              "url": "https://t.co/8jWvAvwwrA"
+            },
+            {
+              "display_url": "pic.x.com/8jWvAvwwrA",
+              "end": 38,
+              "expanded_url": "https://x.com/tVbk41/status/2080050376326476073/photo/1",
+              "media_key": "3_2080050363022151680",
+              "start": 15,
+              "url": "https://t.co/8jWvAvwwrA"
+            },
+            {
+              "display_url": "pic.x.com/8jWvAvwwrA",
+              "end": 38,
+              "expanded_url": "https://x.com/tVbk41/status/2080050376326476073/photo/1",
+              "media_key": "3_2080050373981798401",
+              "start": 15,
+              "url": "https://t.co/8jWvAvwwrA"
+            },
+            {
+              "display_url": "x.com/tVbk41/status/…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/tVbk41/status/2057482195267461567",
+              "start": 39,
+              "url": "https://t.co/2f8Ap2gE3x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080050376326476073",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1512,
+          "impression_count": 99938,
+          "like_count": 2131,
+          "quote_count": 7,
+          "reply_count": 0,
+          "retweet_count": 213
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057482195267461567",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "얼굴칠할때 신경쓰는건 이거 https://t.co/8jWvAvwwrA https://t.co/2f8Ap2gE3x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080050334953832448",
+            "3_2080050363022151680",
+            "3_2080050373981798401"
+          ],
+          "media_source_tweet_id": [
+            "2080050376326476073",
+            "2080050376326476073",
+            "2080050376326476073"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2080124911868408221",
+        "created_at": "2026-07-23T02:56:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T03:56:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080124911868408221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1996655575564947456",
+              "start": 3,
+              "username": "tVbk41"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8jWvAvwwrA",
+              "end": 50,
+              "expanded_url": "https://x.com/tVbk41/status/2080050376326476073/photo/1",
+              "media_key": "3_2080050334953832448",
+              "start": 27,
+              "url": "https://t.co/8jWvAvwwrA"
+            },
+            {
+              "display_url": "pic.x.com/8jWvAvwwrA",
+              "end": 50,
+              "expanded_url": "https://x.com/tVbk41/status/2080050376326476073/photo/1",
+              "media_key": "3_2080050363022151680",
+              "start": 27,
+              "url": "https://t.co/8jWvAvwwrA"
+            },
+            {
+              "display_url": "pic.x.com/8jWvAvwwrA",
+              "end": 50,
+              "expanded_url": "https://x.com/tVbk41/status/2080050376326476073/photo/1",
+              "media_key": "3_2080050373981798401",
+              "start": 27,
+              "url": "https://t.co/8jWvAvwwrA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080124911868408221",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 214
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080050376326476073",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tVbk41: 얼굴칠할때 신경쓰는건 이거 https://t.co/8jWvAvwwrA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "每天",
+        "name": "嚼嚼",
+        "pinned_tweet_id": "2077840199158296579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 209,
+          "like_count": 1437,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 1584
+        },
+        "url": "",
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-04T19:00:13.000Z",
+        "description": "사담계",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/CHICK",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/CHICK",
+                "start": 0,
+                "url": "https://t.co/OKmpLGQaPx"
+              }
+            ]
+          }
+        },
+        "id": "1996655575564947456",
+        "name": "통닭",
+        "pinned_tweet_id": "2038581366208827408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996657341836775424/S0jzVHJ3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10540,
+          "following_count": 102,
+          "like_count": 2521,
+          "listed_count": 32,
+          "media_count": 1059,
+          "tweet_count": 6056
+        },
+        "url": "https://t.co/OKmpLGQaPx",
+        "username": "tVbk41",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082289396536242176",
+        "3_2082289396477534208"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2082289408641044946",
+    "created_at": "2026-07-29T02:17:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T03:17:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082289408641044946"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pf0pIswxTS",
+          "end": 44,
+          "expanded_url": "https://x.com/thexiexx3x/status/2082289408641044946/photo/1",
+          "media_key": "3_2082289396536242176",
+          "start": 21,
+          "url": "https://t.co/pf0pIswxTS"
+        },
+        {
+          "display_url": "pic.x.com/pf0pIswxTS",
+          "end": 44,
+          "expanded_url": "https://x.com/thexiexx3x/status/2082289408641044946/photo/1",
+          "media_key": "3_2082289396477534208",
+          "start": 21,
+          "url": "https://t.co/pf0pIswxTS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082289408641044946",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我给他加了三包咖啡液。75ml还是有点淡 https://t.co/pf0pIswxTS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082289396536242176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOXHLHga8AAv5UW.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082289396477534208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOXHLHSbIAAk-eA.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082289396536242176",
+            "3_2082289396477534208"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2082289408641044946",
+        "created_at": "2026-07-29T02:17:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T03:17:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082289408641044946"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pf0pIswxTS",
+              "end": 44,
+              "expanded_url": "https://x.com/thexiexx3x/status/2082289408641044946/photo/1",
+              "media_key": "3_2082289396536242176",
+              "start": 21,
+              "url": "https://t.co/pf0pIswxTS"
+            },
+            {
+              "display_url": "pic.x.com/pf0pIswxTS",
+              "end": 44,
+              "expanded_url": "https://x.com/thexiexx3x/status/2082289408641044946/photo/1",
+              "media_key": "3_2082289396477534208",
+              "start": 21,
+              "url": "https://t.co/pf0pIswxTS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082289408641044946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我给他加了三包咖啡液。75ml还是有点淡 https://t.co/pf0pIswxTS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/thexiexx",
+                "end": 23,
+                "expanded_url": "https://t.me/thexiexx",
+                "start": 0,
+                "url": "https://t.co/w6gPwSRVgN"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "mybed",
+        "name": "嚼嚼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 215,
+          "like_count": 1710,
+          "listed_count": 0,
+          "media_count": 194,
+          "tweet_count": 1826
+        },
+        "url": "https://t.co/w6gPwSRVgN",
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

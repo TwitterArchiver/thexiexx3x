@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2063447096565662099",
+    "created_at": "2026-06-07T02:58:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T03:58:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063455555814097075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1968940871660744705",
+          "start": 0,
+          "username": "guest07080279"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063455555814097075",
+    "in_reply_to_user_id": "1968940871660744705",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063447096565662099",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guest07080279 来认领惹，我爱你呀！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2200,
+        "media_key": "3_2063427576601927680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKLEcssaYAAKjec.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2200,
+        "media_key": "3_2063447093453434880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKLWMuoasAANiuo.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2063447096565662099",
+        "created_at": "2026-06-07T02:58:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T03:58:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063455555814097075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1968940871660744705",
+              "start": 0,
+              "username": "guest07080279"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063455555814097075",
+        "in_reply_to_user_id": "1968940871660744705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063447096565662099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guest07080279 来认领惹，我爱你呀！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063427576601927680",
+            "3_2063447093453434880"
+          ]
+        },
+        "author_id": "1968940871660744705",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2063447096565662099",
+        "created_at": "2026-06-07T02:24:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T03:24:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063447096565662099"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 120,
+              "start": 116,
+              "tag": "立ち絵"
+            },
+            {
+              "end": 126,
+              "start": 121,
+              "tag": "イラスト"
+            },
+            {
+              "end": 132,
+              "start": 127,
+              "tag": "描き合い"
+            },
+            {
+              "end": 137,
+              "start": 134,
+              "tag": "創作"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2054583279257583616",
+              "start": 1,
+              "username": "thexiexx3x"
+            },
+            {
+              "end": 54,
+              "id": "2054583279257583616",
+              "start": 43,
+              "username": "thexiexx3x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zefJfSE5zZ",
+              "end": 161,
+              "expanded_url": "https://x.com/guest07080279/status/2063447096565662099/photo/1",
+              "media_key": "3_2063427576601927680",
+              "start": 138,
+              "url": "https://t.co/zefJfSE5zZ"
+            },
+            {
+              "display_url": "pic.x.com/zefJfSE5zZ",
+              "end": 161,
+              "expanded_url": "https://x.com/guest07080279/status/2063447096565662099/photo/1",
+              "media_key": "3_2063447093453434880",
+              "start": 138,
+              "url": "https://t.co/zefJfSE5zZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063447096565662099",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为@thexiexx3x绘制的立绘！花了更少的时间，是不是却有了更好的画面呢？🥺✨\n​@thexiexx3x さんの立ち絵を描かせていただきました！いつもより短い時間で描けたのですが、クオリティは上がっている気がしませんか…？🥺✨\n#立ち絵 #イラスト #描き合い  #創作 https://t.co/zefJfSE5zZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎些\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "罹心力",
+        "name": "禁止暴食熬夜",
+        "pinned_tweet_id": "2061694728853455116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056751575289540608/GjxoGMpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 186,
+          "like_count": 704,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 587
+        },
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-19T07:31:18.000Z",
+        "description": "画画人超级大进击！欢迎来和我玩🥺🥺！！\n    💖DM大欢迎！💖\n   无言关注失礼了！是超级喜欢或者感觉超级有潜力的意思🥺！\n🔥画🔥画🔥屌🔥丝🔥火🔥热🔥画🔥史🔥",
+        "id": "1968940871660744705",
+        "name": "砂",
+        "pinned_tweet_id": "2063447096565662099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050055162207846400/9aL-7zhd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 36,
+          "like_count": 8411,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 249
+        },
+        "username": "guest07080279",
+        "verified": false
+      }
+    ]
+  }
+}

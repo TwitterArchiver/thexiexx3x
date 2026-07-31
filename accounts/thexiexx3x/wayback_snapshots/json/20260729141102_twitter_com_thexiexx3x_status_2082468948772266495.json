@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2082436048047714636",
+    "created_at": "2026-07-29T14:11:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T15:11:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082468948772266495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2078606055446298624",
+          "start": 0,
+          "username": "zhi_qingqing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082468948772266495",
+    "in_reply_to_user_id": "2078606055446298624",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082447940938031421",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhi_qingqing 嘻嘻嘻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2082436048047714636",
+        "created_at": "2026-07-29T14:11:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T15:11:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082468948772266495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2078606055446298624",
+              "start": 0,
+              "username": "zhi_qingqing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082468948772266495",
+        "in_reply_to_user_id": "2078606055446298624",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082447940938031421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhi_qingqing 嘻嘻嘻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2078606055446298624",
+        "conversation_id": "2082436048047714636",
+        "created_at": "2026-07-29T12:47:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T13:47:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082447940938031421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2054583279257583616",
+              "start": 0,
+              "username": "thexiexx3x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082447940938031421",
+        "in_reply_to_user_id": "2054583279257583616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082436048047714636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thexiexx3x ？！强强？！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/thexiexx",
+                "end": 23,
+                "expanded_url": "https://t.me/thexiexx",
+                "start": 0,
+                "url": "https://t.co/w6gPwSRVgN"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "mybed",
+        "name": "嚼嚼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 214,
+          "like_count": 1740,
+          "listed_count": 0,
+          "media_count": 198,
+          "tweet_count": 1852
+        },
+        "url": "https://t.co/w6gPwSRVgN",
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-18T22:23:50.000Z",
+        "description": "我是滯/lesb/紫餐歐弟負能注意/佛系互fo/歡迎私信",
+        "id": "2078606055446298624",
+        "location": "距離你2.778km",
+        "name": "滯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078606838959067137/Sqf06u1O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 14,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 30
+        },
+        "url": "",
+        "username": "zhi_qingqing",
+        "verified": false
+      }
+    ]
+  }
+}

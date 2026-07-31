@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2060410167326613763",
+    "created_at": "2026-05-29T17:22:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T18:22:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060411464767463813"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2060411464767463813",
+    "in_reply_to_user_id": "2054583279257583616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060410167326613763",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我觉得这种方式画完一张画要好久好久而且估计我这种专注力画不下去的 wtf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1423,
+        "media_key": "3_2060410127929532416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJgMGEbbYAAhmrS.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2060410167326613763",
+        "created_at": "2026-05-29T17:22:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T18:22:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060411464767463813"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060411464767463813",
+        "in_reply_to_user_id": "2054583279257583616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060410167326613763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我觉得这种方式画完一张画要好久好久而且估计我这种专注力画不下去的 wtf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060410127929532416"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2060410167326613763",
+        "created_at": "2026-05-29T17:17:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T18:17:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060410167326613763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wqV3McT6Ed",
+              "end": 28,
+              "expanded_url": "https://x.com/thexiexx3x/status/2060410167326613763/photo/1",
+              "media_key": "3_2060410127929532416",
+              "start": 5,
+              "url": "https://t.co/wqV3McT6Ed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060410167326613763",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "剧烈细化 https://t.co/wqV3McT6Ed"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎些\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "罹心力",
+        "name": "禁止暴食熬夜",
+        "pinned_tweet_id": "2055238057880875086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056751575289540608/GjxoGMpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 123,
+          "like_count": 319,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 351
+        },
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

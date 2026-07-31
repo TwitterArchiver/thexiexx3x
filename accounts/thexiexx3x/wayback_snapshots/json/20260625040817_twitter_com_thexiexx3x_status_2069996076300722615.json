@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2069996076300722615",
+    "created_at": "2026-06-25T04:08:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T05:08:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069996076300722615"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2069996076300722615",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我感觉我作文写跑题了😅😅😅😅写了一半通篇已经构思好了我才看见漏了一句题没读我操最后八百字还差五行没写😅😅😅😅😅😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2069996076300722615",
+        "created_at": "2026-06-25T04:08:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T05:08:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069996076300722615"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069996076300722615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉我作文写跑题了😅😅😅😅写了一半通篇已经构思好了我才看见漏了一句题没读我操最后八百字还差五行没写😅😅😅😅😅😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎蝎\n大哥@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "再见，再见",
+        "name": "23点准时睡觉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069086562667970560/iptEZZ1u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 173,
+          "like_count": 815,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 810
+        },
+        "url": "",
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,409 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076240192491421697"
+      ],
+      "media_source_tweet_id": [
+        "2076240201576251439"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Generic Drinks",
+          "id": "834828445238431744",
+          "name": "Generic Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Coffee",
+          "id": "850442647088971776",
+          "name": "Coffee"
+        }
+      }
+    ],
+    "conversation_id": "2076609249220948220",
+    "created_at": "2026-07-13T10:06:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T11:06:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076609249220948220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1786413884473008128",
+          "start": 3,
+          "username": "F0ODHub"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jxRE8TjF8N",
+          "end": 72,
+          "expanded_url": "https://x.com/F0ODHub/status/2076240201576251439/photo/1",
+          "media_key": "3_2076240192491421697",
+          "start": 49,
+          "url": "https://t.co/jxRE8TjF8N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076609249220948220",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 291
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076240201576251439",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @F0ODHub: Coffee or orange juice with this??? https://t.co/jxRE8TjF8N"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1104,
+        "media_key": "3_2076240192491421697",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNBJdGXXAAEMYPR.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076240192491421697"
+          ],
+          "media_source_tweet_id": [
+            "2076240201576251439"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Coffee",
+              "id": "850442647088971776",
+              "name": "Coffee"
+            }
+          }
+        ],
+        "conversation_id": "2076609249220948220",
+        "created_at": "2026-07-13T10:06:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T11:06:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076609249220948220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1786413884473008128",
+              "start": 3,
+              "username": "F0ODHub"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jxRE8TjF8N",
+              "end": 72,
+              "expanded_url": "https://x.com/F0ODHub/status/2076240201576251439/photo/1",
+              "media_key": "3_2076240192491421697",
+              "start": 49,
+              "url": "https://t.co/jxRE8TjF8N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076609249220948220",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 291
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076240201576251439",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @F0ODHub: Coffee or orange juice with this??? https://t.co/jxRE8TjF8N"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076240192491421697"
+          ]
+        },
+        "author_id": "1786413884473008128",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Coffee",
+              "id": "850442647088971776",
+              "name": "Coffee"
+            }
+          }
+        ],
+        "conversation_id": "2076240201576251439",
+        "created_at": "2026-07-12T09:40:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T10:40:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076240201576251439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jxRE8TjF8N",
+              "end": 59,
+              "expanded_url": "https://x.com/F0ODHub/status/2076240201576251439/photo/1",
+              "media_key": "3_2076240192491421697",
+              "start": 36,
+              "url": "https://t.co/jxRE8TjF8N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076240201576251439",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 117,
+          "impression_count": 64887,
+          "like_count": 2786,
+          "quote_count": 117,
+          "reply_count": 370,
+          "retweet_count": 291
+        },
+        "reply_settings": "everyone",
+        "text": "Coffee or orange juice with this??? https://t.co/jxRE8TjF8N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎蝎\n大哥@thexiexx\n                                     体温箱▼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x",
+                "start": 0,
+                "url": "https://t.co/d5BdKxZ1m4"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "再见，再见",
+        "name": "23点准时睡觉🧠",
+        "pinned_tweet_id": "2073818859916890480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 188,
+          "like_count": 1036,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 1267
+        },
+        "url": "https://t.co/d5BdKxZ1m4",
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-03T15:14:17.000Z",
+        "description": "Serving up deliciousness one plate at a time. From recipes to food trends, join us on a flavorful journey!",
+        "id": "1786413884473008128",
+        "location": "Egypt",
+        "name": "Food Hub",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913567752981250048/cQPKQ_IA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141810,
+          "following_count": 6091,
+          "like_count": 491,
+          "listed_count": 191,
+          "media_count": 4581,
+          "tweet_count": 5691
+        },
+        "url": "",
+        "username": "F0ODHub",
+        "verified": true
+      }
+    ]
+  }
+}

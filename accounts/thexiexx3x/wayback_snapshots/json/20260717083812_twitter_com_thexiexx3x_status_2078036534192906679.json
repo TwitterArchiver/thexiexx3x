@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078036522386026498"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2078036534192906679",
+    "created_at": "2026-07-17T08:38:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T09:38:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078036534192906679"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZXdLDyxHKE",
+          "end": 104,
+          "expanded_url": "https://x.com/thexiexx3x/status/2078036534192906679/photo/1",
+          "media_key": "3_2078036522386026498",
+          "start": 81,
+          "url": "https://t.co/ZXdLDyxHKE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078036534192906679",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "操蛋了我他妈莫名其妙从商场走到一个高级牛逼酒店的后花园，然后那个花园他妈一滩水看起来特别浅，然后我就踩了一下😅😅😅😅然后我半个鞋子潮了wtf难受死了傻逼死母酒店 https://t.co/ZXdLDyxHKE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078036522386026498",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNarNQsbcAIu5gY.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078036522386026498"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2078036534192906679",
+        "created_at": "2026-07-17T08:38:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T09:38:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078036534192906679"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZXdLDyxHKE",
+              "end": 104,
+              "expanded_url": "https://x.com/thexiexx3x/status/2078036534192906679/photo/1",
+              "media_key": "3_2078036522386026498",
+              "start": 81,
+              "url": "https://t.co/ZXdLDyxHKE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078036534192906679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "操蛋了我他妈莫名其妙从商场走到一个高级牛逼酒店的后花园，然后那个花园他妈一滩水看起来特别浅，然后我就踩了一下😅😅😅😅然后我半个鞋子潮了wtf难受死了傻逼死母酒店 https://t.co/ZXdLDyxHKE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎蝎\n大哥@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x",
+                "start": 0,
+                "url": "https://t.co/d5BdKxZ1m4"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "每天",
+        "name": "23点准时睡觉",
+        "pinned_tweet_id": "2077840199158296579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 186,
+          "like_count": 1148,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 1421
+        },
+        "url": "https://t.co/d5BdKxZ1m4",
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2080893061698396637",
+    "created_at": "2026-07-25T06:10:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T07:10:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080898517816721531"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2055146305513549824",
+          "start": 0,
+          "username": "zhangtaoqfo5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080898517816721531",
+    "in_reply_to_user_id": "2055146305513549824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080894534419206225",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhangtaoqfo5 傻逼死妈崽滚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2080893061698396637",
+        "created_at": "2026-07-25T06:10:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T07:10:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080898517816721531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2055146305513549824",
+              "start": 0,
+              "username": "zhangtaoqfo5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080898517816721531",
+        "in_reply_to_user_id": "2055146305513549824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080894534419206225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhangtaoqfo5 傻逼死妈崽滚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055146305513549824",
+        "conversation_id": "2080893061698396637",
+        "created_at": "2026-07-25T05:54:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T06:54:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080894534419206225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2054583279257583616",
+              "start": 0,
+              "username": "thexiexx3x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080894534419206225",
+        "in_reply_to_user_id": "2054583279257583616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080893061698396637",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thexiexx3x 聊吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "每天",
+        "name": "嚼嚼",
+        "pinned_tweet_id": "2077840199158296579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 219,
+          "like_count": 1544,
+          "listed_count": 0,
+          "media_count": 173,
+          "tweet_count": 1657
+        },
+        "url": "",
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-15T04:41:09.000Z",
+        "description": "爱好：打王者 聊s 什么都可以，不是gay不是gay不是gay\n补药来广告和人机\nqq：3373291134",
+        "id": "2055146305513549824",
+        "location": "广东",
+        "name": "想要主角角色",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080606066036166656/JBNxK58J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 22,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 46
+        },
+        "url": "",
+        "username": "zhangtaoqfo5",
+        "verified": false
+      }
+    ]
+  }
+}

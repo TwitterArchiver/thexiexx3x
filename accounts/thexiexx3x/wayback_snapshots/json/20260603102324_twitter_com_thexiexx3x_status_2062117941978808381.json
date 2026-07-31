@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062117922710175744",
+        "3_2062117922747928576",
+        "3_2062117922697543680",
+        "3_2062117922701754368"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2062117941978808381",
+    "created_at": "2026-06-03T10:23:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T11:23:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062117941978808381"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TBVbRBpzp3",
+          "end": 53,
+          "expanded_url": "https://x.com/thexiexx3x/status/2062117941978808381/photo/1",
+          "media_key": "3_2062117922710175744",
+          "start": 30,
+          "url": "https://t.co/TBVbRBpzp3"
+        },
+        {
+          "display_url": "pic.x.com/TBVbRBpzp3",
+          "end": 53,
+          "expanded_url": "https://x.com/thexiexx3x/status/2062117941978808381/photo/1",
+          "media_key": "3_2062117922747928576",
+          "start": 30,
+          "url": "https://t.co/TBVbRBpzp3"
+        },
+        {
+          "display_url": "pic.x.com/TBVbRBpzp3",
+          "end": 53,
+          "expanded_url": "https://x.com/thexiexx3x/status/2062117941978808381/photo/1",
+          "media_key": "3_2062117922697543680",
+          "start": 30,
+          "url": "https://t.co/TBVbRBpzp3"
+        },
+        {
+          "display_url": "pic.x.com/TBVbRBpzp3",
+          "end": 53,
+          "expanded_url": "https://x.com/thexiexx3x/status/2062117941978808381/photo/1",
+          "media_key": "3_2062117922701754368",
+          "start": 30,
+          "url": "https://t.co/TBVbRBpzp3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062117941978808381",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "傻逼吧我大号都没登啊就莫名其妙被内鬼举报了妈的五个帖子没了 https://t.co/TBVbRBpzp3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062117922710175744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ4dUzwbQAA4NJq.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2062117922747928576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ4dUz5bUAApUzn.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2062117922697543680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ4dUztagAAYem0.jpg",
+        "width": 922
+      },
+      {
+        "height": 2400,
+        "media_key": "3_2062117922701754368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ4dUzuawAADoRQ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062117922710175744",
+            "3_2062117922747928576",
+            "3_2062117922697543680",
+            "3_2062117922701754368"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2062117941978808381",
+        "created_at": "2026-06-03T10:23:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T11:23:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062117941978808381"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TBVbRBpzp3",
+              "end": 53,
+              "expanded_url": "https://x.com/thexiexx3x/status/2062117941978808381/photo/1",
+              "media_key": "3_2062117922710175744",
+              "start": 30,
+              "url": "https://t.co/TBVbRBpzp3"
+            },
+            {
+              "display_url": "pic.x.com/TBVbRBpzp3",
+              "end": 53,
+              "expanded_url": "https://x.com/thexiexx3x/status/2062117941978808381/photo/1",
+              "media_key": "3_2062117922747928576",
+              "start": 30,
+              "url": "https://t.co/TBVbRBpzp3"
+            },
+            {
+              "display_url": "pic.x.com/TBVbRBpzp3",
+              "end": 53,
+              "expanded_url": "https://x.com/thexiexx3x/status/2062117941978808381/photo/1",
+              "media_key": "3_2062117922697543680",
+              "start": 30,
+              "url": "https://t.co/TBVbRBpzp3"
+            },
+            {
+              "display_url": "pic.x.com/TBVbRBpzp3",
+              "end": 53,
+              "expanded_url": "https://x.com/thexiexx3x/status/2062117941978808381/photo/1",
+              "media_key": "3_2062117922701754368",
+              "start": 30,
+              "url": "https://t.co/TBVbRBpzp3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062117941978808381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "傻逼吧我大号都没登啊就莫名其妙被内鬼举报了妈的五个帖子没了 https://t.co/TBVbRBpzp3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎些\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "罹心力",
+        "name": "禁止暴食熬夜",
+        "pinned_tweet_id": "2061694728853455116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056751575289540608/GjxoGMpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 165,
+          "like_count": 523,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 460
+        },
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

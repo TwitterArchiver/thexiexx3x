@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2079412057322258512",
+    "created_at": "2026-07-21T03:44:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T04:44:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079412057322258512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1884772546111049728",
+          "start": 3,
+          "username": "999Takumi_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079412057322258512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079226686646992977",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @999Takumi_: 生命是一种由性行为传播，致死率100%的疾病"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2079412057322258512",
+        "created_at": "2026-07-21T03:44:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T04:44:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079412057322258512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1884772546111049728",
+              "start": 3,
+              "username": "999Takumi_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079412057322258512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079226686646992977",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @999Takumi_: 生命是一种由性行为传播，致死率100%的疾病"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884772546111049728",
+        "conversation_id": "2079226686646992977",
+        "created_at": "2026-07-20T15:27:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T16:27:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079226686646992977"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079226686646992977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1452,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "生命是一种由性行为传播，致死率100%的疾病"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "每天",
+        "name": "嚼嚼",
+        "pinned_tweet_id": "2077840199158296579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 198,
+          "like_count": 1299,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 1516
+        },
+        "url": "",
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-30T01:16:21.000Z",
+        "description": "可以叫我「巧/たくみ / Takumi」/病み垢/精神状态很不好/前oder？/拉康精神分析/园子温/高三生/互fo/友跨/点赞就是喜欢你\n粪养小香猪:@X1sd65jx2h92918",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 76,
+                "username": "X1sd65jx2h92918"
+              }
+            ]
+          }
+        },
+        "id": "1884772546111049728",
+        "location": "榭寄生下 天鹅湖旁",
+        "name": "⁺. ♡̷ExpEns!vEmo⁺ . ִ ֗",
+        "pinned_tweet_id": "1966531294495494458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075593689993449473/0j0PcCx5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 496,
+          "like_count": 120,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 311
+        },
+        "url": "",
+        "username": "999Takumi_",
+        "verified": false
+      }
+    ]
+  }
+}

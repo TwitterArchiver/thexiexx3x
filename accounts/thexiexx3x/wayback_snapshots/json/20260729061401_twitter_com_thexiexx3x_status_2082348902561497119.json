@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2082312667453440260",
+    "created_at": "2026-07-29T06:14:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T07:14:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082348902561497119"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2021882125960777728",
+          "start": 0,
+          "username": "StopAnyting"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082348902561497119",
+    "in_reply_to_user_id": "2021882125960777728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082312667453440260",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@StopAnyting 啊啊啊啊啊啊是这样的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2082312667453440260",
+        "created_at": "2026-07-29T06:14:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T07:14:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082348902561497119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2021882125960777728",
+              "start": 0,
+              "username": "StopAnyting"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082348902561497119",
+        "in_reply_to_user_id": "2021882125960777728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082312667453440260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StopAnyting 啊啊啊啊啊啊是这样的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021882125960777728",
+        "conversation_id": "2082312667453440260",
+        "created_at": "2026-07-29T03:50:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T04:50:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082312667453440260"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082312667453440260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好烦躁吃饭好烦躁  饿着更烦躁了  流食选项在哪里"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/thexiexx",
+                "end": 23,
+                "expanded_url": "https://t.me/thexiexx",
+                "start": 0,
+                "url": "https://t.co/w6gPwSRVgN"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "mybed",
+        "name": "嚼嚼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 215,
+          "like_count": 1715,
+          "listed_count": 0,
+          "media_count": 194,
+          "tweet_count": 1829
+        },
+        "url": "https://t.co/w6gPwSRVgN",
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-12T09:40:48.000Z",
+        "description": "三叉神经",
+        "id": "2021882125960777728",
+        "name": "蠖",
+        "pinned_tweet_id": "2036841865446932725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047672632586440704/Nr52OSN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 274,
+          "like_count": 5509,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 2656
+        },
+        "url": "",
+        "username": "StopAnyting",
+        "verified": false
+      }
+    ]
+  }
+}

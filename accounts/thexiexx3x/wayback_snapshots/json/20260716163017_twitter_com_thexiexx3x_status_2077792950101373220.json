@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077481195701710848"
+      ],
+      "media_source_tweet_id": [
+        "2077481199019163789"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2077792950101373220",
+    "created_at": "2026-07-16T16:30:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T17:30:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077792950101373220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "3140679366",
+          "start": 3,
+          "username": "rare_jpg"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jvPBxZE3kN",
+          "end": 37,
+          "expanded_url": "https://x.com/rare_jpg/status/2077481199019163789/photo/1",
+          "media_key": "3_2077481195701710848",
+          "start": 14,
+          "url": "https://t.co/jvPBxZE3kN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077792950101373220",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 61
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077481199019163789",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rare_jpg: https://t.co/jvPBxZE3kN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1124,
+        "media_key": "3_2077481195701710848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNSyI_lasAAS9CR.jpg",
+        "width": 1124
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077481195701710848"
+          ],
+          "media_source_tweet_id": [
+            "2077481199019163789"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2077792950101373220",
+        "created_at": "2026-07-16T16:30:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T17:30:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077792950101373220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3140679366",
+              "start": 3,
+              "username": "rare_jpg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jvPBxZE3kN",
+              "end": 37,
+              "expanded_url": "https://x.com/rare_jpg/status/2077481199019163789/photo/1",
+              "media_key": "3_2077481195701710848",
+              "start": 14,
+              "url": "https://t.co/jvPBxZE3kN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077792950101373220",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 61
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077481199019163789",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rare_jpg: https://t.co/jvPBxZE3kN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077481195701710848"
+          ]
+        },
+        "author_id": "3140679366",
+        "conversation_id": "2077481199019163789",
+        "created_at": "2026-07-15T19:51:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T20:51:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077481199019163789"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jvPBxZE3kN",
+              "end": 23,
+              "expanded_url": "https://x.com/rare_jpg/status/2077481199019163789/photo/1",
+              "media_key": "3_2077481195701710848",
+              "start": 0,
+              "url": "https://t.co/jvPBxZE3kN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077481199019163789",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 11516,
+          "like_count": 812,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/jvPBxZE3kN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎蝎\n大哥@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x",
+                "start": 0,
+                "url": "https://t.co/d5BdKxZ1m4"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "这里没有你想看的。",
+        "name": "23点准时睡觉🧠",
+        "pinned_tweet_id": "2073818859916890480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 186,
+          "like_count": 1135,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 1396
+        },
+        "url": "https://t.co/d5BdKxZ1m4",
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2015-04-05T20:50:17.000Z",
+        "description": "the internet.",
+        "id": "3140679366",
+        "location": "biz@rarejpg.com",
+        "name": "rare.jpg",
+        "pinned_tweet_id": "2071167517192495170",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854365475003920384/mbml_UNx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325540,
+          "following_count": 12,
+          "like_count": 11533,
+          "listed_count": 711,
+          "media_count": 7367,
+          "tweet_count": 8551
+        },
+        "url": "",
+        "username": "rare_jpg",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2074289904423715315",
+    "created_at": "2026-07-07T00:30:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T01:30:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074289904423715315"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/X1anx1anZong/s…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/X1anx1anZong/status/2073925243111166416",
+          "start": 4,
+          "url": "https://t.co/By45hawCUW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074289904423715315",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073925243111166416",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "早上坏 https://t.co/By45hawCUW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2074289904423715315",
+        "created_at": "2026-07-07T00:30:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T01:30:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074289904423715315"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/X1anx1anZong/s…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/X1anx1anZong/status/2073925243111166416",
+              "start": 4,
+              "url": "https://t.co/By45hawCUW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074289904423715315",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073925243111166416",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "早上坏 https://t.co/By45hawCUW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1651273923114455041",
+        "conversation_id": "2073925243111166416",
+        "created_at": "2026-07-06T00:21:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T01:21:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073925243111166416"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073925243111166416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 41796,
+          "like_count": 1110,
+          "quote_count": 9,
+          "reply_count": 50,
+          "retweet_count": 158
+        },
+        "reply_settings": "everyone",
+        "text": "谁发明的早上好 我好你妈了个逼的好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎蝎\n大哥@thexiexx\n两个号都被gostban了无法互动很抱歉orz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "再见，再见",
+        "name": "23点准时睡觉♴",
+        "pinned_tweet_id": "2073818859916890480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070912725920940032/E-FS3NrH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 179,
+          "like_count": 879,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 1103
+        },
+        "url": "",
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-26T17:16:06.000Z",
+        "description": "奥特之父人间体/荣誉霓虹人/理性蒸发EX  1000円ちょーだい😋🤲\n\n来世に期待",
+        "id": "1651273923114455041",
+        "location": "魔女裁判",
+        "name": "我智力有问题",
+        "pinned_tweet_id": "1758893566326415693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039711550400057345/hBevM-k0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2414,
+          "following_count": 53,
+          "like_count": 20545,
+          "listed_count": 5,
+          "media_count": 321,
+          "tweet_count": 11897
+        },
+        "url": "",
+        "username": "X1anx1anZong",
+        "verified": false
+      }
+    ]
+  }
+}

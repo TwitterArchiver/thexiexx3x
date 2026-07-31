@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071175862419087360",
+        "3_2071175863455088640"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2071175895898046579",
+    "created_at": "2026-06-28T10:16:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T11:16:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071175895898046579"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uFWgw0B8ck",
+          "end": 28,
+          "expanded_url": "https://x.com/thexiexx3x/status/2071175895898046579/photo/1",
+          "media_key": "3_2071175862419087360",
+          "start": 5,
+          "url": "https://t.co/uFWgw0B8ck"
+        },
+        {
+          "display_url": "pic.x.com/uFWgw0B8ck",
+          "end": 28,
+          "expanded_url": "https://x.com/thexiexx3x/status/2071175895898046579/photo/1",
+          "media_key": "3_2071175863455088640",
+          "start": 5,
+          "url": "https://t.co/uFWgw0B8ck"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071175895898046579",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "咕刀贴纸 https://t.co/uFWgw0B8ck"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1154,
+        "media_key": "3_2071175862419087360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL5LeSraYAATbZR.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2071175863455088640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL5LeWiagAAzbcG.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071175862419087360",
+            "3_2071175863455088640"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2071175895898046579",
+        "created_at": "2026-06-28T10:16:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T11:16:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071175895898046579"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uFWgw0B8ck",
+              "end": 28,
+              "expanded_url": "https://x.com/thexiexx3x/status/2071175895898046579/photo/1",
+              "media_key": "3_2071175862419087360",
+              "start": 5,
+              "url": "https://t.co/uFWgw0B8ck"
+            },
+            {
+              "display_url": "pic.x.com/uFWgw0B8ck",
+              "end": 28,
+              "expanded_url": "https://x.com/thexiexx3x/status/2071175895898046579/photo/1",
+              "media_key": "3_2071175863455088640",
+              "start": 5,
+              "url": "https://t.co/uFWgw0B8ck"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071175895898046579",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "咕刀贴纸 https://t.co/uFWgw0B8ck"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎蝎\n大哥@thexiexx\n两个号都被gostban了无法互动很抱歉orz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "再见，再见",
+        "name": "23点准时睡觉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070912725920940032/E-FS3NrH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 173,
+          "like_count": 824,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 874
+        },
+        "url": "",
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

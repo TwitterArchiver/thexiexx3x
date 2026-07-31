@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2061866386901901496",
+    "created_at": "2026-06-03T04:26:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T05:26:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062028047486984456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2018506911256346624",
+          "start": 0,
+          "username": "yamasikemeima"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062028047486984456",
+    "in_reply_to_user_id": "2018506911256346624",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061866386901901496",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yamasikemeima 好萌www！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061866362688122880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ04iFpaMAA-ZPL.jpg",
+        "width": 1157
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2061866386901901496",
+        "created_at": "2026-06-03T04:26:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T05:26:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062028047486984456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2018506911256346624",
+              "start": 0,
+              "username": "yamasikemeima"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062028047486984456",
+        "in_reply_to_user_id": "2018506911256346624",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061866386901901496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yamasikemeima 好萌www！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061866362688122880"
+          ]
+        },
+        "author_id": "2018506911256346624",
+        "conversation_id": "2061866386901901496",
+        "created_at": "2026-06-02T17:43:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T18:43:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061866386901901496"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bk0wZo0MvC",
+              "end": 33,
+              "expanded_url": "https://x.com/yamasikemeima/status/2061866386901901496/photo/1",
+              "media_key": "3_2061866362688122880",
+              "start": 10,
+              "url": "https://t.co/Bk0wZo0MvC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061866386901901496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 367,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "请党放心 碍国有我 https://t.co/Bk0wZo0MvC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎些\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "罹心力",
+        "name": "禁止暴食熬夜",
+        "pinned_tweet_id": "2061694728853455116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056751575289540608/GjxoGMpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 165,
+          "like_count": 520,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 458
+        },
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-03T02:10:41.000Z",
+        "description": "小呪5.0 只回口令线下过门咨询 不换真心了换钱",
+        "id": "2018506911256346624",
+        "location": "我恨死你们了",
+        "name": "Kuuaiiii",
+        "pinned_tweet_id": "2055068112685572549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061874550103846912/tDLM-hyH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 113,
+          "like_count": 264,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 287
+        },
+        "username": "yamasikemeima",
+        "verified": false
+      }
+    ]
+  }
+}

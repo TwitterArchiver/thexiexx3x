@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2077444408304394444",
+    "created_at": "2026-07-15T17:25:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T18:25:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077444408304394444"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hash1xd/status…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/hash1xd/status/2076769526411034850",
+          "start": 2,
+          "url": "https://t.co/bwknlgwUbm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077444408304394444",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076769526411034850",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "？ https://t.co/bwknlgwUbm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 636,
+        "media_key": "3_2076769522032189440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNIq4IkWIAAlO20.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2077444408304394444",
+        "created_at": "2026-07-15T17:25:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T18:25:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077444408304394444"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hash1xd/status…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/hash1xd/status/2076769526411034850",
+              "start": 2,
+              "url": "https://t.co/bwknlgwUbm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077444408304394444",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076769526411034850",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/bwknlgwUbm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076769522032189440"
+          ]
+        },
+        "author_id": "1410061887849521155",
+        "conversation_id": "2076769526411034850",
+        "created_at": "2026-07-13T20:43:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T21:43:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076769526411034850"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kTecXo4Xfi",
+              "end": 23,
+              "expanded_url": "https://x.com/hash1xd/status/2076769526411034850/photo/1",
+              "media_key": "3_2076769522032189440",
+              "start": 0,
+              "url": "https://t.co/kTecXo4Xfi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076769526411034850",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 922,
+          "impression_count": 179034,
+          "like_count": 15555,
+          "quote_count": 191,
+          "reply_count": 68,
+          "retweet_count": 3612
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/kTecXo4Xfi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎蝎\n大哥@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x",
+                "start": 0,
+                "url": "https://t.co/d5BdKxZ1m4"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "这里没有你想看的。",
+        "name": "23点准时睡觉🧠",
+        "pinned_tweet_id": "2073818859916890480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 183,
+          "like_count": 1102,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 1361
+        },
+        "url": "https://t.co/d5BdKxZ1m4",
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-30T02:25:44.000Z",
+        "description": "chapo em shoegaze japones e souls like *",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/hasharu_",
+                "end": 23,
+                "expanded_url": "http://instagram.com/hasharu_",
+                "start": 0,
+                "url": "https://t.co/VFfaNljFMX"
+              }
+            ]
+          }
+        },
+        "id": "1410061887849521155",
+        "location": "São Paulo, Iraque",
+        "name": "hash*",
+        "pinned_tweet_id": "2071983678192853241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068772442382725120/WMoi4DOK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 520,
+          "following_count": 278,
+          "like_count": 22633,
+          "listed_count": 1,
+          "media_count": 1055,
+          "tweet_count": 12085
+        },
+        "url": "https://t.co/VFfaNljFMX",
+        "username": "hash1xd",
+        "verified": false
+      }
+    ]
+  }
+}

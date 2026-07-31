@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2074500272890753025"
+      ],
+      "media_source_tweet_id": [
+        "2074500354616795617"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2075612206268555458",
+    "created_at": "2026-07-10T16:04:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T17:04:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075612206268555458"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1337902475609690113",
+          "start": 3,
+          "username": "killmyaffairs"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ifU8pkC2jz",
+          "end": 121,
+          "expanded_url": "https://x.com/michin_saekki1/status/2074500354616795617/video/1",
+          "media_key": "13_2074500272890753025",
+          "start": 98,
+          "url": "https://t.co/ifU8pkC2jz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075612206268555458",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5623
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075304129447023091",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @killmyaffairs: lo q quiero hacer cuando m preguntan algo estupido mientras estoy d mal humor \nhttps://t.co/ifU8pkC2jz"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7871,
+        "height": 692,
+        "media_key": "13_2074500272890753025",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2074500272890753025/img/92VZ8aWHESStCoF_.jpg",
+        "public_metrics": {
+          "view_count": 894171
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074500272890753025/vid/avc1/346x270/Yc7XmMe8FGwbd3h7.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074500272890753025/vid/avc1/460x360/IAGaJ05LY3aT4sn6.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074500272890753025/vid/avc1/888x692/ZhUyBm83YXRYGL5k.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2074500272890753025/pl/WxD0lG0pe4H4nKVM.m3u8"
+          }
+        ],
+        "width": 888
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2074500272890753025"
+          ],
+          "media_source_tweet_id": [
+            "2074500354616795617"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2075612206268555458",
+        "created_at": "2026-07-10T16:04:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T17:04:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075612206268555458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1337902475609690113",
+              "start": 3,
+              "username": "killmyaffairs"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ifU8pkC2jz",
+              "end": 121,
+              "expanded_url": "https://x.com/michin_saekki1/status/2074500354616795617/video/1",
+              "media_key": "13_2074500272890753025",
+              "start": 98,
+              "url": "https://t.co/ifU8pkC2jz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075612206268555458",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5623
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075304129447023091",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @killmyaffairs: lo q quiero hacer cuando m preguntan algo estupido mientras estoy d mal humor \nhttps://t.co/ifU8pkC2jz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2074500272890753025"
+          ],
+          "media_source_tweet_id": [
+            "2074500354616795617"
+          ]
+        },
+        "author_id": "1337902475609690113",
+        "conversation_id": "2075304129447023091",
+        "created_at": "2026-07-09T19:40:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T20:40:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075304129447023091"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ifU8pkC2jz",
+              "end": 102,
+              "expanded_url": "https://x.com/michin_saekki1/status/2074500354616795617/video/1",
+              "media_key": "13_2074500272890753025",
+              "start": 79,
+              "url": "https://t.co/ifU8pkC2jz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075304129447023091",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 786,
+          "impression_count": 221045,
+          "like_count": 14314,
+          "quote_count": 93,
+          "reply_count": 22,
+          "retweet_count": 5623
+        },
+        "reply_settings": "everyone",
+        "text": "lo q quiero hacer cuando m preguntan algo estupido mientras estoy d mal humor \nhttps://t.co/ifU8pkC2jz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎蝎\n大哥@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "再见，再见",
+        "name": "23点准时睡觉🧠",
+        "pinned_tweet_id": "2073818859916890480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 186,
+          "like_count": 945,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 1176
+        },
+        "url": "",
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-12T23:29:54.000Z",
+        "description": "mi vida por el satosugu",
+        "id": "1337902475609690113",
+        "location": "she/her ",
+        "name": "karen",
+        "pinned_tweet_id": "1819448945611100167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072166444846964736/LAfgUqiB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24697,
+          "following_count": 12410,
+          "like_count": 41123,
+          "listed_count": 278,
+          "media_count": 5904,
+          "tweet_count": 201100
+        },
+        "url": "",
+        "username": "killmyaffairs",
+        "verified": true
+      }
+    ]
+  }
+}

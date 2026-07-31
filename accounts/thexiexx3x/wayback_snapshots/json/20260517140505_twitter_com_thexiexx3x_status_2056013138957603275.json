@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056013132901109760"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2056013138957603275",
+    "created_at": "2026-05-17T14:05:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T15:05:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056013138957603275"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QdqL2jcxxN",
+          "end": 25,
+          "expanded_url": "https://x.com/thexiexx3x/status/2056013138957603275/photo/1",
+          "media_key": "3_2056013132901109760",
+          "start": 2,
+          "url": "https://t.co/QdqL2jcxxN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056013138957603275",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "。 https://t.co/QdqL2jcxxN"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2056013138957603275].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2056013138957603275",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2056013138957603275"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 602,
+        "media_key": "3_2056013132901109760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIhtDRgb0AAWhvc.jpg",
+        "width": 1224
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "@thexiexx\n蝎些副本小号，前两世一个被贴了临时标签限流另一个在封号中。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "name": "禁止暴食熬夜",
+        "pinned_tweet_id": "2055238057880875086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054585406960914432/2-JpaGc7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 41,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 59
+        },
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

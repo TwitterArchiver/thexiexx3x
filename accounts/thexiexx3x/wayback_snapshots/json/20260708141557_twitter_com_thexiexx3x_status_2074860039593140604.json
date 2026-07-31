@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074669638416207872"
+      ],
+      "media_source_tweet_id": [
+        "2074669642723840234"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2074860039593140604",
+    "created_at": "2026-07-08T14:15:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T15:15:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074860039593140604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1403120401199341571",
+          "start": 3,
+          "username": "horrorsthetics"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2nHcyO42KE",
+          "end": 48,
+          "expanded_url": "https://x.com/horrorsthetics/status/2074669642723840234/photo/1",
+          "media_key": "3_2074669638416207872",
+          "start": 25,
+          "url": "https://t.co/2nHcyO42KE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074860039593140604",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 549
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074669642723840234",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @horrorsthetics: joji https://t.co/2nHcyO42KE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 910,
+        "media_key": "3_2074669638416207872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMq1C0gWEAAcxvB.jpg",
+        "width": 914
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074669638416207872"
+          ],
+          "media_source_tweet_id": [
+            "2074669642723840234"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2074860039593140604",
+        "created_at": "2026-07-08T14:15:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T15:15:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074860039593140604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1403120401199341571",
+              "start": 3,
+              "username": "horrorsthetics"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2nHcyO42KE",
+              "end": 48,
+              "expanded_url": "https://x.com/horrorsthetics/status/2074669642723840234/photo/1",
+              "media_key": "3_2074669638416207872",
+              "start": 25,
+              "url": "https://t.co/2nHcyO42KE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074860039593140604",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 549
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074669642723840234",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @horrorsthetics: joji https://t.co/2nHcyO42KE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074669638416207872"
+          ]
+        },
+        "author_id": "1403120401199341571",
+        "conversation_id": "2074669642723840234",
+        "created_at": "2026-07-08T01:39:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T02:39:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074669642723840234"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2nHcyO42KE",
+              "end": 28,
+              "expanded_url": "https://x.com/horrorsthetics/status/2074669642723840234/photo/1",
+              "media_key": "3_2074669638416207872",
+              "start": 5,
+              "url": "https://t.co/2nHcyO42KE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074669642723840234",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 204,
+          "impression_count": 45167,
+          "like_count": 3025,
+          "quote_count": 20,
+          "reply_count": 7,
+          "retweet_count": 549
+        },
+        "reply_settings": "everyone",
+        "text": "joji https://t.co/2nHcyO42KE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎蝎\n大哥@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "再见，再见",
+        "name": "23点准时睡觉♴",
+        "pinned_tweet_id": "2073818859916890480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070912725920940032/E-FS3NrH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 180,
+          "like_count": 897,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 1129
+        },
+        "url": "",
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-10T22:42:41.000Z",
+        "description": "𝒔𝒉𝒆 𝒘𝒉𝒐 𝒉𝒂𝒏𝒈𝒔 𝒐𝒖𝒕 𝒂 𝒍𝒐𝒕 𝒊𝒏 𝒄𝒆𝒎𝒆𝒕𝒆𝒓𝒊𝒆𝒔 ⚰️ • 𝐞𝐧𝐭𝐞𝐫 𝐚𝐭 𝐲𝐨𝐮𝐫 𝐨𝐰𝐧 𝐫𝐢𝐬𝐤! 🕸️ • follow if you 🖤 daily 𝗰𝗼𝗻𝘁𝗲𝗻𝘁 •",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/horrorsthetics",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/horrorsthetics",
+                "start": 0,
+                "url": "https://t.co/I0X0fbQILB"
+              }
+            ]
+          }
+        },
+        "id": "1403120401199341571",
+        "location": "hellmouth  | 18+",
+        "name": "🦇 𝐭𝐡𝐞 𝐯𝐚𝐦𝐩𝐢𝐫𝐚 𝐬𝐡𝐨𝐰 | nsfw",
+        "pinned_tweet_id": "2073999403891720521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991990580881043456/c6ptQ8xz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255075,
+          "following_count": 2904,
+          "like_count": 51619,
+          "listed_count": 453,
+          "media_count": 18311,
+          "tweet_count": 30039
+        },
+        "url": "https://t.co/I0X0fbQILB",
+        "username": "horrorsthetics",
+        "verified": true
+      }
+    ]
+  }
+}
