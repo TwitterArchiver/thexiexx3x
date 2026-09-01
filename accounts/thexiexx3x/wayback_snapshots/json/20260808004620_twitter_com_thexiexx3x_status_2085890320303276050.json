@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073099195431469056"
+      ],
+      "media_source_tweet_id": [
+        "2073099494971842564"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2085890320303276050",
+    "created_at": "2026-08-08T00:46:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T01:46:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085890320303276050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1781696612437200896",
+          "start": 3,
+          "username": "AMLOgamer"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/K7mv48J0zJ",
+          "end": 81,
+          "expanded_url": "https://x.com/AMLOgamer/status/2073099494971842564/photo/1",
+          "media_key": "3_2073099195431469056",
+          "start": 58,
+          "url": "https://t.co/K7mv48J0zJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085890320303276050",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 93
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073099494971842564",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AMLOgamer: i'll finish this next month, stay tuned... https://t.co/K7mv48J0zJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 918,
+        "media_key": "3_2073099195431469056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMUgvAfXQAAmT17.jpg",
+        "width": 777
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073099195431469056"
+          ]
+        },
+        "author_id": "1781696612437200896",
+        "conversation_id": "2073099494971842564",
+        "created_at": "2026-07-03T17:40:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T18:40:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073099494971842564"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K7mv48J0zJ",
+              "end": 66,
+              "expanded_url": "https://x.com/AMLOgamer/status/2073099494971842564/photo/1",
+              "media_key": "3_2073099195431469056",
+              "start": 43,
+              "url": "https://t.co/K7mv48J0zJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073099494971842564",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 239,
+          "impression_count": 41468,
+          "like_count": 3717,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 93
+        },
+        "reply_settings": "everyone",
+        "text": "i'll finish this next month, stay tuned... https://t.co/K7mv48J0zJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073099195431469056"
+          ],
+          "media_source_tweet_id": [
+            "2073099494971842564"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2085890320303276050",
+        "created_at": "2026-08-08T00:46:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T01:46:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085890320303276050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781696612437200896",
+              "start": 3,
+              "username": "AMLOgamer"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/K7mv48J0zJ",
+              "end": 81,
+              "expanded_url": "https://x.com/AMLOgamer/status/2073099494971842564/photo/1",
+              "media_key": "3_2073099195431469056",
+              "start": 58,
+              "url": "https://t.co/K7mv48J0zJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085890320303276050",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 93
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073099494971842564",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AMLOgamer: i'll finish this next month, stay tuned... https://t.co/K7mv48J0zJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/thexiexx",
+                "end": 23,
+                "expanded_url": "https://t.me/thexiexx",
+                "start": 0,
+                "url": "https://t.co/w6gPwSRnrf"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "备忘录",
+        "name": "嚼嚼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 250,
+          "like_count": 2226,
+          "listed_count": 0,
+          "media_count": 236,
+          "tweet_count": 2145
+        },
+        "url": "https://t.co/w6gPwSRnrf",
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-20T14:49:13.000Z",
+        "description": "digital artist & goonslop wageslave 🫩\nR18 account ➡️ @amlo_ver\ncomms (CLOSED) ➡️https://t.co/VIdZC5x9jm\npornsites🔞➡️https://t.co/1LIqsl4jcB",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "amlo_ver"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ko-fi.com/amlogamer/comm…",
+                "end": 103,
+                "expanded_url": "http://ko-fi.com/amlogamer/commissions",
+                "start": 80,
+                "url": "https://t.co/VIdZC5x9jm"
+              },
+              {
+                "display_url": "linktr.ee/AMLOgamer",
+                "end": 139,
+                "expanded_url": "http://linktr.ee/AMLOgamer",
+                "start": 116,
+                "url": "https://t.co/1LIqsl4jcB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/AMLOgamer",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/AMLOgamer",
+                "start": 0,
+                "url": "https://t.co/Q6rXKqoQxP"
+              }
+            ]
+          }
+        },
+        "id": "1781696612437200896",
+        "location": "any pronouns ➖ 🇦🇷🇲🇽",
+        "name": "AMLOgamer🇲🇽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071535104623538176/vLpEKpIu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162713,
+          "following_count": 342,
+          "like_count": 14554,
+          "listed_count": 425,
+          "media_count": 613,
+          "tweet_count": 989
+        },
+        "url": "https://t.co/Q6rXKqoQxP",
+        "username": "AMLOgamer",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084701303649759232"
+      ],
+      "media_source_tweet_id": [
+        "2084701308942967143"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2084860475632934914",
+    "created_at": "2026-08-05T04:34:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T05:34:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084860475632934914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1720445439340605440",
+          "start": 3,
+          "username": "luvcentipedes"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/crScXRXmBn",
+          "end": 42,
+          "expanded_url": "https://x.com/luvcentipedes/status/2084701308942967143/photo/1",
+          "media_key": "3_2084701303649759232",
+          "start": 19,
+          "url": "https://t.co/crScXRXmBn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084860475632934914",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3377
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084701308942967143",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @luvcentipedes: https://t.co/crScXRXmBn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 552,
+        "media_key": "3_2084701303649759232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO5YylrWcAAsVAm.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084701303649759232"
+          ]
+        },
+        "author_id": "1720445439340605440",
+        "conversation_id": "2084701308942967143",
+        "created_at": "2026-08-04T18:01:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T19:01:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084701308942967143"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/crScXRXmBn",
+              "end": 23,
+              "expanded_url": "https://x.com/luvcentipedes/status/2084701308942967143/photo/1",
+              "media_key": "3_2084701303649759232",
+              "start": 0,
+              "url": "https://t.co/crScXRXmBn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084701308942967143",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1559,
+          "impression_count": 272036,
+          "like_count": 19367,
+          "quote_count": 351,
+          "reply_count": 116,
+          "retweet_count": 3377
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/crScXRXmBn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084701303649759232"
+          ],
+          "media_source_tweet_id": [
+            "2084701308942967143"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2084860475632934914",
+        "created_at": "2026-08-05T04:34:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T05:34:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084860475632934914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1720445439340605440",
+              "start": 3,
+              "username": "luvcentipedes"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/crScXRXmBn",
+              "end": 42,
+              "expanded_url": "https://x.com/luvcentipedes/status/2084701308942967143/photo/1",
+              "media_key": "3_2084701303649759232",
+              "start": 19,
+              "url": "https://t.co/crScXRXmBn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084860475632934914",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3377
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084701308942967143",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @luvcentipedes: https://t.co/crScXRXmBn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/thexiexx",
+                "end": 23,
+                "expanded_url": "https://t.me/thexiexx",
+                "start": 0,
+                "url": "https://t.co/w6gPwSRnrf"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "备忘录",
+        "name": "嚼嚼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 231,
+          "like_count": 2065,
+          "listed_count": 0,
+          "media_count": 233,
+          "tweet_count": 2070
+        },
+        "url": "https://t.co/w6gPwSRnrf",
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-03T14:19:05.000Z",
+        "description": "## 🗝",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/luvcentipedes",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/luvcentipedes",
+                "start": 0,
+                "url": "https://t.co/eMW70DxBOk"
+              }
+            ]
+          }
+        },
+        "id": "1720445439340605440",
+        "location": "rj",
+        "name": "emi :3",
+        "pinned_tweet_id": "2081798764508147783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084137274992689152/VVG1LRuM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 622,
+          "following_count": 483,
+          "like_count": 7006,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 91
+        },
+        "url": "https://t.co/eMW70DxBOk",
+        "username": "luvcentipedes",
+        "verified": false
+      }
+    ]
+  }
+}

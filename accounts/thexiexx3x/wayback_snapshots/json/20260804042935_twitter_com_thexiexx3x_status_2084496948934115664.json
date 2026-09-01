@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084255351184961536"
+      ],
+      "media_source_tweet_id": [
+        "2084255359149982014"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2084496948934115664",
+    "created_at": "2026-08-04T04:29:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T05:29:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084496948934115664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1947122584862302208",
+          "start": 3,
+          "username": "amalgamatomaton"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9ilHQOQSHT",
+          "end": 44,
+          "expanded_url": "https://x.com/amalgamatomaton/status/2084255359149982014/photo/1",
+          "media_key": "3_2084255351184961536",
+          "start": 21,
+          "url": "https://t.co/9ilHQOQSHT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084496948934115664",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 106
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084255359149982014",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amalgamatomaton: https://t.co/9ilHQOQSHT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 878,
+        "media_key": "3_2084255351184961536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOzDMvSWMAAvxZK.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084255351184961536"
+          ]
+        },
+        "author_id": "1947122584862302208",
+        "conversation_id": "2084255359149982014",
+        "created_at": "2026-08-03T12:29:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T13:29:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084255359149982014"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9ilHQOQSHT",
+              "end": 23,
+              "expanded_url": "https://x.com/amalgamatomaton/status/2084255359149982014/photo/1",
+              "media_key": "3_2084255351184961536",
+              "start": 0,
+              "url": "https://t.co/9ilHQOQSHT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084255359149982014",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 193,
+          "impression_count": 11205,
+          "like_count": 1222,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 106
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/9ilHQOQSHT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084255351184961536"
+          ],
+          "media_source_tweet_id": [
+            "2084255359149982014"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2084496948934115664",
+        "created_at": "2026-08-04T04:29:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T05:29:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084496948934115664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1947122584862302208",
+              "start": 3,
+              "username": "amalgamatomaton"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9ilHQOQSHT",
+              "end": 44,
+              "expanded_url": "https://x.com/amalgamatomaton/status/2084255359149982014/photo/1",
+              "media_key": "3_2084255351184961536",
+              "start": 21,
+              "url": "https://t.co/9ilHQOQSHT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084496948934115664",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 106
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084255359149982014",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amalgamatomaton: https://t.co/9ilHQOQSHT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/thexiexx",
+                "end": 23,
+                "expanded_url": "https://t.me/thexiexx",
+                "start": 0,
+                "url": "https://t.co/w6gPwSRnrf"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "备忘录",
+        "name": "嚼嚼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 222,
+          "like_count": 1986,
+          "listed_count": 0,
+          "media_count": 226,
+          "tweet_count": 2011
+        },
+        "url": "https://t.co/w6gPwSRnrf",
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-21T02:33:07.000Z",
+        "description": ":goth:",
+        "id": "1947122584862302208",
+        "name": "amalgamatomaton",
+        "pinned_tweet_id": "2078124508989252092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980865184231981056/0wK3NN5u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13837,
+          "following_count": 58,
+          "like_count": 6050,
+          "listed_count": 57,
+          "media_count": 2040,
+          "tweet_count": 4986
+        },
+        "url": "",
+        "username": "amalgamatomaton",
+        "verified": false
+      }
+    ]
+  }
+}

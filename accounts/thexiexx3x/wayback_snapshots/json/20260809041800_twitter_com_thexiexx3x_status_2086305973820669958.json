@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086193483866406913"
+      ],
+      "media_source_tweet_id": [
+        "2086193503038837164"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2086305973820669958",
+    "created_at": "2026-08-09T04:18:00.000Z",
+    "display_text_range": [
+      0,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T05:18:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086305973820669958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1452237522369761285",
+          "start": 3,
+          "username": "NigelGraz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/amL9DnCypr",
+          "end": 38,
+          "expanded_url": "https://x.com/NigelGraz/status/2086193503038837164/photo/1",
+          "media_key": "3_2086193483866406913",
+          "start": 15,
+          "url": "https://t.co/amL9DnCypr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086305973820669958",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2086193483866406913"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2072
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086193503038837164",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NigelGraz: https://t.co/amL9DnCypr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3262,
+        "media_key": "3_2086193483866406913",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPOl66KXgAEMjOB.jpg",
+        "width": 2365
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086193483866406913"
+          ]
+        },
+        "author_id": "1452237522369761285",
+        "conversation_id": "2086193503038837164",
+        "created_at": "2026-08-08T20:51:05.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-08T21:51:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086193503038837164"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/amL9DnCypr",
+              "end": 23,
+              "expanded_url": "https://x.com/NigelGraz/status/2086193503038837164/photo/1",
+              "media_key": "3_2086193483866406913",
+              "start": 0,
+              "url": "https://t.co/amL9DnCypr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086193503038837164",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2086193483866406913"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1384,
+          "impression_count": 87849,
+          "like_count": 15340,
+          "quote_count": 21,
+          "reply_count": 21,
+          "retweet_count": 2072
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/amL9DnCypr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086193483866406913"
+          ],
+          "media_source_tweet_id": [
+            "2086193503038837164"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2086305973820669958",
+        "created_at": "2026-08-09T04:18:00.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T05:18:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086305973820669958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1452237522369761285",
+              "start": 3,
+              "username": "NigelGraz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/amL9DnCypr",
+              "end": 38,
+              "expanded_url": "https://x.com/NigelGraz/status/2086193503038837164/photo/1",
+              "media_key": "3_2086193483866406913",
+              "start": 15,
+              "url": "https://t.co/amL9DnCypr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086305973820669958",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2086193483866406913"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2072
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086193503038837164",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NigelGraz: https://t.co/amL9DnCypr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/thexiexx",
+                "end": 23,
+                "expanded_url": "https://t.me/thexiexx",
+                "start": 0,
+                "url": "https://t.co/w6gPwSRnrf"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "备忘录",
+        "most_recent_tweet_id": "2086305973820669958",
+        "name": "嚼嚼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1784638550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 255,
+          "like_count": 2304,
+          "listed_count": 0,
+          "media_count": 245,
+          "tweet_count": 2209
+        },
+        "url": "https://t.co/w6gPwSRnrf",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-10-24T11:37:33.000Z",
+        "description": "i like drawing vampires and rockstars ✞ working on waitlist",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/nigelgraz?igsh…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/nigelgraz?igshid=YmMyMTA2M2Y=",
+                "start": 0,
+                "url": "https://t.co/3XsYel3F7I"
+              }
+            ]
+          }
+        },
+        "id": "1452237522369761285",
+        "is_identity_verified": false,
+        "location": "any/all",
+        "most_recent_tweet_id": "2086236056458838042",
+        "name": "⛓️Nye🐇",
+        "pinned_tweet_id": "2009008545338150996",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1452237522369761285/1786222984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086196761295454208/3RP4QKQI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92279,
+          "following_count": 260,
+          "like_count": 86001,
+          "listed_count": 476,
+          "media_count": 521,
+          "tweet_count": 28526
+        },
+        "url": "https://t.co/3XsYel3F7I",
+        "username": "NigelGraz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

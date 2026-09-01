@@ -1,0 +1,492 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084335196669620224"
+      ],
+      "media_source_tweet_id": [
+        "2084335201933471894"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1151828991109505025",
+          "name": "Attack on Titan"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1151828991109505025",
+          "name": "Attack on Titan"
+        }
+      }
+    ],
+    "conversation_id": "2084575546911191538",
+    "created_at": "2026-08-04T09:41:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T10:41:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084575546911191538"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 34,
+          "start": 30,
+          "tag": "aot"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1614814085568143361",
+          "start": 3,
+          "username": "PRAYERSFORRAlN"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bWYaL7Kc33",
+          "end": 58,
+          "expanded_url": "https://x.com/PRAYERSFORRAlN/status/2084335201933471894/photo/1",
+          "media_key": "3_2084335196669620224",
+          "start": 35,
+          "url": "https://t.co/bWYaL7Kc33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084575546911191538",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 361
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084335201933471894",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PRAYERSFORRAlN: stigmata  #aot https://t.co/bWYaL7Kc33"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084335196669620224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO0L0W5WMAAVotW.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084335196669620224"
+          ]
+        },
+        "author_id": "1614814085568143361",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1151828991109505025",
+              "name": "Attack on Titan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1151828991109505025",
+              "name": "Attack on Titan"
+            }
+          }
+        ],
+        "conversation_id": "2084335201933471894",
+        "created_at": "2026-08-03T17:46:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T18:46:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084335201933471894"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 10,
+              "tag": "aot"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bWYaL7Kc33",
+              "end": 38,
+              "expanded_url": "https://x.com/PRAYERSFORRAlN/status/2084335201933471894/photo/1",
+              "media_key": "3_2084335196669620224",
+              "start": 15,
+              "url": "https://t.co/bWYaL7Kc33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084335201933471894",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 262,
+          "impression_count": 28596,
+          "like_count": 4125,
+          "quote_count": 6,
+          "reply_count": 6,
+          "retweet_count": 361
+        },
+        "reply_settings": "everyone",
+        "text": "stigmata  #aot https://t.co/bWYaL7Kc33"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084335196669620224"
+          ],
+          "media_source_tweet_id": [
+            "2084335201933471894"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1151828991109505025",
+              "name": "Attack on Titan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1151828991109505025",
+              "name": "Attack on Titan"
+            }
+          }
+        ],
+        "conversation_id": "2084575546911191538",
+        "created_at": "2026-08-04T09:41:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T10:41:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084575546911191538"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 30,
+              "tag": "aot"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1614814085568143361",
+              "start": 3,
+              "username": "PRAYERSFORRAlN"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bWYaL7Kc33",
+              "end": 58,
+              "expanded_url": "https://x.com/PRAYERSFORRAlN/status/2084335201933471894/photo/1",
+              "media_key": "3_2084335196669620224",
+              "start": 35,
+              "url": "https://t.co/bWYaL7Kc33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084575546911191538",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 361
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084335201933471894",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PRAYERSFORRAlN: stigmata  #aot https://t.co/bWYaL7Kc33"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/thexiexx",
+                "end": 23,
+                "expanded_url": "https://t.me/thexiexx",
+                "start": 0,
+                "url": "https://t.co/w6gPwSRnrf"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "备忘录",
+        "name": "嚼嚼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 226,
+          "like_count": 2013,
+          "listed_count": 0,
+          "media_count": 232,
+          "tweet_count": 2037
+        },
+        "url": "https://t.co/w6gPwSRnrf",
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-16T02:38:11.000Z",
+        "description": "fucking glizzy bit me",
+        "id": "1614814085568143361",
+        "name": "Axl",
+        "pinned_tweet_id": "1964574348364427372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077836331338579968/DSq7UXLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14574,
+          "following_count": 754,
+          "like_count": 80812,
+          "listed_count": 41,
+          "media_count": 1391,
+          "tweet_count": 8374
+        },
+        "url": "",
+        "username": "PRAYERSFORRAlN",
+        "verified": false
+      }
+    ]
+  }
+}

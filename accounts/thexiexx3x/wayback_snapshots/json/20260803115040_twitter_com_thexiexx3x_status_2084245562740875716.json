@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2084230210338361620",
+    "created_at": "2026-08-03T11:50:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T12:50:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084245562740875716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2069070474269868034",
+          "start": 0,
+          "username": "meyuyume121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084245562740875716",
+    "in_reply_to_user_id": "2069070474269868034",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084242195977228589",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meyuyume121 我也喜欢有米呐！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2084230210338361620",
+        "created_at": "2026-08-03T11:50:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T12:50:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084245562740875716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2069070474269868034",
+              "start": 0,
+              "username": "meyuyume121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084245562740875716",
+        "in_reply_to_user_id": "2069070474269868034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084242195977228589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meyuyume121 我也喜欢有米呐！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2069070474269868034",
+        "conversation_id": "2084230210338361620",
+        "created_at": "2026-08-03T11:37:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T12:37:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084242195977228589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2054583279257583616",
+              "start": 0,
+              "username": "thexiexx3x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084242195977228589",
+        "in_reply_to_user_id": "2054583279257583616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084232680154284352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thexiexx3x 我喜欢你(இωஇ )"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/thexiexx",
+                "end": 23,
+                "expanded_url": "https://t.me/thexiexx",
+                "start": 0,
+                "url": "https://t.co/w6gPwSRVgN"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "mybed",
+        "name": "嚼嚼",
+        "pinned_tweet_id": "2083387666683609141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 219,
+          "like_count": 1958,
+          "listed_count": 0,
+          "media_count": 222,
+          "tweet_count": 1983
+        },
+        "url": "https://t.co/w6gPwSRVgN",
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-22T14:52:26.000Z",
+        "description": "愛人@Gen_ei_SKC0218\n神聖かまってちゃん beyond 李志\n🇭🇰🇭🇰🇭🇰\n😻互fol😻\n@yume0u0121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "Gen_ei_SKC0218"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "yume0u0121"
+              }
+            ]
+          }
+        },
+        "id": "2069070474269868034",
+        "name": "yume",
+        "pinned_tweet_id": "2069071485034279064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069072982857936896/5MG7UIfg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 195,
+          "like_count": 412,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 432
+        },
+        "url": "",
+        "username": "meyuyume121",
+        "verified": false
+      }
+    ]
+  }
+}

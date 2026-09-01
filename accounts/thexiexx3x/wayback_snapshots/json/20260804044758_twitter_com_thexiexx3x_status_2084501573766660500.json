@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084501565151547392"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2084501573766660500",
+    "created_at": "2026-08-04T04:47:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T05:47:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084501573766660500"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nUN4xhHcGp",
+          "end": 34,
+          "expanded_url": "https://x.com/thexiexx3x/status/2084501573766660500/photo/1",
+          "media_key": "3_2084501565151547392",
+          "start": 11,
+          "url": "https://t.co/nUN4xhHcGp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084501573766660500",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "到时候说是颜料就好了 https://t.co/nUN4xhHcGp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084501565151547392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO2jIRyakAA3pmZ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084501565151547392"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2084501573766660500",
+        "created_at": "2026-08-04T04:47:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T05:47:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084501573766660500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nUN4xhHcGp",
+              "end": 34,
+              "expanded_url": "https://x.com/thexiexx3x/status/2084501573766660500/photo/1",
+              "media_key": "3_2084501565151547392",
+              "start": 11,
+              "url": "https://t.co/nUN4xhHcGp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084501573766660500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "到时候说是颜料就好了 https://t.co/nUN4xhHcGp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/thexiexx",
+                "end": 23,
+                "expanded_url": "https://t.me/thexiexx",
+                "start": 0,
+                "url": "https://t.co/w6gPwSRnrf"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "备忘录",
+        "name": "嚼嚼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 224,
+          "like_count": 1995,
+          "listed_count": 0,
+          "media_count": 227,
+          "tweet_count": 2014
+        },
+        "url": "https://t.co/w6gPwSRnrf",
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

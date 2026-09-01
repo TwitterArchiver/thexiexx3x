@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083592002172768256"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2083592117436424215",
+    "created_at": "2026-08-01T16:34:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T17:34:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083592117436424215"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/J7DWA6kxds",
+          "end": 37,
+          "expanded_url": "https://x.com/thexiexx3x/status/2083592117436424215/photo/1",
+          "media_key": "3_2083592002172768256",
+          "start": 14,
+          "url": "https://t.co/J7DWA6kxds"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083592117436424215",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个呢。是我画着玩的 别管 https://t.co/J7DWA6kxds"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083592002172768256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOpn4vpaUAAMazE.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083592002172768256"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2083592117436424215",
+        "created_at": "2026-08-01T16:34:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T17:34:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083592117436424215"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J7DWA6kxds",
+              "end": 37,
+              "expanded_url": "https://x.com/thexiexx3x/status/2083592117436424215/photo/1",
+              "media_key": "3_2083592002172768256",
+              "start": 14,
+              "url": "https://t.co/J7DWA6kxds"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083592117436424215",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个呢。是我画着玩的 别管 https://t.co/J7DWA6kxds"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/thexiexx",
+                "end": 23,
+                "expanded_url": "https://t.me/thexiexx",
+                "start": 0,
+                "url": "https://t.co/w6gPwSRVgN"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "mybed",
+        "name": "嚼嚼",
+        "pinned_tweet_id": "2083387666683609141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 217,
+          "like_count": 1888,
+          "listed_count": 0,
+          "media_count": 216,
+          "tweet_count": 1948
+        },
+        "url": "https://t.co/w6gPwSRVgN",
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

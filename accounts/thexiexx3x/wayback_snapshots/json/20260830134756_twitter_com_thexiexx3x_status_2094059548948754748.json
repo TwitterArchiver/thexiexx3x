@@ -1,0 +1,411 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2094059548948754748",
+    "created_at": "2026-08-30T13:47:56.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T14:47:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094059548948754748"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 16,
+          "tag": "od"
+        },
+        {
+          "end": 29,
+          "start": 20,
+          "tag": "overdose"
+        },
+        {
+          "end": 33,
+          "start": 30,
+          "tag": "抽奖"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1665304321066684416",
+          "start": 3,
+          "username": "OoOooo0518"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094059548948754748",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094023109573750927",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OoOooo0518: #od #overdose #抽奖\n给大家抽点奖吧\n一等奖x1 - 愈美片3盒\n二等奖x2 - 愈美片2盒\n三等奖x2 - 超天酱周边(自选）\n\n关注➕转发➕点赞➕评论🟰参与\n我闺蜜开始接愈美片代购\n云药的 具体价格会有波动 尽量便宜\n本账号50…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2094023102028238848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ926qva0AAx2bX.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1919,
+        "media_key": "3_2094023102040883200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ926qybwAAGjUg.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2094023102040834048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ926qybAAAW7Wo.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2094023102044999680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ926qzakAAiCL-.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2094059548948754748",
+        "created_at": "2026-08-30T13:47:56.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T14:47:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094059548948754748"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "od"
+            },
+            {
+              "end": 29,
+              "start": 20,
+              "tag": "overdose"
+            },
+            {
+              "end": 33,
+              "start": 30,
+              "tag": "抽奖"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1665304321066684416",
+              "start": 3,
+              "username": "OoOooo0518"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094059548948754748",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094023109573750927",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OoOooo0518: #od #overdose #抽奖\n给大家抽点奖吧\n一等奖x1 - 愈美片3盒\n二等奖x2 - 愈美片2盒\n三等奖x2 - 超天酱周边(自选）\n\n关注➕转发➕点赞➕评论🟰参与\n我闺蜜开始接愈美片代购\n云药的 具体价格会有波动 尽量便宜\n本账号50…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094023102028238848",
+            "3_2094023102040883200",
+            "3_2094023102040834048",
+            "3_2094023102044999680"
+          ]
+        },
+        "author_id": "1665304321066684416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2094023109573750927",
+        "created_at": "2026-08-30T11:23:09.000Z",
+        "display_text_range": [
+          0,
+          180
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T12:23:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094023109573750927"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "od"
+            },
+            {
+              "end": 13,
+              "start": 4,
+              "tag": "overdose"
+            },
+            {
+              "end": 17,
+              "start": 14,
+              "tag": "抽奖"
+            },
+            {
+              "end": 175,
+              "start": 172,
+              "tag": "药商"
+            },
+            {
+              "end": 180,
+              "start": 176,
+              "tag": "愈美片"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/t6hZi3GwmJ",
+              "end": 204,
+              "expanded_url": "https://x.com/OoOooo0518/status/2094023109573750927/photo/1",
+              "media_key": "3_2094023102028238848",
+              "start": 181,
+              "url": "https://t.co/t6hZi3GwmJ"
+            },
+            {
+              "display_url": "pic.x.com/t6hZi3GwmJ",
+              "end": 204,
+              "expanded_url": "https://x.com/OoOooo0518/status/2094023109573750927/photo/1",
+              "media_key": "3_2094023102040883200",
+              "start": 181,
+              "url": "https://t.co/t6hZi3GwmJ"
+            },
+            {
+              "display_url": "pic.x.com/t6hZi3GwmJ",
+              "end": 204,
+              "expanded_url": "https://x.com/OoOooo0518/status/2094023109573750927/photo/1",
+              "media_key": "3_2094023102040834048",
+              "start": 181,
+              "url": "https://t.co/t6hZi3GwmJ"
+            },
+            {
+              "display_url": "pic.x.com/t6hZi3GwmJ",
+              "end": 204,
+              "expanded_url": "https://x.com/OoOooo0518/status/2094023109573750927/photo/1",
+              "media_key": "3_2094023102044999680",
+              "start": 181,
+              "url": "https://t.co/t6hZi3GwmJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094023109573750927",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094023102028238848"
+          },
+          {
+            "media_key": "3_2094023102040883200"
+          },
+          {
+            "media_key": "3_2094023102040834048"
+          },
+          {
+            "media_key": "3_2094023102044999680"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 300,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "#od #overdose #抽奖\n给大家抽点奖吧\n一等奖x1 - 愈美片3盒\n二等奖x2 - 愈美片2盒\n三等奖x2 - 超天酱周边(自选）\n\n关注➕转发➕点赞➕评论🟰参与\n我闺蜜开始接愈美片代购\n云药的 具体价格会有波动 尽量便宜\n本账号500fo+我妹账号2700fo担保\n请放心购买\n加她v问具体详情:\n_Killua0707xuan\n#药商 #愈美片 https://t.co/t6hZi3GwmJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x",
+                "start": 0,
+                "url": "https://t.co/d5BdKxYtww"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "应许记忆之城",
+        "most_recent_tweet_id": "2094059548948754748",
+        "name": "嚼嚼",
+        "pinned_tweet_id": "2086403297053966372",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1784638550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 282,
+          "like_count": 2819,
+          "listed_count": 0,
+          "media_count": 285,
+          "tweet_count": 2514
+        },
+        "url": "https://t.co/d5BdKxYtww",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-04T10:27:54.000Z",
+        "description": "mtf 重抑重焦 无证含糖 你可以叫我O泡（大一休学中 欢迎互fo 我再次重生的妹妹: @QianQian_TwT\n免费咨询药物推荐电报联系https://t.co/CIpMy1FYM9或X私信\n我不太懂药理学但是能o和不能o的药我都尝试过了，嗑药前可以先问问我！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 44,
+                "username": "QianQian_TwT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/melody_tik",
+                "end": 93,
+                "expanded_url": "https://t.me/melody_tik",
+                "start": 70,
+                "url": "https://t.co/CIpMy1FYM9"
+              }
+            ]
+          }
+        },
+        "id": "1665304321066684416",
+        "is_identity_verified": false,
+        "location": "杭州",
+        "most_recent_tweet_id": "2094032080288329737",
+        "name": "OoOooo",
+        "pinned_tweet_id": "2083268021070786824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1665304321066684416/1770916243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082407067441381376/qdkgUI2W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 603,
+          "following_count": 329,
+          "like_count": 2680,
+          "listed_count": 2,
+          "media_count": 194,
+          "tweet_count": 923
+        },
+        "url": "",
+        "username": "OoOooo0518",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

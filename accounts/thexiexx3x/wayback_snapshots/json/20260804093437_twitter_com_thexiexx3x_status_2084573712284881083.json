@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2083849811758088193"
+      ],
+      "media_source_tweet_id": [
+        "2083850587406467139"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2084573712284881083",
+    "created_at": "2026-08-04T09:34:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T10:34:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084573712284881083"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5vI5oNiqnb",
+          "end": 49,
+          "expanded_url": "https://x.com/Crypto_CK123/status/2083850587406467139/video/1",
+          "media_key": "13_2083849811758088193",
+          "start": 26,
+          "url": "https://t.co/5vI5oNiqnb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084573712284881083",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感觉这样会很上爽 但是我受不了陌生人碰\n我身体全部 https://t.co/5vI5oNiqnb"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 93667,
+        "height": 1920,
+        "media_key": "13_2083849811758088193",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083849811758088193/img/1SWtYw7wYMilPs7W.jpg",
+        "public_metrics": {
+          "view_count": 179116
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083849811758088193/vid/avc1/1080x1920/V5OSNuHTSNjhnEd8.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083849811758088193/vid/avc1/320x568/lMXLLSBR_iONs5kg.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083849811758088193/pl/UZfc0K_7kXoNH4VZ.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083849811758088193/vid/avc1/480x852/By2sj5UTwG_cW1AZ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083849811758088193/vid/avc1/720x1280/6LUidAomW7coFRoE.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083849811758088193"
+          ]
+        },
+        "author_id": "376226473",
+        "conversation_id": "2083850587406467139",
+        "created_at": "2026-08-02T09:41:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T10:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083850587406467139"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e0JPQT94fe",
+              "end": 72,
+              "expanded_url": "https://x.com/Crypto_CK123/status/2083850587406467139/video/1",
+              "media_key": "13_2083849811758088193",
+              "start": 49,
+              "url": "https://t.co/e0JPQT94fe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083850587406467139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 229,
+          "impression_count": 132696,
+          "like_count": 788,
+          "quote_count": 1,
+          "reply_count": 292,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "花四位数被摸一下是什么感觉？\n\n哈哈，我感觉的我找到就业新方向了，皮肤饥渴症原来不是小说里才有呀 https://t.co/e0JPQT94fe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083849811758088193"
+          ],
+          "media_source_tweet_id": [
+            "2083850587406467139"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2084573712284881083",
+        "created_at": "2026-08-04T09:34:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T10:34:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084573712284881083"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5vI5oNiqnb",
+              "end": 49,
+              "expanded_url": "https://x.com/Crypto_CK123/status/2083850587406467139/video/1",
+              "media_key": "13_2083849811758088193",
+              "start": 26,
+              "url": "https://t.co/5vI5oNiqnb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084573712284881083",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉这样会很上爽 但是我受不了陌生人碰\n我身体全部 https://t.co/5vI5oNiqnb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/thexiexx",
+                "end": 23,
+                "expanded_url": "https://t.me/thexiexx",
+                "start": 0,
+                "url": "https://t.co/w6gPwSRnrf"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "备忘录",
+        "name": "嚼嚼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 225,
+          "like_count": 2005,
+          "listed_count": 0,
+          "media_count": 232,
+          "tweet_count": 2031
+        },
+        "url": "https://t.co/w6gPwSRnrf",
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

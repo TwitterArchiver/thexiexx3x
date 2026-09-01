@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090228428616380416",
+        "3_2090228428603842560"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2090228435084079356",
+    "created_at": "2026-08-20T00:04:28.000Z",
+    "display_text_range": [
+      0,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T01:04:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090228435084079356"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OoEjKpLHXB",
+          "end": 52,
+          "expanded_url": "https://x.com/thexiexx3x/status/2090228435084079356/photo/1",
+          "media_key": "3_2090228428616380416",
+          "start": 29,
+          "url": "https://t.co/OoEjKpLHXB"
+        },
+        {
+          "display_url": "pic.x.com/OoEjKpLHXB",
+          "end": 52,
+          "expanded_url": "https://x.com/thexiexx3x/status/2090228435084079356/photo/1",
+          "media_key": "3_2090228428603842560",
+          "start": 29,
+          "url": "https://t.co/OoEjKpLHXB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090228435084079356",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090228428616380416"
+      },
+      {
+        "media_key": "3_2090228428603842560"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "mentionedUsers",
+    "text": "哎呀，后面还有一段给我气死了我把这人删掉了 真浪费我时间 https://t.co/OoEjKpLHXB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2090228428616380416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQH7rmsaMAAg9Xs.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2090228428603842560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQH7rmpa4AAZxTx.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090228428616380416",
+            "3_2090228428603842560"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2090228435084079356",
+        "created_at": "2026-08-20T00:04:28.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T01:04:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090228435084079356"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OoEjKpLHXB",
+              "end": 52,
+              "expanded_url": "https://x.com/thexiexx3x/status/2090228435084079356/photo/1",
+              "media_key": "3_2090228428616380416",
+              "start": 29,
+              "url": "https://t.co/OoEjKpLHXB"
+            },
+            {
+              "display_url": "pic.x.com/OoEjKpLHXB",
+              "end": 52,
+              "expanded_url": "https://x.com/thexiexx3x/status/2090228435084079356/photo/1",
+              "media_key": "3_2090228428603842560",
+              "start": 29,
+              "url": "https://t.co/OoEjKpLHXB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090228435084079356",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090228428616380416"
+          },
+          {
+            "media_key": "3_2090228428603842560"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "哎呀，后面还有一段给我气死了我把这人删掉了 真浪费我时间 https://t.co/OoEjKpLHXB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x",
+                "start": 0,
+                "url": "https://t.co/d5BdKxYtww"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "应许记忆之城",
+        "most_recent_tweet_id": "2090228435084079356",
+        "name": "嚼嚼",
+        "pinned_tweet_id": "2086403297053966372",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1784638550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 275,
+          "like_count": 2746,
+          "listed_count": 0,
+          "media_count": 279,
+          "tweet_count": 2471
+        },
+        "url": "https://t.co/d5BdKxYtww",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083507677343436800"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2083507683743904061",
+    "created_at": "2026-08-01T10:58:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T11:58:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083507683743904061"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZRn69UCrUJ",
+          "end": 28,
+          "expanded_url": "https://x.com/thexiexx3x/status/2083507683743904061/photo/1",
+          "media_key": "3_2083507677343436800",
+          "start": 5,
+          "url": "https://t.co/ZRn69UCrUJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083507683743904061",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "犹豫人类 https://t.co/ZRn69UCrUJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 711,
+        "media_key": "3_2083507677343436800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOobMZLa0AAOJOw.jpg",
+        "width": 718
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083507677343436800"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2083507683743904061",
+        "created_at": "2026-08-01T10:58:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T11:58:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083507683743904061"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZRn69UCrUJ",
+              "end": 28,
+              "expanded_url": "https://x.com/thexiexx3x/status/2083507683743904061/photo/1",
+              "media_key": "3_2083507677343436800",
+              "start": 5,
+              "url": "https://t.co/ZRn69UCrUJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083507683743904061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "犹豫人类 https://t.co/ZRn69UCrUJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/thexiexx",
+                "end": 23,
+                "expanded_url": "https://t.me/thexiexx",
+                "start": 0,
+                "url": "https://t.co/w6gPwSRVgN"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "mybed",
+        "name": "嚼嚼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 217,
+          "like_count": 1875,
+          "listed_count": 0,
+          "media_count": 212,
+          "tweet_count": 1930
+        },
+        "url": "https://t.co/w6gPwSRVgN",
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

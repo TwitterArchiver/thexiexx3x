@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084525602829402112"
+      ],
+      "media_source_tweet_id": [
+        "2084525608231702569"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2084574563518861807",
+    "created_at": "2026-08-04T09:38:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T10:38:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084574563518861807"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1418187699865866245",
+          "start": 3,
+          "username": "ebinoinochi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/D5pxCNBPo9",
+          "end": 40,
+          "expanded_url": "https://x.com/ebinoinochi/status/2084525608231702569/photo/1",
+          "media_key": "3_2084525602829402112",
+          "start": 17,
+          "url": "https://t.co/D5pxCNBPo9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084574563518861807",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084525608231702569",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ebinoinochi: https://t.co/D5pxCNBPo9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084525602829402112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO24_dHagAAwtgz.jpg",
+        "width": 1506
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084525602829402112"
+          ]
+        },
+        "author_id": "1418187699865866245",
+        "conversation_id": "2084525608231702569",
+        "created_at": "2026-08-04T06:23:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T07:23:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084525608231702569"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D5pxCNBPo9",
+              "end": 23,
+              "expanded_url": "https://x.com/ebinoinochi/status/2084525608231702569/photo/1",
+              "media_key": "3_2084525602829402112",
+              "start": 0,
+              "url": "https://t.co/D5pxCNBPo9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084525608231702569",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1323,
+          "like_count": 108,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/D5pxCNBPo9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084525602829402112"
+          ],
+          "media_source_tweet_id": [
+            "2084525608231702569"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2084574563518861807",
+        "created_at": "2026-08-04T09:38:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T10:38:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084574563518861807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1418187699865866245",
+              "start": 3,
+              "username": "ebinoinochi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/D5pxCNBPo9",
+              "end": 40,
+              "expanded_url": "https://x.com/ebinoinochi/status/2084525608231702569/photo/1",
+              "media_key": "3_2084525602829402112",
+              "start": 17,
+              "url": "https://t.co/D5pxCNBPo9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084574563518861807",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084525608231702569",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ebinoinochi: https://t.co/D5pxCNBPo9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/thexiexx",
+                "end": 23,
+                "expanded_url": "https://t.me/thexiexx",
+                "start": 0,
+                "url": "https://t.co/w6gPwSRnrf"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "备忘录",
+        "name": "嚼嚼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 226,
+          "like_count": 2010,
+          "listed_count": 0,
+          "media_count": 232,
+          "tweet_count": 2033
+        },
+        "url": "https://t.co/w6gPwSRnrf",
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-22T12:34:43.000Z",
+        "description": "絵と飯などあります /作画等→ @okiami_daisuki skeb等のリンク→ https://t.co/RUyQP4PDcl メール→ ebinoinochi@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "okiami_daisuki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/ebinoinochi",
+                "end": 66,
+                "expanded_url": "https://lit.link/ebinoinochi",
+                "start": 43,
+                "url": "https://t.co/RUyQP4PDcl"
+              }
+            ]
+          }
+        },
+        "id": "1418187699865866245",
+        "location": "全て妄言です",
+        "name": "エビの生命",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080394464083001344/xIOaxjZl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1394,
+          "following_count": 235,
+          "like_count": 94430,
+          "listed_count": 6,
+          "media_count": 923,
+          "tweet_count": 13337
+        },
+        "url": "",
+        "username": "ebinoinochi",
+        "verified": false
+      }
+    ]
+  }
+}

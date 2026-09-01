@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086087271829364736"
+      ],
+      "media_source_tweet_id": [
+        "2086087282055066022"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2086316299081421208",
+    "created_at": "2026-08-09T04:59:02.000Z",
+    "display_text_range": [
+      0,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T05:59:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086316299081421208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2030627525928648704",
+          "start": 3,
+          "username": "xf88fy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ytHQqWnPxS",
+          "end": 35,
+          "expanded_url": "https://x.com/xf88fy/status/2086087282055066022/photo/1",
+          "media_key": "3_2086087271829364736",
+          "start": 12,
+          "url": "https://t.co/ytHQqWnPxS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086316299081421208",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2086087271829364736"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 67
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086087282055066022",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xf88fy: https://t.co/ytHQqWnPxS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1522,
+        "media_key": "3_2086087271829364736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPNFUjfaYAAyQHs.jpg",
+        "width": 1144
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086087271829364736"
+          ]
+        },
+        "author_id": "2030627525928648704",
+        "conversation_id": "2086087282055066022",
+        "created_at": "2026-08-08T13:49:00.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-08T14:49:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086087282055066022"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ytHQqWnPxS",
+              "end": 23,
+              "expanded_url": "https://x.com/xf88fy/status/2086087282055066022/photo/1",
+              "media_key": "3_2086087271829364736",
+              "start": 0,
+              "url": "https://t.co/ytHQqWnPxS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086087282055066022",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2086087271829364736"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 4585,
+          "like_count": 528,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 67
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ytHQqWnPxS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086087271829364736"
+          ],
+          "media_source_tweet_id": [
+            "2086087282055066022"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2086316299081421208",
+        "created_at": "2026-08-09T04:59:02.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T05:59:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086316299081421208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2030627525928648704",
+              "start": 3,
+              "username": "xf88fy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ytHQqWnPxS",
+              "end": 35,
+              "expanded_url": "https://x.com/xf88fy/status/2086087282055066022/photo/1",
+              "media_key": "3_2086087271829364736",
+              "start": 12,
+              "url": "https://t.co/ytHQqWnPxS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086316299081421208",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2086087271829364736"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 67
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086087282055066022",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xf88fy: https://t.co/ytHQqWnPxS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/thexiexx",
+                "end": 23,
+                "expanded_url": "https://t.me/thexiexx",
+                "start": 0,
+                "url": "https://t.co/w6gPwSRnrf"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "备忘录",
+        "most_recent_tweet_id": "2086316299081421208",
+        "name": "嚼嚼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1784638550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 255,
+          "like_count": 2315,
+          "listed_count": 0,
+          "media_count": 245,
+          "tweet_count": 2210
+        },
+        "url": "https://t.co/w6gPwSRnrf",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-08T12:52:10.000Z",
+        "description": "",
+        "id": "2030627525928648704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086265133945495573",
+        "name": "ふゆ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2030627525928648704/1780759704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073781993905815552/BegxoD07_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 898,
+          "following_count": 27,
+          "like_count": 3035,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 157
+        },
+        "url": "",
+        "username": "xf88fy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088461823473491968"
+      ],
+      "media_source_tweet_id": [
+        "2088461831094567306"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2088873383866032602",
+    "created_at": "2026-08-16T06:19:58.000Z",
+    "display_text_range": [
+      0,
+      61
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T07:19:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088873383866032602"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 37,
+          "start": 30,
+          "tag": "SKC美術部"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1091286882653298688",
+          "start": 3,
+          "username": "Hajiminoko666"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8GnLE5xYr0",
+          "end": 61,
+          "expanded_url": "https://x.com/855vLISqzK3WGtk/status/2088461831094567306/photo/1",
+          "media_key": "3_2088461823473491968",
+          "start": 38,
+          "url": "https://t.co/8GnLE5xYr0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088873383866032602",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088461823473491968"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088461831094567306",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hajiminoko666: 我想听新歌，我想要赞\n#SKC美術部 https://t.co/8GnLE5xYr0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2752,
+        "media_key": "3_2088461823473491968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPu09psaIAArxx5.jpg",
+        "width": 2064
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088461823473491968"
+          ],
+          "media_source_tweet_id": [
+            "2088461831094567306"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2088873383866032602",
+        "created_at": "2026-08-16T06:19:58.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T07:19:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088873383866032602"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 30,
+              "tag": "SKC美術部"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1091286882653298688",
+              "start": 3,
+              "username": "Hajiminoko666"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8GnLE5xYr0",
+              "end": 61,
+              "expanded_url": "https://x.com/855vLISqzK3WGtk/status/2088461831094567306/photo/1",
+              "media_key": "3_2088461823473491968",
+              "start": 38,
+              "url": "https://t.co/8GnLE5xYr0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088873383866032602",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088461823473491968"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088461831094567306",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hajiminoko666: 我想听新歌，我想要赞\n#SKC美術部 https://t.co/8GnLE5xYr0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088461823473491968"
+          ]
+        },
+        "author_id": "1091286882653298688",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2088461831094567306",
+        "created_at": "2026-08-15T03:04:36.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T04:04:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088461831094567306"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 11,
+              "tag": "SKC美術部"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8GnLE5xYr0",
+              "end": 42,
+              "expanded_url": "https://x.com/855vLISqzK3WGtk/status/2088461831094567306/photo/1",
+              "media_key": "3_2088461823473491968",
+              "start": 19,
+              "url": "https://t.co/8GnLE5xYr0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088461831094567306",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088461823473491968"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 680,
+          "like_count": 80,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "我想听新歌，我想要赞\n#SKC美術部 https://t.co/8GnLE5xYr0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x",
+                "start": 0,
+                "url": "https://t.co/d5BdKxYtww"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "应许记忆之城",
+        "most_recent_tweet_id": "2088873383866032602",
+        "name": "嚼嚼",
+        "pinned_tweet_id": "2086403297053966372",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1784638550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 260,
+          "like_count": 2550,
+          "listed_count": 0,
+          "media_count": 263,
+          "tweet_count": 2370
+        },
+        "url": "https://t.co/d5BdKxYtww",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-02-01T10:47:22.000Z",
+        "description": "私はせつな、中国人です。会社やめちゃって今ニートしますっww。偶には宇宙人と遊びたいな~\n\n神聖かまってちゃんが大好きです！\n綺麗な絵や軽音なとが好きです。日本語は下手、よろしくお願いします",
+        "id": "1091286882653298688",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088564690838598060",
+        "name": "せつな2023",
+        "pinned_tweet_id": "1985021962830397923",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1091286882653298688/1746035735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1471156915711393792/gmjgIDtO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 345,
+          "like_count": 3677,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 704
+        },
+        "url": "",
+        "username": "Hajiminoko666",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

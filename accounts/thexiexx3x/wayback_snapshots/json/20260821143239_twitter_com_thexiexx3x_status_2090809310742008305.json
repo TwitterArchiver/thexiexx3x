@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090787743550816256"
+      ],
+      "media_source_tweet_id": [
+        "2090787749448024083"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2090809310742008305",
+    "created_at": "2026-08-21T14:32:39.000Z",
+    "display_text_range": [
+      0,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T15:32:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090809310742008305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2033674613675462657",
+          "start": 3,
+          "username": "zigdtalk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ITv4czQafo",
+          "end": 53,
+          "expanded_url": "https://x.com/zigdtalk/status/2090787749448024083/photo/1",
+          "media_key": "3_2090787743550816256",
+          "start": 30,
+          "url": "https://t.co/ITv4czQafo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090809310742008305",
+    "lang": "und",
+    "media_metadata": [
+      {
+        "media_key": "3_2090787743550816256"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090787749448024083",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zigdtalk: ૮ ྀིᴗ͈ . ᴗ͈ ྀིა https://t.co/ITv4czQafo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1221,
+        "media_key": "3_2090787743550816256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQP4YBMWQAAqw9s.jpg",
+        "width": 1241
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090787743550816256"
+          ],
+          "media_source_tweet_id": [
+            "2090787749448024083"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2090809310742008305",
+        "created_at": "2026-08-21T14:32:39.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T15:32:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090809310742008305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2033674613675462657",
+              "start": 3,
+              "username": "zigdtalk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ITv4czQafo",
+              "end": 53,
+              "expanded_url": "https://x.com/zigdtalk/status/2090787749448024083/photo/1",
+              "media_key": "3_2090787743550816256",
+              "start": 30,
+              "url": "https://t.co/ITv4czQafo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090809310742008305",
+        "lang": "und",
+        "media_metadata": [
+          {
+            "media_key": "3_2090787743550816256"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090787749448024083",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zigdtalk: ૮ ྀིᴗ͈ . ᴗ͈ ྀིა https://t.co/ITv4czQafo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090787743550816256"
+          ]
+        },
+        "author_id": "2033674613675462657",
+        "conversation_id": "2090787749448024083",
+        "created_at": "2026-08-21T13:06:59.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T14:06:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090787749448024083"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ITv4czQafo",
+              "end": 39,
+              "expanded_url": "https://x.com/zigdtalk/status/2090787749448024083/photo/1",
+              "media_key": "3_2090787743550816256",
+              "start": 16,
+              "url": "https://t.co/ITv4czQafo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090787749448024083",
+        "lang": "und",
+        "media_metadata": [
+          {
+            "media_key": "3_2090787743550816256"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 2667,
+          "like_count": 116,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "૮ ྀིᴗ͈ . ᴗ͈ ྀིა https://t.co/ITv4czQafo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x",
+                "start": 0,
+                "url": "https://t.co/d5BdKxYtww"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "应许记忆之城",
+        "most_recent_tweet_id": "2090809310742008305",
+        "name": "嚼嚼",
+        "pinned_tweet_id": "2086403297053966372",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1784638550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 277,
+          "like_count": 2781,
+          "listed_count": 0,
+          "media_count": 281,
+          "tweet_count": 2483
+        },
+        "url": "https://t.co/d5BdKxYtww",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-16T22:40:08.000Z",
+        "description": "https://t.co/2jtJK6TkJB\nrecovery selfharm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "guns.lol/zigdtalk",
+                "end": 23,
+                "expanded_url": "https://guns.lol/zigdtalk",
+                "start": 0,
+                "url": "https://t.co/2jtJK6TkJB"
+              }
+            ]
+          }
+        },
+        "id": "2033674613675462657",
+        "is_identity_verified": false,
+        "location": "obslove",
+        "most_recent_tweet_id": "2090788532830749110",
+        "name": "barbara",
+        "pinned_tweet_id": "2090502022630199334",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2033674613675462657/1787244576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090480296990752768/bHnr71EJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1661,
+          "following_count": 103,
+          "like_count": 1975,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 367
+        },
+        "url": "",
+        "username": "zigdtalk",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086447223672553472"
+      ],
+      "media_source_tweet_id": [
+        "2086447226608316544"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2086644348024934519",
+    "created_at": "2026-08-10T02:42:35.000Z",
+    "display_text_range": [
+      0,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T03:42:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086644348024934519"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1936994950073421824",
+          "start": 3,
+          "username": "liminal_s"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Jn0C0iJotl",
+          "end": 38,
+          "expanded_url": "https://x.com/liminal_s/status/2086447226608316544/photo/1",
+          "media_key": "3_2086447223672553472",
+          "start": 15,
+          "url": "https://t.co/Jn0C0iJotl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086644348024934519",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2086447223672553472"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 70
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086447226608316544",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @liminal_s: https://t.co/Jn0C0iJotl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2086447223672553472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPSMsgmaQAAubjJ.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086447223672553472"
+          ]
+        },
+        "author_id": "1936994950073421824",
+        "conversation_id": "2086447226608316544",
+        "created_at": "2026-08-09T13:39:17.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T14:39:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086447226608316544"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jn0C0iJotl",
+              "end": 23,
+              "expanded_url": "https://x.com/liminal_s/status/2086447226608316544/photo/1",
+              "media_key": "3_2086447223672553472",
+              "start": 0,
+              "url": "https://t.co/Jn0C0iJotl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086447226608316544",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2086447223672553472"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 89,
+          "impression_count": 11666,
+          "like_count": 930,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 70
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Jn0C0iJotl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086447223672553472"
+          ],
+          "media_source_tweet_id": [
+            "2086447226608316544"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2086644348024934519",
+        "created_at": "2026-08-10T02:42:35.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T03:42:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086644348024934519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1936994950073421824",
+              "start": 3,
+              "username": "liminal_s"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jn0C0iJotl",
+              "end": 38,
+              "expanded_url": "https://x.com/liminal_s/status/2086447226608316544/photo/1",
+              "media_key": "3_2086447223672553472",
+              "start": 15,
+              "url": "https://t.co/Jn0C0iJotl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086644348024934519",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2086447223672553472"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 70
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086447226608316544",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @liminal_s: https://t.co/Jn0C0iJotl"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/thexiexx",
+                "end": 23,
+                "expanded_url": "https://t.me/thexiexx",
+                "start": 0,
+                "url": "https://t.co/w6gPwSRnrf"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "备忘录",
+        "most_recent_tweet_id": "2086644348024934519",
+        "name": "嚼嚼",
+        "pinned_tweet_id": "2086403297053966372",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1784638550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 253,
+          "like_count": 2357,
+          "listed_count": 0,
+          "media_count": 255,
+          "tweet_count": 2249
+        },
+        "url": "https://t.co/w6gPwSRnrf",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-23T03:49:36.000Z",
+        "description": "",
+        "id": "1936994950073421824",
+        "is_identity_verified": false,
+        "location": "🕳",
+        "most_recent_tweet_id": "2086633433757778377",
+        "name": "Liminal Space",
+        "pinned_tweet_id": "2084253211498565854",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1936994950073421824/1751348298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939922864959823873/cD19i1hE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127766,
+          "following_count": 0,
+          "like_count": 1942,
+          "listed_count": 379,
+          "media_count": 5946,
+          "tweet_count": 6347
+        },
+        "url": "",
+        "username": "liminal_s",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

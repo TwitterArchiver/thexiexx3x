@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2088960127626100789",
+    "created_at": "2026-08-16T12:04:40.000Z",
+    "display_text_range": [
+      0,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T13:04:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088960127626100789"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "163cn.tv/bdePSIKR",
+          "end": 50,
+          "expanded_url": "https://163cn.tv/bdePSIKR",
+          "start": 27,
+          "status": 200,
+          "unwound_url": "https://y.music.163.com/m/song?fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=&id=22770458&PlayerStyles_SynchronousSharing=t3&fx-listentest=t3&H5_DownloadVIPGift=&uct2=tr%2FLwoJhIhKisnXP7PrWkw==&playerUIModeId=1379005&app_version=9.5.70&dlt=0846",
+          "url": "https://t.co/rTL81Id6Bv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088960127626100789",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "分享死んだ僕の彼女的单曲《秋の八王子 (八王子之秋)》https://t.co/rTL81Id6Bv (@网易云音乐)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2088960127626100789",
+        "created_at": "2026-08-16T12:04:40.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T13:04:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088960127626100789"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "163cn.tv/bdePSIKR",
+              "end": 50,
+              "expanded_url": "https://163cn.tv/bdePSIKR",
+              "start": 27,
+              "status": 200,
+              "unwound_url": "https://y.music.163.com/m/song?fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=&id=22770458&PlayerStyles_SynchronousSharing=t3&fx-listentest=t3&H5_DownloadVIPGift=&uct2=tr%2FLwoJhIhKisnXP7PrWkw==&playerUIModeId=1379005&app_version=9.5.70&dlt=0846",
+              "url": "https://t.co/rTL81Id6Bv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088960127626100789",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "分享死んだ僕の彼女的单曲《秋の八王子 (八王子之秋)》https://t.co/rTL81Id6Bv (@网易云音乐)"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x",
+                "start": 0,
+                "url": "https://t.co/d5BdKxYtww"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "应许记忆之城",
+        "most_recent_tweet_id": "2088960127626100789",
+        "name": "嚼嚼",
+        "pinned_tweet_id": "2086403297053966372",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1784638550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 258,
+          "like_count": 2570,
+          "listed_count": 0,
+          "media_count": 266,
+          "tweet_count": 2380
+        },
+        "url": "https://t.co/d5BdKxYtww",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

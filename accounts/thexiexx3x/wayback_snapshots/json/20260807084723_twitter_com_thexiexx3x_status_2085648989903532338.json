@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085648980076343296"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2085648989903532338",
+    "created_at": "2026-08-07T08:47:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T09:47:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085648989903532338"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OON6TJqxsO",
+          "end": 23,
+          "expanded_url": "https://x.com/thexiexx3x/status/2085648989903532338/photo/1",
+          "media_key": "3_2085648980076343296",
+          "start": 0,
+          "url": "https://t.co/OON6TJqxsO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085648989903532338",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/OON6TJqxsO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2085648980076343296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPG2snebMAAycHy.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085648980076343296"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2085648989903532338",
+        "created_at": "2026-08-07T08:47:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T09:47:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085648989903532338"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OON6TJqxsO",
+              "end": 23,
+              "expanded_url": "https://x.com/thexiexx3x/status/2085648989903532338/photo/1",
+              "media_key": "3_2085648980076343296",
+              "start": 0,
+              "url": "https://t.co/OON6TJqxsO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085648989903532338",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/OON6TJqxsO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/thexiexx",
+                "end": 23,
+                "expanded_url": "https://t.me/thexiexx",
+                "start": 0,
+                "url": "https://t.co/w6gPwSRnrf"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "备忘录",
+        "name": "嚼嚼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 246,
+          "like_count": 2198,
+          "listed_count": 0,
+          "media_count": 236,
+          "tweet_count": 2135
+        },
+        "url": "https://t.co/w6gPwSRnrf",
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

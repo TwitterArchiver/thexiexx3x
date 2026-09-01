@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2082282005316980958",
+    "created_at": "2026-07-29T01:48:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T02:48:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082282005316980958"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lkuaix_xie/sta…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/lkuaix_xie/status/2082281484837359647",
+          "start": 3,
+          "url": "https://t.co/MAW4lKE5Jw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082282005316980958",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082281484837359647",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大浩 https://t.co/MAW4lKE5Jw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082281428038086656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOW_7SiacAA8O5r.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2082282005316980958",
+        "created_at": "2026-07-29T01:48:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T02:48:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082282005316980958"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lkuaix_xie/sta…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/lkuaix_xie/status/2082281484837359647",
+              "start": 3,
+              "url": "https://t.co/MAW4lKE5Jw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082282005316980958",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082281484837359647",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大浩 https://t.co/MAW4lKE5Jw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082281428038086656"
+          ]
+        },
+        "author_id": "1954511704378994688",
+        "conversation_id": "2082281484837359647",
+        "created_at": "2026-07-29T01:46:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T02:46:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082281484837359647"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wLU1ATX38m",
+              "end": 31,
+              "expanded_url": "https://x.com/lkuaix_xie/status/2082281484837359647/photo/1",
+              "media_key": "3_2082281428038086656",
+              "start": 8,
+              "url": "https://t.co/wLU1ATX38m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082281484837359647",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "魔女〇家玩多了 https://t.co/wLU1ATX38m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/thexiexx",
+                "end": 23,
+                "expanded_url": "https://t.me/thexiexx",
+                "start": 0,
+                "url": "https://t.co/w6gPwSRVgN"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "mybed",
+        "name": "嚼嚼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 215,
+          "like_count": 1710,
+          "listed_count": 0,
+          "media_count": 193,
+          "tweet_count": 1825
+        },
+        "url": "https://t.co/w6gPwSRVgN",
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-10T11:54:52.000Z",
+        "description": "🦂🦂🦂",
+        "id": "1954511704378994688",
+        "location": "前置記憶",
+        "name": "Lkuaix_nya蠍",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064346742078980096/d5YusB28_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 160,
+          "like_count": 563,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 275
+        },
+        "url": "",
+        "username": "lkuaix_xie",
+        "verified": false
+      }
+    ]
+  }
+}

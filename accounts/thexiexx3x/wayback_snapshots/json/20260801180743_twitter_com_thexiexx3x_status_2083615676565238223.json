@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083615491474763776",
+        "3_2083615491537719296"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2083615023679869377",
+    "created_at": "2026-08-01T18:07:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T19:07:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083615676565238223"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vINlIiNCpD",
+          "end": 29,
+          "expanded_url": "https://x.com/thexiexx3x/status/2083615676565238223/photo/1",
+          "media_key": "3_2083615491474763776",
+          "start": 6,
+          "url": "https://t.co/vINlIiNCpD"
+        },
+        {
+          "display_url": "pic.x.com/vINlIiNCpD",
+          "end": 29,
+          "expanded_url": "https://x.com/thexiexx3x/status/2083615676565238223/photo/1",
+          "media_key": "3_2083615491537719296",
+          "start": 6,
+          "url": "https://t.co/vINlIiNCpD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083615676565238223",
+    "in_reply_to_user_id": "2054583279257583616",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083615023679869377",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "（6/6） https://t.co/vINlIiNCpD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083615491474763776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOp9QAHasAAaYgg.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2083615491537719296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOp9QAWbUAA5Xhu.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2083614908936273920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOp8uF_awAAklC3.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2083614908915355648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOp8uF6bkAAL3oh.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2083614908919533569",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOp8uF7bUAET9kE.jpg",
+        "width": 724
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2083614908919533568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOp8uF7bUAAJbOA.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083615491474763776",
+            "3_2083615491537719296"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2083615023679869377",
+        "created_at": "2026-08-01T18:07:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T19:07:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083615676565238223"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vINlIiNCpD",
+              "end": 29,
+              "expanded_url": "https://x.com/thexiexx3x/status/2083615676565238223/photo/1",
+              "media_key": "3_2083615491474763776",
+              "start": 6,
+              "url": "https://t.co/vINlIiNCpD"
+            },
+            {
+              "display_url": "pic.x.com/vINlIiNCpD",
+              "end": 29,
+              "expanded_url": "https://x.com/thexiexx3x/status/2083615676565238223/photo/1",
+              "media_key": "3_2083615491537719296",
+              "start": 6,
+              "url": "https://t.co/vINlIiNCpD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083615676565238223",
+        "in_reply_to_user_id": "2054583279257583616",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083615023679869377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "（6/6） https://t.co/vINlIiNCpD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083614908936273920",
+            "3_2083614908915355648",
+            "3_2083614908919533569",
+            "3_2083614908919533568"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2083615023679869377",
+        "created_at": "2026-08-01T18:05:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T19:05:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083615023679869377"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/okQxLPTs0M",
+              "end": 35,
+              "expanded_url": "https://x.com/thexiexx3x/status/2083615023679869377/photo/1",
+              "media_key": "3_2083614908936273920",
+              "start": 12,
+              "url": "https://t.co/okQxLPTs0M"
+            },
+            {
+              "display_url": "pic.x.com/okQxLPTs0M",
+              "end": 35,
+              "expanded_url": "https://x.com/thexiexx3x/status/2083615023679869377/photo/1",
+              "media_key": "3_2083614908915355648",
+              "start": 12,
+              "url": "https://t.co/okQxLPTs0M"
+            },
+            {
+              "display_url": "pic.x.com/okQxLPTs0M",
+              "end": 35,
+              "expanded_url": "https://x.com/thexiexx3x/status/2083615023679869377/photo/1",
+              "media_key": "3_2083614908919533569",
+              "start": 12,
+              "url": "https://t.co/okQxLPTs0M"
+            },
+            {
+              "display_url": "pic.x.com/okQxLPTs0M",
+              "end": 35,
+              "expanded_url": "https://x.com/thexiexx3x/status/2083615023679869377/photo/1",
+              "media_key": "3_2083614908919533568",
+              "start": 12,
+              "url": "https://t.co/okQxLPTs0M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083615023679869377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "弱质小漫画 （4/6） https://t.co/okQxLPTs0M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/thexiexx",
+                "end": 23,
+                "expanded_url": "https://t.me/thexiexx",
+                "start": 0,
+                "url": "https://t.co/w6gPwSRVgN"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "mybed",
+        "name": "嚼嚼",
+        "pinned_tweet_id": "2083387666683609141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 217,
+          "like_count": 1891,
+          "listed_count": 0,
+          "media_count": 218,
+          "tweet_count": 1951
+        },
+        "url": "https://t.co/w6gPwSRVgN",
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

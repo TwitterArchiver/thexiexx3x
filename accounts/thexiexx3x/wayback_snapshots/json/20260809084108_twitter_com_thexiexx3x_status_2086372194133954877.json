@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2086372074264915968"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2086372194133954877",
+    "created_at": "2026-08-09T08:41:08.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T09:41:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086372194133954877"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/e93Rp9rTlW",
+          "end": 23,
+          "expanded_url": "https://x.com/thexiexx3x/status/2086372194133954877/video/1",
+          "media_key": "13_2086372074264915968",
+          "start": 0,
+          "url": "https://t.co/e93Rp9rTlW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086372194133954877",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2086372074264915968"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/e93Rp9rTlW"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28766,
+        "height": 1280,
+        "media_key": "13_2086372074264915968",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2086372074264915968/img/9-__MJJRYp0httar.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086372074264915968/vid/avc1/320x568/KKBvNuOhRfPWspsU.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086372074264915968/vid/avc1/480x852/_tGljD9qhZioQydZ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086372074264915968/vid/avc1/720x1280/41sL0GG8RmPX-PNr.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2086372074264915968/pl/I6SCiMfl8zQ_LTI6.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086372074264915968"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2086372194133954877",
+        "created_at": "2026-08-09T08:41:08.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T09:41:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086372194133954877"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e93Rp9rTlW",
+              "end": 23,
+              "expanded_url": "https://x.com/thexiexx3x/status/2086372194133954877/video/1",
+              "media_key": "13_2086372074264915968",
+              "start": 0,
+              "url": "https://t.co/e93Rp9rTlW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086372194133954877",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2086372074264915968"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/e93Rp9rTlW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/thexiexx",
+                "end": 23,
+                "expanded_url": "https://t.me/thexiexx",
+                "start": 0,
+                "url": "https://t.co/w6gPwSRnrf"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "备忘录",
+        "most_recent_tweet_id": "2086372194133954877",
+        "name": "嚼嚼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1784638550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 249,
+          "like_count": 2326,
+          "listed_count": 0,
+          "media_count": 250,
+          "tweet_count": 2220
+        },
+        "url": "https://t.co/w6gPwSRnrf",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

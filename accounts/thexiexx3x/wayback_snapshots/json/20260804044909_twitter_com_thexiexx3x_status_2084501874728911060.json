@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2084501874728911060",
+    "created_at": "2026-08-04T04:49:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T05:49:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084501874728911060"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/chefofxxx/stat…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/chefofxxx/status/2084225365900157285",
+          "start": 4,
+          "url": "https://t.co/apRvVt6fTo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084501874728911060",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084225365900157285",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好想吃 https://t.co/apRvVt6fTo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_2084225351115329536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOyn6gUX0AA9hgg.jpg",
+        "width": 555
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2084501874728911060",
+        "created_at": "2026-08-04T04:49:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T05:49:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084501874728911060"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chefofxxx/stat…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/chefofxxx/status/2084225365900157285",
+              "start": 4,
+              "url": "https://t.co/apRvVt6fTo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084501874728911060",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084225365900157285",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好想吃 https://t.co/apRvVt6fTo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084225351115329536"
+          ]
+        },
+        "author_id": "1893231806180478976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2084225365900157285",
+        "created_at": "2026-08-03T10:30:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T11:30:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084225365900157285"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CSCNsAV3no",
+              "end": 40,
+              "expanded_url": "https://x.com/ChefOfXxx/status/2084225365900157285/photo/1",
+              "media_key": "3_2084225351115329536",
+              "start": 17,
+              "url": "https://t.co/CSCNsAV3no"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084225365900157285",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 481,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "Steak &amp; Eggs https://t.co/CSCNsAV3no"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/thexiexx",
+                "end": 23,
+                "expanded_url": "https://t.me/thexiexx",
+                "start": 0,
+                "url": "https://t.co/w6gPwSRnrf"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "备忘录",
+        "name": "嚼嚼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 224,
+          "like_count": 1997,
+          "listed_count": 0,
+          "media_count": 227,
+          "tweet_count": 2015
+        },
+        "url": "https://t.co/w6gPwSRnrf",
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T09:30:36.000Z",
+        "description": "Passionate about cooking & sharing mouthwatering recipes. Follow for daily kitchen inspiration! 👩‍🍳🔥\n GOOD FOOD = GOOD MOOD !🥗🥑",
+        "id": "1893231806180478976",
+        "location": "DM for the Promo 💌♥️",
+        "name": "𝑪𝑯𝑬𝑭 𝑿",
+        "pinned_tweet_id": "1942191574944764259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893239451997917184/aDjeojOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36916,
+          "following_count": 171,
+          "like_count": 34901,
+          "listed_count": 109,
+          "media_count": 29304,
+          "tweet_count": 38888
+        },
+        "url": "",
+        "username": "ChefOfXxx",
+        "verified": true
+      }
+    ]
+  }
+}

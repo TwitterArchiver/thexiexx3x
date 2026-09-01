@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086292552920305664"
+      ],
+      "media_source_tweet_id": [
+        "2086292664371277896"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2086318475736383572",
+    "created_at": "2026-08-09T05:07:41.000Z",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T06:07:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086318475736383572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2861815896",
+          "start": 3,
+          "username": "Zy___9"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uLkSBSruoR",
+          "end": 41,
+          "expanded_url": "https://x.com/Zy___9/status/2086292664371277896/photo/1",
+          "media_key": "3_2086292552920305664",
+          "start": 18,
+          "url": "https://t.co/uLkSBSruoR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086318475736383572",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2086292552920305664"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 179
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086292664371277896",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Zy___9: ゆかれいむ https://t.co/uLkSBSruoR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1506,
+        "media_key": "3_2086292552920305664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPQABfJbkAAeQrK.jpg",
+        "width": 2645
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086292552920305664"
+          ]
+        },
+        "author_id": "2861815896",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2086292664371277896",
+        "created_at": "2026-08-09T03:25:07.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T04:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086292664371277896"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uLkSBSruoR",
+              "end": 29,
+              "expanded_url": "https://x.com/Zy___9/status/2086292664371277896/photo/1",
+              "media_key": "3_2086292552920305664",
+              "start": 6,
+              "url": "https://t.co/uLkSBSruoR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086292664371277896",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2086292552920305664"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 157,
+          "impression_count": 21860,
+          "like_count": 1198,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 179
+        },
+        "reply_settings": "everyone",
+        "text": "ゆかれいむ https://t.co/uLkSBSruoR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086292552920305664"
+          ],
+          "media_source_tweet_id": [
+            "2086292664371277896"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2086318475736383572",
+        "created_at": "2026-08-09T05:07:41.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T06:07:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086318475736383572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2861815896",
+              "start": 3,
+              "username": "Zy___9"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uLkSBSruoR",
+              "end": 41,
+              "expanded_url": "https://x.com/Zy___9/status/2086292664371277896/photo/1",
+              "media_key": "3_2086292552920305664",
+              "start": 18,
+              "url": "https://t.co/uLkSBSruoR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086318475736383572",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2086292552920305664"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 179
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086292664371277896",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Zy___9: ゆかれいむ https://t.co/uLkSBSruoR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/thexiexx",
+                "end": 23,
+                "expanded_url": "https://t.me/thexiexx",
+                "start": 0,
+                "url": "https://t.co/w6gPwSRnrf"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "备忘录",
+        "most_recent_tweet_id": "2086318475736383572",
+        "name": "嚼嚼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1784638550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 255,
+          "like_count": 2320,
+          "listed_count": 0,
+          "media_count": 245,
+          "tweet_count": 2211
+        },
+        "url": "https://t.co/w6gPwSRnrf",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-10-18T04:08:53.000Z",
+        "description": "ゆかれいむ🌂⛩️ hmmmm... 🚫AI.\ncommission: https://t.co/hW2PTTWPUW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "zy9.carrd.co",
+                "end": 58,
+                "expanded_url": "https://zy9.carrd.co",
+                "start": 35,
+                "url": "https://t.co/hW2PTTWPUW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/zy___9",
+                "end": 23,
+                "expanded_url": "https://ko-fi.com/zy___9",
+                "start": 0,
+                "url": "https://t.co/8CQvh6bvXf"
+              }
+            ]
+          }
+        },
+        "id": "2861815896",
+        "is_identity_verified": false,
+        "location": "Moon",
+        "most_recent_tweet_id": "2086292664371277896",
+        "name": "zy𠃩",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2861815896/1727056004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791779689977319424/EJ6lVcng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40483,
+          "following_count": 190,
+          "like_count": 14,
+          "listed_count": 198,
+          "media_count": 52,
+          "tweet_count": 832
+        },
+        "url": "https://t.co/8CQvh6bvXf",
+        "username": "Zy___9",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

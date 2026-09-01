@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2084725392485543936"
+      ],
+      "media_source_tweet_id": [
+        "2084725432243384373"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2085319414074003855",
+    "created_at": "2026-08-06T10:57:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T11:57:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085319414074003855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2063465327141257216",
+          "start": 3,
+          "username": "Antozre"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tI8Dl0tYB6",
+          "end": 36,
+          "expanded_url": "https://x.com/Antozre/status/2084725432243384373/video/1",
+          "media_key": "13_2084725392485543936",
+          "start": 13,
+          "url": "https://t.co/tI8Dl0tYB6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085319414074003855",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 936
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084725432243384373",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Antozre: https://t.co/tI8Dl0tYB6"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10041,
+        "height": 520,
+        "media_key": "13_2084725392485543936",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2084725392485543936/img/XFLXMUrBDEsVqPCk.jpg",
+        "public_metrics": {
+          "view_count": 19033
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084725392485543936/vid/avc1/372x270/egxyq4XIAznkjqUv.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084725392485543936/vid/avc1/498x360/hUaWCGFF7AdQeIH6.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084725392485543936/vid/avc1/720x520/KVfGgnRmVDRcBAIy.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2084725392485543936/pl/EN4qXR7jUNGEBRuE.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2084725392485543936"
+          ]
+        },
+        "author_id": "2063465327141257216",
+        "conversation_id": "2084725432243384373",
+        "created_at": "2026-08-04T19:37:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T20:37:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084725432243384373"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tI8Dl0tYB6",
+              "end": 23,
+              "expanded_url": "https://x.com/Antozre/status/2084725432243384373/video/1",
+              "media_key": "13_2084725392485543936",
+              "start": 0,
+              "url": "https://t.co/tI8Dl0tYB6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084725432243384373",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 413,
+          "impression_count": 42008,
+          "like_count": 3460,
+          "quote_count": 51,
+          "reply_count": 6,
+          "retweet_count": 936
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/tI8Dl0tYB6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2084725392485543936"
+          ],
+          "media_source_tweet_id": [
+            "2084725432243384373"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2085319414074003855",
+        "created_at": "2026-08-06T10:57:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T11:57:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085319414074003855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2063465327141257216",
+              "start": 3,
+              "username": "Antozre"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tI8Dl0tYB6",
+              "end": 36,
+              "expanded_url": "https://x.com/Antozre/status/2084725432243384373/video/1",
+              "media_key": "13_2084725392485543936",
+              "start": 13,
+              "url": "https://t.co/tI8Dl0tYB6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085319414074003855",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 936
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084725432243384373",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Antozre: https://t.co/tI8Dl0tYB6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/thexiexx",
+                "end": 23,
+                "expanded_url": "https://t.me/thexiexx",
+                "start": 0,
+                "url": "https://t.co/w6gPwSRnrf"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "备忘录",
+        "name": "嚼嚼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 241,
+          "like_count": 2163,
+          "listed_count": 0,
+          "media_count": 234,
+          "tweet_count": 2118
+        },
+        "url": "https://t.co/w6gPwSRnrf",
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-07T03:37:42.000Z",
+        "description": "dc //;; @ antttooov   ,   〔  #🇨🇱``\n                        . ( ɞ ) .              \n#obstwt \n#cigarretetwt\n#chiletwt\n────\n\npelotuda larpera amante de la papaya",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 90,
+                "start": 83,
+                "tag": "obstwt"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "tag": "cigarretetwt"
+              },
+              {
+                "end": 115,
+                "start": 106,
+                "tag": "chiletwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "…istic-falcon-11j37g5.mystrikingly.com",
+                "end": 23,
+                "expanded_url": "https://optimistic-falcon-11j37g5.mystrikingly.com",
+                "start": 0,
+                "url": "https://t.co/FK6z1zKiOe"
+              }
+            ]
+          }
+        },
+        "id": "2063465327141257216",
+        "location": "Papayossupremos.",
+        "name": "Deepenlov3",
+        "pinned_tweet_id": "2080314735887573288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078305023503523842/skMZgBuL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 285,
+          "like_count": 8553,
+          "listed_count": 3,
+          "media_count": 362,
+          "tweet_count": 2017
+        },
+        "url": "https://t.co/FK6z1zKiOe",
+        "username": "Antozre",
+        "verified": false
+      }
+    ]
+  }
+}

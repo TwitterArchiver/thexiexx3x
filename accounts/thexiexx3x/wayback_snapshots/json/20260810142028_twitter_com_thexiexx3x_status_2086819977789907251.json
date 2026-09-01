@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086462318880145408"
+      ],
+      "media_source_tweet_id": [
+        "2086462324672528544"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2086819977789907251",
+    "created_at": "2026-08-10T14:20:28.000Z",
+    "display_text_range": [
+      0,
+      134
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T15:20:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086819977789907251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2037694988595646464",
+          "start": 3,
+          "username": "applejuicex33"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HdHtcrltgB",
+          "end": 134,
+          "expanded_url": "https://x.com/applejuicex33/status/2086462324672528544/photo/1",
+          "media_key": "3_2086462318880145408",
+          "start": 111,
+          "url": "https://t.co/HdHtcrltgB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086819977789907251",
+    "lang": "es",
+    "media_metadata": [
+      {
+        "media_key": "3_2086462318880145408"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 820
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086462324672528544",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @applejuicex33: como me siento cuando me doy cuenta de que hablo demasiado de drogas en frente a mis amigos https://t.co/HdHtcrltgB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1017,
+        "media_key": "3_2086462318880145408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPSabKoWwAAbbep.jpg",
+        "width": 986
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086462318880145408"
+          ]
+        },
+        "author_id": "2037694988595646464",
+        "conversation_id": "2086462324672528544",
+        "created_at": "2026-08-09T14:39:17.000Z",
+        "display_text_range": [
+          0,
+          91
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T15:39:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086462324672528544"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HdHtcrltgB",
+              "end": 115,
+              "expanded_url": "https://x.com/applejuicex33/status/2086462324672528544/photo/1",
+              "media_key": "3_2086462318880145408",
+              "start": 92,
+              "url": "https://t.co/HdHtcrltgB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086462324672528544",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "3_2086462318880145408"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 146,
+          "impression_count": 47767,
+          "like_count": 5106,
+          "quote_count": 46,
+          "reply_count": 11,
+          "retweet_count": 820
+        },
+        "reply_settings": "everyone",
+        "text": "como me siento cuando me doy cuenta de que hablo demasiado de drogas en frente a mis amigos https://t.co/HdHtcrltgB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086462318880145408"
+          ],
+          "media_source_tweet_id": [
+            "2086462324672528544"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2086819977789907251",
+        "created_at": "2026-08-10T14:20:28.000Z",
+        "display_text_range": [
+          0,
+          134
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T15:20:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086819977789907251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2037694988595646464",
+              "start": 3,
+              "username": "applejuicex33"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HdHtcrltgB",
+              "end": 134,
+              "expanded_url": "https://x.com/applejuicex33/status/2086462324672528544/photo/1",
+              "media_key": "3_2086462318880145408",
+              "start": 111,
+              "url": "https://t.co/HdHtcrltgB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086819977789907251",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "3_2086462318880145408"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 820
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086462324672528544",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @applejuicex33: como me siento cuando me doy cuenta de que hablo demasiado de drogas en frente a mis amigos https://t.co/HdHtcrltgB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/thexiexx",
+                "end": 23,
+                "expanded_url": "https://t.me/thexiexx",
+                "start": 0,
+                "url": "https://t.co/w6gPwSRnrf"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "备忘录",
+        "most_recent_tweet_id": "2086819977789907251",
+        "name": "嚼嚼",
+        "pinned_tweet_id": "2086403297053966372",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1784638550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 254,
+          "like_count": 2396,
+          "listed_count": 0,
+          "media_count": 255,
+          "tweet_count": 2262
+        },
+        "url": "https://t.co/w6gPwSRnrf",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-28T00:55:33.000Z",
+        "description": "anarca, marihuanera y trastornada\n#vent #shtwt #drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 39,
+                "start": 34,
+                "tag": "vent"
+              },
+              {
+                "end": 46,
+                "start": 40,
+                "tag": "shtwt"
+              },
+              {
+                "end": 55,
+                "start": 47,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "2037694988595646464",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086727499816296853",
+        "name": "neto /⁠ᐠ⁠｡⁠ꞈ⁠｡⁠ᐟ⁠\\",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081518690718154752/QGMM5Kw2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 475,
+          "following_count": 75,
+          "like_count": 1183,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 592
+        },
+        "url": "",
+        "username": "applejuicex33",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

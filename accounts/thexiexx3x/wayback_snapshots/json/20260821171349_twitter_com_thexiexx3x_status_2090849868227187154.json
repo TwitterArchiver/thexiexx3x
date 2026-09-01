@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2090837254260548092",
+    "created_at": "2026-08-21T17:13:49.000Z",
+    "display_text_range": [
+      10,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T18:13:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090849868227187154"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2049544022331719680",
+          "start": 0,
+          "username": "Kikiqc8d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090849868227187154",
+    "in_reply_to_user_id": "2049544022331719680",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090844155261939955",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kikiqc8d 😽"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "16_2090844144315109376",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HQQrq-abkAAKWJQ.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HQQrq-abkAAKWJQ.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2090837254260548092",
+        "created_at": "2026-08-21T17:13:49.000Z",
+        "display_text_range": [
+          10,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T18:13:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090849868227187154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2049544022331719680",
+              "start": 0,
+              "username": "Kikiqc8d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090849868227187154",
+        "in_reply_to_user_id": "2049544022331719680",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090844155261939955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kikiqc8d 😽"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2090844144315109376"
+          ]
+        },
+        "author_id": "2049544022331719680",
+        "conversation_id": "2090837254260548092",
+        "created_at": "2026-08-21T16:51:07.000Z",
+        "display_text_range": [
+          11,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T17:51:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090844155261939955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2054583279257583616",
+              "start": 0,
+              "username": "thexiexx3x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tRWtkAErpn",
+              "end": 35,
+              "expanded_url": "https://x.com/Kikiqc8d/status/2090844155261939955/photo/1",
+              "media_key": "16_2090844144315109376",
+              "start": 12,
+              "url": "https://t.co/tRWtkAErpn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090844155261939955",
+        "in_reply_to_user_id": "2054583279257583616",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "16_2090844144315109376"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090837254260548092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thexiexx3x https://t.co/tRWtkAErpn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x",
+                "start": 0,
+                "url": "https://t.co/d5BdKxYtww"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "应许记忆之城",
+        "most_recent_tweet_id": "2090849868227187154",
+        "name": "嚼嚼",
+        "pinned_tweet_id": "2086403297053966372",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1784638550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 279,
+          "like_count": 2788,
+          "listed_count": 0,
+          "media_count": 283,
+          "tweet_count": 2488
+        },
+        "url": "https://t.co/d5BdKxYtww",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-29T17:40:17.000Z",
+        "description": "",
+        "id": "2049544022331719680",
+        "is_identity_verified": false,
+        "location": "2022",
+        "most_recent_tweet_id": "2090844155261939955",
+        "name": "Kikixixi",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049579593884168192/sbL7Xdcp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 71,
+          "like_count": 156,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 241
+        },
+        "url": "",
+        "username": "Kikiqc8d",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

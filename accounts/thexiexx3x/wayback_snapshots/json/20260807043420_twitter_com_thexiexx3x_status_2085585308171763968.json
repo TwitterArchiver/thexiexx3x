@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085576187976519680"
+      ],
+      "media_source_tweet_id": [
+        "2085576192611242040"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2085585308171763968",
+    "created_at": "2026-08-07T04:34:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T05:34:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085585308171763968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2047284651635748864",
+          "start": 3,
+          "username": "ggaeqb"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/66QeUA7yyM",
+          "end": 35,
+          "expanded_url": "https://x.com/ggaeqb/status/2085576192611242040/photo/1",
+          "media_key": "3_2085576187976519680",
+          "start": 12,
+          "url": "https://t.co/66QeUA7yyM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085585308171763968",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085576192611242040",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ggaeqb: https://t.co/66QeUA7yyM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2085576187976519680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPF0fjxakAAWtMx.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085576187976519680"
+          ]
+        },
+        "author_id": "2047284651635748864",
+        "conversation_id": "2085576192611242040",
+        "created_at": "2026-08-07T03:58:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T04:58:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085576192611242040"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/66QeUA7yyM",
+              "end": 23,
+              "expanded_url": "https://x.com/ggaeqb/status/2085576192611242040/photo/1",
+              "media_key": "3_2085576187976519680",
+              "start": 0,
+              "url": "https://t.co/66QeUA7yyM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085576192611242040",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 351,
+          "like_count": 18,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/66QeUA7yyM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085576187976519680"
+          ],
+          "media_source_tweet_id": [
+            "2085576192611242040"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2085585308171763968",
+        "created_at": "2026-08-07T04:34:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T05:34:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085585308171763968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2047284651635748864",
+              "start": 3,
+              "username": "ggaeqb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/66QeUA7yyM",
+              "end": 35,
+              "expanded_url": "https://x.com/ggaeqb/status/2085576192611242040/photo/1",
+              "media_key": "3_2085576187976519680",
+              "start": 12,
+              "url": "https://t.co/66QeUA7yyM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085585308171763968",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085576192611242040",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ggaeqb: https://t.co/66QeUA7yyM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/thexiexx",
+                "end": 23,
+                "expanded_url": "https://t.me/thexiexx",
+                "start": 0,
+                "url": "https://t.co/w6gPwSRnrf"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "备忘录",
+        "name": "嚼嚼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 244,
+          "like_count": 2190,
+          "listed_count": 0,
+          "media_count": 235,
+          "tweet_count": 2134
+        },
+        "url": "https://t.co/w6gPwSRnrf",
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-23T12:01:35.000Z",
+        "description": "쓰레기 도시 서울",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/gmtd",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/gmtd",
+                "start": 0,
+                "url": "https://t.co/pv334gKA3j"
+              }
+            ]
+          }
+        },
+        "id": "2047284651635748864",
+        "name": "gog bay…",
+        "pinned_tweet_id": "2060055407025090618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060033887594790912/uCs-xtb0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 87,
+          "like_count": 17608,
+          "listed_count": 1,
+          "media_count": 664,
+          "tweet_count": 6772
+        },
+        "url": "https://t.co/pv334gKA3j",
+        "username": "ggaeqb",
+        "verified": false
+      }
+    ]
+  }
+}

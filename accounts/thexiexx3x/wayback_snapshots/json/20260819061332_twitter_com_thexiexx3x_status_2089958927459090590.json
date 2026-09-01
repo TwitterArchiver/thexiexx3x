@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2089784028367069184"
+      ],
+      "media_source_tweet_id": [
+        "2089784104011301183"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2089958927459090590",
+    "created_at": "2026-08-19T06:13:32.000Z",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T07:13:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089958927459090590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2089306350740533248",
+          "start": 3,
+          "username": "AngelCatag79"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UF51AkjsAA",
+          "end": 41,
+          "expanded_url": "https://x.com/AngelCatag79/status/2089784104011301183/video/1",
+          "media_key": "13_2089784028367069184",
+          "start": 18,
+          "url": "https://t.co/UF51AkjsAA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089958927459090590",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2089784028367069184"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 89
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089784104011301183",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AngelCatag79: https://t.co/UF51AkjsAA"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23766,
+        "height": 720,
+        "media_key": "13_2089784028367069184",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2089784028367069184/img/ioOuMl4jsrqxAD1f.jpg",
+        "public_metrics": {
+          "view_count": 19998
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089784028367069184/vid/avc1/360x270/nsHYoI6knirodpWO.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089784028367069184/vid/avc1/480x360/b9l3rS2VSJ86uxJE.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089784028367069184/vid/avc1/960x720/KTrz9F6nwlO2nAwY.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2089784028367069184/pl/51hPFNZo-EvPk3v7.m3u8?v=cfc"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089784028367069184"
+          ],
+          "media_source_tweet_id": [
+            "2089784104011301183"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2089958927459090590",
+        "created_at": "2026-08-19T06:13:32.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T07:13:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089958927459090590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2089306350740533248",
+              "start": 3,
+              "username": "AngelCatag79"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UF51AkjsAA",
+              "end": 41,
+              "expanded_url": "https://x.com/AngelCatag79/status/2089784104011301183/video/1",
+              "media_key": "13_2089784028367069184",
+              "start": 18,
+              "url": "https://t.co/UF51AkjsAA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089958927459090590",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2089784028367069184"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 89
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089784104011301183",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AngelCatag79: https://t.co/UF51AkjsAA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089784028367069184"
+          ]
+        },
+        "author_id": "2089306350740533248",
+        "conversation_id": "2089784104011301183",
+        "created_at": "2026-08-18T18:38:51.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T19:38:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089784104011301183"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UF51AkjsAA",
+              "end": 23,
+              "expanded_url": "https://x.com/AngelCatag79/status/2089784104011301183/video/1",
+              "media_key": "13_2089784028367069184",
+              "start": 0,
+              "url": "https://t.co/UF51AkjsAA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089784104011301183",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2089784028367069184"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 116,
+          "impression_count": 38290,
+          "like_count": 848,
+          "quote_count": 3,
+          "reply_count": 8,
+          "retweet_count": 89
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/UF51AkjsAA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x",
+                "start": 0,
+                "url": "https://t.co/d5BdKxYtww"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "应许记忆之城",
+        "most_recent_tweet_id": "2089958927459090590",
+        "name": "嚼嚼",
+        "pinned_tweet_id": "2086403297053966372",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1784638550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 276,
+          "like_count": 2682,
+          "listed_count": 0,
+          "media_count": 273,
+          "tweet_count": 2442
+        },
+        "url": "https://t.co/d5BdKxYtww",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-17T11:01:37.000Z",
+        "description": "₍˄ ₗ   ̫ ₗ ˄₎੭ﾞ",
+        "id": "2089306350740533248",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089934417859072412",
+        "name": "Complicated",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089780809062633472/nzeptXEr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 1,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 11
+        },
+        "url": "",
+        "username": "AngelCatag79",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

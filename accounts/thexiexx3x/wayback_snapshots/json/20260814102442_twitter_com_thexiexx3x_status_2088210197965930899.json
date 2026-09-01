@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2086007350859903265",
+    "created_at": "2026-08-14T10:24:42.000Z",
+    "display_text_range": [
+      23,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T11:24:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088210197965930899"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2038184435477319680",
+          "start": 0,
+          "username": "MIMIsamaOvo"
+        },
+        {
+          "end": 22,
+          "id": "2047425753227333632",
+          "start": 13,
+          "username": "YuganQwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088210197965930899",
+    "in_reply_to_user_id": "2038184435477319680",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086007350859903265",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MIMIsamaOvo @YuganQwQ 蹲蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2086007350859903265",
+        "created_at": "2026-08-14T10:24:42.000Z",
+        "display_text_range": [
+          23,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T11:24:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088210197965930899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2038184435477319680",
+              "start": 0,
+              "username": "MIMIsamaOvo"
+            },
+            {
+              "end": 22,
+              "id": "2047425753227333632",
+              "start": 13,
+              "username": "YuganQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088210197965930899",
+        "in_reply_to_user_id": "2038184435477319680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086007350859903265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MIMIsamaOvo @YuganQwQ 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038184435477319680",
+        "conversation_id": "2086007350859903265",
+        "created_at": "2026-08-08T08:31:23.000Z",
+        "display_text_range": [
+          0,
+          124
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-08T09:31:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086007350859903265"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086007350859903265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5909,
+          "like_count": 86,
+          "quote_count": 0,
+          "reply_count": 66,
+          "retweet_count": 71
+        },
+        "reply_settings": "everyone",
+        "text": "不知不觉百fo了捏，感谢大家支持🎉🎉🎉\n纪念一下发个抽奖吧，虽然最近也没什么钱的说🤓\n一等奖：18.8米支付宝口令红包一份\n二等奖：8.88米支付宝口令红包一份\n三等奖：6.66米支付宝口令红包一份\n8月15号开奖，抽奖方式关注转帖评论即可参与喵！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x",
+                "start": 0,
+                "url": "https://t.co/d5BdKxYtww"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "应许记忆之城",
+        "most_recent_tweet_id": "2088210197965930899",
+        "name": "嚼嚼",
+        "pinned_tweet_id": "2086403297053966372",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1784638550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 258,
+          "like_count": 2448,
+          "listed_count": 0,
+          "media_count": 255,
+          "tweet_count": 2324
+        },
+        "url": "https://t.co/d5BdKxYtww",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-29T09:21:29.000Z",
+        "description": "梦到什么发什么，关注mimi谢谢喵\n戒毒中day0\n二号机@MIMIsamowo\n诚接私人导弹定制",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 29,
+                "username": "MIMIsamowo"
+              }
+            ]
+          }
+        },
+        "id": "2038184435477319680",
+        "is_identity_verified": false,
+        "location": "戒毒所",
+        "most_recent_tweet_id": "2088105188330750189",
+        "name": "MIMI",
+        "pinned_tweet_id": "2086007350859903265",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2038184435477319680/1775595884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069136182697672704/2H0_ygY3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 55,
+          "like_count": 443,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 299
+        },
+        "url": "",
+        "username": "MIMIsamaOvo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 查成分回fo 直fo是因为喜欢你呀 |\n前世@yuganbb823  仆人@ci_shang85157\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "yuganbb823"
+              },
+              {
+                "end": 79,
+                "start": 65,
+                "username": "ci_shang85157"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "is_identity_verified": false,
+        "location": "距离你4.5km",
+        "most_recent_tweet_id": "2088089424064094344",
+        "name": "为何人生如此悲惨2.0互关巡回",
+        "pinned_tweet_id": "2083060079872389410",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047425753227333632/1785103248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 318,
+          "like_count": 3465,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 793
+        },
+        "url": "",
+        "username": "YuganQwQ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

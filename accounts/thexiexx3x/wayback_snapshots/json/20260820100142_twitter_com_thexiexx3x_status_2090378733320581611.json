@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2090297437810500036",
+    "created_at": "2026-08-20T10:01:42.000Z",
+    "display_text_range": [
+      26,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T11:01:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090378733320581611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1943361769814261760",
+          "start": 0,
+          "username": "sadsadcatc"
+        },
+        {
+          "end": 25,
+          "id": "2027785341495873540",
+          "start": 12,
+          "username": "Zhouzhou28ep"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090378733320581611",
+    "in_reply_to_user_id": "1943361769814261760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090297437810500036",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sadsadcatc @Zhouzhou28ep 蹲蹲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2800,
+        "media_key": "3_2090297431217094656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQI6cFabQAABBb_.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2090297437810500036",
+        "created_at": "2026-08-20T10:01:42.000Z",
+        "display_text_range": [
+          26,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T11:01:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090378733320581611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1943361769814261760",
+              "start": 0,
+              "username": "sadsadcatc"
+            },
+            {
+              "end": 25,
+              "id": "2027785341495873540",
+              "start": 12,
+              "username": "Zhouzhou28ep"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090378733320581611",
+        "in_reply_to_user_id": "1943361769814261760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090297437810500036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sadsadcatc @Zhouzhou28ep 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090297431217094656"
+          ]
+        },
+        "author_id": "1943361769814261760",
+        "conversation_id": "2090297437810500036",
+        "created_at": "2026-08-20T04:38:39.000Z",
+        "display_text_range": [
+          0,
+          120
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T05:38:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090297437810500036"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/37OAe1RHD2",
+              "end": 144,
+              "expanded_url": "https://x.com/sadsadcatc/status/2090297437810500036/photo/1",
+              "media_key": "3_2090297431217094656",
+              "start": 121,
+              "url": "https://t.co/37OAe1RHD2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090297437810500036",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090297431217094656"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1859,
+          "like_count": 68,
+          "quote_count": 1,
+          "reply_count": 58,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "千fo纪念抽奖\n转发＋评论+点赞参与\n非常感谢大家一路上的陪伴\n纵使我是如此的无可救药\n一等奖 60rmb *1\n二等奖 20rmb *2\n三等奖 10rmb  *4\n参与时间截止到8月底31号\n9月份开奖\n没有准备好礼物只好抽钱钱了orz https://t.co/37OAe1RHD2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x",
+                "start": 0,
+                "url": "https://t.co/d5BdKxYtww"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "应许记忆之城",
+        "most_recent_tweet_id": "2090378733320581611",
+        "name": "嚼嚼",
+        "pinned_tweet_id": "2086403297053966372",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1784638550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 275,
+          "like_count": 2756,
+          "listed_count": 0,
+          "media_count": 279,
+          "tweet_count": 2473
+        },
+        "url": "https://t.co/d5BdKxYtww",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-10T17:28:55.000Z",
+        "description": "This story is not end yet,because only you are in the loop of infinity\n生产日期2004 mtf 持证含糖\n想要被好好对待\n 总是在一个人在摆弄自己的小东西……\n重度精神病……我不会伤害你的……\n想要想要好多好朋友\n愿世界化作所有人同等幸福的地狱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sadsadcatc",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sadsadcatc",
+                "start": 0,
+                "url": "https://t.co/xH3r8cmXv2"
+              }
+            ]
+          }
+        },
+        "id": "1943361769814261760",
+        "is_identity_verified": false,
+        "location": "月球背面的漩涡之中 花与阳之都",
+        "most_recent_tweet_id": "2090326518132359425",
+        "name": "転生きのこ🏳️‍⚧️",
+        "pinned_tweet_id": "2090297437810500036",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1943361769814261760/1752591890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054887710725484544/mXCHCwKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1044,
+          "following_count": 1342,
+          "like_count": 19644,
+          "listed_count": 2,
+          "media_count": 295,
+          "tweet_count": 6881
+        },
+        "url": "https://t.co/xH3r8cmXv2",
+        "username": "sadsadcatc",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-28T16:39:01.000Z",
+        "description": "本人没素质傻逼一个此账号发表的所有言论,意在取悦自己,并通过文字或图片强制干预他人的思想,如果翻阅之后出现不适等症状,恭喜你,你怀了我的孩子 查成分回fo",
+        "id": "2027785341495873540",
+        "is_identity_verified": false,
+        "location": "0.01km",
+        "most_recent_tweet_id": "2090378499676643674",
+        "name": "zhou",
+        "pinned_tweet_id": "2087256331161936304",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2027785341495873540/1786110842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085726540848152576/cmX7prxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 186,
+          "like_count": 1018,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 575
+        },
+        "url": "",
+        "username": "Zhouzhou28ep",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

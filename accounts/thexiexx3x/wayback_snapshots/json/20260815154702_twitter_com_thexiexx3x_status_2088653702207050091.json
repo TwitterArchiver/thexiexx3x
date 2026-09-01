@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2088534838500618695",
+    "created_at": "2026-08-15T15:47:02.000Z",
+    "display_text_range": [
+      13,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T16:47:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088653702207050091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2083608195587874816",
+          "start": 0,
+          "username": "OuOshize666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088653702207050091",
+    "in_reply_to_user_id": "2083608195587874816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088534838500618695",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OuOshize666 阳光开朗大男孩"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088534821589168128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPv3Ws3bMAAZc70.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2088534838500618695",
+        "created_at": "2026-08-15T15:47:02.000Z",
+        "display_text_range": [
+          13,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T16:47:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088653702207050091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2083608195587874816",
+              "start": 0,
+              "username": "OuOshize666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088653702207050091",
+        "in_reply_to_user_id": "2083608195587874816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088534838500618695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OuOshize666 阳光开朗大男孩"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088534821589168128"
+          ]
+        },
+        "author_id": "2083608195587874816",
+        "conversation_id": "2088534838500618695",
+        "created_at": "2026-08-15T07:54:43.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T08:54:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088534838500618695"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YynHMMVOdp",
+              "end": 35,
+              "expanded_url": "https://x.com/OuOshize666/status/2088534838500618695/photo/1",
+              "media_key": "3_2088534821589168128",
+              "start": 12,
+              "url": "https://t.co/YynHMMVOdp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088534838500618695",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088534821589168128"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 172,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是矢泽源义高一的时候 https://t.co/YynHMMVOdp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x",
+                "start": 0,
+                "url": "https://t.co/d5BdKxYtww"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "应许记忆之城",
+        "most_recent_tweet_id": "2088653702207050091",
+        "name": "嚼嚼",
+        "pinned_tweet_id": "2086403297053966372",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1784638550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 259,
+          "like_count": 2522,
+          "listed_count": 0,
+          "media_count": 263,
+          "tweet_count": 2361
+        },
+        "url": "https://t.co/d5BdKxYtww",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-01T17:39:00.000Z",
+        "description": "我非常善良呀欢迎找我玩\n神聖かまってちゃん最高！\n匿名问答@OuOshizego\n老婆妈妈杯子宝宝狗@Qiuhuiiv3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 29,
+                "username": "OuOshizego"
+              },
+              {
+                "end": 60,
+                "start": 50,
+                "username": "Qiuhuiiv3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shize666",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shize666",
+                "start": 0,
+                "url": "https://t.co/VEU4O9i2SD"
+              }
+            ]
+          }
+        },
+        "id": "2083608195587874816",
+        "is_identity_verified": false,
+        "location": "都灵街",
+        "most_recent_tweet_id": "2088644732541194399",
+        "name": "矢澤源義二代目",
+        "pinned_tweet_id": "2083997953522536900",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083608195587874816/1785609860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083608603790094336/PkF9T3wI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 108,
+          "like_count": 1061,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 170
+        },
+        "url": "https://t.co/VEU4O9i2SD",
+        "username": "OuOshize666",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

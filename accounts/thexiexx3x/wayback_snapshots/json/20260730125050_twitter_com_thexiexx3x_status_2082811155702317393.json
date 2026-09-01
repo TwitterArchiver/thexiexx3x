@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2082811155702317393",
+    "created_at": "2026-07-30T12:50:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T13:50:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082811155702317393"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "163cn.tv/bb4v6PQ3",
+          "end": 70,
+          "expanded_url": "https://163cn.tv/bb4v6PQ3",
+          "start": 47,
+          "status": 200,
+          "unwound_url": "https://y.music.163.com/m/song?fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=&id=22770462&PlayerStyles_SynchronousSharing=t3&fx-listentest=t3&H5_DownloadVIPGift=&uct2=tr%2FLwoJhIhKisnXP7PrWkw==&playerUIModeId=1379005&app_version=9.5.50&dlt=0846",
+          "url": "https://t.co/EjihZt9kXr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082811155702317393",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "分享死んだ僕の彼女的单曲《Cattle Mutilation, Strange U.F.O.》https://t.co/EjihZt9kXr (@网易云音乐)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2082811155702317393",
+        "created_at": "2026-07-30T12:50:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T13:50:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082811155702317393"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "163cn.tv/bb4v6PQ3",
+              "end": 70,
+              "expanded_url": "https://163cn.tv/bb4v6PQ3",
+              "start": 47,
+              "status": 200,
+              "unwound_url": "https://y.music.163.com/m/song?fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=&id=22770462&PlayerStyles_SynchronousSharing=t3&fx-listentest=t3&H5_DownloadVIPGift=&uct2=tr%2FLwoJhIhKisnXP7PrWkw==&playerUIModeId=1379005&app_version=9.5.50&dlt=0846",
+              "url": "https://t.co/EjihZt9kXr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082811155702317393",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "分享死んだ僕の彼女的单曲《Cattle Mutilation, Strange U.F.O.》https://t.co/EjihZt9kXr (@网易云音乐)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/thexiexx",
+                "end": 23,
+                "expanded_url": "https://t.me/thexiexx",
+                "start": 0,
+                "url": "https://t.co/w6gPwSRVgN"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "mybed",
+        "name": "嚼嚼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 211,
+          "like_count": 1789,
+          "listed_count": 0,
+          "media_count": 205,
+          "tweet_count": 1885
+        },
+        "url": "https://t.co/w6gPwSRVgN",
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

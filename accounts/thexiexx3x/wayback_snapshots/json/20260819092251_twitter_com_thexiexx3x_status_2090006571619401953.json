@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089686963766935552"
+      ],
+      "media_source_tweet_id": [
+        "2089774327986372790"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2090006571619401953",
+    "created_at": "2026-08-19T09:22:51.000Z",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T10:22:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090006571619401953"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1666657380216586240",
+          "start": 3,
+          "username": "de3dsoul"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zFTXAQJuoM",
+          "end": 37,
+          "expanded_url": "https://x.com/de3dsoul/status/2089774327986372790/photo/1",
+          "media_key": "3_2089686963766935552",
+          "start": 14,
+          "url": "https://t.co/zFTXAQJuoM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090006571619401953",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2089686963766935552"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089774327986372790",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @de3dsoul: https://t.co/zFTXAQJuoM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 737,
+        "media_key": "3_2089686963766935552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQAPOM8XwAAbZCm.jpg",
+        "width": 737
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089686963766935552"
+          ],
+          "media_source_tweet_id": [
+            "2089774327986372790"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2090006571619401953",
+        "created_at": "2026-08-19T09:22:51.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T10:22:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090006571619401953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1666657380216586240",
+              "start": 3,
+              "username": "de3dsoul"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zFTXAQJuoM",
+              "end": 37,
+              "expanded_url": "https://x.com/de3dsoul/status/2089774327986372790/photo/1",
+              "media_key": "3_2089686963766935552",
+              "start": 14,
+              "url": "https://t.co/zFTXAQJuoM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090006571619401953",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2089686963766935552"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089774327986372790",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @de3dsoul: https://t.co/zFTXAQJuoM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089686963766935552"
+          ]
+        },
+        "author_id": "1666657380216586240",
+        "conversation_id": "2089774327986372790",
+        "created_at": "2026-08-18T18:00:00.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T19:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089774327986372790"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zFTXAQJuoM",
+              "end": 23,
+              "expanded_url": "https://x.com/de3dsoul/status/2089774327986372790/photo/1",
+              "media_key": "3_2089686963766935552",
+              "start": 0,
+              "url": "https://t.co/zFTXAQJuoM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089774327986372790",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2089686963766935552"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 4158,
+          "like_count": 129,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/zFTXAQJuoM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x",
+                "start": 0,
+                "url": "https://t.co/d5BdKxYtww"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "应许记忆之城",
+        "most_recent_tweet_id": "2090006571619401953",
+        "name": "嚼嚼",
+        "pinned_tweet_id": "2086403297053966372",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1784638550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 266,
+          "like_count": 2696,
+          "listed_count": 0,
+          "media_count": 274,
+          "tweet_count": 2445
+        },
+        "url": "https://t.co/d5BdKxYtww",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-08T04:05:16.000Z",
+        "description": "r a d i o",
+        "id": "1666657380216586240",
+        "is_identity_verified": true,
+        "location": "him",
+        "most_recent_tweet_id": "2090000830913257529",
+        "name": "定",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1666657380216586240/1762144146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985202503927975936/6l3Sj-yw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140810,
+          "following_count": 57,
+          "like_count": 14087,
+          "listed_count": 256,
+          "media_count": 5724,
+          "tweet_count": 6100
+        },
+        "url": "",
+        "username": "de3dsoul",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

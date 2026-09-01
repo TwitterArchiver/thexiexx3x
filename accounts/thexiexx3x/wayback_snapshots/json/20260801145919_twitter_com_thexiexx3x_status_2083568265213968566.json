@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2083564236123562018",
+    "created_at": "2026-08-01T14:59:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T15:59:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083568265213968566"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2083568265213968566",
+    "in_reply_to_user_id": "2054583279257583616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083564236123562018",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "就是呢，我朋友以前的暗恋对象，我朋友视奸那个暗恋对象b站发现这个人关注了一个甜弟，就怀疑那个男的是gay，然后呢我另外一个好朋友转述这个事儿，他说XX在看一个甜弟，我没听过这个词，然后呢，我就以为我朋友的暗恋对象玩星露谷（田地）我靠，然后笑疯了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2083564236123562018",
+        "created_at": "2026-08-01T14:59:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T15:59:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083568265213968566"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083568265213968566",
+        "in_reply_to_user_id": "2054583279257583616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083564236123562018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就是呢，我朋友以前的暗恋对象，我朋友视奸那个暗恋对象b站发现这个人关注了一个甜弟，就怀疑那个男的是gay，然后呢我另外一个好朋友转述这个事儿，他说XX在看一个甜弟，我没听过这个词，然后呢，我就以为我朋友的暗恋对象玩星露谷（田地）我靠，然后笑疯了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2083564236123562018",
+        "created_at": "2026-08-01T14:43:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T15:43:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083564236123562018"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083564236123562018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么时候听到田地这个词的时候能不笑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/thexiexx",
+                "end": 23,
+                "expanded_url": "https://t.me/thexiexx",
+                "start": 0,
+                "url": "https://t.co/w6gPwSRVgN"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "mybed",
+        "name": "嚼嚼",
+        "pinned_tweet_id": "2083387666683609141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 217,
+          "like_count": 1890,
+          "listed_count": 0,
+          "media_count": 215,
+          "tweet_count": 1945
+        },
+        "url": "https://t.co/w6gPwSRVgN",
+        "username": "thexiexx3x",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2083610068969279488"
+      ],
+      "media_source_tweet_id": [
+        "2083610110266327272"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2083742613426094424",
+    "created_at": "2026-08-02T02:32:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T03:32:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083742613426094424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1479118183797645317",
+          "start": 3,
+          "username": "goo_vision"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gtmxVMF5B9",
+          "end": 52,
+          "expanded_url": "https://x.com/goo_vision/status/2083610110266327272/video/1",
+          "media_key": "13_2083610068969279488",
+          "start": 29,
+          "url": "https://t.co/gtmxVMF5B9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083742613426094424",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083610110266327272",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @goo_vision: Moss Station https://t.co/gtmxVMF5B9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4875,
+        "height": 1440,
+        "media_key": "13_2083610068969279488",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083610068969279488/img/WPecU4kfeD0u_mcj.jpg",
+        "public_metrics": {
+          "view_count": 437
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083610068969279488/vid/avc1/320x320/0HOsvZyiSf0qzm1O.mp4"
+          },
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083610068969279488/vid/avc1/1440x1440/rJWCN4HCE_I-fFbY.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083610068969279488/vid/avc1/720x720/SPeTXHm5wQwXGbJ4.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083610068969279488/vid/avc1/540x540/4rEvZmaXHyOnQ0Pv.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083610068969279488/pl/YzeQJnQHfTYe0je3.m3u8"
+          }
+        ],
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083610068969279488"
+          ]
+        },
+        "author_id": "1479118183797645317",
+        "conversation_id": "2083610110266327272",
+        "created_at": "2026-08-01T17:45:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T18:45:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083610110266327272"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gtmxVMF5B9",
+              "end": 36,
+              "expanded_url": "https://x.com/goo_vision/status/2083610110266327272/video/1",
+              "media_key": "13_2083610068969279488",
+              "start": 13,
+              "url": "https://t.co/gtmxVMF5B9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083610110266327272",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 1690,
+          "like_count": 104,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "Moss Station https://t.co/gtmxVMF5B9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083610068969279488"
+          ],
+          "media_source_tweet_id": [
+            "2083610110266327272"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2083742613426094424",
+        "created_at": "2026-08-02T02:32:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T03:32:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083742613426094424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1479118183797645317",
+              "start": 3,
+              "username": "goo_vision"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gtmxVMF5B9",
+              "end": 52,
+              "expanded_url": "https://x.com/goo_vision/status/2083610110266327272/video/1",
+              "media_key": "13_2083610068969279488",
+              "start": 29,
+              "url": "https://t.co/gtmxVMF5B9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083742613426094424",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083610110266327272",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @goo_vision: Moss Station https://t.co/gtmxVMF5B9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/thexiexx",
+                "end": 23,
+                "expanded_url": "https://t.me/thexiexx",
+                "start": 0,
+                "url": "https://t.co/w6gPwSRVgN"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "mybed",
+        "name": "嚼嚼",
+        "pinned_tweet_id": "2083387666683609141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 218,
+          "like_count": 1904,
+          "listed_count": 0,
+          "media_count": 218,
+          "tweet_count": 1956
+        },
+        "url": "https://t.co/w6gPwSRVgN",
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-06T15:51:07.000Z",
+        "description": "Artist and Designer  🇩🇪  |  Visions from the latent space\nManifold  |  https://t.co/Th2o1ZeBby\nOBJKT  |  https://t.co/pD7UdMIIdS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "manifold.xyz/@goovision",
+                "end": 94,
+                "expanded_url": "https://manifold.xyz/@goovision",
+                "start": 71,
+                "url": "https://t.co/Th2o1ZeBby"
+              },
+              {
+                "display_url": "objkt.com/@goovision",
+                "end": 128,
+                "expanded_url": "https://objkt.com/@goovision",
+                "start": 105,
+                "url": "https://t.co/pD7UdMIIdS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/goovision",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/goovision",
+                "start": 0,
+                "url": "https://t.co/rXFA2ejpcU"
+              }
+            ]
+          }
+        },
+        "id": "1479118183797645317",
+        "name": "goo.vision",
+        "pinned_tweet_id": "2070223388031774905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023487210302173190/fVNP9plu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45382,
+          "following_count": 572,
+          "like_count": 30178,
+          "listed_count": 354,
+          "media_count": 2899,
+          "tweet_count": 11292
+        },
+        "url": "https://t.co/rXFA2ejpcU",
+        "username": "goo_vision",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2090770808822018048"
+      ],
+      "media_source_tweet_id": [
+        "2090771475062051035"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2090846001720607132",
+    "created_at": "2026-08-21T16:58:27.000Z",
+    "display_text_range": [
+      0,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T17:58:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090846001720607132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1392825533495402500",
+          "start": 3,
+          "username": "RJ16848519"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IMInKnDi2D",
+          "end": 54,
+          "expanded_url": "https://x.com/RJ16848519/status/2090771475062051035/photo/1",
+          "media_key": "16_2090770808822018048",
+          "start": 31,
+          "url": "https://t.co/IMInKnDi2D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090846001720607132",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "16_2090770808822018048"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 67
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090771475062051035",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RJ16848519: signal chasing https://t.co/IMInKnDi2D"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "16_2090770808822018048",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HQPo-SaXsAAlkV0.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HQPo-SaXsAAlkV0.mp4"
+          }
+        ],
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2090770808822018048"
+          ],
+          "media_source_tweet_id": [
+            "2090771475062051035"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2090846001720607132",
+        "created_at": "2026-08-21T16:58:27.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T17:58:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090846001720607132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1392825533495402500",
+              "start": 3,
+              "username": "RJ16848519"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IMInKnDi2D",
+              "end": 54,
+              "expanded_url": "https://x.com/RJ16848519/status/2090771475062051035/photo/1",
+              "media_key": "16_2090770808822018048",
+              "start": 31,
+              "url": "https://t.co/IMInKnDi2D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090846001720607132",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "16_2090770808822018048"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 67
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090771475062051035",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RJ16848519: signal chasing https://t.co/IMInKnDi2D"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2090770808822018048"
+          ]
+        },
+        "author_id": "1392825533495402500",
+        "conversation_id": "2090771475062051035",
+        "created_at": "2026-08-21T12:02:18.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T13:02:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090771475062051035"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IMInKnDi2D",
+              "end": 38,
+              "expanded_url": "https://x.com/RJ16848519/status/2090771475062051035/photo/1",
+              "media_key": "16_2090770808822018048",
+              "start": 15,
+              "url": "https://t.co/IMInKnDi2D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090771475062051035",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "16_2090770808822018048"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 10248,
+          "like_count": 825,
+          "quote_count": 3,
+          "reply_count": 18,
+          "retweet_count": 67
+        },
+        "reply_settings": "everyone",
+        "text": "signal chasing https://t.co/IMInKnDi2D"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x",
+                "start": 0,
+                "url": "https://t.co/d5BdKxYtww"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "应许记忆之城",
+        "most_recent_tweet_id": "2090846001720607132",
+        "name": "嚼嚼",
+        "pinned_tweet_id": "2086403297053966372",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1784638550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 278,
+          "like_count": 2785,
+          "listed_count": 0,
+          "media_count": 283,
+          "tweet_count": 2487
+        },
+        "url": "https://t.co/d5BdKxYtww",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-05-13T12:54:25.000Z",
+        "description": "https://t.co/Y1XBlJnlSa\nhttps://t.co/9b7Cek56uP\nhttps://t.co/cCmg9vvPAH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "aotm.gallery/artist/rj/",
+                "end": 23,
+                "expanded_url": "https://aotm.gallery/artist/rj/",
+                "start": 0,
+                "url": "https://t.co/Y1XBlJnlSa"
+              },
+              {
+                "display_url": "objkt.com/users/tz1TFScV…",
+                "end": 47,
+                "expanded_url": "https://objkt.com/users/tz1TFScVx3NGnjcuwCxYiHeD1Am6jCHcojK8",
+                "start": 24,
+                "url": "https://t.co/9b7Cek56uP"
+              },
+              {
+                "display_url": "superrare.com/rj16848519",
+                "end": 71,
+                "expanded_url": "https://superrare.com/rj16848519",
+                "start": 48,
+                "url": "https://t.co/cCmg9vvPAH"
+              }
+            ]
+          }
+        },
+        "id": "1392825533495402500",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090771475062051035",
+        "name": "R.J",
+        "pinned_tweet_id": "2016460711191269553",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1392825533495402500/1783335831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074086916668989440/DWHWJ-l3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13063,
+          "following_count": 2503,
+          "like_count": 61261,
+          "listed_count": 106,
+          "media_count": 3406,
+          "tweet_count": 13046
+        },
+        "url": "",
+        "username": "RJ16848519",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

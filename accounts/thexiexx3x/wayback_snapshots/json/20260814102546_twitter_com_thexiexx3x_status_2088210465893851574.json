@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2086676463139561837",
+    "created_at": "2026-08-14T10:25:46.000Z",
+    "display_text_range": [
+      26,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T11:25:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088210465893851574"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "449641629",
+          "start": 0,
+          "username": "licar1949"
+        },
+        {
+          "end": 25,
+          "id": "1564990471327215619",
+          "start": 11,
+          "username": "bisco91395061"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088210465893851574",
+    "in_reply_to_user_id": "449641629",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086676463139561837",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@licar1949 @bisco91395061 卧槽见人傻逼啊"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [bisco91395061].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "bisco91395061",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "bisco91395061"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1453,
+        "media_key": "3_2086676455921233921",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPVdLlRbMAEG5q8.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2086676458655895552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPVdLvda0AA7OGk.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2086676459717062656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPVdLzaa8AA7xC2.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2086676463139561837",
+        "created_at": "2026-08-14T10:25:46.000Z",
+        "display_text_range": [
+          26,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T11:25:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088210465893851574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "449641629",
+              "start": 0,
+              "username": "licar1949"
+            },
+            {
+              "end": 25,
+              "id": "1564990471327215619",
+              "start": 11,
+              "username": "bisco91395061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088210465893851574",
+        "in_reply_to_user_id": "449641629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086676463139561837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@licar1949 @bisco91395061 卧槽见人傻逼啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086676455921233921",
+            "3_2086676458655895552",
+            "3_2086676459717062656"
+          ]
+        },
+        "author_id": "449641629",
+        "conversation_id": "2086676463139561837",
+        "created_at": "2026-08-10T04:50:12.000Z",
+        "display_text_range": [
+          0,
+          98
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T05:50:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086676463139561837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1564990471327215619",
+              "start": 10,
+              "username": "bisco91395061"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/k2557lmaho",
+              "end": 122,
+              "expanded_url": "https://x.com/licar1949/status/2086676463139561837/photo/1",
+              "media_key": "3_2086676455921233921",
+              "start": 99,
+              "url": "https://t.co/k2557lmaho"
+            },
+            {
+              "display_url": "pic.x.com/k2557lmaho",
+              "end": 122,
+              "expanded_url": "https://x.com/licar1949/status/2086676463139561837/photo/1",
+              "media_key": "3_2086676458655895552",
+              "start": 99,
+              "url": "https://t.co/k2557lmaho"
+            },
+            {
+              "display_url": "pic.x.com/k2557lmaho",
+              "end": 122,
+              "expanded_url": "https://x.com/licar1949/status/2086676463139561837/photo/1",
+              "media_key": "3_2086676459717062656",
+              "start": 99,
+              "url": "https://t.co/k2557lmaho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086676463139561837",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086676455921233921"
+          },
+          {
+            "media_key": "3_2086676458655895552"
+          },
+          {
+            "media_key": "3_2086676459717062656"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 10626,
+          "like_count": 128,
+          "quote_count": 11,
+          "reply_count": 76,
+          "retweet_count": 83
+        },
+        "reply_settings": "everyone",
+        "text": "我是菜菜警官，上一世@bisco91395061 被奸人所害，寻回互关！\n本条帖子转发关注评论，抽两个50r🧧疯狂星期四，谢谢大家，请帮助我寻回互关！！🥹🥹💖💖💖我将在互关寻回得差不多的时候开奖！ https://t.co/k2557lmaho"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x",
+                "start": 0,
+                "url": "https://t.co/d5BdKxYtww"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "应许记忆之城",
+        "most_recent_tweet_id": "2088210465893851574",
+        "name": "嚼嚼",
+        "pinned_tweet_id": "2086403297053966372",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1784638550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 259,
+          "like_count": 2449,
+          "listed_count": 0,
+          "media_count": 255,
+          "tweet_count": 2326
+        },
+        "url": "https://t.co/d5BdKxYtww",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-12-29T09:58:30.000Z",
+        "description": "我是菜菜，大号@bisco91395061 被害，寻回互关中🥹🥹！｜od自伤｜傻福精神病休学中｜LGBTQ🏳️‍🌈友好｜一般路过同人女｜直fo是喜欢泥💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 7,
+                "username": "bisco91395061"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/himenonana",
+                "end": 23,
+                "expanded_url": "http://t.me/himenonana",
+                "start": 0,
+                "url": "https://t.co/PeMWnKgOVZ"
+              }
+            ]
+          }
+        },
+        "id": "449641629",
+        "is_identity_verified": false,
+        "location": "🚪52/188",
+        "most_recent_tweet_id": "2088204593276813737",
+        "name": "菜菜警官2.0（寻回互关）",
+        "pinned_tweet_id": "2086676463139561837",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/449641629/1786337077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086675062690807808/4roY9VYg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 189,
+          "like_count": 197,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 90
+        },
+        "url": "https://t.co/PeMWnKgOVZ",
+        "username": "licar1949",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

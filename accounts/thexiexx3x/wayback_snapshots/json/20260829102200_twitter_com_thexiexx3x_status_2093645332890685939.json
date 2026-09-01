@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093498480945934336",
+        "3_2093498480937603073"
+      ],
+      "media_source_tweet_id": [
+        "2093498485475864960",
+        "2093498485475864960"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2093645332890685939",
+    "created_at": "2026-08-29T10:22:00.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T11:22:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093645332890685939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2055709535957102592",
+          "start": 3,
+          "username": "Ritualuseoffire"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6va70MF391",
+          "end": 44,
+          "expanded_url": "https://x.com/Ritualuseoffire/status/2093498485475864960/photo/1",
+          "media_key": "3_2093498480945934336",
+          "start": 21,
+          "url": "https://t.co/6va70MF391"
+        },
+        {
+          "display_url": "pic.x.com/6va70MF391",
+          "end": 44,
+          "expanded_url": "https://x.com/Ritualuseoffire/status/2093498485475864960/photo/1",
+          "media_key": "3_2093498480937603073",
+          "start": 21,
+          "url": "https://t.co/6va70MF391"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093645332890685939",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2093498480945934336"
+      },
+      {
+        "media_key": "3_2093498480937603073"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 100
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093498485475864960",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ritualuseoffire: https://t.co/6va70MF391"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1068,
+        "media_key": "3_2093498480945934336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ2Zxs6aMAAzXZn.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1053,
+        "media_key": "3_2093498480937603073",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ2Zxs4bEAEDBTH.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093498480945934336",
+            "3_2093498480937603073"
+          ],
+          "media_source_tweet_id": [
+            "2093498485475864960",
+            "2093498485475864960"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2093645332890685939",
+        "created_at": "2026-08-29T10:22:00.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T11:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093645332890685939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2055709535957102592",
+              "start": 3,
+              "username": "Ritualuseoffire"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6va70MF391",
+              "end": 44,
+              "expanded_url": "https://x.com/Ritualuseoffire/status/2093498485475864960/photo/1",
+              "media_key": "3_2093498480945934336",
+              "start": 21,
+              "url": "https://t.co/6va70MF391"
+            },
+            {
+              "display_url": "pic.x.com/6va70MF391",
+              "end": 44,
+              "expanded_url": "https://x.com/Ritualuseoffire/status/2093498485475864960/photo/1",
+              "media_key": "3_2093498480937603073",
+              "start": 21,
+              "url": "https://t.co/6va70MF391"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093645332890685939",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2093498480945934336"
+          },
+          {
+            "media_key": "3_2093498480937603073"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 100
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093498485475864960",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ritualuseoffire: https://t.co/6va70MF391"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093498480945934336",
+            "3_2093498480937603073"
+          ]
+        },
+        "author_id": "2055709535957102592",
+        "conversation_id": "2093498485475864960",
+        "created_at": "2026-08-29T00:38:28.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T01:38:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093498485475864960"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6va70MF391",
+              "end": 23,
+              "expanded_url": "https://x.com/Ritualuseoffire/status/2093498485475864960/photo/1",
+              "media_key": "3_2093498480945934336",
+              "start": 0,
+              "url": "https://t.co/6va70MF391"
+            },
+            {
+              "display_url": "pic.x.com/6va70MF391",
+              "end": 23,
+              "expanded_url": "https://x.com/Ritualuseoffire/status/2093498485475864960/photo/1",
+              "media_key": "3_2093498480937603073",
+              "start": 0,
+              "url": "https://t.co/6va70MF391"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093498485475864960",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2093498480945934336"
+          },
+          {
+            "media_key": "3_2093498480937603073"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 5731,
+          "like_count": 568,
+          "quote_count": 3,
+          "reply_count": 6,
+          "retweet_count": 100
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/6va70MF391"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x",
+                "start": 0,
+                "url": "https://t.co/d5BdKxYtww"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "应许记忆之城",
+        "most_recent_tweet_id": "2093645332890685939",
+        "name": "嚼嚼",
+        "pinned_tweet_id": "2086403297053966372",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1784638550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 277,
+          "like_count": 2791,
+          "listed_count": 0,
+          "media_count": 283,
+          "tweet_count": 2500
+        },
+        "url": "https://t.co/d5BdKxYtww",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-16T17:59:17.000Z",
+        "description": "decaying corpse inside of the mud of Volchov.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "grehtsteinmann.straw.page",
+                "end": 23,
+                "expanded_url": "https://grehtsteinmann.straw.page",
+                "start": 0,
+                "url": "https://t.co/B2tcC38EIp"
+              }
+            ]
+          }
+        },
+        "id": "2055709535957102592",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093530252815565150",
+        "name": "Grehtsteinmann",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055709535957102592/1785122143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076579177172713472/7Vw6i8A0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1219,
+          "following_count": 68,
+          "like_count": 510,
+          "listed_count": 0,
+          "media_count": 271,
+          "tweet_count": 405
+        },
+        "url": "https://t.co/B2tcC38EIp",
+        "username": "Ritualuseoffire",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2088424956413776097",
+    "created_at": "2026-08-15T00:38:05.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T01:38:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088424956413776097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "899502186",
+          "start": 3,
+          "username": "0u0HaNako666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088424956413776097",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 328
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088228680472711278",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0u0HaNako666: 「天使の処方箋」って新曲とMvつくりました🐼\n\nいよいよあしたっ！\n\n8月15日の夜8時30分にMvうpします🎀\n\n今回の自主制作Mvはスタンドと撮りました🐼\nスマホでセルフストロボやって失明しかけたまぢマネしないで https://t.co…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 563,
+        "media_key": "3_2088228671974932480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPrg6craAAAE-vV.jpg",
+        "width": 983
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2088228672016875520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPrg6c1aAAAsSN_.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2088424956413776097",
+        "created_at": "2026-08-15T00:38:05.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T01:38:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088424956413776097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "899502186",
+              "start": 3,
+              "username": "0u0HaNako666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088424956413776097",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 328
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088228680472711278",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0u0HaNako666: 「天使の処方箋」って新曲とMvつくりました🐼\n\nいよいよあしたっ！\n\n8月15日の夜8時30分にMvうpします🎀\n\n今回の自主制作Mvはスタンドと撮りました🐼\nスマホでセルフストロボやって失明しかけたまぢマネしないで https://t.co…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088228671974932480",
+            "3_2088228672016875520"
+          ]
+        },
+        "author_id": "899502186",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2088228680472711278",
+        "created_at": "2026-08-14T11:38:09.000Z",
+        "display_text_range": [
+          0,
+          108
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T12:38:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088228680472711278"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kzm7iS4zUl",
+              "end": 132,
+              "expanded_url": "https://x.com/0u0HaNako666/status/2088228680472711278/photo/1",
+              "media_key": "3_2088228671974932480",
+              "start": 109,
+              "url": "https://t.co/kzm7iS4zUl"
+            },
+            {
+              "display_url": "pic.x.com/kzm7iS4zUl",
+              "end": 132,
+              "expanded_url": "https://x.com/0u0HaNako666/status/2088228680472711278/photo/1",
+              "media_key": "3_2088228672016875520",
+              "start": 109,
+              "url": "https://t.co/kzm7iS4zUl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088228680472711278",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088228671974932480"
+          },
+          {
+            "media_key": "3_2088228672016875520"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 69,
+          "impression_count": 35005,
+          "like_count": 1728,
+          "quote_count": 38,
+          "reply_count": 66,
+          "retweet_count": 328
+        },
+        "reply_settings": "everyone",
+        "text": "「天使の処方箋」って新曲とMvつくりました🐼\n\nいよいよあしたっ！\n\n8月15日の夜8時30分にMvうpします🎀\n\n今回の自主制作Mvはスタンドと撮りました🐼\nスマホでセルフストロボやって失明しかけたまぢマネしないで https://t.co/kzm7iS4zUl"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x",
+                "start": 0,
+                "url": "https://t.co/d5BdKxYtww"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "应许记忆之城",
+        "most_recent_tweet_id": "2088424956413776097",
+        "name": "嚼嚼",
+        "pinned_tweet_id": "2086403297053966372",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1784638550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 261,
+          "like_count": 2483,
+          "listed_count": 0,
+          "media_count": 262,
+          "tweet_count": 2351
+        },
+        "url": "https://t.co/d5BdKxYtww",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-10-23T08:30:24.000Z",
+        "description": "神聖かまってちゃん\n「進撃の巨人」 OP / ED他アニメ・映画主題歌、大体担当\n自主制作Pv：https://t.co/TSG9iEnYCk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/user/vivaru",
+                "end": 71,
+                "expanded_url": "https://youtube.com/user/vivaru",
+                "start": 48,
+                "url": "https://t.co/TSG9iEnYCk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/nekonokonekono…",
+                "end": 23,
+                "expanded_url": "http://lit.link/nekonokonekonoko",
+                "start": 0,
+                "url": "https://t.co/dKaVW0fg08"
+              }
+            ]
+          }
+        },
+        "id": "899502186",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088265082753130614",
+        "name": "の子",
+        "pinned_tweet_id": "2012494102823329839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/899502186/1779634025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058561149671727104/2IM1lRK__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181802,
+          "following_count": 225,
+          "like_count": 367401,
+          "listed_count": 1357,
+          "media_count": 2743,
+          "tweet_count": 54932
+        },
+        "url": "https://t.co/dKaVW0fg08",
+        "username": "0u0HaNako666",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

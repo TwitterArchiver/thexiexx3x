@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2087492556531937692",
+    "created_at": "2026-08-12T15:36:38.000Z",
+    "display_text_range": [
+      22,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T16:36:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087563919208690112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1738207674616217600",
+          "start": 0,
+          "username": "AnoYo_1028"
+        },
+        {
+          "end": 21,
+          "id": "2047425753227333632",
+          "start": 12,
+          "username": "YuganQwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087563919208690112",
+    "in_reply_to_user_id": "1738207674616217600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087492556531937692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AnoYo_1028 @YuganQwQ 恭喜！蹲蹲呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2087492556531937692",
+        "created_at": "2026-08-12T15:36:38.000Z",
+        "display_text_range": [
+          22,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T16:36:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087563919208690112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1738207674616217600",
+              "start": 0,
+              "username": "AnoYo_1028"
+            },
+            {
+              "end": 21,
+              "id": "2047425753227333632",
+              "start": 12,
+              "username": "YuganQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087563919208690112",
+        "in_reply_to_user_id": "1738207674616217600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087492556531937692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnoYo_1028 @YuganQwQ 恭喜！蹲蹲呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738207674616217600",
+        "conversation_id": "2087492556531937692",
+        "created_at": "2026-08-12T10:53:03.000Z",
+        "display_text_range": [
+          0,
+          165
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T11:53:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087492556531937692"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087492556531937692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 164,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "快百fo了搞个抽奖庆祝一下喵♡=•ㅅ＜=)\n感谢大家的支持哇！超级爱你们🥰❤️！\n一等奖 13.14r\n二等奖 8.88r\n三等奖 5.2r\n以上每个奖项名额都是一个qwq 最近没什么米了希望大家不要嫌弃哇QAQ\n参与条件 关注我并且转帖+点赞+评论这个帖子\n截止时间为三天后也就是8.15中午12点w\n（msk不要炸我号！！！）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x",
+                "start": 0,
+                "url": "https://t.co/d5BdKxYtww"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "应许记忆之城",
+        "most_recent_tweet_id": "2087563919208690112",
+        "name": "嚼嚼",
+        "pinned_tweet_id": "2086403297053966372",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1784638550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 258,
+          "like_count": 2418,
+          "listed_count": 0,
+          "media_count": 253,
+          "tweet_count": 2284
+        },
+        "url": "https://t.co/d5BdKxYtww",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-22T14:40:00.000Z",
+        "description": "可以叫我yuyu。本体是一场雨。\n苦逼复读生，不定时上线喵\n互fo大欢迎——我喜欢交朋友呀都来和我玩🥺\n精神不正常可能会发好多奇怪东西。不要讨厌我好吗…😢\n备用号@anoyo1028 我怕哪天这个老号炸了呜呜呜呜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 81,
+                "username": "anoyo1028"
+              }
+            ]
+          }
+        },
+        "id": "1738207674616217600",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087492556531937692",
+        "name": "yuyu",
+        "pinned_tweet_id": "1962905191277346824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1738207674616217600/1785471022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082464642186805248/bXxai3or_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 130,
+          "like_count": 1612,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 337
+        },
+        "url": "",
+        "username": "AnoYo_1028",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 查成分回fo 直fo是因为喜欢你呀 |\n前世@yuganbb823  仆人@ci_shang85157\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "yuganbb823"
+              },
+              {
+                "end": 79,
+                "start": 65,
+                "username": "ci_shang85157"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "is_identity_verified": false,
+        "location": "距离你4.5km",
+        "most_recent_tweet_id": "2087553959124767022",
+        "name": "为何人生如此悲惨2.0互关巡回",
+        "pinned_tweet_id": "2083060079872389410",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047425753227333632/1785103248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 312,
+          "like_count": 3209,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 732
+        },
+        "url": "",
+        "username": "YuganQwQ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

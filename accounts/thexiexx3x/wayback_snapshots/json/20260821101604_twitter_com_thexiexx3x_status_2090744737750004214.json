@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090712403193344000"
+      ],
+      "media_source_tweet_id": [
+        "2090712428774346825"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2090744737750004214",
+    "created_at": "2026-08-21T10:16:04.000Z",
+    "display_text_range": [
+      0,
+      57
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T11:16:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090744737750004214"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 26,
+          "tag": "SKC美術部"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2065056446505709568",
+          "start": 3,
+          "username": "tsukichan0u0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ddhk7LcrG1",
+          "end": 57,
+          "expanded_url": "https://x.com/tsukichan0u0/status/2090712428774346825/photo/1",
+          "media_key": "3_2090712403193344000",
+          "start": 34,
+          "url": "https://t.co/Ddhk7LcrG1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090744737750004214",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2090712403193344000"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090712428774346825",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tsukichan0u0: 17歳の処方箋\n#SKC美術部 https://t.co/Ddhk7LcrG1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2090712403193344000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQOz2ofXsAAo_6a.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090712403193344000"
+          ],
+          "media_source_tweet_id": [
+            "2090712428774346825"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2090744737750004214",
+        "created_at": "2026-08-21T10:16:04.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T11:16:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090744737750004214"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 26,
+              "tag": "SKC美術部"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2065056446505709568",
+              "start": 3,
+              "username": "tsukichan0u0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ddhk7LcrG1",
+              "end": 57,
+              "expanded_url": "https://x.com/tsukichan0u0/status/2090712428774346825/photo/1",
+              "media_key": "3_2090712403193344000",
+              "start": 34,
+              "url": "https://t.co/Ddhk7LcrG1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090744737750004214",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2090712403193344000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090712428774346825",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tsukichan0u0: 17歳の処方箋\n#SKC美術部 https://t.co/Ddhk7LcrG1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090712403193344000"
+          ]
+        },
+        "author_id": "2065056446505709568",
+        "conversation_id": "2090712428774346825",
+        "created_at": "2026-08-21T08:07:41.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T09:07:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090712428774346825"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 8,
+              "tag": "SKC美術部"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ddhk7LcrG1",
+              "end": 39,
+              "expanded_url": "https://x.com/tsukichan0u0/status/2090712428774346825/photo/1",
+              "media_key": "3_2090712403193344000",
+              "start": 16,
+              "url": "https://t.co/Ddhk7LcrG1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090712428774346825",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2090712403193344000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 250,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "17歳の処方箋\n#SKC美術部 https://t.co/Ddhk7LcrG1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x",
+                "start": 0,
+                "url": "https://t.co/d5BdKxYtww"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "应许记忆之城",
+        "most_recent_tweet_id": "2090744737750004214",
+        "name": "嚼嚼",
+        "pinned_tweet_id": "2086403297053966372",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1784638550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 277,
+          "like_count": 2767,
+          "listed_count": 0,
+          "media_count": 280,
+          "tweet_count": 2478
+        },
+        "url": "https://t.co/d5BdKxYtww",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-11T13:01:26.000Z",
+        "description": "僕は@TsukiSakura2004\n僕の天使@0u0HaNako666",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "TsukiSakura2004"
+              },
+              {
+                "end": 36,
+                "start": 23,
+                "username": "0u0HaNako666"
+              }
+            ]
+          }
+        },
+        "id": "2065056446505709568",
+        "is_identity_verified": false,
+        "location": "月",
+        "most_recent_tweet_id": "2090738348126077043",
+        "name": "大島月",
+        "pinned_tweet_id": "2071794882210087276",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2065056446505709568/1781183113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090126498032406528/k3FpKo2K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 49,
+          "like_count": 220,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 102
+        },
+        "url": "",
+        "username": "tsukichan0u0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

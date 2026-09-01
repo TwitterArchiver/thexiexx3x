@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084595928925954048"
+      ],
+      "media_source_tweet_id": [
+        "2084595933363540160"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2084864374058176631",
+    "created_at": "2026-08-05T04:49:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T05:49:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084864374058176631"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 12,
+          "tag": "SKC美術部"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2037149270906966016",
+          "start": 3,
+          "username": "ic_lq6"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zJvDEaCTEw",
+          "end": 53,
+          "expanded_url": "https://x.com/ic_lq6/status/2084595933363540160/photo/1",
+          "media_key": "3_2084595928925954048",
+          "start": 30,
+          "url": "https://t.co/zJvDEaCTEw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084864374058176631",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 55
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084595933363540160",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ic_lq6: #SKC美術部 死にたいひまわり🌻 https://t.co/zJvDEaCTEw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2084595928925954048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO348-PbYAAU53P.jpg",
+        "width": 1070
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084595928925954048"
+          ]
+        },
+        "author_id": "2037149270906966016",
+        "conversation_id": "2084595933363540160",
+        "created_at": "2026-08-04T11:02:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T12:02:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084595933363540160"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "SKC美術部"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zJvDEaCTEw",
+              "end": 41,
+              "expanded_url": "https://x.com/ic_lq6/status/2084595933363540160/photo/1",
+              "media_key": "3_2084595928925954048",
+              "start": 18,
+              "url": "https://t.co/zJvDEaCTEw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084595933363540160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 3328,
+          "like_count": 329,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "#SKC美術部 死にたいひまわり🌻 https://t.co/zJvDEaCTEw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084595928925954048"
+          ],
+          "media_source_tweet_id": [
+            "2084595933363540160"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2084864374058176631",
+        "created_at": "2026-08-05T04:49:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T05:49:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084864374058176631"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 12,
+              "tag": "SKC美術部"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2037149270906966016",
+              "start": 3,
+              "username": "ic_lq6"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zJvDEaCTEw",
+              "end": 53,
+              "expanded_url": "https://x.com/ic_lq6/status/2084595933363540160/photo/1",
+              "media_key": "3_2084595928925954048",
+              "start": 30,
+              "url": "https://t.co/zJvDEaCTEw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084864374058176631",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 55
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084595933363540160",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ic_lq6: #SKC美術部 死にたいひまわり🌻 https://t.co/zJvDEaCTEw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/thexiexx",
+                "end": 23,
+                "expanded_url": "https://t.me/thexiexx",
+                "start": 0,
+                "url": "https://t.co/w6gPwSRnrf"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "备忘录",
+        "name": "嚼嚼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 232,
+          "like_count": 2084,
+          "listed_count": 0,
+          "media_count": 233,
+          "tweet_count": 2074
+        },
+        "url": "https://t.co/w6gPwSRnrf",
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-26T12:47:44.000Z",
+        "description": "神聖かまってちゃん🐼 @ic_lq697",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "ic_lq697"
+              }
+            ]
+          }
+        },
+        "id": "2037149270906966016",
+        "location": "首吊って死んだヤツだ",
+        "name": "羽化",
+        "pinned_tweet_id": "2045487283189719275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049407790914134016/AG4WoDWl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 228,
+          "like_count": 3926,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 299
+        },
+        "url": "",
+        "username": "ic_lq6",
+        "verified": false
+      }
+    ]
+  }
+}

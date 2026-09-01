@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2086729701272531299",
+    "created_at": "2026-08-10T08:21:45.000Z",
+    "display_text_range": [
+      0,
+      133
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T09:21:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086729701272531299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1440644272349347849",
+          "start": 3,
+          "username": "andon_kamome214"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086729701272531299",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1783
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086434760138920434",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @andon_kamome214: ⠀⠀⣤⣲⣲⢤⠀⢀⡮⡯⡯⡦⠀⠀\n⠀⢸⣳⡳⡯⣯⣀⡸⡽⡽⣽⣫⠀⠀\n⠀⡸⠮⡯⡯⣗⣗⡯⣯⢯⣗⡯⡄⠀\n⡞⢠⣖⢶⠒⡄⠀⣠⢶⡒⢠⠀⠈⢢\n⢆⠘⠾⠽⠄⠃⠀⠙⠽⡥⡜⠁⠀⡞\n⠈⠦⣀⡀⠀⠑⠒⠁⠀⠀⣀⣠⠜\n⠀⠀⠀⢴⣩⠉⠉⠉⠉⡭⠆⠀\n⠀⠀⠀⠀⠸⡰⠚⠒⢆⠇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2086729701272531299",
+        "created_at": "2026-08-10T08:21:45.000Z",
+        "display_text_range": [
+          0,
+          133
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T09:21:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086729701272531299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1440644272349347849",
+              "start": 3,
+              "username": "andon_kamome214"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086729701272531299",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1783
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086434760138920434",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @andon_kamome214: ⠀⠀⣤⣲⣲⢤⠀⢀⡮⡯⡯⡦⠀⠀\n⠀⢸⣳⡳⡯⣯⣀⡸⡽⡽⣽⣫⠀⠀\n⠀⡸⠮⡯⡯⣗⣗⡯⣯⢯⣗⡯⡄⠀\n⡞⢠⣖⢶⠒⡄⠀⣠⢶⡒⢠⠀⠈⢢\n⢆⠘⠾⠽⠄⠃⠀⠙⠽⡥⡜⠁⠀⡞\n⠈⠦⣀⡀⠀⠑⠒⠁⠀⠀⣀⣠⠜\n⠀⠀⠀⢴⣩⠉⠉⠉⠉⡭⠆⠀\n⠀⠀⠀⠀⠸⡰⠚⠒⢆⠇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1440644272349347849",
+        "conversation_id": "2086434760138920434",
+        "created_at": "2026-08-09T12:49:45.000Z",
+        "display_text_range": [
+          0,
+          112
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T13:49:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086434760138920434"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086434760138920434",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1163,
+          "impression_count": 407272,
+          "like_count": 9841,
+          "quote_count": 40,
+          "reply_count": 0,
+          "retweet_count": 1783
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "⠀⠀⣤⣲⣲⢤⠀⢀⡮⡯⡯⡦⠀⠀\n⠀⢸⣳⡳⡯⣯⣀⡸⡽⡽⣽⣫⠀⠀\n⠀⡸⠮⡯⡯⣗⣗⡯⣯⢯⣗⡯⡄⠀\n⡞⢠⣖⢶⠒⡄⠀⣠⢶⡒⢠⠀⠈⢢\n⢆⠘⠾⠽⠄⠃⠀⠙⠽⡥⡜⠁⠀⡞\n⠈⠦⣀⡀⠀⠑⠒⠁⠀⠀⣀⣠⠜\n⠀⠀⠀⢴⣩⠉⠉⠉⠉⡭⠆⠀\n⠀⠀⠀⠀⠸⡰⠚⠒⢆⠇"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/thexiexx",
+                "end": 23,
+                "expanded_url": "https://t.me/thexiexx",
+                "start": 0,
+                "url": "https://t.co/w6gPwSRnrf"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "备忘录",
+        "most_recent_tweet_id": "2086729701272531299",
+        "name": "嚼嚼",
+        "pinned_tweet_id": "2086403297053966372",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1784638550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 253,
+          "like_count": 2375,
+          "listed_count": 0,
+          "media_count": 255,
+          "tweet_count": 2257
+        },
+        "url": "https://t.co/w6gPwSRnrf",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-09-22T11:49:07.000Z",
+        "description": "",
+        "id": "1440644272349347849",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086727456384537077",
+        "name": "たろっち",
+        "pinned_tweet_id": "1954754771669413944",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1440644272349347849/1782825005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041101911240384512/5WEpQW9H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 28,
+          "like_count": 61294,
+          "listed_count": 0,
+          "media_count": 1536,
+          "tweet_count": 2093
+        },
+        "url": "",
+        "username": "andon_kamome214",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

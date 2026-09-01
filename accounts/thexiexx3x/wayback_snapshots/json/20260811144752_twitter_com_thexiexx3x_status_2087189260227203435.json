@@ -1,0 +1,604 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087138770240040960"
+      ],
+      "media_source_tweet_id": [
+        "2087147093219762410"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "Roblox",
+          "id": "1088118927580774400",
+          "name": "Roblox"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Roblox",
+          "id": "1088118927580774400",
+          "name": "Roblox"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898017464549376",
+          "name": "Multiplayer games"
+        }
+      }
+    ],
+    "conversation_id": "2087189260227203435",
+    "created_at": "2026-08-11T14:47:52.000Z",
+    "display_text_range": [
+      0,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T15:47:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087189260227203435"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 12,
+          "tag": "roblox"
+        },
+        {
+          "end": 30,
+          "start": 20,
+          "tag": "robloxart"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1706924510610669568",
+          "start": 3,
+          "username": "4498ss"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0TcnbSvvxf",
+          "end": 54,
+          "expanded_url": "https://x.com/4498ss/status/2087147093219762410/photo/1",
+          "media_key": "3_2087138770240040960",
+          "start": 31,
+          "url": "https://t.co/0TcnbSvvxf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087189260227203435",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2087138770240040960"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 63
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087147093219762410",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @4498ss: #roblox #robloxart https://t.co/0TcnbSvvxf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2087138770240040960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPcBp0UacAAFY-P.jpg",
+        "width": 1857
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087138770240040960"
+          ]
+        },
+        "author_id": "1706924510610669568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "Roblox",
+              "id": "1088118927580774400",
+              "name": "Roblox"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Roblox",
+              "id": "1088118927580774400",
+              "name": "Roblox"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898017464549376",
+              "name": "Multiplayer games"
+            }
+          }
+        ],
+        "conversation_id": "2087147093219762410",
+        "created_at": "2026-08-11T12:00:18.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T13:00:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087147093219762410"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "roblox"
+            },
+            {
+              "end": 18,
+              "start": 8,
+              "tag": "robloxart"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0TcnbSvvxf",
+              "end": 42,
+              "expanded_url": "https://x.com/4498ss/status/2087147093219762410/photo/1",
+              "media_key": "3_2087138770240040960",
+              "start": 19,
+              "url": "https://t.co/0TcnbSvvxf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087147093219762410",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2087138770240040960"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 4478,
+          "like_count": 863,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 63
+        },
+        "reply_settings": "everyone",
+        "text": "#roblox #robloxart https://t.co/0TcnbSvvxf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087138770240040960"
+          ],
+          "media_source_tweet_id": [
+            "2087147093219762410"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "Roblox",
+              "id": "1088118927580774400",
+              "name": "Roblox"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Roblox",
+              "id": "1088118927580774400",
+              "name": "Roblox"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898017464549376",
+              "name": "Multiplayer games"
+            }
+          }
+        ],
+        "conversation_id": "2087189260227203435",
+        "created_at": "2026-08-11T14:47:52.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T15:47:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087189260227203435"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 12,
+              "tag": "roblox"
+            },
+            {
+              "end": 30,
+              "start": 20,
+              "tag": "robloxart"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1706924510610669568",
+              "start": 3,
+              "username": "4498ss"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0TcnbSvvxf",
+              "end": 54,
+              "expanded_url": "https://x.com/4498ss/status/2087147093219762410/photo/1",
+              "media_key": "3_2087138770240040960",
+              "start": 31,
+              "url": "https://t.co/0TcnbSvvxf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087189260227203435",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2087138770240040960"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 63
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087147093219762410",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @4498ss: #roblox #robloxart https://t.co/0TcnbSvvxf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/thexiexx",
+                "end": 23,
+                "expanded_url": "https://t.me/thexiexx",
+                "start": 0,
+                "url": "https://t.co/w6gPwSRnrf"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "备忘录",
+        "most_recent_tweet_id": "2087189260227203435",
+        "name": "嚼嚼",
+        "pinned_tweet_id": "2086403297053966372",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1784638550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 255,
+          "like_count": 2395,
+          "listed_count": 0,
+          "media_count": 253,
+          "tweet_count": 2268
+        },
+        "url": "https://t.co/w6gPwSRnrf",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-27T06:51:42.000Z",
+        "description": "roblox artist | contributed to 0 visits | ibispaint x #robloxart\n\nhttps://t.co/7vJW3aiksY",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 64,
+                "start": 54,
+                "tag": "robloxart"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tiktok.com/@zeternalskies_",
+                "end": 89,
+                "expanded_url": "https://www.tiktok.com/@zeternalskies_",
+                "start": 66,
+                "url": "https://t.co/7vJW3aiksY"
+              }
+            ]
+          }
+        },
+        "id": "1706924510610669568",
+        "is_identity_verified": false,
+        "location": "bobux man location",
+        "most_recent_tweet_id": "2087147093219762410",
+        "name": "Eternal",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1706924510610669568/1695798001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895066510437314560/F0gcimK0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18731,
+          "following_count": 85,
+          "like_count": 877,
+          "listed_count": 23,
+          "media_count": 279,
+          "tweet_count": 357
+        },
+        "url": "",
+        "username": "4498ss",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

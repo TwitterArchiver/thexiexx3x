@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2087553219119747136",
+    "created_at": "2026-08-12T14:54:06.000Z",
+    "display_text_range": [
+      0,
+      74
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T15:54:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087553219119747136"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "music.163.com/song/195861570…",
+          "end": 65,
+          "expanded_url": "http://music.163.com/song/1958615706?userid=627892217",
+          "start": 42,
+          "status": 200,
+          "unwound_url": "https://music.163.com/song?id=1958615706&userid=627892217",
+          "url": "https://t.co/kuJ7F8x3FQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087553219119747136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "分享Eliminate的单曲《Walk Away (Disphing Remix)》https://t.co/kuJ7F8x3FQ (@网易云音乐)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2087553219119747136",
+        "created_at": "2026-08-12T14:54:06.000Z",
+        "display_text_range": [
+          0,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T15:54:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087553219119747136"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "music.163.com/song/195861570…",
+              "end": 65,
+              "expanded_url": "http://music.163.com/song/1958615706?userid=627892217",
+              "start": 42,
+              "status": 200,
+              "unwound_url": "https://music.163.com/song?id=1958615706&userid=627892217",
+              "url": "https://t.co/kuJ7F8x3FQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087553219119747136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "分享Eliminate的单曲《Walk Away (Disphing Remix)》https://t.co/kuJ7F8x3FQ (@网易云音乐)"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x",
+                "start": 0,
+                "url": "https://t.co/d5BdKxYtww"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "应许记忆之城",
+        "most_recent_tweet_id": "2087553219119747136",
+        "name": "嚼嚼",
+        "pinned_tweet_id": "2086403297053966372",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1784638550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 256,
+          "like_count": 2418,
+          "listed_count": 0,
+          "media_count": 253,
+          "tweet_count": 2282
+        },
+        "url": "https://t.co/d5BdKxYtww",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

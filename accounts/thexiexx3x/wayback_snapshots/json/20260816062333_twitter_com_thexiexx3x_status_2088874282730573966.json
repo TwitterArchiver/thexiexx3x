@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088874274262286336",
+        "3_2088874274262233088",
+        "3_2088874274199379968",
+        "3_2088874274203619328"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2088874282730573966",
+    "created_at": "2026-08-16T06:23:33.000Z",
+    "display_text_range": [
+      0,
+      2
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T07:23:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088874282730573966"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KMQcNEv8zW",
+          "end": 26,
+          "expanded_url": "https://x.com/thexiexx3x/status/2088874282730573966/photo/1",
+          "media_key": "3_2088874274262286336",
+          "start": 3,
+          "url": "https://t.co/KMQcNEv8zW"
+        },
+        {
+          "display_url": "pic.x.com/KMQcNEv8zW",
+          "end": 26,
+          "expanded_url": "https://x.com/thexiexx3x/status/2088874282730573966/photo/1",
+          "media_key": "3_2088874274262233088",
+          "start": 3,
+          "url": "https://t.co/KMQcNEv8zW"
+        },
+        {
+          "display_url": "pic.x.com/KMQcNEv8zW",
+          "end": 26,
+          "expanded_url": "https://x.com/thexiexx3x/status/2088874282730573966/photo/1",
+          "media_key": "3_2088874274199379968",
+          "start": 3,
+          "url": "https://t.co/KMQcNEv8zW"
+        },
+        {
+          "display_url": "pic.x.com/KMQcNEv8zW",
+          "end": 26,
+          "expanded_url": "https://x.com/thexiexx3x/status/2088874282730573966/photo/1",
+          "media_key": "3_2088874274203619328",
+          "start": 3,
+          "url": "https://t.co/KMQcNEv8zW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088874282730573966",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2088874274262286336"
+      },
+      {
+        "media_key": "3_2088874274262233088"
+      },
+      {
+        "media_key": "3_2088874274199379968"
+      },
+      {
+        "media_key": "3_2088874274203619328"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "没写 https://t.co/KMQcNEv8zW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 586,
+        "media_key": "3_2088874274262286336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP0sFcnbAAAAVmm.jpg",
+        "width": 878
+      },
+      {
+        "height": 1194,
+        "media_key": "3_2088874274262233088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP0sFcnaMAAoNFr.jpg",
+        "width": 1284
+      },
+      {
+        "height": 1178,
+        "media_key": "3_2088874274199379968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP0sFcYbIAAjQMF.jpg",
+        "width": 1284
+      },
+      {
+        "height": 1212,
+        "media_key": "3_2088874274203619328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP0sFcZb0AA6-7h.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088874274262286336",
+            "3_2088874274262233088",
+            "3_2088874274199379968",
+            "3_2088874274203619328"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2088874282730573966",
+        "created_at": "2026-08-16T06:23:33.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T07:23:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088874282730573966"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KMQcNEv8zW",
+              "end": 26,
+              "expanded_url": "https://x.com/thexiexx3x/status/2088874282730573966/photo/1",
+              "media_key": "3_2088874274262286336",
+              "start": 3,
+              "url": "https://t.co/KMQcNEv8zW"
+            },
+            {
+              "display_url": "pic.x.com/KMQcNEv8zW",
+              "end": 26,
+              "expanded_url": "https://x.com/thexiexx3x/status/2088874282730573966/photo/1",
+              "media_key": "3_2088874274262233088",
+              "start": 3,
+              "url": "https://t.co/KMQcNEv8zW"
+            },
+            {
+              "display_url": "pic.x.com/KMQcNEv8zW",
+              "end": 26,
+              "expanded_url": "https://x.com/thexiexx3x/status/2088874282730573966/photo/1",
+              "media_key": "3_2088874274199379968",
+              "start": 3,
+              "url": "https://t.co/KMQcNEv8zW"
+            },
+            {
+              "display_url": "pic.x.com/KMQcNEv8zW",
+              "end": 26,
+              "expanded_url": "https://x.com/thexiexx3x/status/2088874282730573966/photo/1",
+              "media_key": "3_2088874274203619328",
+              "start": 3,
+              "url": "https://t.co/KMQcNEv8zW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088874282730573966",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088874274262286336"
+          },
+          {
+            "media_key": "3_2088874274262233088"
+          },
+          {
+            "media_key": "3_2088874274199379968"
+          },
+          {
+            "media_key": "3_2088874274203619328"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没写 https://t.co/KMQcNEv8zW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x",
+                "start": 0,
+                "url": "https://t.co/d5BdKxYtww"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "应许记忆之城",
+        "most_recent_tweet_id": "2088874282730573966",
+        "name": "嚼嚼",
+        "pinned_tweet_id": "2086403297053966372",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1784638550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 260,
+          "like_count": 2554,
+          "listed_count": 0,
+          "media_count": 264,
+          "tweet_count": 2371
+        },
+        "url": "https://t.co/d5BdKxYtww",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

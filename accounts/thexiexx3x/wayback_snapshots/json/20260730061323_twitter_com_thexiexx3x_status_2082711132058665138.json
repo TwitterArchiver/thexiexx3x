@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082486604309188609"
+      ],
+      "media_source_tweet_id": [
+        "2082486608629219329"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2082711132058665138",
+    "created_at": "2026-07-30T06:13:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T07:13:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082711132058665138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1834756925155901440",
+          "start": 3,
+          "username": "lukatll"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mx1B7F3LSv",
+          "end": 50,
+          "expanded_url": "https://x.com/lukatll/status/2082486608629219329/photo/1",
+          "media_key": "3_2082486604309188609",
+          "start": 27,
+          "url": "https://t.co/mx1B7F3LSv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082711132058665138",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 166
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082486608629219329",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lukatll: Me and Myself https://t.co/mx1B7F3LSv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 778,
+        "media_key": "3_2082486604309188609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZ6iHtb0AELWnh.jpg",
+        "width": 977
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082486604309188609"
+          ]
+        },
+        "author_id": "1834756925155901440",
+        "conversation_id": "2082486608629219329",
+        "created_at": "2026-07-29T15:21:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T16:21:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082486608629219329"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mx1B7F3LSv",
+              "end": 37,
+              "expanded_url": "https://x.com/lukatll/status/2082486608629219329/photo/1",
+              "media_key": "3_2082486604309188609",
+              "start": 14,
+              "url": "https://t.co/mx1B7F3LSv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082486608629219329",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 6204,
+          "like_count": 754,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 166
+        },
+        "reply_settings": "everyone",
+        "text": "Me and Myself https://t.co/mx1B7F3LSv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082486604309188609"
+          ],
+          "media_source_tweet_id": [
+            "2082486608629219329"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2082711132058665138",
+        "created_at": "2026-07-30T06:13:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T07:13:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082711132058665138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1834756925155901440",
+              "start": 3,
+              "username": "lukatll"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mx1B7F3LSv",
+              "end": 50,
+              "expanded_url": "https://x.com/lukatll/status/2082486608629219329/photo/1",
+              "media_key": "3_2082486604309188609",
+              "start": 27,
+              "url": "https://t.co/mx1B7F3LSv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082711132058665138",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 166
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082486608629219329",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lukatll: Me and Myself https://t.co/mx1B7F3LSv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/thexiexx",
+                "end": 23,
+                "expanded_url": "https://t.me/thexiexx",
+                "start": 0,
+                "url": "https://t.co/w6gPwSRVgN"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "mybed",
+        "name": "嚼嚼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 215,
+          "like_count": 1775,
+          "listed_count": 0,
+          "media_count": 200,
+          "tweet_count": 1864
+        },
+        "url": "https://t.co/w6gPwSRVgN",
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-14T00:52:05.000Z",
+        "description": "Sensitive Young Man",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rentry.co/8338",
+                "end": 23,
+                "expanded_url": "https://rentry.co/8338",
+                "start": 0,
+                "url": "https://t.co/JK04fsDRwI"
+              }
+            ]
+          }
+        },
+        "id": "1834756925155901440",
+        "location": "21",
+        "name": "Retard",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081783107251015681/iDR9mh2Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 47,
+          "like_count": 411,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 152
+        },
+        "url": "https://t.co/JK04fsDRwI",
+        "username": "lukatll",
+        "verified": false
+      }
+    ]
+  }
+}

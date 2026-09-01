@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090641791599132672"
+      ],
+      "media_source_tweet_id": [
+        "2090641800839192771"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2090728700061089844",
+    "created_at": "2026-08-21T09:12:20.000Z",
+    "display_text_range": [
+      0,
+      81
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T10:12:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090728700061089844"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 57,
+          "start": 50,
+          "tag": "SKC美術部"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1660869443747209217",
+          "start": 3,
+          "username": "chiri___0320"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RIXHDDJDxA",
+          "end": 81,
+          "expanded_url": "https://x.com/chiri___0320/status/2090641800839192771/photo/1",
+          "media_key": "3_2090641791599132672",
+          "start": 58,
+          "url": "https://t.co/RIXHDDJDxA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090728700061089844",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2090641791599132672"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090641800839192771",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chiri___0320: 遅くなってごめんね💦\n​あああの子さんほんっとに可愛い尊い😭\n\n#SKC美術部 https://t.co/RIXHDDJDxA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2858,
+        "media_key": "3_2090641791599132672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQNzofzaQAAIUEF.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090641791599132672"
+          ],
+          "media_source_tweet_id": [
+            "2090641800839192771"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2090728700061089844",
+        "created_at": "2026-08-21T09:12:20.000Z",
+        "display_text_range": [
+          0,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T10:12:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090728700061089844"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 57,
+              "start": 50,
+              "tag": "SKC美術部"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1660869443747209217",
+              "start": 3,
+              "username": "chiri___0320"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RIXHDDJDxA",
+              "end": 81,
+              "expanded_url": "https://x.com/chiri___0320/status/2090641800839192771/photo/1",
+              "media_key": "3_2090641791599132672",
+              "start": 58,
+              "url": "https://t.co/RIXHDDJDxA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090728700061089844",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2090641791599132672"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090641800839192771",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chiri___0320: 遅くなってごめんね💦\n​あああの子さんほんっとに可愛い尊い😭\n\n#SKC美術部 https://t.co/RIXHDDJDxA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090641791599132672"
+          ]
+        },
+        "author_id": "1660869443747209217",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2090641800839192771",
+        "created_at": "2026-08-21T03:27:02.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T04:27:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090641800839192771"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 32,
+              "tag": "SKC美術部"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RIXHDDJDxA",
+              "end": 63,
+              "expanded_url": "https://x.com/chiri___0320/status/2090641800839192771/photo/1",
+              "media_key": "3_2090641791599132672",
+              "start": 40,
+              "url": "https://t.co/RIXHDDJDxA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090641800839192771",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2090641791599132672"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 952,
+          "like_count": 127,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "遅くなってごめんね💦\n​あああの子さんほんっとに可愛い尊い😭\n\n#SKC美術部 https://t.co/RIXHDDJDxA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x",
+                "start": 0,
+                "url": "https://t.co/d5BdKxYtww"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "应许记忆之城",
+        "most_recent_tweet_id": "2090728700061089844",
+        "name": "嚼嚼",
+        "pinned_tweet_id": "2086403297053966372",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1784638550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 277,
+          "like_count": 2765,
+          "listed_count": 0,
+          "media_count": 280,
+          "tweet_count": 2477
+        },
+        "url": "https://t.co/d5BdKxYtww",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-23T04:45:24.000Z",
+        "description": "Chiri/塵/鹿土為安/ちり\n中国語/English/​日本語は基本翻訳使ってる\n你知道嗎？青蛙是毛毛蟲被咬掉屁股後變成的喔🐸\n୧‧₊˚ 🍮 ₊ ⋅ ☆",
+        "id": "1660869443747209217",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090728322812748156",
+        "name": "塵今天依舊沒睡飽",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1660869443747209217/1781696807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067212190919372800/F81hG8A3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 935,
+          "like_count": 11005,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 1581
+        },
+        "url": "",
+        "username": "chiri___0320",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

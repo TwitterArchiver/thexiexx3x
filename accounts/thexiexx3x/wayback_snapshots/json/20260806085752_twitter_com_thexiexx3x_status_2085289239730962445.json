@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083899420886872065"
+      ],
+      "media_source_tweet_id": [
+        "2083899429426466822"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2085289239730962445",
+    "created_at": "2026-08-06T08:57:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T09:57:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085289239730962445"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 16,
+          "tag": "地元最高FA"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1845452277894742018",
+          "start": 3,
+          "username": "g1qazr0plm"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QbJptbSNoK",
+          "end": 52,
+          "expanded_url": "https://x.com/g1qazr0plm/status/2083899429426466822/photo/1",
+          "media_key": "3_2083899420886872065",
+          "start": 29,
+          "url": "https://t.co/QbJptbSNoK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085289239730962445",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 629
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083899429426466822",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @g1qazr0plm: #地元最高FA\n왜클릭? https://t.co/QbJptbSNoK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 890,
+        "media_key": "3_2083899420886872065",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOt_e3masAEPfRP.png",
+        "width": 657
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083899420886872065"
+          ]
+        },
+        "author_id": "1845452277894742018",
+        "conversation_id": "2083899429426466822",
+        "created_at": "2026-08-02T12:55:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T13:55:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083899429426466822"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "地元最高FA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QbJptbSNoK",
+              "end": 36,
+              "expanded_url": "https://x.com/g1qazr0plm/status/2083899429426466822/photo/1",
+              "media_key": "3_2083899420886872065",
+              "start": 13,
+              "url": "https://t.co/QbJptbSNoK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083899429426466822",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1803,
+          "impression_count": 10428264,
+          "like_count": 7540,
+          "quote_count": 114,
+          "reply_count": 28,
+          "retweet_count": 629
+        },
+        "reply_settings": "everyone",
+        "text": "#地元最高FA\n왜클릭? https://t.co/QbJptbSNoK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083899420886872065"
+          ],
+          "media_source_tweet_id": [
+            "2083899429426466822"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2085289239730962445",
+        "created_at": "2026-08-06T08:57:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T09:57:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085289239730962445"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 16,
+              "tag": "地元最高FA"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1845452277894742018",
+              "start": 3,
+              "username": "g1qazr0plm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QbJptbSNoK",
+              "end": 52,
+              "expanded_url": "https://x.com/g1qazr0plm/status/2083899429426466822/photo/1",
+              "media_key": "3_2083899420886872065",
+              "start": 29,
+              "url": "https://t.co/QbJptbSNoK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085289239730962445",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 629
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083899429426466822",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @g1qazr0plm: #地元最高FA\n왜클릭? https://t.co/QbJptbSNoK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/thexiexx",
+                "end": 23,
+                "expanded_url": "https://t.me/thexiexx",
+                "start": 0,
+                "url": "https://t.co/w6gPwSRnrf"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "备忘录",
+        "name": "嚼嚼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 236,
+          "like_count": 2146,
+          "listed_count": 0,
+          "media_count": 234,
+          "tweet_count": 2105
+        },
+        "url": "https://t.co/w6gPwSRnrf",
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T13:11:46.000Z",
+        "description": "이렇게재밋는고향을버리고어디로가실려고요?\n\n📪:https://t.co/5jWcMa5PGA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wavebox.me/wave/wswugp9wa…",
+                "end": 48,
+                "expanded_url": "https://wavebox.me/wave/wswugp9wad666wq5/",
+                "start": 25,
+                "url": "https://t.co/5jWcMa5PGA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "profcard.info/u/vzVqKCy5UVSW…",
+                "end": 23,
+                "expanded_url": "https://profcard.info/u/vzVqKCy5UVSWeoM99IJaYVKOxAw1",
+                "start": 0,
+                "url": "https://t.co/sZb4SqSvWK"
+              }
+            ]
+          }
+        },
+        "id": "1845452277894742018",
+        "name": "40",
+        "pinned_tweet_id": "2075932776269037703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899786203945422848/XcedHNj0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1217,
+          "following_count": 60,
+          "like_count": 4336,
+          "listed_count": 1,
+          "media_count": 352,
+          "tweet_count": 1570
+        },
+        "url": "https://t.co/sZb4SqSvWK",
+        "username": "g1qazr0plm",
+        "verified": false
+      }
+    ]
+  }
+}

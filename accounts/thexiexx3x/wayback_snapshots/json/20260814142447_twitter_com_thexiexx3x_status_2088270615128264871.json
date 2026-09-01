@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "card_uri": "https://t.co/yGJORXobHf",
+    "conversation_id": "2088270615128264871",
+    "created_at": "2026-08-14T14:24:47.000Z",
+    "display_text_range": [
+      0,
+      81
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T15:24:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088270615128264871"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "歌曲名《讃えよ！絶対学権リュシア様》，由 ファル公、DJ Myosuke、ななひら、HoYoFair 演唱，收录于《讃えよ！絶対学権リュシア様》专辑中",
+          "display_url": "music.163.com/song/341023906…",
+          "end": 72,
+          "expanded_url": "https://music.163.com/song/3410239066?userid=627892217",
+          "start": 49,
+          "status": 200,
+          "title": "讃えよ！絶対学権リュシア様",
+          "unwound_url": "https://music.163.com/song/3410239066?userid=627892217",
+          "url": "https://t.co/yGJORXobHf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088270615128264871",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "分享ファル公/DJ Myosuke/ななひら/HoYoFair的单曲《讃えよ！絶対学権リュシア様》https://t.co/yGJORXobHf (@网易云音乐)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "card_uri": "https://t.co/yGJORXobHf",
+        "conversation_id": "2088270615128264871",
+        "created_at": "2026-08-14T14:24:47.000Z",
+        "display_text_range": [
+          0,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T15:24:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088270615128264871"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "歌曲名《讃えよ！絶対学権リュシア様》，由 ファル公、DJ Myosuke、ななひら、HoYoFair 演唱，收录于《讃えよ！絶対学権リュシア様》专辑中",
+              "display_url": "music.163.com/song/341023906…",
+              "end": 72,
+              "expanded_url": "https://music.163.com/song/3410239066?userid=627892217",
+              "start": 49,
+              "status": 200,
+              "title": "讃えよ！絶対学権リュシア様",
+              "unwound_url": "https://music.163.com/song/3410239066?userid=627892217",
+              "url": "https://t.co/yGJORXobHf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088270615128264871",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "分享ファル公/DJ Myosuke/ななひら/HoYoFair的单曲《讃えよ！絶対学権リュシア様》https://t.co/yGJORXobHf (@网易云音乐)"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x",
+                "start": 0,
+                "url": "https://t.co/d5BdKxYtww"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "应许记忆之城",
+        "most_recent_tweet_id": "2088270615128264871",
+        "name": "嚼嚼",
+        "pinned_tweet_id": "2086403297053966372",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1784638550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 261,
+          "like_count": 2474,
+          "listed_count": 0,
+          "media_count": 261,
+          "tweet_count": 2340
+        },
+        "url": "https://t.co/d5BdKxYtww",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

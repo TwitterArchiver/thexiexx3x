@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082836163010936832",
+        "3_2082836162998378496"
+      ],
+      "media_source_tweet_id": [
+        "2082836168891331055",
+        "2082836168891331055"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2083101383704842576",
+    "created_at": "2026-07-31T08:04:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T09:04:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083101383704842576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2016445530101121024",
+          "start": 3,
+          "username": "sinseizi_12"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ePXWgKt4xg",
+          "end": 46,
+          "expanded_url": "https://x.com/sinseizi_12/status/2082836168891331055/photo/1",
+          "media_key": "3_2082836163010936832",
+          "start": 23,
+          "url": "https://t.co/ePXWgKt4xg"
+        },
+        {
+          "display_url": "pic.x.com/ePXWgKt4xg",
+          "end": 46,
+          "expanded_url": "https://x.com/sinseizi_12/status/2082836168891331055/photo/1",
+          "media_key": "3_2082836162998378496",
+          "start": 23,
+          "url": "https://t.co/ePXWgKt4xg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083101383704842576",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082836168891331055",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sinseizi_12: 最高に好き https://t.co/ePXWgKt4xg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2082836163010936832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOe4dHWawAAPGie.jpg",
+        "width": 768
+      },
+      {
+        "height": 981,
+        "media_key": "3_2082836162998378496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOe4dHTbIAAIF0M.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082836163010936832",
+            "3_2082836162998378496"
+          ]
+        },
+        "author_id": "2016445530101121024",
+        "conversation_id": "2082836168891331055",
+        "created_at": "2026-07-30T14:30:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T15:30:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082836168891331055"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ePXWgKt4xg",
+              "end": 29,
+              "expanded_url": "https://x.com/sinseizi_12/status/2082836168891331055/photo/1",
+              "media_key": "3_2082836163010936832",
+              "start": 6,
+              "url": "https://t.co/ePXWgKt4xg"
+            },
+            {
+              "display_url": "pic.x.com/ePXWgKt4xg",
+              "end": 29,
+              "expanded_url": "https://x.com/sinseizi_12/status/2082836168891331055/photo/1",
+              "media_key": "3_2082836162998378496",
+              "start": 6,
+              "url": "https://t.co/ePXWgKt4xg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082836168891331055",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 3442,
+          "like_count": 174,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "最高に好き https://t.co/ePXWgKt4xg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082836163010936832",
+            "3_2082836162998378496"
+          ],
+          "media_source_tweet_id": [
+            "2082836168891331055",
+            "2082836168891331055"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2083101383704842576",
+        "created_at": "2026-07-31T08:04:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T09:04:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083101383704842576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2016445530101121024",
+              "start": 3,
+              "username": "sinseizi_12"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ePXWgKt4xg",
+              "end": 46,
+              "expanded_url": "https://x.com/sinseizi_12/status/2082836168891331055/photo/1",
+              "media_key": "3_2082836163010936832",
+              "start": 23,
+              "url": "https://t.co/ePXWgKt4xg"
+            },
+            {
+              "display_url": "pic.x.com/ePXWgKt4xg",
+              "end": 46,
+              "expanded_url": "https://x.com/sinseizi_12/status/2082836168891331055/photo/1",
+              "media_key": "3_2082836162998378496",
+              "start": 23,
+              "url": "https://t.co/ePXWgKt4xg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083101383704842576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082836168891331055",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sinseizi_12: 最高に好き https://t.co/ePXWgKt4xg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/thexiexx",
+                "end": 23,
+                "expanded_url": "https://t.me/thexiexx",
+                "start": 0,
+                "url": "https://t.co/w6gPwSRVgN"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "mybed",
+        "name": "嚼嚼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 214,
+          "like_count": 1814,
+          "listed_count": 0,
+          "media_count": 206,
+          "tweet_count": 1896
+        },
+        "url": "https://t.co/w6gPwSRVgN",
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-28T09:37:56.000Z",
+        "description": "どーーーーー",
+        "id": "2016445530101121024",
+        "name": "そう",
+        "pinned_tweet_id": "2067882919377735779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065834386814283776/gxa_SmJk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 145,
+          "like_count": 2798,
+          "listed_count": 3,
+          "media_count": 87,
+          "tweet_count": 1034
+        },
+        "url": "",
+        "username": "sinseizi_12",
+        "verified": false
+      }
+    ]
+  }
+}

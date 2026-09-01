@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2084234761363747260",
+    "created_at": "2026-08-03T11:07:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T12:07:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084234761363747260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1564990471327215619",
+          "start": 3,
+          "username": "bisco91395061"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084234761363747260",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083925670711951445",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bisco91395061: 八月祝大家O大D，吃药不耐受，幻觉超好受，买药不被标，卖药不被抓，pr不成瘾，小美不耐受，晚安不恐幻，思思不失忆。新的一月 越o越有劲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2084234761363747260",
+        "created_at": "2026-08-03T11:07:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T12:07:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084234761363747260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1564990471327215619",
+              "start": 3,
+              "username": "bisco91395061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084234761363747260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083925670711951445",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bisco91395061: 八月祝大家O大D，吃药不耐受，幻觉超好受，买药不被标，卖药不被抓，pr不成瘾，小美不耐受，晚安不恐幻，思思不失忆。新的一月 越o越有劲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2083925670711951445",
+        "created_at": "2026-08-02T14:39:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T15:39:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083925670711951445"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xxxixixmwt/sta…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/xxxixixmwt/status/2083688906055401972",
+              "start": 68,
+              "url": "https://t.co/Gk3BcWGqek"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083925670711951445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 440,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083688906055401972",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "八月祝大家O大D，吃药不耐受，幻觉超好受，买药不被标，卖药不被抓，pr不成瘾，小美不耐受，晚安不恐幻，思思不失忆。新的一月 越o越有劲 https://t.co/Gk3BcWGqek"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/thexiexx",
+                "end": 23,
+                "expanded_url": "https://t.me/thexiexx",
+                "start": 0,
+                "url": "https://t.co/w6gPwSRVgN"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "mybed",
+        "name": "嚼嚼",
+        "pinned_tweet_id": "2083387666683609141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 219,
+          "like_count": 1955,
+          "listed_count": 0,
+          "media_count": 221,
+          "tweet_count": 1978
+        },
+        "url": "https://t.co/w6gPwSRVgN",
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜一般路过同人女｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲💖｜",
+        "id": "1564990471327215619",
+        "location": "新时代梦想家",
+        "name": "菜菜警官",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1080,
+          "following_count": 459,
+          "like_count": 11807,
+          "listed_count": 1,
+          "media_count": 180,
+          "tweet_count": 2733
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      }
+    ]
+  }
+}

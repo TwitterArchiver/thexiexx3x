@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2084720161244745728"
+      ],
+      "media_source_tweet_id": [
+        "2084720294762094854"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2084860931717439731",
+    "created_at": "2026-08-05T04:35:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T05:35:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084860931717439731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1747789622740942848",
+          "start": 3,
+          "username": "psychofuturist"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vsgZNtVUXC",
+          "end": 78,
+          "expanded_url": "https://x.com/psychofuturist/status/2084720294762094854/photo/1",
+          "media_key": "16_2084720161244745728",
+          "start": 55,
+          "url": "https://t.co/vsgZNtVUXC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084860931717439731",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 138
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084720294762094854",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @psychofuturist: if you don't fear god, fear metals https://t.co/vsgZNtVUXC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "16_2084720161244745728",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HO5p8PsWkAAJl4d.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HO5p8PsWkAAJl4d.mp4"
+          }
+        ],
+        "width": 818
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2084720161244745728"
+          ]
+        },
+        "author_id": "1747789622740942848",
+        "conversation_id": "2084720294762094854",
+        "created_at": "2026-08-04T19:17:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T20:17:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084720294762094854"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vsgZNtVUXC",
+              "end": 58,
+              "expanded_url": "https://x.com/psychofuturist/status/2084720294762094854/photo/1",
+              "media_key": "16_2084720161244745728",
+              "start": 35,
+              "url": "https://t.co/vsgZNtVUXC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084720294762094854",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 183,
+          "impression_count": 20367,
+          "like_count": 937,
+          "quote_count": 3,
+          "reply_count": 9,
+          "retweet_count": 138
+        },
+        "reply_settings": "everyone",
+        "text": "if you don't fear god, fear metals https://t.co/vsgZNtVUXC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2084720161244745728"
+          ],
+          "media_source_tweet_id": [
+            "2084720294762094854"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2084860931717439731",
+        "created_at": "2026-08-05T04:35:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T05:35:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084860931717439731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1747789622740942848",
+              "start": 3,
+              "username": "psychofuturist"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vsgZNtVUXC",
+              "end": 78,
+              "expanded_url": "https://x.com/psychofuturist/status/2084720294762094854/photo/1",
+              "media_key": "16_2084720161244745728",
+              "start": 55,
+              "url": "https://t.co/vsgZNtVUXC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084860931717439731",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 138
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084720294762094854",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @psychofuturist: if you don't fear god, fear metals https://t.co/vsgZNtVUXC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/thexiexx",
+                "end": 23,
+                "expanded_url": "https://t.me/thexiexx",
+                "start": 0,
+                "url": "https://t.co/w6gPwSRnrf"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "备忘录",
+        "name": "嚼嚼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 231,
+          "like_count": 2073,
+          "listed_count": 0,
+          "media_count": 233,
+          "tweet_count": 2073
+        },
+        "url": "https://t.co/w6gPwSRnrf",
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-18T01:15:00.000Z",
+        "description": "the future of human emotions | https://t.co/whLVdjERNq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "superrare.com/psychofuturist",
+                "end": 54,
+                "expanded_url": "http://superrare.com/psychofuturist",
+                "start": 31,
+                "url": "https://t.co/whLVdjERNq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psychofuturist.com",
+                "end": 23,
+                "expanded_url": "https://psychofuturist.com",
+                "start": 0,
+                "url": "https://t.co/mQ8Af2IIgO"
+              }
+            ]
+          }
+        },
+        "id": "1747789622740942848",
+        "location": "MX",
+        "name": "Psychofuturist 👁️",
+        "pinned_tweet_id": "2030329119079100483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034889132196208640/TIV19Kji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14346,
+          "following_count": 0,
+          "like_count": 8563,
+          "listed_count": 145,
+          "media_count": 706,
+          "tweet_count": 5232
+        },
+        "url": "https://t.co/mQ8Af2IIgO",
+        "username": "psychofuturist",
+        "verified": false
+      }
+    ]
+  }
+}

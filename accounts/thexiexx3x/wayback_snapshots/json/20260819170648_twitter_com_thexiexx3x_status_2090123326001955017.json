@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090123312659832832"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2090123326001955017",
+    "created_at": "2026-08-19T17:06:48.000Z",
+    "display_text_range": [
+      0,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T18:06:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090123326001955017"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/g3o9mbZ6KU",
+          "end": 36,
+          "expanded_url": "https://x.com/thexiexx3x/status/2090123326001955017/photo/1",
+          "media_key": "3_2090123312659832832",
+          "start": 13,
+          "url": "https://t.co/g3o9mbZ6KU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090123326001955017",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090123312659832832"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "mentionedUsers",
+    "text": "明天耍起 我就不该接这单 https://t.co/g3o9mbZ6KU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2090123312659832832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQGcFDPaIAAHuzG.jpg",
+        "width": 1554
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090123312659832832"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2090123326001955017",
+        "created_at": "2026-08-19T17:06:48.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T18:06:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090123326001955017"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g3o9mbZ6KU",
+              "end": 36,
+              "expanded_url": "https://x.com/thexiexx3x/status/2090123326001955017/photo/1",
+              "media_key": "3_2090123312659832832",
+              "start": 13,
+              "url": "https://t.co/g3o9mbZ6KU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090123326001955017",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090123312659832832"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "明天耍起 我就不该接这单 https://t.co/g3o9mbZ6KU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x",
+                "start": 0,
+                "url": "https://t.co/d5BdKxYtww"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "应许记忆之城",
+        "most_recent_tweet_id": "2090123326001955017",
+        "name": "嚼嚼",
+        "pinned_tweet_id": "2086403297053966372",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1784638550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 270,
+          "like_count": 2734,
+          "listed_count": 0,
+          "media_count": 278,
+          "tweet_count": 2461
+        },
+        "url": "https://t.co/d5BdKxYtww",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

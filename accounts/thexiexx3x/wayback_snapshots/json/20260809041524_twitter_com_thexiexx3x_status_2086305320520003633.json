@@ -1,0 +1,437 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086121418845265921",
+        "3_2086121418824220672",
+        "3_2086121418807525377",
+        "3_2086121418857803776"
+      ],
+      "media_source_tweet_id": [
+        "2086121426080465192",
+        "2086121426080465192",
+        "2086121426080465192",
+        "2086121426080465192"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2086305320520003633",
+    "created_at": "2026-08-09T04:15:24.000Z",
+    "display_text_range": [
+      0,
+      98
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T05:15:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086305320520003633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1896143184754839552",
+          "start": 3,
+          "username": "seraphicxc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3qAY9ROAz8",
+          "end": 98,
+          "expanded_url": "https://x.com/seraphicxc/status/2086121426080465192/photo/1",
+          "media_key": "3_2086121418845265921",
+          "start": 75,
+          "url": "https://t.co/3qAY9ROAz8"
+        },
+        {
+          "display_url": "pic.x.com/3qAY9ROAz8",
+          "end": 98,
+          "expanded_url": "https://x.com/seraphicxc/status/2086121426080465192/photo/1",
+          "media_key": "3_2086121418824220672",
+          "start": 75,
+          "url": "https://t.co/3qAY9ROAz8"
+        },
+        {
+          "display_url": "pic.x.com/3qAY9ROAz8",
+          "end": 98,
+          "expanded_url": "https://x.com/seraphicxc/status/2086121426080465192/photo/1",
+          "media_key": "3_2086121418807525377",
+          "start": 75,
+          "url": "https://t.co/3qAY9ROAz8"
+        },
+        {
+          "display_url": "pic.x.com/3qAY9ROAz8",
+          "end": 98,
+          "expanded_url": "https://x.com/seraphicxc/status/2086121426080465192/photo/1",
+          "media_key": "3_2086121418857803776",
+          "start": 75,
+          "url": "https://t.co/3qAY9ROAz8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086305320520003633",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2086121418845265921"
+      },
+      {
+        "media_key": "3_2086121418824220672"
+      },
+      {
+        "media_key": "3_2086121418807525377"
+      },
+      {
+        "media_key": "3_2086121418857803776"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 49
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086121426080465192",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @seraphicxc: Something about the dark forest feels like home to my soul https://t.co/3qAY9ROAz8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 653,
+        "media_key": "3_2086121418845265921",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPNkYLCbIAEJU_l.jpg",
+        "width": 657
+      },
+      {
+        "height": 653,
+        "media_key": "3_2086121418824220672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPNkYK9aAAAzFE4.jpg",
+        "width": 653
+      },
+      {
+        "height": 653,
+        "media_key": "3_2086121418807525377",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPNkYK5bQAEC86x.jpg",
+        "width": 653
+      },
+      {
+        "height": 653,
+        "media_key": "3_2086121418857803776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPNkYLFacAA2w7-.jpg",
+        "width": 653
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086121418845265921",
+            "3_2086121418824220672",
+            "3_2086121418807525377",
+            "3_2086121418857803776"
+          ]
+        },
+        "author_id": "1896143184754839552",
+        "conversation_id": "2086121426080465192",
+        "created_at": "2026-08-08T16:04:40.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-08T17:04:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086121426080465192"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3qAY9ROAz8",
+              "end": 82,
+              "expanded_url": "https://x.com/seraphicxc/status/2086121426080465192/photo/1",
+              "media_key": "3_2086121418845265921",
+              "start": 59,
+              "url": "https://t.co/3qAY9ROAz8"
+            },
+            {
+              "display_url": "pic.x.com/3qAY9ROAz8",
+              "end": 82,
+              "expanded_url": "https://x.com/seraphicxc/status/2086121426080465192/photo/1",
+              "media_key": "3_2086121418824220672",
+              "start": 59,
+              "url": "https://t.co/3qAY9ROAz8"
+            },
+            {
+              "display_url": "pic.x.com/3qAY9ROAz8",
+              "end": 82,
+              "expanded_url": "https://x.com/seraphicxc/status/2086121426080465192/photo/1",
+              "media_key": "3_2086121418807525377",
+              "start": 59,
+              "url": "https://t.co/3qAY9ROAz8"
+            },
+            {
+              "display_url": "pic.x.com/3qAY9ROAz8",
+              "end": 82,
+              "expanded_url": "https://x.com/seraphicxc/status/2086121426080465192/photo/1",
+              "media_key": "3_2086121418857803776",
+              "start": 59,
+              "url": "https://t.co/3qAY9ROAz8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086121426080465192",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2086121418845265921"
+          },
+          {
+            "media_key": "3_2086121418824220672"
+          },
+          {
+            "media_key": "3_2086121418807525377"
+          },
+          {
+            "media_key": "3_2086121418857803776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 5809,
+          "like_count": 360,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "Something about the dark forest feels like home to my soul https://t.co/3qAY9ROAz8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086121418845265921",
+            "3_2086121418824220672",
+            "3_2086121418807525377",
+            "3_2086121418857803776"
+          ],
+          "media_source_tweet_id": [
+            "2086121426080465192",
+            "2086121426080465192",
+            "2086121426080465192",
+            "2086121426080465192"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2086305320520003633",
+        "created_at": "2026-08-09T04:15:24.000Z",
+        "display_text_range": [
+          0,
+          98
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T05:15:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086305320520003633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1896143184754839552",
+              "start": 3,
+              "username": "seraphicxc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3qAY9ROAz8",
+              "end": 98,
+              "expanded_url": "https://x.com/seraphicxc/status/2086121426080465192/photo/1",
+              "media_key": "3_2086121418845265921",
+              "start": 75,
+              "url": "https://t.co/3qAY9ROAz8"
+            },
+            {
+              "display_url": "pic.x.com/3qAY9ROAz8",
+              "end": 98,
+              "expanded_url": "https://x.com/seraphicxc/status/2086121426080465192/photo/1",
+              "media_key": "3_2086121418824220672",
+              "start": 75,
+              "url": "https://t.co/3qAY9ROAz8"
+            },
+            {
+              "display_url": "pic.x.com/3qAY9ROAz8",
+              "end": 98,
+              "expanded_url": "https://x.com/seraphicxc/status/2086121426080465192/photo/1",
+              "media_key": "3_2086121418807525377",
+              "start": 75,
+              "url": "https://t.co/3qAY9ROAz8"
+            },
+            {
+              "display_url": "pic.x.com/3qAY9ROAz8",
+              "end": 98,
+              "expanded_url": "https://x.com/seraphicxc/status/2086121426080465192/photo/1",
+              "media_key": "3_2086121418857803776",
+              "start": 75,
+              "url": "https://t.co/3qAY9ROAz8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086305320520003633",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2086121418845265921"
+          },
+          {
+            "media_key": "3_2086121418824220672"
+          },
+          {
+            "media_key": "3_2086121418807525377"
+          },
+          {
+            "media_key": "3_2086121418857803776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 49
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086121426080465192",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @seraphicxc: Something about the dark forest feels like home to my soul https://t.co/3qAY9ROAz8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/thexiexx",
+                "end": 23,
+                "expanded_url": "https://t.me/thexiexx",
+                "start": 0,
+                "url": "https://t.co/w6gPwSRnrf"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "备忘录",
+        "most_recent_tweet_id": "2086305320520003633",
+        "name": "嚼嚼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1784638550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 255,
+          "like_count": 2299,
+          "listed_count": 0,
+          "media_count": 245,
+          "tweet_count": 2208
+        },
+        "url": "https://t.co/w6gPwSRnrf",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-02T10:19:16.000Z",
+        "description": "⋆˚꩜｡𐔌՞. .՞𐦯⋆. 𐙚 ˚",
+        "id": "1896143184754839552",
+        "is_identity_verified": false,
+        "location": "content not mine",
+        "most_recent_tweet_id": "2086293074041598448",
+        "name": "sera",
+        "pinned_tweet_id": "2085257967361040539",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1896143184754839552/1765009531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997221114817531910/jbaCtPRe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44117,
+          "following_count": 3371,
+          "like_count": 13816,
+          "listed_count": 177,
+          "media_count": 3044,
+          "tweet_count": 8672
+        },
+        "url": "",
+        "username": "seraphicxc",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

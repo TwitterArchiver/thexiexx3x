@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2089515870947266560"
+      ],
+      "media_source_tweet_id": [
+        "2089515971728032215"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2089960094675153059",
+    "created_at": "2026-08-19T06:18:10.000Z",
+    "display_text_range": [
+      0,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T07:18:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089960094675153059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1956406040171540481",
+          "start": 3,
+          "username": "rainydew9"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nDk4CxXnKf",
+          "end": 38,
+          "expanded_url": "https://x.com/rainydew9/status/2089515971728032215/video/1",
+          "media_key": "13_2089515870947266560",
+          "start": 15,
+          "url": "https://t.co/nDk4CxXnKf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089960094675153059",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2089515870947266560"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 64
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089515971728032215",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rainydew9: https://t.co/nDk4CxXnKf"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20202,
+        "height": 1220,
+        "media_key": "13_2089515870947266560",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2089515870947266560/img/Load-KPDpuHYrrz9.jpg",
+        "public_metrics": {
+          "view_count": 2382
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089515870947266560/vid/avc1/300x270/FMb8AmRQvEaJ2euf.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089515870947266560/vid/avc1/400x360/jMROs8ojO8OqOrDx.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089515870947266560/vid/avc1/800x720/7CtoMq796pxI95gu.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2089515870947266560/pl/-s-JslnshHpM5Dvl.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1356
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089515870947266560"
+          ],
+          "media_source_tweet_id": [
+            "2089515971728032215"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2089960094675153059",
+        "created_at": "2026-08-19T06:18:10.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T07:18:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089960094675153059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1956406040171540481",
+              "start": 3,
+              "username": "rainydew9"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nDk4CxXnKf",
+              "end": 38,
+              "expanded_url": "https://x.com/rainydew9/status/2089515971728032215/video/1",
+              "media_key": "13_2089515870947266560",
+              "start": 15,
+              "url": "https://t.co/nDk4CxXnKf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089960094675153059",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2089515870947266560"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089515971728032215",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rainydew9: https://t.co/nDk4CxXnKf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089515870947266560"
+          ]
+        },
+        "author_id": "1956406040171540481",
+        "conversation_id": "2089515971728032215",
+        "created_at": "2026-08-18T00:53:23.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T01:53:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089515971728032215"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nDk4CxXnKf",
+              "end": 23,
+              "expanded_url": "https://x.com/rainydew9/status/2089515971728032215/video/1",
+              "media_key": "13_2089515870947266560",
+              "start": 0,
+              "url": "https://t.co/nDk4CxXnKf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089515971728032215",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2089515870947266560"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 166,
+          "impression_count": 7254,
+          "like_count": 732,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/nDk4CxXnKf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x",
+                "start": 0,
+                "url": "https://t.co/d5BdKxYtww"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "应许记忆之城",
+        "most_recent_tweet_id": "2089960094675153059",
+        "name": "嚼嚼",
+        "pinned_tweet_id": "2086403297053966372",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1784638550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 276,
+          "like_count": 2686,
+          "listed_count": 0,
+          "media_count": 273,
+          "tweet_count": 2443
+        },
+        "url": "https://t.co/d5BdKxYtww",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-15T17:22:18.000Z",
+        "description": "warm fluffy cloud ☁️ (─‿‿─)\nno nsfw, but 18+ please",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rainydew.net",
+                "end": 23,
+                "expanded_url": "https://rainydew.net",
+                "start": 0,
+                "url": "https://t.co/wBVebNUYi4"
+              }
+            ]
+          }
+        },
+        "id": "1956406040171540481",
+        "is_identity_verified": false,
+        "location": "rainyheart",
+        "most_recent_tweet_id": "2089811076670279788",
+        "name": "☁️ rainydew",
+        "pinned_tweet_id": "2033380773466964318",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1956406040171540481/1773435529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050808958059982849/YuPlq17A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 88,
+          "like_count": 2604,
+          "listed_count": 2,
+          "media_count": 265,
+          "tweet_count": 904
+        },
+        "url": "https://t.co/wBVebNUYi4",
+        "username": "rainydew9",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

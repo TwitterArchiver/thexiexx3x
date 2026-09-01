@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083205875255390208"
+      ],
+      "media_source_tweet_id": [
+        "2083205880963809781"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2083216379021541847",
+    "created_at": "2026-07-31T15:41:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T16:41:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083216379021541847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2076285665650831360",
+          "start": 3,
+          "username": "mettazashi3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9lDSZH705f",
+          "end": 40,
+          "expanded_url": "https://x.com/mettazashi3/status/2083205880963809781/photo/1",
+          "media_key": "3_2083205875255390208",
+          "start": 17,
+          "url": "https://t.co/9lDSZH705f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083216379021541847",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083205880963809781",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mettazashi3: https://t.co/9lDSZH705f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083205875255390208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOkItMyasAAQTYE.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083205875255390208"
+          ]
+        },
+        "author_id": "2076285665650831360",
+        "conversation_id": "2083205880963809781",
+        "created_at": "2026-07-31T14:59:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T15:59:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083205880963809781"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9lDSZH705f",
+              "end": 23,
+              "expanded_url": "https://x.com/mettazashi3/status/2083205880963809781/photo/1",
+              "media_key": "3_2083205875255390208",
+              "start": 0,
+              "url": "https://t.co/9lDSZH705f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083205880963809781",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1228,
+          "like_count": 160,
+          "quote_count": 5,
+          "reply_count": 1,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/9lDSZH705f"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083205875255390208"
+          ],
+          "media_source_tweet_id": [
+            "2083205880963809781"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2083216379021541847",
+        "created_at": "2026-07-31T15:41:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T16:41:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083216379021541847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2076285665650831360",
+              "start": 3,
+              "username": "mettazashi3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9lDSZH705f",
+              "end": 40,
+              "expanded_url": "https://x.com/mettazashi3/status/2083205880963809781/photo/1",
+              "media_key": "3_2083205875255390208",
+              "start": 17,
+              "url": "https://t.co/9lDSZH705f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083216379021541847",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083205880963809781",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mettazashi3: https://t.co/9lDSZH705f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/thexiexx",
+                "end": 23,
+                "expanded_url": "https://t.me/thexiexx",
+                "start": 0,
+                "url": "https://t.co/w6gPwSRVgN"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "mybed",
+        "name": "嚼嚼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 214,
+          "like_count": 1834,
+          "listed_count": 0,
+          "media_count": 207,
+          "tweet_count": 1912
+        },
+        "url": "https://t.co/w6gPwSRVgN",
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-12T12:40:53.000Z",
+        "description": "動物虐待した奴をお立ち台にしてどこかデカい会場に立つのが夢です\n@senketsu37564\nhttps://t.co/4PHabdJId6\nゲボhttps://t.co/9pprYL7O7u",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 32,
+                "username": "senketsu37564"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "m.youtube.com/channel/UCSDIN…",
+                "end": 70,
+                "expanded_url": "https://m.youtube.com/channel/UCSDIN5KRF2cHvHnQ35fbemQ?ra=m",
+                "start": 47,
+                "url": "https://t.co/4PHabdJId6"
+              },
+              {
+                "display_url": "instagram.com/senketsu_metta…",
+                "end": 96,
+                "expanded_url": "https://www.instagram.com/senketsu_mettazashi37564/",
+                "start": 73,
+                "url": "https://t.co/9pprYL7O7u"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.youtube.com/@realotakugebo…",
+                "end": 23,
+                "expanded_url": "https://m.youtube.com/@realotakugebo?ra=m",
+                "start": 0,
+                "url": "https://t.co/L4uWpa7TIu"
+              }
+            ]
+          }
+        },
+        "id": "2076285665650831360",
+        "location": "個人チャンネル",
+        "name": "鮮血A子ちゃん 滅多刺しひろくん チャンスな垢",
+        "pinned_tweet_id": "2076306080414707739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078477724071735296/LKZj0lqB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3004,
+          "following_count": 0,
+          "like_count": 140,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 121
+        },
+        "url": "https://t.co/L4uWpa7TIu",
+        "username": "mettazashi3",
+        "verified": false
+      }
+    ]
+  }
+}

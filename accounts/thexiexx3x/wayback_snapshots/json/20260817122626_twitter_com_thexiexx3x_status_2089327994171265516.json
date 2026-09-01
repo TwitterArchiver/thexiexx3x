@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088924762441502720"
+      ],
+      "media_source_tweet_id": [
+        "2088928756517990740"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2089327994171265516",
+    "created_at": "2026-08-17T12:26:26.000Z",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T13:26:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089327994171265516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2010417524526260224",
+          "start": 3,
+          "username": "lovedarksoul"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YSlkCm0fQk",
+          "end": 41,
+          "expanded_url": "https://x.com/lovedarksoul/status/2088928756517990740/photo/1",
+          "media_key": "3_2088924762441502720",
+          "start": 18,
+          "url": "https://t.co/YSlkCm0fQk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089327994171265516",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2088924762441502720"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 146
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088928756517990740",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lovedarksoul: https://t.co/YSlkCm0fQk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2088924762441502720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP1aAPvX0AAYl8H.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088924762441502720"
+          ],
+          "media_source_tweet_id": [
+            "2088928756517990740"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2089327994171265516",
+        "created_at": "2026-08-17T12:26:26.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T13:26:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089327994171265516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2010417524526260224",
+              "start": 3,
+              "username": "lovedarksoul"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YSlkCm0fQk",
+              "end": 41,
+              "expanded_url": "https://x.com/lovedarksoul/status/2088928756517990740/photo/1",
+              "media_key": "3_2088924762441502720",
+              "start": 18,
+              "url": "https://t.co/YSlkCm0fQk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089327994171265516",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2088924762441502720"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 146
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088928756517990740",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lovedarksoul: https://t.co/YSlkCm0fQk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088924762441502720"
+          ]
+        },
+        "author_id": "2010417524526260224",
+        "conversation_id": "2088928756517990740",
+        "created_at": "2026-08-16T10:00:00.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T11:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088928756517990740"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YSlkCm0fQk",
+              "end": 23,
+              "expanded_url": "https://x.com/lovedarksoul/status/2088928756517990740/photo/1",
+              "media_key": "3_2088924762441502720",
+              "start": 0,
+              "url": "https://t.co/YSlkCm0fQk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088928756517990740",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2088924762441502720"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 206,
+          "impression_count": 34553,
+          "like_count": 3577,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 146
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/YSlkCm0fQk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x",
+                "start": 0,
+                "url": "https://t.co/d5BdKxYtww"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "应许记忆之城",
+        "most_recent_tweet_id": "2089327994171265516",
+        "name": "嚼嚼",
+        "pinned_tweet_id": "2086403297053966372",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1784638550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 263,
+          "like_count": 2614,
+          "listed_count": 0,
+          "media_count": 267,
+          "tweet_count": 2405
+        },
+        "url": "https://t.co/d5BdKxYtww",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-11T18:24:35.000Z",
+        "description": "Plin plin plon",
+        "id": "2010417524526260224",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089321342571311348",
+        "name": "lovedarksoul",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2010417524526260224/1784133324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077431795960737792/95ZTe92s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43915,
+          "following_count": 23,
+          "like_count": 1342,
+          "listed_count": 78,
+          "media_count": 1810,
+          "tweet_count": 1817
+        },
+        "url": "",
+        "username": "lovedarksoul",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

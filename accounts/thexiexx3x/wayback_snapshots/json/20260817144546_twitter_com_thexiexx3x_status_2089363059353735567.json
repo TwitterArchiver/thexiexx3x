@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089338243133390849"
+      ],
+      "media_source_tweet_id": [
+        "2089338254873219403"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2089363059353735567",
+    "created_at": "2026-08-17T14:45:46.000Z",
+    "display_text_range": [
+      0,
+      61
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T15:45:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089363059353735567"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 26,
+          "tag": "ヤニねこ"
+        },
+        {
+          "end": 37,
+          "start": 32,
+          "tag": "ヤクねこ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1352820224194539520",
+          "start": 3,
+          "username": "omamesukedesu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gkg7Oc6Khm",
+          "end": 61,
+          "expanded_url": "https://x.com/omamesukedesu/status/2089338254873219403/photo/1",
+          "media_key": "3_2089338243133390849",
+          "start": 38,
+          "url": "https://t.co/gkg7Oc6Khm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089363059353735567",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2089338243133390849"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 135
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089338254873219403",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @omamesukedesu: 帰省直帰 \n\n#ヤニねこ #ヤクねこ https://t.co/gkg7Oc6Khm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4095,
+        "media_key": "3_2089338243133390849",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP7SD_WawAETYLO.jpg",
+        "width": 3071
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089338243133390849"
+          ],
+          "media_source_tweet_id": [
+            "2089338254873219403"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2089363059353735567",
+        "created_at": "2026-08-17T14:45:46.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T15:45:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089363059353735567"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 26,
+              "tag": "ヤニねこ"
+            },
+            {
+              "end": 37,
+              "start": 32,
+              "tag": "ヤクねこ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1352820224194539520",
+              "start": 3,
+              "username": "omamesukedesu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gkg7Oc6Khm",
+              "end": 61,
+              "expanded_url": "https://x.com/omamesukedesu/status/2089338254873219403/photo/1",
+              "media_key": "3_2089338243133390849",
+              "start": 38,
+              "url": "https://t.co/gkg7Oc6Khm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089363059353735567",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2089338243133390849"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 135
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089338254873219403",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @omamesukedesu: 帰省直帰 \n\n#ヤニねこ #ヤクねこ https://t.co/gkg7Oc6Khm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089338243133390849"
+          ]
+        },
+        "author_id": "1352820224194539520",
+        "conversation_id": "2089338254873219403",
+        "created_at": "2026-08-17T13:07:12.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T14:07:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089338254873219403"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 7,
+              "tag": "ヤニねこ"
+            },
+            {
+              "end": 18,
+              "start": 13,
+              "tag": "ヤクねこ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gkg7Oc6Khm",
+              "end": 42,
+              "expanded_url": "https://x.com/omamesukedesu/status/2089338254873219403/photo/1",
+              "media_key": "3_2089338243133390849",
+              "start": 19,
+              "url": "https://t.co/gkg7Oc6Khm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089338254873219403",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2089338243133390849"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 135,
+          "impression_count": 11399,
+          "like_count": 1512,
+          "quote_count": 7,
+          "reply_count": 5,
+          "retweet_count": 135
+        },
+        "reply_settings": "everyone",
+        "text": "帰省直帰 \n\n#ヤニねこ #ヤクねこ https://t.co/gkg7Oc6Khm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x",
+                "start": 0,
+                "url": "https://t.co/d5BdKxYtww"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "应许记忆之城",
+        "most_recent_tweet_id": "2089363059353735567",
+        "name": "嚼嚼",
+        "pinned_tweet_id": "2086403297053966372",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1784638550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 263,
+          "like_count": 2617,
+          "listed_count": 0,
+          "media_count": 268,
+          "tweet_count": 2408
+        },
+        "url": "https://t.co/d5BdKxYtww",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-01-23T03:27:39.000Z",
+        "description": "なんか作ったり\nアクセサリー、武器、装飾、絵",
+        "id": "1352820224194539520",
+        "is_identity_verified": false,
+        "location": "ピクシブにも",
+        "most_recent_tweet_id": "2089340931728372219",
+        "name": "豆千葉",
+        "pinned_tweet_id": "2021874013547724891",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1352820224194539520/1785679281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088371954478972928/5tM86VTE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 926,
+          "following_count": 548,
+          "like_count": 41870,
+          "listed_count": 14,
+          "media_count": 1567,
+          "tweet_count": 20054
+        },
+        "url": "",
+        "username": "omamesukedesu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
