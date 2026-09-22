@@ -1,0 +1,450 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097528141992665088",
+        "3_2097528145557790720",
+        "3_2097528148397330432",
+        "3_2097528152222494720"
+      ],
+      "media_source_tweet_id": [
+        "2097528155422756999",
+        "2097528155422756999",
+        "2097528155422756999",
+        "2097528155422756999"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2097692685616509143",
+    "created_at": "2026-09-09T14:24:44.000Z",
+    "display_text_range": [
+      0,
+      95
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T15:24:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097692685616509143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1681486829525303298",
+          "start": 3,
+          "username": "NurseTorture"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ik5hVqZ5XE",
+          "end": 95,
+          "expanded_url": "https://x.com/NurseTorture/status/2097528155422756999/photo/1",
+          "media_key": "3_2097528141992665088",
+          "start": 72,
+          "url": "https://t.co/Ik5hVqZ5XE"
+        },
+        {
+          "display_url": "pic.x.com/Ik5hVqZ5XE",
+          "end": 95,
+          "expanded_url": "https://x.com/NurseTorture/status/2097528155422756999/photo/1",
+          "media_key": "3_2097528145557790720",
+          "start": 72,
+          "url": "https://t.co/Ik5hVqZ5XE"
+        },
+        {
+          "display_url": "pic.x.com/Ik5hVqZ5XE",
+          "end": 95,
+          "expanded_url": "https://x.com/NurseTorture/status/2097528155422756999/photo/1",
+          "media_key": "3_2097528148397330432",
+          "start": 72,
+          "url": "https://t.co/Ik5hVqZ5XE"
+        },
+        {
+          "display_url": "pic.x.com/Ik5hVqZ5XE",
+          "end": 95,
+          "expanded_url": "https://x.com/NurseTorture/status/2097528155422756999/photo/1",
+          "media_key": "3_2097528152222494720",
+          "start": 72,
+          "url": "https://t.co/Ik5hVqZ5XE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097692685616509143",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2097528141992665088"
+      },
+      {
+        "media_key": "3_2097528145557790720"
+      },
+      {
+        "media_key": "3_2097528148397330432"
+      },
+      {
+        "media_key": "3_2097528152222494720"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 39
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097528155422756999",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NurseTorture: Diagrams from \"On the Physical Death of Jesus Christ\" https://t.co/Ik5hVqZ5XE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1720,
+        "media_key": "3_2097528141992665088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRvqu2HboAAcCVQ.jpg",
+        "width": 1290
+      },
+      {
+        "height": 1198,
+        "media_key": "3_2097528145557790720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRvqvDZbIAApOVI.jpg",
+        "width": 900
+      },
+      {
+        "height": 1720,
+        "media_key": "3_2097528148397330432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRvqvN-bEAAUgDm.jpg",
+        "width": 1290
+      },
+      {
+        "height": 1720,
+        "media_key": "3_2097528152222494720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRvqvcOacAAGQnK.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097528141992665088",
+            "3_2097528145557790720",
+            "3_2097528148397330432",
+            "3_2097528152222494720"
+          ],
+          "media_source_tweet_id": [
+            "2097528155422756999",
+            "2097528155422756999",
+            "2097528155422756999",
+            "2097528155422756999"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2097692685616509143",
+        "created_at": "2026-09-09T14:24:44.000Z",
+        "display_text_range": [
+          0,
+          95
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T15:24:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097692685616509143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1681486829525303298",
+              "start": 3,
+              "username": "NurseTorture"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ik5hVqZ5XE",
+              "end": 95,
+              "expanded_url": "https://x.com/NurseTorture/status/2097528155422756999/photo/1",
+              "media_key": "3_2097528141992665088",
+              "start": 72,
+              "url": "https://t.co/Ik5hVqZ5XE"
+            },
+            {
+              "display_url": "pic.x.com/Ik5hVqZ5XE",
+              "end": 95,
+              "expanded_url": "https://x.com/NurseTorture/status/2097528155422756999/photo/1",
+              "media_key": "3_2097528145557790720",
+              "start": 72,
+              "url": "https://t.co/Ik5hVqZ5XE"
+            },
+            {
+              "display_url": "pic.x.com/Ik5hVqZ5XE",
+              "end": 95,
+              "expanded_url": "https://x.com/NurseTorture/status/2097528155422756999/photo/1",
+              "media_key": "3_2097528148397330432",
+              "start": 72,
+              "url": "https://t.co/Ik5hVqZ5XE"
+            },
+            {
+              "display_url": "pic.x.com/Ik5hVqZ5XE",
+              "end": 95,
+              "expanded_url": "https://x.com/NurseTorture/status/2097528155422756999/photo/1",
+              "media_key": "3_2097528152222494720",
+              "start": 72,
+              "url": "https://t.co/Ik5hVqZ5XE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097692685616509143",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2097528141992665088"
+          },
+          {
+            "media_key": "3_2097528145557790720"
+          },
+          {
+            "media_key": "3_2097528148397330432"
+          },
+          {
+            "media_key": "3_2097528152222494720"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 39
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097528155422756999",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NurseTorture: Diagrams from \"On the Physical Death of Jesus Christ\" https://t.co/Ik5hVqZ5XE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097528141992665088",
+            "3_2097528145557790720",
+            "3_2097528148397330432",
+            "3_2097528152222494720"
+          ]
+        },
+        "author_id": "1681486829525303298",
+        "conversation_id": "2097528155422756999",
+        "created_at": "2026-09-09T03:30:57.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T04:30:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097528155422756999"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ik5hVqZ5XE",
+              "end": 77,
+              "expanded_url": "https://x.com/NurseTorture/status/2097528155422756999/photo/1",
+              "media_key": "3_2097528141992665088",
+              "start": 54,
+              "url": "https://t.co/Ik5hVqZ5XE"
+            },
+            {
+              "display_url": "pic.x.com/Ik5hVqZ5XE",
+              "end": 77,
+              "expanded_url": "https://x.com/NurseTorture/status/2097528155422756999/photo/1",
+              "media_key": "3_2097528145557790720",
+              "start": 54,
+              "url": "https://t.co/Ik5hVqZ5XE"
+            },
+            {
+              "display_url": "pic.x.com/Ik5hVqZ5XE",
+              "end": 77,
+              "expanded_url": "https://x.com/NurseTorture/status/2097528155422756999/photo/1",
+              "media_key": "3_2097528148397330432",
+              "start": 54,
+              "url": "https://t.co/Ik5hVqZ5XE"
+            },
+            {
+              "display_url": "pic.x.com/Ik5hVqZ5XE",
+              "end": 77,
+              "expanded_url": "https://x.com/NurseTorture/status/2097528155422756999/photo/1",
+              "media_key": "3_2097528152222494720",
+              "start": 54,
+              "url": "https://t.co/Ik5hVqZ5XE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097528155422756999",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2097528141992665088"
+          },
+          {
+            "media_key": "3_2097528145557790720"
+          },
+          {
+            "media_key": "3_2097528148397330432"
+          },
+          {
+            "media_key": "3_2097528152222494720"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 93,
+          "impression_count": 2322,
+          "like_count": 264,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "Diagrams from \"On the Physical Death of Jesus Christ\" https://t.co/Ik5hVqZ5XE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x",
+                "start": 0,
+                "url": "https://t.co/d5BdKxYtww"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "应许记忆之城",
+        "most_recent_tweet_id": "2097692685616509143",
+        "name": "嚼嚼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1788882630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 285,
+          "like_count": 3045,
+          "listed_count": 0,
+          "media_count": 301,
+          "tweet_count": 2655
+        },
+        "url": "https://t.co/d5BdKxYtww",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-19T02:12:20.000Z",
+        "description": "28 ♱ 18+ MDNI ♱ Desire as a promise. desire as a holy knife -a foreign object - lodged deep in the body. ♱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "973-eht-namuh-973.com",
+                "end": 23,
+                "expanded_url": "https://973-eht-namuh-973.com",
+                "start": 0,
+                "url": "https://t.co/2iv4wz31Jk"
+              }
+            ]
+          }
+        },
+        "id": "1681486829525303298",
+        "is_identity_verified": false,
+        "location": "ℕ𝕠𝕨𝕙𝕖𝕣𝕖 ",
+        "most_recent_tweet_id": "2097599892604744034",
+        "name": "𝕊𝕔𝕙𝕒𝕕𝕖𝕟𝕗𝕣𝕖𝕦𝕕𝕖 𝔻𝕠𝕝𝕝",
+        "pinned_tweet_id": "2023310810110702008",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1681486829525303298/1759362734",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096725283038793728/2aTmsem-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7813,
+          "following_count": 488,
+          "like_count": 31109,
+          "listed_count": 31,
+          "media_count": 7255,
+          "tweet_count": 17272
+        },
+        "url": "https://t.co/2iv4wz31Jk",
+        "username": "NurseTorture",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

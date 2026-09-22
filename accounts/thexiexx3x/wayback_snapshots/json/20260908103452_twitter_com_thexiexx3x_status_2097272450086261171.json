@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096965523548581889"
+      ],
+      "media_source_tweet_id": [
+        "2096965530712519086"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2097272450086261171",
+    "created_at": "2026-09-08T10:34:52.000Z",
+    "display_text_range": [
+      0,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T11:34:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097272450086261171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "963445220787437568",
+          "start": 3,
+          "username": "raveltokyo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DFwdu3jTXM",
+          "end": 53,
+          "expanded_url": "https://x.com/raveltokyo/status/2096965530712519086/photo/1",
+          "media_key": "3_2096965523548581889",
+          "start": 30,
+          "url": "https://t.co/DFwdu3jTXM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097272450086261171",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2096965523548581889"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096965530712519086",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @raveltokyo: メジコンが再入荷しました。 https://t.co/DFwdu3jTXM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2096965523548581889",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRnrCJFasAE9Wu1.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096965523548581889"
+          ],
+          "media_source_tweet_id": [
+            "2096965530712519086"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2097272450086261171",
+        "created_at": "2026-09-08T10:34:52.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T11:34:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097272450086261171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "963445220787437568",
+              "start": 3,
+              "username": "raveltokyo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DFwdu3jTXM",
+              "end": 53,
+              "expanded_url": "https://x.com/raveltokyo/status/2096965530712519086/photo/1",
+              "media_key": "3_2096965523548581889",
+              "start": 30,
+              "url": "https://t.co/DFwdu3jTXM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097272450086261171",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2096965523548581889"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096965530712519086",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @raveltokyo: メジコンが再入荷しました。 https://t.co/DFwdu3jTXM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096965523548581889"
+          ]
+        },
+        "author_id": "963445220787437568",
+        "conversation_id": "2096965530712519086",
+        "created_at": "2026-09-07T14:15:16.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T15:15:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096965530712519086"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DFwdu3jTXM",
+              "end": 37,
+              "expanded_url": "https://x.com/raveltokyo/status/2096965530712519086/photo/1",
+              "media_key": "3_2096965523548581889",
+              "start": 14,
+              "url": "https://t.co/DFwdu3jTXM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096965530712519086",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2096965523548581889"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 37576,
+          "like_count": 128,
+          "quote_count": 19,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "メジコンが再入荷しました。 https://t.co/DFwdu3jTXM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x",
+                "start": 0,
+                "url": "https://t.co/d5BdKxYtww"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "应许记忆之城",
+        "most_recent_tweet_id": "2097272450086261171",
+        "name": "嚼嚼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1784638550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 286,
+          "like_count": 3004,
+          "listed_count": 0,
+          "media_count": 300,
+          "tweet_count": 2636
+        },
+        "url": "https://t.co/d5BdKxYtww",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-02-13T16:10:15.000Z",
+        "description": "オリジナルのアパレルやアクセサリーを中心に、個性強めなクリエイターズブランドを取り扱うショップです。ラフォーレ原宿B1.5F店で営業中。通販の発送は現在3〜7営業日🛒",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ravel.tokyo",
+                "end": 23,
+                "expanded_url": "https://www.ravel.tokyo",
+                "start": 0,
+                "url": "https://t.co/BSSn1rmH0N"
+              }
+            ]
+          }
+        },
+        "id": "963445220787437568",
+        "is_identity_verified": false,
+        "location": "ラフォーレ原宿B1.5F",
+        "most_recent_tweet_id": "2097261019529937037",
+        "name": "RAVEL",
+        "pinned_tweet_id": "2086402943637684470",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/963445220787437568/1700646398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/992752224345378816/8PF2LkUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56285,
+          "following_count": 135,
+          "like_count": 49384,
+          "listed_count": 393,
+          "media_count": 11518,
+          "tweet_count": 20759
+        },
+        "url": "https://t.co/BSSn1rmH0N",
+        "username": "raveltokyo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2095829351602520064"
+      ],
+      "media_source_tweet_id": [
+        "2095829385165295650"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2096062235789672473",
+    "created_at": "2026-09-05T02:25:54.000Z",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T03:25:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096062235789672473"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1534160682920251393",
+          "start": 3,
+          "username": "dare4126"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2YkOomTt7e",
+          "end": 37,
+          "expanded_url": "https://x.com/dare4126/status/2095829385165295650/video/1",
+          "media_key": "13_2095829351602520064",
+          "start": 14,
+          "url": "https://t.co/2YkOomTt7e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096062235789672473",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2095829351602520064"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 232
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095829385165295650",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dare4126: https://t.co/2YkOomTt7e"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27888,
+        "height": 720,
+        "media_key": "13_2095829351602520064",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2095829351602520064/img/ungdFtq8y4AvHR2K.jpg",
+        "public_metrics": {
+          "view_count": 39145
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095829351602520064/vid/avc1/360x270/Cuu1PFlmtbsc6WIP.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095829351602520064/vid/avc1/480x360/XebK7cLaTn2PiZr9.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095829351602520064/vid/avc1/960x720/9FvwAuUFw_U7BZ4E.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2095829351602520064/pl/1CUgNvEEOOHEkVx1.m3u8?v=cfc"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095829351602520064"
+          ],
+          "media_source_tweet_id": [
+            "2095829385165295650"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2096062235789672473",
+        "created_at": "2026-09-05T02:25:54.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T03:25:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096062235789672473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1534160682920251393",
+              "start": 3,
+              "username": "dare4126"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2YkOomTt7e",
+              "end": 37,
+              "expanded_url": "https://x.com/dare4126/status/2095829385165295650/video/1",
+              "media_key": "13_2095829351602520064",
+              "start": 14,
+              "url": "https://t.co/2YkOomTt7e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096062235789672473",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2095829351602520064"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 232
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095829385165295650",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dare4126: https://t.co/2YkOomTt7e"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095829351602520064"
+          ]
+        },
+        "author_id": "1534160682920251393",
+        "conversation_id": "2095829385165295650",
+        "created_at": "2026-09-04T11:00:38.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T12:00:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095829385165295650"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2YkOomTt7e",
+              "end": 23,
+              "expanded_url": "https://x.com/dare4126/status/2095829385165295650/video/1",
+              "media_key": "13_2095829351602520064",
+              "start": 0,
+              "url": "https://t.co/2YkOomTt7e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095829385165295650",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2095829351602520064"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 592,
+          "impression_count": 74715,
+          "like_count": 3117,
+          "quote_count": 11,
+          "reply_count": 17,
+          "retweet_count": 232
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/2YkOomTt7e"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x",
+                "start": 0,
+                "url": "https://t.co/d5BdKxYtww"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "应许记忆之城",
+        "most_recent_tweet_id": "2096062235789672473",
+        "name": "嚼嚼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1784638550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 284,
+          "like_count": 2916,
+          "listed_count": 0,
+          "media_count": 294,
+          "tweet_count": 2595
+        },
+        "url": "https://t.co/d5BdKxYtww",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-06-07T13:09:59.000Z",
+        "description": "タルコフ ヤニカス",
+        "id": "1534160682920251393",
+        "is_identity_verified": false,
+        "location": "神奈川",
+        "most_recent_tweet_id": "2096039009424384476",
+        "name": "でれ",
+        "pinned_tweet_id": "1986817946292011304",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1534160682920251393/1786521081",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072596578058244097/7tISTdZO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 240,
+          "like_count": 20852,
+          "listed_count": 0,
+          "media_count": 371,
+          "tweet_count": 1836
+        },
+        "url": "",
+        "username": "dare4126",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

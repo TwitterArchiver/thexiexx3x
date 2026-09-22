@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099441025601400832"
+      ],
+      "media_source_tweet_id": [
+        "2099441031347585077"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2099539203247984837",
+    "created_at": "2026-09-14T16:42:08.000Z",
+    "display_text_range": [
+      0,
+      67
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T17:42:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099539203247984837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1707391788619579392",
+          "start": 3,
+          "username": "Highwide420"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/n42drMo2zO",
+          "end": 67,
+          "expanded_url": "https://x.com/Highwide420/status/2099441031347585077/photo/1",
+          "media_key": "3_2099441025601400832",
+          "start": 44,
+          "url": "https://t.co/n42drMo2zO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099539203247984837",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2099441025601400832"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 61
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099441031347585077",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Highwide420: 大麻栽培の基礎が学べる大人の知育ホビー\n\nたいまっち https://t.co/n42drMo2zO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2099441025601400832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSK2fU3acAAvj7L.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099441025601400832"
+          ],
+          "media_source_tweet_id": [
+            "2099441031347585077"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2099539203247984837",
+        "created_at": "2026-09-14T16:42:08.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T17:42:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099539203247984837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1707391788619579392",
+              "start": 3,
+              "username": "Highwide420"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/n42drMo2zO",
+              "end": 67,
+              "expanded_url": "https://x.com/Highwide420/status/2099441031347585077/photo/1",
+              "media_key": "3_2099441025601400832",
+              "start": 44,
+              "url": "https://t.co/n42drMo2zO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099539203247984837",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2099441025601400832"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 61
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099441031347585077",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Highwide420: 大麻栽培の基礎が学べる大人の知育ホビー\n\nたいまっち https://t.co/n42drMo2zO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099441025601400832"
+          ]
+        },
+        "author_id": "1707391788619579392",
+        "conversation_id": "2099441031347585077",
+        "created_at": "2026-09-14T10:12:02.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T11:12:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099441031347585077"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n42drMo2zO",
+              "end": 50,
+              "expanded_url": "https://x.com/Highwide420/status/2099441031347585077/photo/1",
+              "media_key": "3_2099441025601400832",
+              "start": 27,
+              "url": "https://t.co/n42drMo2zO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099441031347585077",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2099441025601400832"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 32765,
+          "like_count": 587,
+          "quote_count": 12,
+          "reply_count": 13,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "大麻栽培の基礎が学べる大人の知育ホビー\n\nたいまっち https://t.co/n42drMo2zO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x/pub",
+                "start": 0,
+                "url": "https://t.co/QEp5sn5Pwy"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "应许记忆之城",
+        "most_recent_tweet_id": "2099539203247984837",
+        "name": "嚼嚼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1789143945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098448361116557312/v8ICxkHS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 290,
+          "like_count": 3127,
+          "listed_count": 0,
+          "media_count": 306,
+          "tweet_count": 2742
+        },
+        "url": "https://t.co/QEp5sn5Pwy",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-28T13:48:46.000Z",
+        "description": "新アカウント🕴️大麻のyoutubeチャンネルHighWideやってます🌱/ 🇲🇽にて医療大麻の勉強中/吸えるシェアハウス🏠 / ALSに医療大麻を / Legalize it",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "highwide420.com",
+                "end": 23,
+                "expanded_url": "https://www.highwide420.com/",
+                "start": 0,
+                "url": "https://t.co/8VUWp9efes"
+              }
+            ]
+          }
+        },
+        "id": "1707391788619579392",
+        "is_identity_verified": false,
+        "location": "Japan",
+        "most_recent_tweet_id": "2099488662715248710",
+        "name": "Yuuki/ Highwide",
+        "pinned_tweet_id": "2057373066922205205",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1707391788619579392/1757321287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962105383541157888/4c68OM--_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2280,
+          "following_count": 480,
+          "like_count": 2184,
+          "listed_count": 7,
+          "media_count": 286,
+          "tweet_count": 1137
+        },
+        "url": "https://t.co/8VUWp9efes",
+        "username": "Highwide420",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

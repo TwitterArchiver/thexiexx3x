@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2096282762739327389",
+    "created_at": "2026-09-05T17:02:12.000Z",
+    "display_text_range": [
+      0,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T18:02:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096282762739327389"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "歌曲名《エンジェルベイビー》，别名《天使宝贝》，由 戸川純 演唱，收录于《好き好き大好き》专辑中",
+          "display_url": "music.163.com/song/26212061?…",
+          "end": 42,
+          "expanded_url": "https://music.163.com/song/26212061?userid=627892217",
+          "images": [
+            {
+              "height": 1400,
+              "url": "https://pbs.twimg.com/news_img/2096282777025191936/eat8QnJ6?format=jpg&name=orig",
+              "width": 1400
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2096282777025191936/eat8QnJ6?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 19,
+          "status": 200,
+          "title": "エンジェルベイビー",
+          "unwound_url": "https://music.163.com/song/26212061?userid=627892217",
+          "url": "https://t.co/cYZzZbQUNj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096282762739327389",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "分享戸川純的单曲《エンジェルベイビー》https://t.co/cYZzZbQUNj (@网易云音乐)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2096282762739327389",
+        "created_at": "2026-09-05T17:02:12.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T18:02:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096282762739327389"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "歌曲名《エンジェルベイビー》，别名《天使宝贝》，由 戸川純 演唱，收录于《好き好き大好き》专辑中",
+              "display_url": "music.163.com/song/26212061?…",
+              "end": 42,
+              "expanded_url": "https://music.163.com/song/26212061?userid=627892217",
+              "images": [
+                {
+                  "height": 1400,
+                  "url": "https://pbs.twimg.com/news_img/2096282777025191936/eat8QnJ6?format=jpg&name=orig",
+                  "width": 1400
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2096282777025191936/eat8QnJ6?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 19,
+              "status": 200,
+              "title": "エンジェルベイビー",
+              "unwound_url": "https://music.163.com/song/26212061?userid=627892217",
+              "url": "https://t.co/cYZzZbQUNj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096282762739327389",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "分享戸川純的单曲《エンジェルベイビー》https://t.co/cYZzZbQUNj (@网易云音乐)"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x",
+                "start": 0,
+                "url": "https://t.co/d5BdKxYtww"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "应许记忆之城",
+        "most_recent_tweet_id": "2096282762739327389",
+        "name": "嚼嚼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1784638550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 283,
+          "like_count": 2936,
+          "listed_count": 0,
+          "media_count": 298,
+          "tweet_count": 2609
+        },
+        "url": "https://t.co/d5BdKxYtww",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

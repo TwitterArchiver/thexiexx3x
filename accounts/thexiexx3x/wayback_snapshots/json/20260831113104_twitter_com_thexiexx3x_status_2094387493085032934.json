@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2094387493085032934",
+    "created_at": "2026-08-31T11:31:04.000Z",
+    "display_text_range": [
+      0,
+      73
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T12:31:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094387493085032934"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/thexiexx3x/sta…",
+          "end": 97,
+          "expanded_url": "https://twitter.com/thexiexx3x/status/2094386312937906624",
+          "start": 74,
+          "url": "https://t.co/7TKD5N4ygT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094387493085032934",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094386312937906624",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "卧槽哎我刚刚想偷渡进去看看因为呢，正好有个电动车出来了 然后我怎转头tmd看见一个看起来很牛逼的jingge 就是像天天站军姿的那种 很遗憾不敢进 https://t.co/7TKD5N4ygT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2094387493085032934",
+        "created_at": "2026-08-31T11:31:04.000Z",
+        "display_text_range": [
+          0,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T12:31:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094387493085032934"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/thexiexx3x/sta…",
+              "end": 97,
+              "expanded_url": "https://twitter.com/thexiexx3x/status/2094386312937906624",
+              "start": 74,
+              "url": "https://t.co/7TKD5N4ygT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094387493085032934",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094386312937906624",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卧槽哎我刚刚想偷渡进去看看因为呢，正好有个电动车出来了 然后我怎转头tmd看见一个看起来很牛逼的jingge 就是像天天站军姿的那种 很遗憾不敢进 https://t.co/7TKD5N4ygT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2094386312937906624",
+        "created_at": "2026-08-31T11:26:23.000Z",
+        "display_text_range": [
+          0,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T12:26:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094386312937906624"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094386312937906624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明天就10:30放学了，什么都没有啊gfc我靠我现在在那个就是健走到了那个什么富人区 我靠，这些窗户都落地了 每一户都好大 还是江景房 但是街上一个都没有lhl有种后室感"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x",
+                "start": 0,
+                "url": "https://t.co/d5BdKxYtww"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "应许记忆之城",
+        "most_recent_tweet_id": "2094387493085032934",
+        "name": "嚼嚼",
+        "pinned_tweet_id": "2086403297053966372",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1784638550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 280,
+          "like_count": 2830,
+          "listed_count": 0,
+          "media_count": 288,
+          "tweet_count": 2529
+        },
+        "url": "https://t.co/d5BdKxYtww",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

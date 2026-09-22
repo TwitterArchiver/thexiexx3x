@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094403696989966336",
+        "3_2094403696989995009"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2094403704388772241",
+    "created_at": "2026-08-31T12:35:29.000Z",
+    "display_text_range": [
+      0,
+      2
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T13:35:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094403704388772241"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RzTIYVRZeI",
+          "end": 26,
+          "expanded_url": "https://x.com/thexiexx3x/status/2094403704388772241/photo/1",
+          "media_key": "3_2094403696989966336",
+          "start": 3,
+          "url": "https://t.co/RzTIYVRZeI"
+        },
+        {
+          "display_url": "pic.x.com/RzTIYVRZeI",
+          "end": 26,
+          "expanded_url": "https://x.com/thexiexx3x/status/2094403704388772241/photo/1",
+          "media_key": "3_2094403696989995009",
+          "start": 3,
+          "url": "https://t.co/RzTIYVRZeI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094403704388772241",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094403696989966336"
+      },
+      {
+        "media_key": "3_2094403696989995009"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "积极 https://t.co/RzTIYVRZeI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2094403696989966336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRDRENdaEAAIoiF.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2094403696989995009",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRDRENdagAEsMdQ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094403696989966336",
+            "3_2094403696989995009"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2094403704388772241",
+        "created_at": "2026-08-31T12:35:29.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T13:35:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094403704388772241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RzTIYVRZeI",
+              "end": 26,
+              "expanded_url": "https://x.com/thexiexx3x/status/2094403704388772241/photo/1",
+              "media_key": "3_2094403696989966336",
+              "start": 3,
+              "url": "https://t.co/RzTIYVRZeI"
+            },
+            {
+              "display_url": "pic.x.com/RzTIYVRZeI",
+              "end": 26,
+              "expanded_url": "https://x.com/thexiexx3x/status/2094403704388772241/photo/1",
+              "media_key": "3_2094403696989995009",
+              "start": 3,
+              "url": "https://t.co/RzTIYVRZeI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094403704388772241",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094403696989966336"
+          },
+          {
+            "media_key": "3_2094403696989995009"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "积极 https://t.co/RzTIYVRZeI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x",
+                "start": 0,
+                "url": "https://t.co/d5BdKxYtww"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "应许记忆之城",
+        "most_recent_tweet_id": "2094403704388772241",
+        "name": "嚼嚼",
+        "pinned_tweet_id": "2086403297053966372",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1784638550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 280,
+          "like_count": 2835,
+          "listed_count": 0,
+          "media_count": 290,
+          "tweet_count": 2536
+        },
+        "url": "https://t.co/d5BdKxYtww",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2095945484229656577"
+      ],
+      "media_source_tweet_id": [
+        "2095945691994415167"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2096256419846877469",
+    "created_at": "2026-09-05T15:17:31.000Z",
+    "display_text_range": [
+      0,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T16:17:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096256419846877469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1780372923699630080",
+          "start": 3,
+          "username": "ellktro"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hDolWjAJp3",
+          "end": 48,
+          "expanded_url": "https://x.com/ellktro/status/2095945691994415167/video/1",
+          "media_key": "13_2095945484229656577",
+          "start": 25,
+          "url": "https://t.co/hDolWjAJp3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096256419846877469",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2095945484229656577"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1269
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095945691994415167",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ellktro: clear zone. https://t.co/hDolWjAJp3"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8100,
+        "height": 1440,
+        "media_key": "13_2095945484229656577",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2095945484229656577/img/E25aCvoIAFvzPOkX.jpg",
+        "public_metrics": {
+          "view_count": 47957
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095945484229656577/vid/avc1/320x320/PxVE3OzozbXV_u_n.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2095945484229656577/pl/KOaTX7pFJLJUIQnY.m3u8"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095945484229656577/vid/avc1/720x720/i8oH_ZV3VuVey6fg.mp4"
+          },
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095945484229656577/vid/avc1/1440x1440/YMR23X-T_GxU755d.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095945484229656577/vid/avc1/540x540/fx8fC17RobqWGWdo.mp4"
+          }
+        ],
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095945484229656577"
+          ],
+          "media_source_tweet_id": [
+            "2095945691994415167"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2096256419846877469",
+        "created_at": "2026-09-05T15:17:31.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T16:17:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096256419846877469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1780372923699630080",
+              "start": 3,
+              "username": "ellktro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hDolWjAJp3",
+              "end": 48,
+              "expanded_url": "https://x.com/ellktro/status/2095945691994415167/video/1",
+              "media_key": "13_2095945484229656577",
+              "start": 25,
+              "url": "https://t.co/hDolWjAJp3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096256419846877469",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2095945484229656577"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1269
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095945691994415167",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ellktro: clear zone. https://t.co/hDolWjAJp3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095945484229656577"
+          ]
+        },
+        "author_id": "1780372923699630080",
+        "conversation_id": "2095945691994415167",
+        "created_at": "2026-09-04T18:42:48.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T19:42:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095945691994415167"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hDolWjAJp3",
+              "end": 35,
+              "expanded_url": "https://x.com/ellktro/status/2095945691994415167/video/1",
+              "media_key": "13_2095945484229656577",
+              "start": 12,
+              "url": "https://t.co/hDolWjAJp3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095945691994415167",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2095945484229656577"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2436,
+          "impression_count": 129827,
+          "like_count": 9054,
+          "quote_count": 34,
+          "reply_count": 21,
+          "retweet_count": 1269
+        },
+        "reply_settings": "everyone",
+        "text": "clear zone. https://t.co/hDolWjAJp3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x",
+                "start": 0,
+                "url": "https://t.co/d5BdKxYtww"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "应许记忆之城",
+        "most_recent_tweet_id": "2096256419846877469",
+        "name": "嚼嚼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1784638550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 283,
+          "like_count": 2935,
+          "listed_count": 0,
+          "media_count": 297,
+          "tweet_count": 2607
+        },
+        "url": "https://t.co/d5BdKxYtww",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-16T23:09:39.000Z",
+        "description": "destroyed reality.\n\nhttps://t.co/5rfAPcFRt4 artist",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "daily.xyz",
+                "end": 43,
+                "expanded_url": "http://daily.xyz",
+                "start": 20,
+                "url": "https://t.co/5rfAPcFRt4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/ellktro",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/ellktro",
+                "start": 0,
+                "url": "https://t.co/ldeVaxT5nC"
+              }
+            ]
+          }
+        },
+        "id": "1780372923699630080",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096232775288324528",
+        "name": "ellktro",
+        "pinned_tweet_id": "2087936648835215766",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780372923699630080/1720182939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825168284909510656/3WhZZvXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 165,
+          "like_count": 513,
+          "listed_count": 9,
+          "media_count": 77,
+          "tweet_count": 200
+        },
+        "url": "https://t.co/ldeVaxT5nC",
+        "username": "ellktro",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

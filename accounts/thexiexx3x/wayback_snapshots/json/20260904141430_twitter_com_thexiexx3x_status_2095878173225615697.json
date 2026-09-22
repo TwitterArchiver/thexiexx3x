@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2095741773591252992"
+      ],
+      "media_source_tweet_id": [
+        "2095741815530082788"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2095878173225615697",
+    "created_at": "2026-09-04T14:14:30.000Z",
+    "display_text_range": [
+      0,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T15:14:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095878173225615697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1755608689288048640",
+          "start": 3,
+          "username": "IShowFaggot"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WX983xQ6SE",
+          "end": 40,
+          "expanded_url": "https://x.com/IShowFaggot/status/2095741815530082788/video/1",
+          "media_key": "13_2095741773591252992",
+          "start": 17,
+          "url": "https://t.co/WX983xQ6SE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095878173225615697",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2095741773591252992"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 160
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095741815530082788",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IShowFaggot: https://t.co/WX983xQ6SE"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3300,
+        "height": 720,
+        "media_key": "13_2095741773591252992",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2095741773591252992/img/9x8zCbWyUWOY9Khl.jpg",
+        "public_metrics": {
+          "view_count": 10990
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095741773591252992/vid/avc1/480x270/y-ubemOocdmc4tKL.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095741773591252992/vid/avc1/640x360/X8c-OrolFUolb5n-.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095741773591252992/vid/avc1/1280x720/xBMA_YdYMLAcDKz8.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2095741773591252992/pl/BkHjY3Rm7-W8bvHS.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095741773591252992"
+          ],
+          "media_source_tweet_id": [
+            "2095741815530082788"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2095878173225615697",
+        "created_at": "2026-09-04T14:14:30.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T15:14:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095878173225615697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1755608689288048640",
+              "start": 3,
+              "username": "IShowFaggot"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WX983xQ6SE",
+              "end": 40,
+              "expanded_url": "https://x.com/IShowFaggot/status/2095741815530082788/video/1",
+              "media_key": "13_2095741773591252992",
+              "start": 17,
+              "url": "https://t.co/WX983xQ6SE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095878173225615697",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2095741773591252992"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 160
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095741815530082788",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IShowFaggot: https://t.co/WX983xQ6SE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095741773591252992"
+          ]
+        },
+        "author_id": "1755608689288048640",
+        "conversation_id": "2095741815530082788",
+        "created_at": "2026-09-04T05:12:40.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T06:12:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095741815530082788"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WX983xQ6SE",
+              "end": 23,
+              "expanded_url": "https://x.com/IShowFaggot/status/2095741815530082788/video/1",
+              "media_key": "13_2095741773591252992",
+              "start": 0,
+              "url": "https://t.co/WX983xQ6SE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095741815530082788",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2095741773591252992"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 246,
+          "impression_count": 20389,
+          "like_count": 1306,
+          "quote_count": 9,
+          "reply_count": 4,
+          "retweet_count": 160
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/WX983xQ6SE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x",
+                "start": 0,
+                "url": "https://t.co/d5BdKxYtww"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "应许记忆之城",
+        "most_recent_tweet_id": "2095878173225615697",
+        "name": "嚼嚼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1784638550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 284,
+          "like_count": 2892,
+          "listed_count": 0,
+          "media_count": 293,
+          "tweet_count": 2591
+        },
+        "url": "https://t.co/d5BdKxYtww",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-08T15:05:17.000Z",
+        "description": "YO! ⩌ω⩌ | he/him | 2nd account: @modernpornfare",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 32,
+                "username": "modernpornfare"
+              }
+            ]
+          }
+        },
+        "id": "1755608689288048640",
+        "is_identity_verified": false,
+        "location": "cs_compound",
+        "most_recent_tweet_id": "2095873591082672570",
+        "name": "yunomi",
+        "pinned_tweet_id": "1803379143096279609",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1755608689288048640/1772817952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092676429247139840/uKaWdBRn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1244,
+          "following_count": 2107,
+          "like_count": 30871,
+          "listed_count": 7,
+          "media_count": 1045,
+          "tweet_count": 20137
+        },
+        "url": "",
+        "username": "IShowFaggot",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

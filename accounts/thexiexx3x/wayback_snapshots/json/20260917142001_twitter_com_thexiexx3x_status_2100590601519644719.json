@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2100230613496139776"
+      ],
+      "media_source_tweet_id": [
+        "2100230637416235319"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2100590601519644719",
+    "created_at": "2026-09-17T14:20:01.000Z",
+    "display_text_range": [
+      0,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T15:20:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100590601519644719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1982235189624389632",
+          "start": 3,
+          "username": "aerisalle"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/12etMUN4F0",
+          "end": 38,
+          "expanded_url": "https://x.com/aerisalle/status/2100230637416235319/video/1",
+          "media_key": "13_2100230613496139776",
+          "start": 15,
+          "url": "https://t.co/12etMUN4F0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100590601519644719",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2100230613496139776"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4062
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100230637416235319",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aerisalle: https://t.co/12etMUN4F0"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18100,
+        "height": 422,
+        "media_key": "13_2100230613496139776",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2100230613496139776/img/TvLKqQOBR_WEdACX.jpg",
+        "public_metrics": {
+          "view_count": 77765
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100230613496139776/vid/avc1/368x270/vVLhJWuc0jWkjyVW.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100230613496139776/vid/avc1/576x422/i2fLgTllbHL8JmBy.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2100230613496139776/pl/8aM_9G73zp3a4kRy.m3u8?v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2100230613496139776"
+          ],
+          "media_source_tweet_id": [
+            "2100230637416235319"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2100590601519644719",
+        "created_at": "2026-09-17T14:20:01.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T15:20:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100590601519644719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1982235189624389632",
+              "start": 3,
+              "username": "aerisalle"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/12etMUN4F0",
+              "end": 38,
+              "expanded_url": "https://x.com/aerisalle/status/2100230637416235319/video/1",
+              "media_key": "13_2100230613496139776",
+              "start": 15,
+              "url": "https://t.co/12etMUN4F0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100590601519644719",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2100230613496139776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4062
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100230637416235319",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aerisalle: https://t.co/12etMUN4F0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2100230613496139776"
+          ]
+        },
+        "author_id": "1982235189624389632",
+        "conversation_id": "2100230637416235319",
+        "created_at": "2026-09-16T14:29:39.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T15:29:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100230637416235319"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/12etMUN4F0",
+              "end": 23,
+              "expanded_url": "https://x.com/aerisalle/status/2100230637416235319/video/1",
+              "media_key": "13_2100230613496139776",
+              "start": 0,
+              "url": "https://t.co/12etMUN4F0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100230637416235319",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2100230613496139776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1269,
+          "impression_count": 141405,
+          "like_count": 15134,
+          "quote_count": 89,
+          "reply_count": 17,
+          "retweet_count": 4062
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/12etMUN4F0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x/pub",
+                "start": 0,
+                "url": "https://t.co/QEp5sn5Pwy"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "应许记忆之城",
+        "most_recent_tweet_id": "2100590601519644719",
+        "name": "嚼嚼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1789143945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098448361116557312/v8ICxkHS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 290,
+          "like_count": 3160,
+          "listed_count": 0,
+          "media_count": 308,
+          "tweet_count": 2767
+        },
+        "url": "https://t.co/QEp5sn5Pwy",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-10-25T23:58:28.000Z",
+        "description": "⠀⠀⠀\n\n ⠀⠀",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tokyoghoul.⠀",
+                "end": 23,
+                "expanded_url": "https://tokyoghoul.xn--6ii/",
+                "start": 0,
+                "url": "https://t.co/wwKdkI4VPP"
+              }
+            ]
+          }
+        },
+        "id": "1982235189624389632",
+        "is_identity_verified": false,
+        "location": "⠀⠀  ⟅✿    ֹ   ゲྀ   ⠀     ྀ    ",
+        "most_recent_tweet_id": "2100576005991583887",
+        "name": "ؘmari",
+        "pinned_tweet_id": "2085140236074451273",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1982235189624389632/1789570292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100363995316137984/kxg6pVQG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1482,
+          "following_count": 1367,
+          "like_count": 1458,
+          "listed_count": 2,
+          "media_count": 207,
+          "tweet_count": 1789
+        },
+        "url": "https://t.co/wwKdkI4VPP",
+        "username": "aerisalle",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

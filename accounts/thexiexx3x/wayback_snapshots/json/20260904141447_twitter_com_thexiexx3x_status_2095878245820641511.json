@@ -1,0 +1,378 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2095497713936957441"
+      ],
+      "media_source_tweet_id": [
+        "2095573035927683383"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2095878245820641511",
+    "created_at": "2026-09-04T14:14:47.000Z",
+    "display_text_range": [
+      0,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T15:14:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095878245820641511"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1677518738214596608",
+          "start": 3,
+          "username": "Random_Moe_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7RCvwdIwY9",
+          "end": 40,
+          "expanded_url": "https://x.com/Random_Moe_/status/2095573035927683383/video/1",
+          "media_key": "13_2095497713936957441",
+          "start": 17,
+          "url": "https://t.co/7RCvwdIwY9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095878245820641511",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2095497713936957441"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1401
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095573035927683383",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Random_Moe_: https://t.co/7RCvwdIwY9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13744,
+        "height": 720,
+        "media_key": "13_2095497713936957441",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2095497713936957441/img/KMIMn7r2JvxUzlQp.jpg",
+        "public_metrics": {
+          "view_count": 24075
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095497713936957441/vid/avc1/296x270/Cb1v_iJBurUIuvOp.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095497713936957441/vid/avc1/396x360/NTRiBradHVwwi8ja.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095497713936957441/vid/avc1/792x720/E36dPFy_dBmULYOb.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2095497713936957441/pl/GoIMQ17OtRZDQ6Ug.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 792
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095497713936957441"
+          ],
+          "media_source_tweet_id": [
+            "2095573035927683383"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2095878245820641511",
+        "created_at": "2026-09-04T14:14:47.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T15:14:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095878245820641511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1677518738214596608",
+              "start": 3,
+              "username": "Random_Moe_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7RCvwdIwY9",
+              "end": 40,
+              "expanded_url": "https://x.com/Random_Moe_/status/2095573035927683383/video/1",
+              "media_key": "13_2095497713936957441",
+              "start": 17,
+              "url": "https://t.co/7RCvwdIwY9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095878245820641511",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2095497713936957441"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1401
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095573035927683383",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Random_Moe_: https://t.co/7RCvwdIwY9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095497713936957441"
+          ]
+        },
+        "author_id": "1677518738214596608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2095573035927683383",
+        "created_at": "2026-09-03T18:02:00.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T19:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095573035927683383"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7RCvwdIwY9",
+              "end": 23,
+              "expanded_url": "https://x.com/Random_Moe_/status/2095573035927683383/video/1",
+              "media_key": "13_2095497713936957441",
+              "start": 0,
+              "url": "https://t.co/7RCvwdIwY9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095573035927683383",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2095497713936957441"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 905,
+          "impression_count": 48220,
+          "like_count": 5391,
+          "quote_count": 14,
+          "reply_count": 11,
+          "retweet_count": 1401
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/7RCvwdIwY9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x",
+                "start": 0,
+                "url": "https://t.co/d5BdKxYtww"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "应许记忆之城",
+        "most_recent_tweet_id": "2095878245820641511",
+        "name": "嚼嚼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1784638550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 284,
+          "like_count": 2893,
+          "listed_count": 0,
+          "media_count": 293,
+          "tweet_count": 2592
+        },
+        "url": "https://t.co/d5BdKxYtww",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-08T03:24:18.000Z",
+        "description": "Asylum for Webs and Larps 🏨🎎🍡\n\nRandom videos of Animes CGDCT kinds 💻🍜🎏🍱🎎\n\nSPA 🇪🇸 ENG 🇬🇧 POR🇧🇷\n\nOpen DM ✉️\n\nOcasional promote anime artists  🎨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/kzGvNDYd58",
+                "end": 23,
+                "expanded_url": "https://discord.gg/kzGvNDYd58",
+                "start": 0,
+                "url": "https://t.co/RJKFYHTU3y"
+              }
+            ]
+          }
+        },
+        "id": "1677518738214596608",
+        "is_identity_verified": false,
+        "location": "Dreams Kindom 👑🍀🐉🧜‍♀️",
+        "most_recent_tweet_id": "2095868231269372114",
+        "name": "Random Moe larp 🍥🍣🍶",
+        "pinned_tweet_id": "2037327899158560866",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1677518738214596608/1776038507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043477685314174976/lFRX7nc4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26993,
+          "following_count": 200,
+          "like_count": 34709,
+          "listed_count": 26,
+          "media_count": 1738,
+          "tweet_count": 2758
+        },
+        "url": "https://t.co/RJKFYHTU3y",
+        "username": "Random_Moe_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

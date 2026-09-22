@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2098882132747669522"
+      ],
+      "media_source_tweet_id": [
+        "2098882179098980681"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2099002347884364024",
+    "created_at": "2026-09-13T05:08:51.000Z",
+    "display_text_range": [
+      0,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T06:08:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099002347884364024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2071347844049457152",
+          "start": 3,
+          "username": "deettarded"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FAZVIrw5v6",
+          "end": 45,
+          "expanded_url": "https://x.com/deettarded/status/2098882179098980681/video/1",
+          "media_key": "13_2098882132747669522",
+          "start": 22,
+          "url": "https://t.co/FAZVIrw5v6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099002347884364024",
+    "lang": "ru",
+    "media_metadata": [
+      {
+        "media_key": "13_2098882132747669522"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 159
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098882179098980681",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @deettarded: (￣з￣) https://t.co/FAZVIrw5v6"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28932,
+        "height": 1280,
+        "media_key": "13_2098882132747669522",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2098882132747669522/img/tCvMpuPHD0z8wJBi.jpg",
+        "public_metrics": {
+          "view_count": 4561
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098882132747669522/vid/avc1/320x570/0KulU_UHYorPukGs.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098882132747669522/vid/avc1/480x854/D_LoO_0J4qr1kTZa.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098882132747669522/vid/avc1/718x1280/Big0Z7m3SmqIZak6.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2098882132747669522/pl/g4xBwwwzHHxKQqtv.m3u8?v=cfc"
+          }
+        ],
+        "width": 718
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2098882132747669522"
+          ],
+          "media_source_tweet_id": [
+            "2098882179098980681"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2099002347884364024",
+        "created_at": "2026-09-13T05:08:51.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T06:08:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099002347884364024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2071347844049457152",
+              "start": 3,
+              "username": "deettarded"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FAZVIrw5v6",
+              "end": 45,
+              "expanded_url": "https://x.com/deettarded/status/2098882179098980681/video/1",
+              "media_key": "13_2098882132747669522",
+              "start": 22,
+              "url": "https://t.co/FAZVIrw5v6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099002347884364024",
+        "lang": "ru",
+        "media_metadata": [
+          {
+            "media_key": "13_2098882132747669522"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 159
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098882179098980681",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @deettarded: (￣з￣) https://t.co/FAZVIrw5v6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2098882132747669522"
+          ]
+        },
+        "author_id": "2071347844049457152",
+        "conversation_id": "2098882179098980681",
+        "created_at": "2026-09-12T21:11:21.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T22:11:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098882179098980681"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FAZVIrw5v6",
+              "end": 29,
+              "expanded_url": "https://x.com/deettarded/status/2098882179098980681/video/1",
+              "media_key": "13_2098882132747669522",
+              "start": 6,
+              "url": "https://t.co/FAZVIrw5v6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098882179098980681",
+        "lang": "ru",
+        "media_metadata": [
+          {
+            "media_key": "13_2098882132747669522"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 151,
+          "impression_count": 11127,
+          "like_count": 977,
+          "quote_count": 7,
+          "reply_count": 0,
+          "retweet_count": 159
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "(￣з￣) https://t.co/FAZVIrw5v6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x/pub",
+                "start": 0,
+                "url": "https://t.co/QEp5sn5Pwy"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "应许记忆之城",
+        "most_recent_tweet_id": "2099002347884364024",
+        "name": "嚼嚼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1789143945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098448361116557312/v8ICxkHS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 289,
+          "like_count": 3093,
+          "listed_count": 0,
+          "media_count": 305,
+          "tweet_count": 2720
+        },
+        "url": "https://t.co/QEp5sn5Pwy",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-28T21:43:53.000Z",
+        "description": "i wasnt here",
+        "id": "2071347844049457152",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098882179098980681",
+        "name": "˚.⋆꒰১ ໒꒱⋆.˚",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071347844049457152/1787320565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090800107159535616/I3tEOoQZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3379,
+          "following_count": 32,
+          "like_count": 187,
+          "listed_count": 4,
+          "media_count": 149,
+          "tweet_count": 149
+        },
+        "url": "",
+        "username": "deettarded",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

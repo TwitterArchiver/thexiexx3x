@@ -1,0 +1,439 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1815825179534331904"
+      ],
+      "media_source_tweet_id": [
+        "1815825198349943223"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2094797435365458399",
+    "created_at": "2026-09-01T14:40:02.000Z",
+    "display_text_range": [
+      0,
+      95
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T15:40:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094797435365458399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1750468126972559360",
+          "start": 3,
+          "username": "miyarah_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KZ0lzXsOKK",
+          "end": 95,
+          "expanded_url": "https://x.com/Absolunar/status/1815825198349943223/video/1",
+          "media_key": "7_1815825179534331904",
+          "start": 72,
+          "url": "https://t.co/KZ0lzXsOKK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094797435365458399",
+    "lang": "es",
+    "media_metadata": [
+      {
+        "media_key": "7_1815825179534331904"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3223
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094566676884861326",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @miyarah_: así se sentía tener acceso a internet desde temprana edad https://t.co/KZ0lzXsOKK"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12306,
+        "height": 720,
+        "media_key": "7_1815825179534331904",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1815825179534331904/pu/img/XoBovQ8wxrRzuVuz.jpg",
+        "public_metrics": {
+          "view_count": 3871823
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1815825179534331904/pu/vid/avc1/354x270/xu94nnqWZ4N0r386.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1815825179534331904/pu/vid/avc1/472x360/akunF20N3-UL9yEc.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1815825179534331904/pu/vid/avc1/946x720/1ghvlRGZSarIPYzV.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1815825179534331904/pu/pl/2Gs_nWIdAEimwtzj.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1815825179534331904"
+          ],
+          "media_source_tweet_id": [
+            "1815825198349943223"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2094797435365458399",
+        "created_at": "2026-09-01T14:40:02.000Z",
+        "display_text_range": [
+          0,
+          95
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T15:40:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094797435365458399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1750468126972559360",
+              "start": 3,
+              "username": "miyarah_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KZ0lzXsOKK",
+              "end": 95,
+              "expanded_url": "https://x.com/Absolunar/status/1815825198349943223/video/1",
+              "media_key": "7_1815825179534331904",
+              "start": 72,
+              "url": "https://t.co/KZ0lzXsOKK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094797435365458399",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "7_1815825179534331904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3223
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094566676884861326",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @miyarah_: así se sentía tener acceso a internet desde temprana edad https://t.co/KZ0lzXsOKK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1815825179534331904"
+          ],
+          "media_source_tweet_id": [
+            "1815825198349943223"
+          ]
+        },
+        "author_id": "1750468126972559360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2094566676884861326",
+        "created_at": "2026-08-31T23:23:05.000Z",
+        "display_text_range": [
+          0,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T00:23:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094566676884861326"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KZ0lzXsOKK",
+              "end": 81,
+              "expanded_url": "https://x.com/Absolunar/status/1815825198349943223/video/1",
+              "media_key": "7_1815825179534331904",
+              "start": 58,
+              "url": "https://t.co/KZ0lzXsOKK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094566676884861326",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "7_1815825179534331904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1285,
+          "impression_count": 106930,
+          "like_count": 13241,
+          "quote_count": 56,
+          "reply_count": 26,
+          "retweet_count": 3223
+        },
+        "reply_settings": "everyone",
+        "text": "así se sentía tener acceso a internet desde temprana edad https://t.co/KZ0lzXsOKK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1815825179534331904"
+          ]
+        },
+        "author_id": "1482890732",
+        "conversation_id": "1815825198349943223",
+        "created_at": "2024-07-23T19:03:58.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2024-07-23T20:03:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1815825198349943223"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7BMQcoFTbE",
+              "end": 23,
+              "expanded_url": "https://x.com/Absolunar/status/1815825198349943223/video/1",
+              "media_key": "7_1815825179534331904",
+              "start": 0,
+              "url": "https://t.co/7BMQcoFTbE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815825198349943223",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "7_1815825179534331904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18993,
+          "impression_count": 6446562,
+          "like_count": 90384,
+          "quote_count": 1823,
+          "reply_count": 358,
+          "retweet_count": 14741
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/7BMQcoFTbE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x",
+                "start": 0,
+                "url": "https://t.co/d5BdKxYtww"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "应许记忆之城",
+        "most_recent_tweet_id": "2094797435365458399",
+        "name": "嚼嚼",
+        "pinned_tweet_id": "2094796558550352056",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1784638550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 280,
+          "like_count": 2840,
+          "listed_count": 0,
+          "media_count": 292,
+          "tweet_count": 2551
+        },
+        "url": "https://t.co/d5BdKxYtww",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-25T10:41:08.000Z",
+        "description": "a ver pélame una mandarina",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "karl.♡",
+                "end": 23,
+                "expanded_url": "https://karl.xn--c6h",
+                "start": 0,
+                "url": "https://t.co/r6yCv7UhK4"
+              }
+            ]
+          }
+        },
+        "id": "1750468126972559360",
+        "is_identity_verified": false,
+        "location": "˚ ʚ 22:22 ɞ ˚",
+        "most_recent_tweet_id": "2094797435071504590",
+        "name": "miya",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1750468126972559360/1786175123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084044765893423104/DN0AMbQ5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19022,
+          "following_count": 2093,
+          "like_count": 188786,
+          "listed_count": 143,
+          "media_count": 6318,
+          "tweet_count": 155002
+        },
+        "url": "https://t.co/r6yCv7UhK4",
+        "username": "miyarah_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

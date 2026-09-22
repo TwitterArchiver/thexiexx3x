@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096931361269690369",
+        "3_2096931361223577600"
+      ],
+      "media_source_tweet_id": [
+        "2096931385147899918",
+        "2096931385147899918"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2097174613948273014",
+    "created_at": "2026-09-08T04:06:06.000Z",
+    "display_text_range": [
+      0,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T05:06:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097174613948273014"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 18,
+          "tag": "SKC美術部"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1962073758170226688",
+          "start": 3,
+          "username": "MeiXuan45393"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/f5V61vWAVt",
+          "end": 49,
+          "expanded_url": "https://x.com/MeiXuan45393/status/2096931385147899918/photo/1",
+          "media_key": "3_2096931361269690369",
+          "start": 26,
+          "url": "https://t.co/f5V61vWAVt"
+        },
+        {
+          "display_url": "pic.x.com/f5V61vWAVt",
+          "end": 49,
+          "expanded_url": "https://x.com/MeiXuan45393/status/2096931385147899918/photo/1",
+          "media_key": "3_2096931361223577600",
+          "start": 26,
+          "url": "https://t.co/f5V61vWAVt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097174613948273014",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2096931361269690369"
+      },
+      {
+        "media_key": "3_2096931361223577600"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096931385147899918",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MeiXuan45393: #SKC美術部 https://t.co/f5V61vWAVt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1639,
+        "media_key": "3_2096931361269690369",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRnL9orbMAEW1Nw.jpg",
+        "width": 1739
+      },
+      {
+        "height": 1423,
+        "media_key": "3_2096931361223577600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRnL9ogbkAAJJEN.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096931361269690369",
+            "3_2096931361223577600"
+          ],
+          "media_source_tweet_id": [
+            "2096931385147899918",
+            "2096931385147899918"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2097174613948273014",
+        "created_at": "2026-09-08T04:06:06.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T05:06:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097174613948273014"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 18,
+              "tag": "SKC美術部"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1962073758170226688",
+              "start": 3,
+              "username": "MeiXuan45393"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/f5V61vWAVt",
+              "end": 49,
+              "expanded_url": "https://x.com/MeiXuan45393/status/2096931385147899918/photo/1",
+              "media_key": "3_2096931361269690369",
+              "start": 26,
+              "url": "https://t.co/f5V61vWAVt"
+            },
+            {
+              "display_url": "pic.x.com/f5V61vWAVt",
+              "end": 49,
+              "expanded_url": "https://x.com/MeiXuan45393/status/2096931385147899918/photo/1",
+              "media_key": "3_2096931361223577600",
+              "start": 26,
+              "url": "https://t.co/f5V61vWAVt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097174613948273014",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2096931361269690369"
+          },
+          {
+            "media_key": "3_2096931361223577600"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096931385147899918",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MeiXuan45393: #SKC美術部 https://t.co/f5V61vWAVt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096931361269690369",
+            "3_2096931361223577600"
+          ]
+        },
+        "author_id": "1962073758170226688",
+        "conversation_id": "2096931385147899918",
+        "created_at": "2026-09-07T11:59:35.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T12:59:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096931385147899918"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "SKC美術部"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/f5V61vWAVt",
+              "end": 31,
+              "expanded_url": "https://x.com/MeiXuan45393/status/2096931385147899918/photo/1",
+              "media_key": "3_2096931361269690369",
+              "start": 8,
+              "url": "https://t.co/f5V61vWAVt"
+            },
+            {
+              "display_url": "pic.x.com/f5V61vWAVt",
+              "end": 31,
+              "expanded_url": "https://x.com/MeiXuan45393/status/2096931385147899918/photo/1",
+              "media_key": "3_2096931361223577600",
+              "start": 8,
+              "url": "https://t.co/f5V61vWAVt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096931385147899918",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2096931361269690369"
+          },
+          {
+            "media_key": "3_2096931361223577600"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 578,
+          "like_count": 48,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "#SKC美術部 https://t.co/f5V61vWAVt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x",
+                "start": 0,
+                "url": "https://t.co/d5BdKxYtww"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "应许记忆之城",
+        "most_recent_tweet_id": "2097174613948273014",
+        "name": "嚼嚼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1784638550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 285,
+          "like_count": 2991,
+          "listed_count": 0,
+          "media_count": 300,
+          "tweet_count": 2633
+        },
+        "url": "https://t.co/d5BdKxYtww",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-31T08:43:47.000Z",
+        "description": "Maimai\n翻譯器使用中\nSKC/oc",
+        "id": "1962073758170226688",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2096931385147899918",
+        "name": "まいまい",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1962073758170226688/1786999106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089451640981958656/qMNk8FQp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 47,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 21
+        },
+        "url": "",
+        "username": "MeiXuan45393",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

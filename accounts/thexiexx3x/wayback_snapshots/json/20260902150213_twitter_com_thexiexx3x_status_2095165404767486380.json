@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095098310453493760"
+      ],
+      "media_source_tweet_id": [
+        "2095098315079815180"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2095165404767486380",
+    "created_at": "2026-09-02T15:02:13.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T16:02:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095165404767486380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1998872523971375106",
+          "start": 3,
+          "username": "diamondbulletzz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nMw48Qm79U",
+          "end": 44,
+          "expanded_url": "https://x.com/diamondbulletzz/status/2095098315079815180/photo/1",
+          "media_key": "3_2095098310453493760",
+          "start": 21,
+          "url": "https://t.co/nMw48Qm79U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095165404767486380",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2095098310453493760"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095098315079815180",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @diamondbulletzz: https://t.co/nMw48Qm79U"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1434,
+        "media_key": "3_2095098310453493760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRNI0CQaAAAfYBl.jpg",
+        "width": 1076
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095098310453493760"
+          ],
+          "media_source_tweet_id": [
+            "2095098315079815180"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2095165404767486380",
+        "created_at": "2026-09-02T15:02:13.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T16:02:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095165404767486380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1998872523971375106",
+              "start": 3,
+              "username": "diamondbulletzz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nMw48Qm79U",
+              "end": 44,
+              "expanded_url": "https://x.com/diamondbulletzz/status/2095098315079815180/photo/1",
+              "media_key": "3_2095098310453493760",
+              "start": 21,
+              "url": "https://t.co/nMw48Qm79U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095165404767486380",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2095098310453493760"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095098315079815180",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @diamondbulletzz: https://t.co/nMw48Qm79U"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095098310453493760"
+          ]
+        },
+        "author_id": "1998872523971375106",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2095098315079815180",
+        "created_at": "2026-09-02T10:35:38.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T11:35:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095098315079815180"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nMw48Qm79U",
+              "end": 23,
+              "expanded_url": "https://x.com/diamondbulletzz/status/2095098315079815180/photo/1",
+              "media_key": "3_2095098310453493760",
+              "start": 0,
+              "url": "https://t.co/nMw48Qm79U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095098315079815180",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2095098310453493760"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 605,
+          "like_count": 62,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/nMw48Qm79U"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x",
+                "start": 0,
+                "url": "https://t.co/d5BdKxYtww"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "应许记忆之城",
+        "most_recent_tweet_id": "2095165404767486380",
+        "name": "嚼嚼",
+        "pinned_tweet_id": "2094796558550352056",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1784638550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 281,
+          "like_count": 2864,
+          "listed_count": 0,
+          "media_count": 292,
+          "tweet_count": 2571
+        },
+        "url": "https://t.co/d5BdKxYtww",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-10T21:48:51.000Z",
+        "description": "mentally in 2008... | 밴드덕질계: @gunmadeofgoldzz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 29,
+                "username": "gunmadeofgoldzz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/diamondbulletzz",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/diamondbulletzz",
+                "start": 0,
+                "url": "https://t.co/4ld7URf6bD"
+              }
+            ]
+          }
+        },
+        "id": "1998872523971375106",
+        "is_identity_verified": false,
+        "location": "ig @flawless3xecut1on",
+        "most_recent_tweet_id": "2095163971213140102",
+        "name": "JINNI❦",
+        "pinned_tweet_id": "2020531866307277257",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1998872523971375106/1765504005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003483994240020481/yADppwS1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1373,
+          "following_count": 139,
+          "like_count": 1105,
+          "listed_count": 1,
+          "media_count": 283,
+          "tweet_count": 838
+        },
+        "url": "https://t.co/4ld7URf6bD",
+        "username": "diamondbulletzz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

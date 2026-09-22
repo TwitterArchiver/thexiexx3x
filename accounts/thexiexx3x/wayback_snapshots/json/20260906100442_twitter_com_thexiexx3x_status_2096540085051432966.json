@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096540078411808768"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2096540085051432966",
+    "created_at": "2026-09-06T10:04:42.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T11:04:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096540085051432966"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OS8KEmDF0x",
+          "end": 23,
+          "expanded_url": "https://x.com/thexiexx3x/status/2096540085051432966/photo/1",
+          "media_key": "3_2096540078411808768",
+          "start": 0,
+          "url": "https://t.co/OS8KEmDF0x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096540085051432966",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2096540078411808768"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/OS8KEmDF0x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2096540078411808768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRhoF-cbAAAMlO3.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096540078411808768"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2096540085051432966",
+        "created_at": "2026-09-06T10:04:42.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T11:04:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096540085051432966"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OS8KEmDF0x",
+              "end": 23,
+              "expanded_url": "https://x.com/thexiexx3x/status/2096540085051432966/photo/1",
+              "media_key": "3_2096540078411808768",
+              "start": 0,
+              "url": "https://t.co/OS8KEmDF0x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096540085051432966",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2096540078411808768"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/OS8KEmDF0x"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x",
+                "start": 0,
+                "url": "https://t.co/d5BdKxYtww"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "应许记忆之城",
+        "most_recent_tweet_id": "2096540085051432966",
+        "name": "嚼嚼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1784638550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 283,
+          "like_count": 2938,
+          "listed_count": 0,
+          "media_count": 300,
+          "tweet_count": 2618
+        },
+        "url": "https://t.co/d5BdKxYtww",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

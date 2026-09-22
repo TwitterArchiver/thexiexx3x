@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2097319455449903211",
+    "created_at": "2026-09-09T14:24:13.000Z",
+    "display_text_range": [
+      26,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T15:24:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097692557891563956"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2088462331332198400",
+          "start": 0,
+          "username": "AgNo3xq0719"
+        },
+        {
+          "end": 25,
+          "id": "2087523845901049856",
+          "start": 13,
+          "username": "suan4hjwnms"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097692557891563956",
+    "in_reply_to_user_id": "2088462331332198400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097319455449903211",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AgNo3xq0719 @suan4hjwnms 蹲蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2097319455449903211",
+        "created_at": "2026-09-09T14:24:13.000Z",
+        "display_text_range": [
+          26,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T15:24:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097692557891563956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2088462331332198400",
+              "start": 0,
+              "username": "AgNo3xq0719"
+            },
+            {
+              "end": 25,
+              "id": "2087523845901049856",
+              "start": 13,
+              "username": "suan4hjwnms"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097692557891563956",
+        "in_reply_to_user_id": "2088462331332198400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097319455449903211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AgNo3xq0719 @suan4hjwnms 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2088462331332198400",
+        "conversation_id": "2097319455449903211",
+        "created_at": "2026-09-08T13:41:39.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T14:41:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097319455449903211"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097319455449903211",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 877,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 43,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "为了寻回互关 我决定发个抽奖\n一等奖 52r*1\n二等奖15r*2\n三等奖5.2r*3\n点赞 关注 转发 评论参加\n9.10 12:00开奖"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x",
+                "start": 0,
+                "url": "https://t.co/d5BdKxYtww"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "应许记忆之城",
+        "most_recent_tweet_id": "2097692557891563956",
+        "name": "嚼嚼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1788882630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 285,
+          "like_count": 3044,
+          "listed_count": 0,
+          "media_count": 301,
+          "tweet_count": 2654
+        },
+        "url": "https://t.co/d5BdKxYtww",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-15T03:07:40.000Z",
+        "description": "od/自伤/双相 杯子@NiimiyaHoshi @llzvkeai @fngkli131022",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "NiimiyaHoshi"
+              },
+              {
+                "end": 34,
+                "start": 25,
+                "username": "llzvkeai"
+              },
+              {
+                "end": 48,
+                "start": 35,
+                "username": "fngkli131022"
+              }
+            ]
+          }
+        },
+        "id": "2088462331332198400",
+        "is_identity_verified": false,
+        "location": "普瑞巴林星球",
+        "most_recent_tweet_id": "2097626095050998255",
+        "name": "硝酸银#浅（四世）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088462331332198400/1788874599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097318134680301568/re7DCVnf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 79,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 16
+        },
+        "url": "",
+        "username": "AgNo3xq0719",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-12T12:58:00.000Z",
+        "description": "oder 🩸 bpd/ed /过激/地雷女\n同类互fo呀 \n联系不到我找@lyxz738 @T0X1C_R3B0Rn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 36,
+                "username": "lyxz738"
+              },
+              {
+                "end": 58,
+                "start": 45,
+                "username": "T0X1C_R3B0Rn"
+              }
+            ]
+          }
+        },
+        "id": "2087523845901049856",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097692202776613014",
+        "name": "小酸4.0",
+        "pinned_tweet_id": "2088053477302055155",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087523845901049856/1786665438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092618861329911808/N4KIRah-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 422,
+          "following_count": 289,
+          "like_count": 529,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 512
+        },
+        "url": "",
+        "username": "suan4hjwnms",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

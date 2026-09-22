@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2097052303262195712"
+      ],
+      "media_source_tweet_id": [
+        "2097052312447701319"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2097335925563158892",
+    "created_at": "2026-09-08T14:47:05.000Z",
+    "display_text_range": [
+      0,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T15:47:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097335925563158892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1138561338072940544",
+          "start": 3,
+          "username": "DirHJEasterman"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jNXWKsYh71",
+          "end": 43,
+          "expanded_url": "https://x.com/DirHJEasterman/status/2097052312447701319/photo/1",
+          "media_key": "16_2097052303262195712",
+          "start": 20,
+          "url": "https://t.co/jNXWKsYh71"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097335925563158892",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "16_2097052303262195712"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097052312447701319",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DirHJEasterman: https://t.co/jNXWKsYh71"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 124,
+        "media_key": "16_2097052303262195712",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HRo59YtboAAMXWK.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HRo59YtboAAMXWK.mp4"
+          }
+        ],
+        "width": 124
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2097052303262195712"
+          ],
+          "media_source_tweet_id": [
+            "2097052312447701319"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2097335925563158892",
+        "created_at": "2026-09-08T14:47:05.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T15:47:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097335925563158892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1138561338072940544",
+              "start": 3,
+              "username": "DirHJEasterman"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jNXWKsYh71",
+              "end": 43,
+              "expanded_url": "https://x.com/DirHJEasterman/status/2097052312447701319/photo/1",
+              "media_key": "16_2097052303262195712",
+              "start": 20,
+              "url": "https://t.co/jNXWKsYh71"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097335925563158892",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "16_2097052303262195712"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097052312447701319",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DirHJEasterman: https://t.co/jNXWKsYh71"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2097052303262195712"
+          ]
+        },
+        "author_id": "1138561338072940544",
+        "conversation_id": "2097052312447701319",
+        "created_at": "2026-09-07T20:00:07.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T21:00:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097052312447701319"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jNXWKsYh71",
+              "end": 23,
+              "expanded_url": "https://x.com/DirHJEasterman/status/2097052312447701319/photo/1",
+              "media_key": "16_2097052303262195712",
+              "start": 0,
+              "url": "https://t.co/jNXWKsYh71"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097052312447701319",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "16_2097052303262195712"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1476,
+          "like_count": 32,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/jNXWKsYh71"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x",
+                "start": 0,
+                "url": "https://t.co/d5BdKxYtww"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "应许记忆之城",
+        "most_recent_tweet_id": "2097335925563158892",
+        "name": "嚼嚼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1784638550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 285,
+          "like_count": 3024,
+          "listed_count": 0,
+          "media_count": 300,
+          "tweet_count": 2640
+        },
+        "url": "https://t.co/d5BdKxYtww",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-06-11T21:39:11.000Z",
+        "description": "•{34}•{Indefinitely Sad}•\n•{Genderfluid Creature🏳️‍⚧️}•\n•{AuDHDSystem}•{MDNI🔞}•\n•{𝙰 𝚓𝚘𝚞𝚛𝚗𝚊𝚕 𝚘𝚏 𝚖𝚢 𝚠𝚘𝚛𝚔 𝚊𝚗𝚍 𝚖𝚎𝚗𝚝𝚊𝚕 𝚑𝚎𝚊𝚕𝚝𝚑.}•",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sinyalasuggestionbox.straw.page",
+                "end": 23,
+                "expanded_url": "https://sinyalasuggestionbox.straw.page",
+                "start": 0,
+                "url": "https://t.co/RxgXkU8R0R"
+              }
+            ]
+          }
+        },
+        "id": "1138561338072940544",
+        "is_identity_verified": false,
+        "location": "Murkoff Facility Sinyala",
+        "most_recent_tweet_id": "2097324152231477710",
+        "name": "𝙳𝚛. 𝙷𝚎𝚗𝚍𝚛𝚒𝚌𝚔 𝙹. 𝙴𝚊𝚜𝚝𝚎𝚛𝚖𝚊𝚗",
+        "pinned_tweet_id": "2097275025485344961",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1138561338072940544/1775674963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057967864855085056/cbVdvCEF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1509,
+          "following_count": 4593,
+          "like_count": 75954,
+          "listed_count": 1,
+          "media_count": 3631,
+          "tweet_count": 8198
+        },
+        "url": "https://t.co/RxgXkU8R0R",
+        "username": "DirHJEasterman",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

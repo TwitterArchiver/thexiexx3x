@@ -1,0 +1,518 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097279311371972608",
+        "3_2097279343018020864",
+        "3_2097279377155481600",
+        "3_2097279410974208000"
+      ],
+      "media_source_tweet_id": [
+        "2097279420843413654",
+        "2097279420843413654",
+        "2097279420843413654",
+        "2097279420843413654"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2097692356418125944",
+    "created_at": "2026-09-09T14:23:25.000Z",
+    "display_text_range": [
+      0,
+      135
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T15:23:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097692356418125944"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "58646742",
+          "start": 3,
+          "username": "monster_child"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "themonsterchild.cart.fc2.com",
+          "end": 111,
+          "expanded_url": "https://themonsterchild.cart.fc2.com/",
+          "start": 88,
+          "status": 403,
+          "unwound_url": "https://error.fc2.com/other/403.html",
+          "url": "https://t.co/9qJfhZnOGV"
+        },
+        {
+          "display_url": "pic.x.com/Kb4QFxrnO0",
+          "end": 135,
+          "expanded_url": "https://x.com/monster_child/status/2097279420843413654/photo/1",
+          "media_key": "3_2097279311371972608",
+          "start": 112,
+          "url": "https://t.co/Kb4QFxrnO0"
+        },
+        {
+          "display_url": "pic.x.com/Kb4QFxrnO0",
+          "end": 135,
+          "expanded_url": "https://x.com/monster_child/status/2097279420843413654/photo/1",
+          "media_key": "3_2097279343018020864",
+          "start": 112,
+          "url": "https://t.co/Kb4QFxrnO0"
+        },
+        {
+          "display_url": "pic.x.com/Kb4QFxrnO0",
+          "end": 135,
+          "expanded_url": "https://x.com/monster_child/status/2097279420843413654/photo/1",
+          "media_key": "3_2097279377155481600",
+          "start": 112,
+          "url": "https://t.co/Kb4QFxrnO0"
+        },
+        {
+          "display_url": "pic.x.com/Kb4QFxrnO0",
+          "end": 135,
+          "expanded_url": "https://x.com/monster_child/status/2097279420843413654/photo/1",
+          "media_key": "3_2097279410974208000",
+          "start": 112,
+          "url": "https://t.co/Kb4QFxrnO0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097692356418125944",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2097279311371972608"
+      },
+      {
+        "media_key": "3_2097279343018020864"
+      },
+      {
+        "media_key": "3_2097279377155481600"
+      },
+      {
+        "media_key": "3_2097279410974208000"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 74
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097279420843413654",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @monster_child: 新作｢ヘル！ヘル！ラギー」\nオンラインショップにて登場！\nちょいとベビー感がかわいい🤩a.k.\n\na.k.production SHOP\nhttps://t.co/9qJfhZnOGV https://t.co/Kb4QFxrnO0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_2097279311371972608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRsIa_0aMAA5Stz.jpg",
+        "width": 1080
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2097279343018020864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRsIc1takAA-7hy.jpg",
+        "width": 3073
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2097279377155481600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRsIe04a4AAQMJw.jpg",
+        "width": 3073
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2097279410974208000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRsIgy3bsAAQONL.jpg",
+        "width": 3073
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097279311371972608",
+            "3_2097279343018020864",
+            "3_2097279377155481600",
+            "3_2097279410974208000"
+          ],
+          "media_source_tweet_id": [
+            "2097279420843413654",
+            "2097279420843413654",
+            "2097279420843413654",
+            "2097279420843413654"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2097692356418125944",
+        "created_at": "2026-09-09T14:23:25.000Z",
+        "display_text_range": [
+          0,
+          135
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T15:23:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097692356418125944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "58646742",
+              "start": 3,
+              "username": "monster_child"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "themonsterchild.cart.fc2.com",
+              "end": 111,
+              "expanded_url": "https://themonsterchild.cart.fc2.com/",
+              "start": 88,
+              "status": 403,
+              "unwound_url": "https://error.fc2.com/other/403.html",
+              "url": "https://t.co/9qJfhZnOGV"
+            },
+            {
+              "display_url": "pic.x.com/Kb4QFxrnO0",
+              "end": 135,
+              "expanded_url": "https://x.com/monster_child/status/2097279420843413654/photo/1",
+              "media_key": "3_2097279311371972608",
+              "start": 112,
+              "url": "https://t.co/Kb4QFxrnO0"
+            },
+            {
+              "display_url": "pic.x.com/Kb4QFxrnO0",
+              "end": 135,
+              "expanded_url": "https://x.com/monster_child/status/2097279420843413654/photo/1",
+              "media_key": "3_2097279343018020864",
+              "start": 112,
+              "url": "https://t.co/Kb4QFxrnO0"
+            },
+            {
+              "display_url": "pic.x.com/Kb4QFxrnO0",
+              "end": 135,
+              "expanded_url": "https://x.com/monster_child/status/2097279420843413654/photo/1",
+              "media_key": "3_2097279377155481600",
+              "start": 112,
+              "url": "https://t.co/Kb4QFxrnO0"
+            },
+            {
+              "display_url": "pic.x.com/Kb4QFxrnO0",
+              "end": 135,
+              "expanded_url": "https://x.com/monster_child/status/2097279420843413654/photo/1",
+              "media_key": "3_2097279410974208000",
+              "start": 112,
+              "url": "https://t.co/Kb4QFxrnO0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097692356418125944",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2097279311371972608"
+          },
+          {
+            "media_key": "3_2097279343018020864"
+          },
+          {
+            "media_key": "3_2097279377155481600"
+          },
+          {
+            "media_key": "3_2097279410974208000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 74
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097279420843413654",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @monster_child: 新作｢ヘル！ヘル！ラギー」\nオンラインショップにて登場！\nちょいとベビー感がかわいい🤩a.k.\n\na.k.production SHOP\nhttps://t.co/9qJfhZnOGV https://t.co/Kb4QFxrnO0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097279311371972608",
+            "3_2097279343018020864",
+            "3_2097279377155481600",
+            "3_2097279410974208000"
+          ]
+        },
+        "author_id": "58646742",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2097279420843413654",
+        "created_at": "2026-09-08T11:02:34.000Z",
+        "display_text_range": [
+          0,
+          92
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T12:02:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097279420843413654"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "themonsterchild.cart.fc2.com",
+              "end": 92,
+              "expanded_url": "https://themonsterchild.cart.fc2.com/",
+              "start": 69,
+              "status": 403,
+              "unwound_url": "https://error.fc2.com/other/403.html",
+              "url": "https://t.co/9qJfhZnOGV"
+            },
+            {
+              "display_url": "pic.x.com/Kb4QFxrnO0",
+              "end": 116,
+              "expanded_url": "https://x.com/monster_child/status/2097279420843413654/photo/1",
+              "media_key": "3_2097279311371972608",
+              "start": 93,
+              "url": "https://t.co/Kb4QFxrnO0"
+            },
+            {
+              "display_url": "pic.x.com/Kb4QFxrnO0",
+              "end": 116,
+              "expanded_url": "https://x.com/monster_child/status/2097279420843413654/photo/1",
+              "media_key": "3_2097279343018020864",
+              "start": 93,
+              "url": "https://t.co/Kb4QFxrnO0"
+            },
+            {
+              "display_url": "pic.x.com/Kb4QFxrnO0",
+              "end": 116,
+              "expanded_url": "https://x.com/monster_child/status/2097279420843413654/photo/1",
+              "media_key": "3_2097279377155481600",
+              "start": 93,
+              "url": "https://t.co/Kb4QFxrnO0"
+            },
+            {
+              "display_url": "pic.x.com/Kb4QFxrnO0",
+              "end": 116,
+              "expanded_url": "https://x.com/monster_child/status/2097279420843413654/photo/1",
+              "media_key": "3_2097279410974208000",
+              "start": 93,
+              "url": "https://t.co/Kb4QFxrnO0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097279420843413654",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2097279311371972608"
+          },
+          {
+            "media_key": "3_2097279343018020864"
+          },
+          {
+            "media_key": "3_2097279377155481600"
+          },
+          {
+            "media_key": "3_2097279410974208000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 98,
+          "impression_count": 21945,
+          "like_count": 634,
+          "quote_count": 16,
+          "reply_count": 2,
+          "retweet_count": 74
+        },
+        "reply_settings": "everyone",
+        "text": "新作｢ヘル！ヘル！ラギー」\nオンラインショップにて登場！\nちょいとベビー感がかわいい🤩a.k.\n\na.k.production SHOP\nhttps://t.co/9qJfhZnOGV https://t.co/Kb4QFxrnO0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x",
+                "start": 0,
+                "url": "https://t.co/d5BdKxYtww"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "应许记忆之城",
+        "most_recent_tweet_id": "2097692356418125944",
+        "name": "嚼嚼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1788882630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 284,
+          "like_count": 3042,
+          "listed_count": 0,
+          "media_count": 301,
+          "tweet_count": 2652
+        },
+        "url": "https://t.co/d5BdKxYtww",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-07-21T00:40:27.000Z",
+        "description": "◆a.k.production(えーけーぷろだくしょん)\nドールメーカー＆造形作家a.k.(えーけー)によるホラーアートキャラクター制作(グッズ・ドール・オブジェ等)\n◆ご注文・お見積・お問い合わせはDMにて。\n（お見積→ご検討→OKであれば→ご注文確定）\nお気軽にご相談くださいね～ホラーでキュートな子をお作りします。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "themonsterchild.cart.fc2.com",
+                "end": 23,
+                "expanded_url": "http://themonsterchild.cart.fc2.com/",
+                "start": 0,
+                "url": "https://t.co/aQfXJJnjX3"
+              }
+            ]
+          }
+        },
+        "id": "58646742",
+        "is_identity_verified": false,
+        "location": "福島県",
+        "most_recent_tweet_id": "2097541146851598514",
+        "name": "9/13 ロジマ！ブース10(須賀川市役所内)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/58646742/1374677726",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/524498220412452864/XpiAvMtq_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2420,
+          "following_count": 510,
+          "like_count": 3178,
+          "listed_count": 40,
+          "media_count": 3697,
+          "tweet_count": 9430
+        },
+        "url": "https://t.co/aQfXJJnjX3",
+        "username": "monster_child",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

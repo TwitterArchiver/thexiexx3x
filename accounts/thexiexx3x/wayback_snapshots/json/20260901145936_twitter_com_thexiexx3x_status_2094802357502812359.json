@@ -1,0 +1,575 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094774525112242176"
+      ],
+      "media_source_tweet_id": [
+        "2094774561061601305"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2094802357502812359",
+    "created_at": "2026-09-01T14:59:36.000Z",
+    "display_text_range": [
+      0,
+      136
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T15:59:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094802357502812359"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 77,
+          "start": 74,
+          "tag": "od"
+        },
+        {
+          "end": 87,
+          "start": 78,
+          "tag": "overdose"
+        },
+        {
+          "end": 91,
+          "start": 88,
+          "tag": "抽奖"
+        },
+        {
+          "end": 97,
+          "start": 92,
+          "tag": "右美沙芬"
+        },
+        {
+          "end": 102,
+          "start": 98,
+          "tag": "愈美片"
+        },
+        {
+          "end": 106,
+          "start": 103,
+          "tag": "药商"
+        },
+        {
+          "end": 112,
+          "start": 107,
+          "tag": "普瑞巴林"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1665304321066684416",
+          "start": 3,
+          "username": "OoOooo0518"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RFavdFyePv",
+          "end": 136,
+          "expanded_url": "https://x.com/OoOooo0518/status/2094774561061601305/photo/1",
+          "media_key": "3_2094774525112242176",
+          "start": 113,
+          "url": "https://t.co/RFavdFyePv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094802357502812359",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094774525112242176"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094774561061601305",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OoOooo0518: 我每一条抽奖帖子底下评论一次都可以增加一次概率哦！我会让grok从我最近所有帖子里面评论➕关注➕点赞➕转发的人里抽！#od #overdose #抽奖 #右美沙芬\n#愈美片 #药商 #普瑞巴林 https://t.co/RFavdFyePv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2094774525112242176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRIiVP3aUAA9JMX.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094774525112242176"
+          ],
+          "media_source_tweet_id": [
+            "2094774561061601305"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2094802357502812359",
+        "created_at": "2026-09-01T14:59:36.000Z",
+        "display_text_range": [
+          0,
+          136
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T15:59:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094802357502812359"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 77,
+              "start": 74,
+              "tag": "od"
+            },
+            {
+              "end": 87,
+              "start": 78,
+              "tag": "overdose"
+            },
+            {
+              "end": 91,
+              "start": 88,
+              "tag": "抽奖"
+            },
+            {
+              "end": 97,
+              "start": 92,
+              "tag": "右美沙芬"
+            },
+            {
+              "end": 102,
+              "start": 98,
+              "tag": "愈美片"
+            },
+            {
+              "end": 106,
+              "start": 103,
+              "tag": "药商"
+            },
+            {
+              "end": 112,
+              "start": 107,
+              "tag": "普瑞巴林"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1665304321066684416",
+              "start": 3,
+              "username": "OoOooo0518"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RFavdFyePv",
+              "end": 136,
+              "expanded_url": "https://x.com/OoOooo0518/status/2094774561061601305/photo/1",
+              "media_key": "3_2094774525112242176",
+              "start": 113,
+              "url": "https://t.co/RFavdFyePv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094802357502812359",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094774525112242176"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094774561061601305",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OoOooo0518: 我每一条抽奖帖子底下评论一次都可以增加一次概率哦！我会让grok从我最近所有帖子里面评论➕关注➕点赞➕转发的人里抽！#od #overdose #抽奖 #右美沙芬\n#愈美片 #药商 #普瑞巴林 https://t.co/RFavdFyePv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094774525112242176"
+          ]
+        },
+        "author_id": "1665304321066684416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2094774561061601305",
+        "created_at": "2026-09-01T13:09:09.000Z",
+        "display_text_range": [
+          0,
+          96
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T14:09:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094774561061601305"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 61,
+              "start": 58,
+              "tag": "od"
+            },
+            {
+              "end": 71,
+              "start": 62,
+              "tag": "overdose"
+            },
+            {
+              "end": 75,
+              "start": 72,
+              "tag": "抽奖"
+            },
+            {
+              "end": 81,
+              "start": 76,
+              "tag": "右美沙芬"
+            },
+            {
+              "end": 86,
+              "start": 82,
+              "tag": "愈美片"
+            },
+            {
+              "end": 90,
+              "start": 87,
+              "tag": "药商"
+            },
+            {
+              "end": 96,
+              "start": 91,
+              "tag": "普瑞巴林"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RFavdFyePv",
+              "end": 120,
+              "expanded_url": "https://x.com/OoOooo0518/status/2094774561061601305/photo/1",
+              "media_key": "3_2094774525112242176",
+              "start": 97,
+              "url": "https://t.co/RFavdFyePv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094774561061601305",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094774525112242176"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 565,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "我每一条抽奖帖子底下评论一次都可以增加一次概率哦！我会让grok从我最近所有帖子里面评论➕关注➕点赞➕转发的人里抽！#od #overdose #抽奖 #右美沙芬\n#愈美片 #药商 #普瑞巴林 https://t.co/RFavdFyePv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x",
+                "start": 0,
+                "url": "https://t.co/d5BdKxYtww"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "应许记忆之城",
+        "most_recent_tweet_id": "2094802357502812359",
+        "name": "嚼嚼",
+        "pinned_tweet_id": "2094796558550352056",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1784638550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075604269613621248/IHcLCkBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 280,
+          "like_count": 2845,
+          "listed_count": 0,
+          "media_count": 292,
+          "tweet_count": 2556
+        },
+        "url": "https://t.co/d5BdKxYtww",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-04T10:27:54.000Z",
+        "description": "mtf 重抑重焦 无证含糖 你可以叫我O泡（大一休学中 欢迎互fo 我再次重生的妹妹:@OE3IIGFQRQ9473 永久25r/盒卖云药愈美片以及免费咨询药物推荐电报联系https://t.co/CIpMy1FYM9或X私信\n我不太懂药理学但是能o和不能o的药我都尝试过了，嗑药前可以先问问我！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 43,
+                "username": "OE3IIGFQRQ9473"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/melody_tik",
+                "end": 109,
+                "expanded_url": "https://t.me/melody_tik",
+                "start": 86,
+                "url": "https://t.co/CIpMy1FYM9"
+              }
+            ]
+          }
+        },
+        "id": "1665304321066684416",
+        "is_identity_verified": false,
+        "location": "杭州",
+        "most_recent_tweet_id": "2094797400452001873",
+        "name": "OoOooo",
+        "pinned_tweet_id": "2083268021070786824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1665304321066684416/1770916243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082407067441381376/qdkgUI2W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 340,
+          "like_count": 2782,
+          "listed_count": 2,
+          "media_count": 195,
+          "tweet_count": 979
+        },
+        "url": "",
+        "username": "OoOooo0518",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
