@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105728224399335424"
+      ],
+      "media_source_tweet_id": [
+        "2105728248579555660"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2105945090300756146",
+    "created_at": "2026-10-02T08:56:50.000Z",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T09:56:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105945090300756146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2055806802290151424",
+          "start": 3,
+          "username": "phosgorewhore"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/C9bygCkYUc",
+          "end": 42,
+          "expanded_url": "https://x.com/phosgorewhore/status/2105728248579555660/photo/1",
+          "media_key": "3_2105728224399335424",
+          "start": 19,
+          "url": "https://t.co/C9bygCkYUc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105945090300756146",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2105728224399335424"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105728248579555660",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @phosgorewhore: https://t.co/C9bygCkYUc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2105728224399335424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTkMqdjWIAAipAu.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105728224399335424"
+          ],
+          "media_source_tweet_id": [
+            "2105728248579555660"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2105945090300756146",
+        "created_at": "2026-10-02T08:56:50.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T09:56:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105945090300756146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2055806802290151424",
+              "start": 3,
+              "username": "phosgorewhore"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C9bygCkYUc",
+              "end": 42,
+              "expanded_url": "https://x.com/phosgorewhore/status/2105728248579555660/photo/1",
+              "media_key": "3_2105728224399335424",
+              "start": 19,
+              "url": "https://t.co/C9bygCkYUc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105945090300756146",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2105728224399335424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105728248579555660",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @phosgorewhore: https://t.co/C9bygCkYUc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105728224399335424"
+          ]
+        },
+        "author_id": "2055806802290151424",
+        "conversation_id": "2105728248579555660",
+        "created_at": "2026-10-01T18:35:11.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T19:35:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105728248579555660"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C9bygCkYUc",
+              "end": 23,
+              "expanded_url": "https://x.com/phosgorewhore/status/2105728248579555660/photo/1",
+              "media_key": "3_2105728224399335424",
+              "start": 0,
+              "url": "https://t.co/C9bygCkYUc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105728248579555660",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2105728224399335424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 1487,
+          "like_count": 84,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/C9bygCkYUc"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x/pub",
+                "start": 0,
+                "url": "https://t.co/QEp5sn5Pwy"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "应许记忆之城",
+        "most_recent_tweet_id": "2105945090300756146",
+        "name": "嚼嚼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1789143945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105903302756139008/ZZtPcn-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 325,
+          "like_count": 3419,
+          "listed_count": 0,
+          "media_count": 337,
+          "tweet_count": 2939
+        },
+        "url": "https://t.co/QEp5sn5Pwy",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T00:27:43.000Z",
+        "description": "CW mdni 🔞 // I love the girls and the money and the shame of life",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wanttoseeadeadbody.com",
+                "end": 23,
+                "expanded_url": "http://wanttoseeadeadbody.com",
+                "start": 0,
+                "url": "https://t.co/mSsTFkIDE6"
+              }
+            ]
+          }
+        },
+        "id": "2055806802290151424",
+        "is_identity_verified": false,
+        "location": "she/her ✚ 18",
+        "most_recent_tweet_id": "2105901668030177762",
+        "name": "sweetheart 💉🩹",
+        "pinned_tweet_id": "2056797921476055110",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055806802290151424/1789749453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100987555621609472/JXrhoFgc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4479,
+          "following_count": 184,
+          "like_count": 10691,
+          "listed_count": 8,
+          "media_count": 478,
+          "tweet_count": 1338
+        },
+        "url": "https://t.co/mSsTFkIDE6",
+        "username": "phosgorewhore",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

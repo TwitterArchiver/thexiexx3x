@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2103590033517367409",
+    "created_at": "2026-09-26T02:53:58.000Z",
+    "display_text_range": [
+      10,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T03:53:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103679444561113535"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2090493219801120769",
+          "start": 0,
+          "username": "bo1109bo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103679444561113535",
+    "in_reply_to_user_id": "2090493219801120769",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103590033517367409",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bo1109bo 蹲蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2103590033517367409",
+        "created_at": "2026-09-26T02:53:58.000Z",
+        "display_text_range": [
+          10,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T03:53:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103679444561113535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2090493219801120769",
+              "start": 0,
+              "username": "bo1109bo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103679444561113535",
+        "in_reply_to_user_id": "2090493219801120769",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103590033517367409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bo1109bo 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090493219801120769",
+        "conversation_id": "2103590033517367409",
+        "created_at": "2026-09-25T20:58:41.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T21:58:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103590033517367409"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103590033517367409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 316,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "中秋忘记开抽奖了本次共三名\n一等奖5toxy\n二等奖2盒pr 或者84t玉米\n三等奖一盒普瑞\n以上均不包邮"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x/pub",
+                "start": 0,
+                "url": "https://t.co/QEp5sn5Pwy"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "应许记忆之城",
+        "most_recent_tweet_id": "2103679444561113535",
+        "name": "嚼嚼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1789143945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098448361116557312/v8ICxkHS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 316,
+          "like_count": 3298,
+          "listed_count": 0,
+          "media_count": 319,
+          "tweet_count": 2851
+        },
+        "url": "https://t.co/QEp5sn5Pwy",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T17:40:24.000Z",
+        "description": "个人药代，部分货物每周出售数量有限请谅解。定价收钱比较随缘肯定比他们低啊然后就是 反正我有的赚就行 不是要买很多很多很多的就不要跟我讲价格了",
+        "id": "2090493219801120769",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103620143582527965",
+        "name": "辞",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092442727774576640/bJRzjiH2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 55,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 39
+        },
+        "url": "",
+        "username": "bo1109bo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

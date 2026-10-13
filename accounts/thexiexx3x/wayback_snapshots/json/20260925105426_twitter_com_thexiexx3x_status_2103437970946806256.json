@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103437954446508032"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2103437970946806256",
+    "created_at": "2026-09-25T10:54:26.000Z",
+    "display_text_range": [
+      0,
+      70
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T11:54:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103437970946806256"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FKsVWWy6fz",
+          "end": 94,
+          "expanded_url": "https://x.com/thexiexx3x/status/2103437970946806256/photo/1",
+          "media_key": "3_2103437954446508032",
+          "start": 71,
+          "url": "https://t.co/FKsVWWy6fz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103437970946806256",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2103437954446508032"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "真服了今天去买画材我寻思原来用的炭笔难用死了然后呢就狠心买了盒贵的他妈的比原来那个还难用气死你爹了呀原来用的那个牌子就10块钱一盒你赔点钱吧 https://t.co/FKsVWWy6fz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1164,
+        "media_key": "3_2103437954446508032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTDprNHbwAAgc8A.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103437954446508032"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2103437970946806256",
+        "created_at": "2026-09-25T10:54:26.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T11:54:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103437970946806256"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FKsVWWy6fz",
+              "end": 94,
+              "expanded_url": "https://x.com/thexiexx3x/status/2103437970946806256/photo/1",
+              "media_key": "3_2103437954446508032",
+              "start": 71,
+              "url": "https://t.co/FKsVWWy6fz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103437970946806256",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103437954446508032"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真服了今天去买画材我寻思原来用的炭笔难用死了然后呢就狠心买了盒贵的他妈的比原来那个还难用气死你爹了呀原来用的那个牌子就10块钱一盒你赔点钱吧 https://t.co/FKsVWWy6fz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x/pub",
+                "start": 0,
+                "url": "https://t.co/QEp5sn5Pwy"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "应许记忆之城",
+        "most_recent_tweet_id": "2103437970946806256",
+        "name": "嚼嚼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1789143945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098448361116557312/v8ICxkHS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 316,
+          "like_count": 3295,
+          "listed_count": 0,
+          "media_count": 319,
+          "tweet_count": 2848
+        },
+        "url": "https://t.co/QEp5sn5Pwy",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2103437970946806256",
+    "created_at": "2026-09-26T13:56:11.000Z",
+    "display_text_range": [
+      14,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T14:56:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103846096749666307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1908630026012004353",
+          "start": 0,
+          "username": "Oscxiar_0716"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103846096749666307",
+    "in_reply_to_user_id": "1908630026012004353",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103793700585558239",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oscxiar_0716 😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2103437970946806256",
+        "created_at": "2026-09-26T13:56:11.000Z",
+        "display_text_range": [
+          14,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T14:56:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103846096749666307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1908630026012004353",
+              "start": 0,
+              "username": "Oscxiar_0716"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103846096749666307",
+        "in_reply_to_user_id": "1908630026012004353",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103793700585558239",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oscxiar_0716 😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908630026012004353",
+        "conversation_id": "2103437970946806256",
+        "created_at": "2026-09-26T10:27:59.000Z",
+        "display_text_range": [
+          12,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T11:27:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103793700585558239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2054583279257583616",
+              "start": 0,
+              "username": "thexiexx3x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103793700585558239",
+        "in_reply_to_user_id": "2054583279257583616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103437970946806256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thexiexx3x 某个牌子的炭笔在纸上一画就发出非常刺耳的声音 听得快吐了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x/pub",
+                "start": 0,
+                "url": "https://t.co/QEp5sn5Pwy"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "应许记忆之城",
+        "most_recent_tweet_id": "2103846096749666307",
+        "name": "嚼嚼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1789143945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098448361116557312/v8ICxkHS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 317,
+          "like_count": 3314,
+          "listed_count": 0,
+          "media_count": 324,
+          "tweet_count": 2870
+        },
+        "url": "https://t.co/QEp5sn5Pwy",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-05T21:17:39.000Z",
+        "description": "蓝调，衰弱的人生，宽恕人类三秒钟 ✝️「我灵歌唱，赞美救主我神」「若不计较，就一次痛快燃烧」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/If_I_remember",
+                "end": 23,
+                "expanded_url": "https://t.me/If_I_remember",
+                "start": 0,
+                "url": "https://t.co/FvZmK5rulL"
+              }
+            ]
+          }
+        },
+        "id": "1908630026012004353",
+        "is_identity_verified": false,
+        "location": "法兰西第五共和国",
+        "most_recent_tweet_id": "2103793700585558239",
+        "name": "玛非斯🦋",
+        "pinned_tweet_id": "1915064949577334911",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1908630026012004353/1783281221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908630471770091521/VfJHXLVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 630,
+          "like_count": 4186,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 2135
+        },
+        "url": "https://t.co/FvZmK5rulL",
+        "username": "Oscxiar_0716",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

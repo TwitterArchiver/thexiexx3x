@@ -1,0 +1,705 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105276741476646912"
+      ],
+      "media_source_tweet_id": [
+        "2105276876478685671"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "General Fashion",
+          "id": "844604232737087488",
+          "name": "General Fashion"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Outerwear",
+          "id": "846722850627080192",
+          "name": "Outerwear"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Outerwear",
+          "id": "846722850627080192",
+          "name": "Outerwear"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Outerwear",
+          "id": "846722850627080192",
+          "name": "Outerwear"
+        }
+      }
+    ],
+    "conversation_id": "2105525790037377358",
+    "created_at": "2026-10-01T05:10:41.000Z",
+    "display_text_range": [
+      0,
+      92
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T06:10:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105525790037377358"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "200068768",
+          "start": 3,
+          "username": "trcoot"
+        },
+        {
+          "end": 33,
+          "id": "14620668",
+          "start": 23,
+          "username": "tpazolite"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RoX8o1fZwZ",
+          "end": 92,
+          "expanded_url": "https://x.com/trcoot/status/2105276876478685671/photo/1",
+          "media_key": "3_2105276741476646912",
+          "start": 69,
+          "url": "https://t.co/RoX8o1fZwZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105525790037377358",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2105276741476646912"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 495
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105276876478685671",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @trcoot: t+pazolite(@tpazolite )さんのnewシングルジャケットのイラストを描かせていただきました💿 https://t.co/RoX8o1fZwZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1697,
+        "media_key": "3_2105276741476646912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTdyCsmbgAAF8YQ.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105276741476646912"
+          ],
+          "media_source_tweet_id": [
+            "2105276876478685671"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "General Fashion",
+              "id": "844604232737087488",
+              "name": "General Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          }
+        ],
+        "conversation_id": "2105525790037377358",
+        "created_at": "2026-10-01T05:10:41.000Z",
+        "display_text_range": [
+          0,
+          92
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T06:10:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105525790037377358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "200068768",
+              "start": 3,
+              "username": "trcoot"
+            },
+            {
+              "end": 33,
+              "id": "14620668",
+              "start": 23,
+              "username": "tpazolite"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RoX8o1fZwZ",
+              "end": 92,
+              "expanded_url": "https://x.com/trcoot/status/2105276876478685671/photo/1",
+              "media_key": "3_2105276741476646912",
+              "start": 69,
+              "url": "https://t.co/RoX8o1fZwZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105525790037377358",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2105276741476646912"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 495
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105276876478685671",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @trcoot: t+pazolite(@tpazolite )さんのnewシングルジャケットのイラストを描かせていただきました💿 https://t.co/RoX8o1fZwZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105276741476646912"
+          ]
+        },
+        "author_id": "200068768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "General Fashion",
+              "id": "844604232737087488",
+              "name": "General Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          }
+        ],
+        "conversation_id": "2105276876478685671",
+        "created_at": "2026-09-30T12:41:36.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T13:41:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105276876478685671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "14620668",
+              "start": 11,
+              "username": "tpazolite"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RoX8o1fZwZ",
+              "end": 80,
+              "expanded_url": "https://x.com/trcoot/status/2105276876478685671/photo/1",
+              "media_key": "3_2105276741476646912",
+              "start": 57,
+              "url": "https://t.co/RoX8o1fZwZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105276876478685671",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2105276741476646912"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 180,
+          "impression_count": 48580,
+          "like_count": 3556,
+          "quote_count": 18,
+          "reply_count": 1,
+          "retweet_count": 495
+        },
+        "reply_settings": "everyone",
+        "text": "t+pazolite(@tpazolite )さんのnewシングルジャケットのイラストを描かせていただきました💿 https://t.co/RoX8o1fZwZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x/pub",
+                "start": 0,
+                "url": "https://t.co/QEp5sn5Pwy"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "应许记忆之城",
+        "most_recent_tweet_id": "2105525790037377358",
+        "name": "嚼嚼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1789143945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098448361116557312/v8ICxkHS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 318,
+          "like_count": 3381,
+          "listed_count": 0,
+          "media_count": 329,
+          "tweet_count": 2914
+        },
+        "url": "https://t.co/QEp5sn5Pwy",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-10-08T11:15:42.000Z",
+        "description": "ɪʟʟᴜꜱᴛʀᴀᴛᴏʀ🌵\n■📗 https://t.co/Dq1PztCAaB\n■👩 https://t.co/h2wRmC5wQb \n■🛒 https://t.co/KWcgKc00hu\n■✉️ https://t.co/SO6h6Yr5KC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.gd/zaVnj",
+                "end": 39,
+                "expanded_url": "https://x.gd/zaVnj",
+                "start": 16,
+                "url": "https://t.co/Dq1PztCAaB"
+              },
+              {
+                "display_url": "x.gd/DnqrN",
+                "end": 66,
+                "expanded_url": "https://x.gd/DnqrN",
+                "start": 43,
+                "url": "https://t.co/h2wRmC5wQb"
+              },
+              {
+                "display_url": "x.gd/irWzA",
+                "end": 94,
+                "expanded_url": "https://x.gd/irWzA",
+                "start": 71,
+                "url": "https://t.co/KWcgKc00hu"
+              },
+              {
+                "display_url": "x.gd/oNIft",
+                "end": 122,
+                "expanded_url": "https://x.gd/oNIft",
+                "start": 99,
+                "url": "https://t.co/SO6h6Yr5KC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "trcootworks.tumblr.com",
+                "end": 23,
+                "expanded_url": "http://trcootworks.tumblr.com/",
+                "start": 0,
+                "url": "https://t.co/BIWWqSxX02"
+              }
+            ]
+          }
+        },
+        "id": "200068768",
+        "is_identity_verified": false,
+        "location": "🇯🇵",
+        "most_recent_tweet_id": "2105390187992002833",
+        "name": "寺田てら",
+        "pinned_tweet_id": "1346597539043131392",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/200068768/1608350775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1130990827189129217/XnkTMW-2_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303048,
+          "following_count": 853,
+          "like_count": 8230,
+          "listed_count": 1803,
+          "media_count": 3018,
+          "tweet_count": 17707
+        },
+        "url": "https://t.co/BIWWqSxX02",
+        "username": "trcoot",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2008-05-01T22:35:53.000Z",
+        "description": "曲も言動も落ち着きがない\nYouTube: https://t.co/sTky67j9Q7",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/tpazolite_jp",
+                "end": 45,
+                "expanded_url": "http://youtube.com/tpazolite_jp",
+                "start": 22,
+                "url": "https://t.co/sTky67j9Q7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "c-h-s.me",
+                "end": 23,
+                "expanded_url": "http://www.c-h-s.me/",
+                "start": 0,
+                "url": "https://t.co/6qaCc3JK1Z"
+              }
+            ]
+          }
+        },
+        "id": "14620668",
+        "is_identity_verified": false,
+        "location": "Japan",
+        "most_recent_tweet_id": "2105328347177943481",
+        "name": "t+pazolite(とぱぞらいと)",
+        "pinned_tweet_id": "2044702407016493110",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14620668/1682336272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1650440348106395650/Q-VnIcJ3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141642,
+          "following_count": 1841,
+          "like_count": 10399,
+          "listed_count": 987,
+          "media_count": 2863,
+          "tweet_count": 78265
+        },
+        "url": "https://t.co/6qaCc3JK1Z",
+        "username": "tpazolite",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

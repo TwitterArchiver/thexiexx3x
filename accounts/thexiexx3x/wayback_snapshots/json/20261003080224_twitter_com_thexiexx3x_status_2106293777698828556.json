@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106288889443000320"
+      ],
+      "media_source_tweet_id": [
+        "2106288894228791621"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2106293777698828556",
+    "created_at": "2026-10-03T08:02:24.000Z",
+    "display_text_range": [
+      0,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T09:02:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106293777698828556"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2103590351080771584",
+          "start": 3,
+          "username": "uwu8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mInlDc5Et6",
+          "end": 49,
+          "expanded_url": "https://x.com/uwu8964/status/2106288894228791621/photo/1",
+          "media_key": "3_2106288889443000320",
+          "start": 26,
+          "url": "https://t.co/mInlDc5Et6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106293777698828556",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2106288889443000320"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106288894228791621",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @uwu8964: oder最常用的表情包（ https://t.co/mInlDc5Et6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 556,
+        "media_key": "3_2106288889443000320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTsKldmaIAA6RV1.jpg",
+        "width": 986
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106288889443000320"
+          ],
+          "media_source_tweet_id": [
+            "2106288894228791621"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2106293777698828556",
+        "created_at": "2026-10-03T08:02:24.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T09:02:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106293777698828556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2103590351080771584",
+              "start": 3,
+              "username": "uwu8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mInlDc5Et6",
+              "end": 49,
+              "expanded_url": "https://x.com/uwu8964/status/2106288894228791621/photo/1",
+              "media_key": "3_2106288889443000320",
+              "start": 26,
+              "url": "https://t.co/mInlDc5Et6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106293777698828556",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2106288889443000320"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106288894228791621",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @uwu8964: oder最常用的表情包（ https://t.co/mInlDc5Et6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106288889443000320"
+          ]
+        },
+        "author_id": "2103590351080771584",
+        "conversation_id": "2106288894228791621",
+        "created_at": "2026-10-03T07:42:59.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T08:42:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106288894228791621"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mInlDc5Et6",
+              "end": 36,
+              "expanded_url": "https://x.com/uwu8964/status/2106288894228791621/photo/1",
+              "media_key": "3_2106288889443000320",
+              "start": 13,
+              "url": "https://t.co/mInlDc5Et6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106288894228791621",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2106288889443000320"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 310,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "oder最常用的表情包（ https://t.co/mInlDc5Et6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x/pub",
+                "start": 0,
+                "url": "https://t.co/QEp5sn5Pwy"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "应许记忆之城",
+        "most_recent_tweet_id": "2106293777698828556",
+        "name": "嚼嚼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1789143945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105903302756139008/ZZtPcn-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 328,
+          "like_count": 3443,
+          "listed_count": 0,
+          "media_count": 340,
+          "tweet_count": 2967
+        },
+        "url": "https://t.co/QEp5sn5Pwy",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-25T21:01:40.000Z",
+        "description": "最愛的杯子@7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "7q468438x8964"
+              }
+            ]
+          }
+        },
+        "id": "2103590351080771584",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106290037986070651",
+        "name": "番茄操蛋🏳️‍⚧️",
+        "pinned_tweet_id": "2105370737829916693",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2103590351080771584/1790794541",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105368005270228993/ORHAOaDx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 122,
+          "like_count": 339,
+          "listed_count": 2,
+          "media_count": 27,
+          "tweet_count": 274
+        },
+        "url": "",
+        "username": "uwu8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

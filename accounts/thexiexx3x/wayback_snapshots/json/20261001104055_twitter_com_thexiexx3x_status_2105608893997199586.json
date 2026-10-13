@@ -1,0 +1,447 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Osaka",
+          "id": "859408738544791552",
+          "name": "Osaka"
+        }
+      }
+    ],
+    "conversation_id": "2105608893997199586",
+    "created_at": "2026-10-01T10:40:55.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T11:40:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105608893997199586"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 66,
+          "start": 55,
+          "tag": "ガシャポンオンライン"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "524090173",
+          "start": 3,
+          "username": "Gashapon_Bandai"
+        }
+      ],
+      "urls": [
+        {
+          "description": "『あずまんが大王』まちぼうけ初登場！日常4コマの記念碑的名作『あずまんが大王』より、人気キャラの大阪さん（春日歩）をフィギュア化！元になるイラストは原作のあずまきよひこ描き下ろし！",
+          "display_url": "parks2.bandainamco-am.co.jp/item/PRE_45827…",
+          "end": 124,
+          "expanded_url": "https://parks2.bandainamco-am.co.jp/item/PRE_4582770071474.html",
+          "images": [
+            {
+              "height": 1200,
+              "url": "https://pbs.twimg.com/news_img/2105568446142668801/j42JLcc0?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2105568446142668801/j42JLcc0?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 101,
+          "status": 200,
+          "title": "あずまんが大王　まちぼうけ　大阪の場合",
+          "unwound_url": "https://parks2.bandainamco-am.co.jp/item/PRE_4582770071474.html",
+          "url": "https://t.co/OxGbxsqfn9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105608893997199586",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2579
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105568442069996008",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Gashapon_Bandai: ／\nあずまんが大王\nまちぼうけ 大阪の場合\n(税込500円)\n＼\n\n#ガシャポンオンライン で\n10月2日11:00から予約開始予定！\n\n商品の詳細はこちら👇\nhttps://t.co/OxGbxsqfn9\n※お届けに先行して全国のガシ…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2105535959609810944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HThdzLZaoAAqHVo.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Osaka",
+              "id": "859408738544791552",
+              "name": "Osaka"
+            }
+          }
+        ],
+        "conversation_id": "2105608893997199586",
+        "created_at": "2026-10-01T10:40:55.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T11:40:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105608893997199586"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 66,
+              "start": 55,
+              "tag": "ガシャポンオンライン"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "524090173",
+              "start": 3,
+              "username": "Gashapon_Bandai"
+            }
+          ],
+          "urls": [
+            {
+              "description": "『あずまんが大王』まちぼうけ初登場！日常4コマの記念碑的名作『あずまんが大王』より、人気キャラの大阪さん（春日歩）をフィギュア化！元になるイラストは原作のあずまきよひこ描き下ろし！",
+              "display_url": "parks2.bandainamco-am.co.jp/item/PRE_45827…",
+              "end": 124,
+              "expanded_url": "https://parks2.bandainamco-am.co.jp/item/PRE_4582770071474.html",
+              "images": [
+                {
+                  "height": 1200,
+                  "url": "https://pbs.twimg.com/news_img/2105568446142668801/j42JLcc0?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2105568446142668801/j42JLcc0?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 101,
+              "status": 200,
+              "title": "あずまんが大王　まちぼうけ　大阪の場合",
+              "unwound_url": "https://parks2.bandainamco-am.co.jp/item/PRE_4582770071474.html",
+              "url": "https://t.co/OxGbxsqfn9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105608893997199586",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2579
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105568442069996008",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Gashapon_Bandai: ／\nあずまんが大王\nまちぼうけ 大阪の場合\n(税込500円)\n＼\n\n#ガシャポンオンライン で\n10月2日11:00から予約開始予定！\n\n商品の詳細はこちら👇\nhttps://t.co/OxGbxsqfn9\n※お届けに先行して全国のガシ…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105535959609810944"
+          ]
+        },
+        "author_id": "524090173",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1437501554794188801",
+              "name": "Capsule toys"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Osaka",
+              "id": "859408738544791552",
+              "name": "Osaka"
+            }
+          }
+        ],
+        "conversation_id": "2105568442069996008",
+        "created_at": "2026-10-01T08:00:10.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T09:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105568442069996008"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 45,
+              "start": 34,
+              "tag": "ガシャポンオンライン"
+            }
+          ],
+          "urls": [
+            {
+              "description": "『あずまんが大王』まちぼうけ初登場！日常4コマの記念碑的名作『あずまんが大王』より、人気キャラの大阪さん（春日歩）をフィギュア化！元になるイラストは原作のあずまきよひこ描き下ろし！",
+              "display_url": "parks2.bandainamco-am.co.jp/item/PRE_45827…",
+              "end": 103,
+              "expanded_url": "https://parks2.bandainamco-am.co.jp/item/PRE_4582770071474.html",
+              "images": [
+                {
+                  "height": 1200,
+                  "url": "https://pbs.twimg.com/news_img/2105568446142668801/j42JLcc0?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2105568446142668801/j42JLcc0?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 80,
+              "status": 200,
+              "title": "あずまんが大王　まちぼうけ　大阪の場合",
+              "unwound_url": "https://parks2.bandainamco-am.co.jp/item/PRE_4582770071474.html",
+              "url": "https://t.co/OxGbxsqfn9"
+            },
+            {
+              "display_url": "pic.x.com/xZHnIeMijq",
+              "end": 163,
+              "expanded_url": "https://x.com/Gashapon_Bandai/status/2105568442069996008/photo/1",
+              "media_key": "3_2105535959609810944",
+              "start": 140,
+              "url": "https://t.co/xZHnIeMijq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105568442069996008",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2105535959609810944"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 45,
+                "start": 34,
+                "tag": "ガシャポンオンライン"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "parks2.bandainamco-am.co.jp/item/PRE_45827…",
+                "end": 103,
+                "expanded_url": "https://parks2.bandainamco-am.co.jp/item/PRE_4582770071474.html",
+                "start": 80,
+                "url": "https://t.co/UEeZctgft7"
+              },
+              {
+                "display_url": "parks2.bandainamco-am.co.jp/ext/bandainamc…",
+                "end": 255,
+                "expanded_url": "https://parks2.bandainamco-am.co.jp/ext/bandainamco_id_connect.html",
+                "start": 232,
+                "url": "https://t.co/t2R8MmwRke"
+              }
+            ]
+          },
+          "text": "／\nあずまんが大王\nまちぼうけ 大阪の場合\n(税込500円)\n＼\n\n#ガシャポンオンライン で\n10月2日11:00から予約開始予定！\n\n商品の詳細はこちら👇\nhttps://t.co/UEeZctgft7\n※お届けに先行して全国のガシャポン自販機で販売される可能性があります。\n\n※アクセス集中により一時的にサイトに繋がりにくい場合がございます。\nその際は、お時間を置いて再度お試しください。\n※準備数に達し次第、終了します\n\n※ご予約には会員登録が必要です👇\nhttps://t.co/t2R8MmwRke"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1051,
+          "impression_count": 277304,
+          "like_count": 6428,
+          "quote_count": 621,
+          "reply_count": 33,
+          "retweet_count": 2581
+        },
+        "reply_settings": "everyone",
+        "text": "／\nあずまんが大王\nまちぼうけ 大阪の場合\n(税込500円)\n＼\n\n#ガシャポンオンライン で\n10月2日11:00から予約開始予定！\n\n商品の詳細はこちら👇\nhttps://t.co/OxGbxsqfn9\n※お届けに先行して全国のガシャポン自販機で販売される可能性があります。 https://t.co/xZHnIeMijq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x/pub",
+                "start": 0,
+                "url": "https://t.co/QEp5sn5Pwy"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "应许记忆之城",
+        "most_recent_tweet_id": "2105608893997199586",
+        "name": "嚼嚼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1789143945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105575124732956673/1bznErqP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 323,
+          "like_count": 3389,
+          "listed_count": 0,
+          "media_count": 332,
+          "tweet_count": 2919
+        },
+        "url": "https://t.co/QEp5sn5Pwy",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/1775414321365061632/xy03IiSL_bigger.jpg",
+          "description": "バンダイ・BANDAI SPIRITS",
+          "url": "https://twitter.com/BandaiOfficial",
+          "user_id": [
+            "1236962033481871360"
+          ]
+        },
+        "created_at": "2012-03-14T06:57:07.000Z",
+        "description": "㈱バンダイのガシャポン公式アカウントです。様々なキャラクター商品情報やイベント・キャンペーン情報など発信していきます。※リプライは行っておりませんが、コメント・ご意見は有難く読ませて頂いております。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gashapon.jp",
+                "end": 23,
+                "expanded_url": "http://gashapon.jp",
+                "start": 0,
+                "url": "https://t.co/pPTkKSoMCw"
+              }
+            ]
+          }
+        },
+        "id": "524090173",
+        "is_identity_verified": false,
+        "location": "浅草",
+        "most_recent_tweet_id": "2105591380328489096",
+        "name": "【公式】バンダイ ガシャポン",
+        "pinned_tweet_id": "2105192194676277281",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/524090173/1670486904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1600764211378139137/HirERJI5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514866,
+          "following_count": 118,
+          "like_count": 466,
+          "listed_count": 1905,
+          "media_count": 12714,
+          "tweet_count": 17009
+        },
+        "url": "https://t.co/pPTkKSoMCw",
+        "username": "Gashapon_Bandai",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

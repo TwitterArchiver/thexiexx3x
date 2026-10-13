@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2106538830157557760"
+      ],
+      "media_source_tweet_id": [
+        "2106538855642075421"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2106660676274192810",
+    "created_at": "2026-10-04T08:20:19.000Z",
+    "display_text_range": [
+      0,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T09:20:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106660676274192810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2100836356692078592",
+          "start": 3,
+          "username": "plastekpet"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JU5mX87cHb",
+          "end": 39,
+          "expanded_url": "https://x.com/plastekpet/status/2106538855642075421/video/1",
+          "media_key": "13_2106538830157557760",
+          "start": 16,
+          "url": "https://t.co/JU5mX87cHb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106660676274192810",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2106538830157557760"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 64
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106538855642075421",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @plastekpet: https://t.co/JU5mX87cHb"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8000,
+        "height": 576,
+        "media_key": "13_2106538830157557760",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2106538830157557760/img/Futszgjyqp0Zjkp9.jpg",
+        "public_metrics": {
+          "view_count": 2591
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106538830157557760/vid/avc1/480x270/_x7v47NrLquqVkpZ.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106538830157557760/vid/avc1/640x360/O0W3R_0Xse5YU7zc.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106538830157557760/vid/avc1/1024x576/DAsF0xe3ejRhzzh_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2106538830157557760/pl/Fxw8SQggsRzFgHUR.m3u8"
+          }
+        ],
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2106538830157557760"
+          ],
+          "media_source_tweet_id": [
+            "2106538855642075421"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2106660676274192810",
+        "created_at": "2026-10-04T08:20:19.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T09:20:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106660676274192810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2100836356692078592",
+              "start": 3,
+              "username": "plastekpet"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JU5mX87cHb",
+              "end": 39,
+              "expanded_url": "https://x.com/plastekpet/status/2106538855642075421/video/1",
+              "media_key": "13_2106538830157557760",
+              "start": 16,
+              "url": "https://t.co/JU5mX87cHb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106660676274192810",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2106538830157557760"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106538855642075421",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @plastekpet: https://t.co/JU5mX87cHb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2106538830157557760"
+          ]
+        },
+        "author_id": "2100836356692078592",
+        "conversation_id": "2106538855642075421",
+        "created_at": "2026-10-04T00:16:15.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T01:16:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106538855642075421"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JU5mX87cHb",
+              "end": 23,
+              "expanded_url": "https://x.com/plastekpet/status/2106538855642075421/video/1",
+              "media_key": "13_2106538830157557760",
+              "start": 0,
+              "url": "https://t.co/JU5mX87cHb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106538855642075421",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2106538830157557760"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 88,
+          "impression_count": 6903,
+          "like_count": 407,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/JU5mX87cHb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x/pub",
+                "start": 0,
+                "url": "https://t.co/QEp5sn5Pwy"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "应许记忆之城",
+        "most_recent_tweet_id": "2106660676274192810",
+        "name": "嚼嚼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1789143945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105903302756139008/ZZtPcn-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 332,
+          "like_count": 3459,
+          "listed_count": 0,
+          "media_count": 341,
+          "tweet_count": 2992
+        },
+        "url": "https://t.co/QEp5sn5Pwy",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-18T06:37:20.000Z",
+        "description": ".̷̡̦͙̖̼̜̤̱̣͌̈́̄̍̊̾̕͝.̷͉̼͇̜͆̐͂͑̅̋͝͝.̸̢̡̛͙͇̪̙̐̀̏͌.̶͇̖̈́̈́̉.̷̡͖̲̞̣̊\nhttps://t.co/32htmPAnH5\nhttps://t.co/CvVbCdnH3t\nhttps://t.co/GX5PNpsqXF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "objkt.com/@plastekpet",
+                "end": 88,
+                "expanded_url": "https://objkt.com/@plastekpet",
+                "start": 65,
+                "url": "https://t.co/32htmPAnH5"
+              },
+              {
+                "display_url": "instagram.com/plastekpet",
+                "end": 112,
+                "expanded_url": "http://instagram.com/plastekpet",
+                "start": 89,
+                "url": "https://t.co/CvVbCdnH3t"
+              },
+              {
+                "display_url": "youtube.com/@perfectscarec…",
+                "end": 136,
+                "expanded_url": "http://youtube.com/@perfectscarecrow",
+                "start": 113,
+                "url": "https://t.co/GX5PNpsqXF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "plastekpet.com",
+                "end": 23,
+                "expanded_url": "http://plastekpet.com",
+                "start": 0,
+                "url": "https://t.co/SDFUy5q50p"
+              }
+            ]
+          }
+        },
+        "id": "2100836356692078592",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106595163371921453",
+        "name": "pet",
+        "pinned_tweet_id": "2105861194611597665",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2100836356692078592/1790067998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100836618999668737/rX22NmbY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 606,
+          "like_count": 578,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 191
+        },
+        "url": "https://t.co/SDFUy5q50p",
+        "username": "plastekpet",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

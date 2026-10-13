@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2108205415519731834",
+    "created_at": "2026-10-08T16:08:51.000Z",
+    "display_text_range": [
+      14,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T17:08:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108228137180152128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2092680299796905984",
+          "start": 0,
+          "username": "xiaozhi_0801"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108228137180152128",
+    "in_reply_to_user_id": "2092680299796905984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108227281932165163",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaozhi_0801 会被家长砍成臊子的 而且没病例☹️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2108205415519731834",
+        "created_at": "2026-10-08T16:08:51.000Z",
+        "display_text_range": [
+          14,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T17:08:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108228137180152128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2092680299796905984",
+              "start": 0,
+              "username": "xiaozhi_0801"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108228137180152128",
+        "in_reply_to_user_id": "2092680299796905984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108227281932165163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaozhi_0801 会被家长砍成臊子的 而且没病例☹️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2092680299796905984",
+        "conversation_id": "2108205415519731834",
+        "created_at": "2026-10-08T16:05:27.000Z",
+        "display_text_range": [
+          12,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T17:05:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108227281932165163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2054583279257583616",
+              "start": 0,
+              "username": "thexiexx3x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108227281932165163",
+        "in_reply_to_user_id": "2054583279257583616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108205415519731834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thexiexx3x 請假不去上學就行了呀"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n画画的东西在@lkuaix_xie\n以前的号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "lkuaix_xie"
+              },
+              {
+                "end": 37,
+                "start": 28,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x/pub",
+                "start": 0,
+                "url": "https://t.co/QEp5sn6nm6"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "应许记忆之城",
+        "most_recent_tweet_id": "2108228137180152128",
+        "name": "嚼嚼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1789143945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105903302756139008/ZZtPcn-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 343,
+          "like_count": 3553,
+          "listed_count": 0,
+          "media_count": 343,
+          "tweet_count": 3030
+        },
+        "url": "https://t.co/QEp5sn6nm6",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-26T18:29:22.000Z",
+        "description": "只是一個善良的人呀。\n互fo互轉請大膽私信…長期開放閑聊模塊\ntg：https://t.co/aenFptp7hm\n匿名提問箱https://t.co/eJ9W79m8Ac",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/xiaozhi_0801",
+                "end": 57,
+                "expanded_url": "https://t.me/xiaozhi_0801",
+                "start": 34,
+                "url": "https://t.co/aenFptp7hm"
+              },
+              {
+                "display_url": "ngl.link/zhi68399/bit",
+                "end": 86,
+                "expanded_url": "https://ngl.link/zhi68399/bit",
+                "start": 63,
+                "url": "https://t.co/eJ9W79m8Ac"
+              }
+            ]
+          }
+        },
+        "id": "2092680299796905984",
+        "is_identity_verified": false,
+        "location": "距離你2.778km",
+        "most_recent_tweet_id": "2108227977943421328",
+        "name": "滯⁶",
+        "pinned_tweet_id": "2092684925942256007",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092680299796905984/1787769409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092680953135276032/KdZz1L4l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 161,
+          "like_count": 381,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 683
+        },
+        "url": "",
+        "username": "xiaozhi_0801",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

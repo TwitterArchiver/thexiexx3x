@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2104333858220994560"
+      ],
+      "media_source_tweet_id": [
+        "2104333869734318325"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2104612972849152062",
+    "created_at": "2026-09-28T16:43:29.000Z",
+    "display_text_range": [
+      0,
+      82
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T17:43:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104612972849152062"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2056418926104305664",
+          "start": 3,
+          "username": "NvcleareFvsion"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/R6Mvqvs6kt",
+          "end": 82,
+          "expanded_url": "https://x.com/NvcleareFvsion/status/2104333869734318325/video/1",
+          "media_key": "13_2104333858220994560",
+          "start": 59,
+          "url": "https://t.co/R6Mvqvs6kt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104612972849152062",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2104333858220994560"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 442
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104333869734318325",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NvcleareFvsion: Maybe I should post something here lul https://t.co/R6Mvqvs6kt"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13489,
+        "height": 480,
+        "media_key": "13_2104333858220994560",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2104333858220994560/img/qtDXgzgtpU1DrLv-.jpg",
+        "public_metrics": {
+          "view_count": 21658
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104333858220994560/vid/avc1/308x270/vXVC8ZBxaLocUT1V.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104333858220994560/vid/avc1/412x360/u55HF9jPDMolSlSD.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104333858220994560/vid/avc1/550x480/JolXQQ80nHL345wI.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2104333858220994560/pl/Q0tNKFDEuu1pJb24.m3u8?v=cfc"
+          }
+        ],
+        "width": 550
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2104333858220994560"
+          ],
+          "media_source_tweet_id": [
+            "2104333869734318325"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2104612972849152062",
+        "created_at": "2026-09-28T16:43:29.000Z",
+        "display_text_range": [
+          0,
+          82
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T17:43:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104612972849152062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2056418926104305664",
+              "start": 3,
+              "username": "NvcleareFvsion"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/R6Mvqvs6kt",
+              "end": 82,
+              "expanded_url": "https://x.com/NvcleareFvsion/status/2104333869734318325/video/1",
+              "media_key": "13_2104333858220994560",
+              "start": 59,
+              "url": "https://t.co/R6Mvqvs6kt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104612972849152062",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2104333858220994560"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 442
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104333869734318325",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NvcleareFvsion: Maybe I should post something here lul https://t.co/R6Mvqvs6kt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2104333858220994560"
+          ]
+        },
+        "author_id": "2056418926104305664",
+        "conversation_id": "2104333869734318325",
+        "created_at": "2026-09-27T22:14:25.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T23:14:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104333869734318325"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R6Mvqvs6kt",
+              "end": 62,
+              "expanded_url": "https://x.com/NvcleareFvsion/status/2104333869734318325/video/1",
+              "media_key": "13_2104333858220994560",
+              "start": 39,
+              "url": "https://t.co/R6Mvqvs6kt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104333869734318325",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2104333858220994560"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 939,
+          "impression_count": 35243,
+          "like_count": 4001,
+          "quote_count": 7,
+          "reply_count": 12,
+          "retweet_count": 442
+        },
+        "reply_settings": "everyone",
+        "text": "Maybe I should post something here lul https://t.co/R6Mvqvs6kt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x/pub",
+                "start": 0,
+                "url": "https://t.co/QEp5sn5Pwy"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "应许记忆之城",
+        "most_recent_tweet_id": "2104612972849152062",
+        "name": "嚼嚼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1789143945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098448361116557312/v8ICxkHS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 316,
+          "like_count": 3339,
+          "listed_count": 0,
+          "media_count": 327,
+          "tweet_count": 2887
+        },
+        "url": "https://t.co/QEp5sn5Pwy",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-18T16:58:50.000Z",
+        "description": "Miau miau\nplease let me die",
+        "id": "2056418926104305664",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104600410803654927",
+        "name": "NvcleareFvsion",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2056418926104305664/1790547402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104334444110770176/pGG7WuAk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 3,
+          "like_count": 184,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 23
+        },
+        "url": "",
+        "username": "NvcleareFvsion",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

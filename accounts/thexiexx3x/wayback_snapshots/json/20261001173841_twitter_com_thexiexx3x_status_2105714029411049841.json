@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2105714029411049841",
+    "created_at": "2026-10-01T17:38:41.000Z",
+    "display_text_range": [
+      0,
+      89
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T18:38:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105714029411049841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1939338058199191553",
+          "start": 3,
+          "username": "konakonalo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105714029411049841",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105651929347244475",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @konakonalo: 我喜欢抛弃现代性的人。最烦天天刷抖音的人。短视频把所有人都毁了变得如此无趣。我已经戒掉了因为手机不离手的感觉很坏。我想尽量过上一种原始的平静生活。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2105714029411049841",
+        "created_at": "2026-10-01T17:38:41.000Z",
+        "display_text_range": [
+          0,
+          89
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T18:38:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105714029411049841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1939338058199191553",
+              "start": 3,
+              "username": "konakonalo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105714029411049841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105651929347244475",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @konakonalo: 我喜欢抛弃现代性的人。最烦天天刷抖音的人。短视频把所有人都毁了变得如此无趣。我已经戒掉了因为手机不离手的感觉很坏。我想尽量过上一种原始的平静生活。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2105651929347244475",
+        "created_at": "2026-10-01T13:31:55.000Z",
+        "display_text_range": [
+          0,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T14:31:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105651929347244475"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105651929347244475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 876,
+          "like_count": 36,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我喜欢抛弃现代性的人。最烦天天刷抖音的人。短视频把所有人都毁了变得如此无趣。我已经戒掉了因为手机不离手的感觉很坏。我想尽量过上一种原始的平静生活。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x/pub",
+                "start": 0,
+                "url": "https://t.co/QEp5sn5Pwy"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "应许记忆之城",
+        "most_recent_tweet_id": "2105714029411049841",
+        "name": "嚼嚼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1789143945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105575124732956673/1bznErqP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 325,
+          "like_count": 3412,
+          "listed_count": 0,
+          "media_count": 332,
+          "tweet_count": 2926
+        },
+        "url": "https://t.co/QEp5sn5Pwy",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "🦔@maipianaini0930\n你花了30年3天零3秒才找到我。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "30年3天零3秒",
+        "most_recent_tweet_id": "2105704683721642379",
+        "name": "ᡕᠵデᡁ᠊╾━ 嘭！",
+        "pinned_tweet_id": "2102498623489786047",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1789184322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098616085893533696/9bQ80fjO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 431,
+          "like_count": 13488,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 2374
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

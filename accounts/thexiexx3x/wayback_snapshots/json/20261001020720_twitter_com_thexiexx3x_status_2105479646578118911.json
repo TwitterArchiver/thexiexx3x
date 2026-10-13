@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2104967154915484020",
+    "created_at": "2026-10-01T02:07:20.000Z",
+    "display_text_range": [
+      32,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T03:07:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105479646578118911"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2092517131552423936",
+          "start": 0,
+          "username": "MT7276"
+        },
+        {
+          "end": 21,
+          "id": "2092680299796905984",
+          "start": 8,
+          "username": "xiaozhi_0801"
+        },
+        {
+          "end": 31,
+          "id": "2090493219801120769",
+          "start": 22,
+          "username": "bo1109bo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105479646578118911",
+    "in_reply_to_user_id": "2092517131552423936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104967154915484020",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MT7276 @xiaozhi_0801 @bo1109bo 我靠他找我推销我差点就买了"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [bo1109bo].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "bo1109bo",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "bo1109bo"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2480,
+        "media_key": "3_2104967125421178880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTZYcq6awAAfui4.jpg",
+        "width": 1116
+      },
+      {
+        "height": 2480,
+        "media_key": "3_2104967142215143424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTZYdpeaUAAQQp2.jpg",
+        "width": 1116
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2104967154915484020",
+        "created_at": "2026-10-01T02:07:20.000Z",
+        "display_text_range": [
+          32,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T03:07:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105479646578118911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2092517131552423936",
+              "start": 0,
+              "username": "MT7276"
+            },
+            {
+              "end": 21,
+              "id": "2092680299796905984",
+              "start": 8,
+              "username": "xiaozhi_0801"
+            },
+            {
+              "end": 31,
+              "id": "2090493219801120769",
+              "start": 22,
+              "username": "bo1109bo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105479646578118911",
+        "in_reply_to_user_id": "2092517131552423936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104967154915484020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MT7276 @xiaozhi_0801 @bo1109bo 我靠他找我推销我差点就买了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104967125421178880",
+            "3_2104967142215143424"
+          ]
+        },
+        "author_id": "2092517131552423936",
+        "conversation_id": "2104967154915484020",
+        "created_at": "2026-09-29T16:10:52.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T17:10:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104967154915484020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 22,
+              "id": "2090493219801120769",
+              "start": 13,
+              "username": "bo1109bo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QmrFgm2xKF",
+              "end": 46,
+              "expanded_url": "https://x.com/MT7276/status/2104967154915484020/photo/1",
+              "media_key": "3_2104967125421178880",
+              "start": 23,
+              "url": "https://t.co/QmrFgm2xKF"
+            },
+            {
+              "display_url": "pic.x.com/QmrFgm2xKF",
+              "end": 46,
+              "expanded_url": "https://x.com/MT7276/status/2104967154915484020/photo/1",
+              "media_key": "3_2104967142215143424",
+              "start": 23,
+              "url": "https://t.co/QmrFgm2xKF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104967154915484020",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104967125421178880"
+          },
+          {
+            "media_key": "3_2104967142215143424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3072,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "求转\n这个四凤的真跑路了\n@bo1109bo https://t.co/QmrFgm2xKF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x/pub",
+                "start": 0,
+                "url": "https://t.co/QEp5sn5Pwy"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "应许记忆之城",
+        "most_recent_tweet_id": "2105479646578118911",
+        "name": "嚼嚼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1789143945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098448361116557312/v8ICxkHS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 317,
+          "like_count": 3375,
+          "listed_count": 0,
+          "media_count": 329,
+          "tweet_count": 2909
+        },
+        "url": "https://t.co/QEp5sn5Pwy",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-26T07:43:46.000Z",
+        "description": "友所有人\n会回fo同类喵\n简介施工中\nhttps://t.co/6gBhlfU4Bv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mt17276",
+                "end": 42,
+                "expanded_url": "https://ngl.link/mt17276",
+                "start": 19,
+                "url": "https://t.co/6gBhlfU4Bv"
+              }
+            ]
+          }
+        },
+        "id": "2092517131552423936",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105479439257862430",
+        "name": "MT",
+        "pinned_tweet_id": "2103782740579819682",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092519007610118145/cevOQhIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 131,
+          "like_count": 3719,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 892
+        },
+        "url": "",
+        "username": "MT7276",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-26T18:29:22.000Z",
+        "description": "只是一個善良的人呀。\n匿名提問箱https://t.co/eJ9W79m8Ac",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zhi68399/bit",
+                "end": 39,
+                "expanded_url": "https://ngl.link/zhi68399/bit",
+                "start": 16,
+                "url": "https://t.co/eJ9W79m8Ac"
+              }
+            ]
+          }
+        },
+        "id": "2092680299796905984",
+        "is_identity_verified": false,
+        "location": "距離你2.778km",
+        "most_recent_tweet_id": "2105478945215021527",
+        "name": "滯⁶",
+        "pinned_tweet_id": "2092684925942256007",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092680299796905984/1787769409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092680953135276032/KdZz1L4l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 102,
+          "like_count": 154,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 398
+        },
+        "url": "",
+        "username": "xiaozhi_0801",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2108211076294955193",
+    "created_at": "2026-10-08T15:01:03.000Z",
+    "display_text_range": [
+      0,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T16:01:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2108211076294955193"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2108141336193007875",
+          "start": 11,
+          "url": "https://t.co/TQCwh8x7xF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108211076294955193",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108141336193007875",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "我以后对我同学就这样 https://t.co/TQCwh8x7xF"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6633,
+        "height": 1280,
+        "media_key": "13_2108141258413858816",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2108141258413858816/img/Kv2-GEWRAUsaDPzk.jpg",
+        "public_metrics": {
+          "view_count": 54092
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2108141258413858816/vid/avc1/320x594/6UYlbiHx9eaJnnsn.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2108141258413858816/vid/avc1/480x892/cWMqGsY4DUw_C_E5.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2108141258413858816/vid/avc1/688x1280/eYqjUJRKaZelXzvK.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2108141258413858816/pl/aziqTTyZHjM5mLbN.m3u8"
+          }
+        ],
+        "width": 688
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2108211076294955193",
+        "created_at": "2026-10-08T15:01:03.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T16:01:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108211076294955193"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2108141336193007875",
+              "start": 11,
+              "url": "https://t.co/TQCwh8x7xF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108211076294955193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108141336193007875",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "我以后对我同学就这样 https://t.co/TQCwh8x7xF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2108141258413858816"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2108141336193007875",
+        "created_at": "2026-10-08T10:23:56.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T11:23:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108141336193007875"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yCOZ4ECvrU",
+              "end": 83,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2108141336193007875/video/1",
+              "media_key": "13_2108141258413858816",
+              "start": 60,
+              "url": "https://t.co/yCOZ4ECvrU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108141336193007875",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2108141258413858816"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 276,
+          "impression_count": 139316,
+          "like_count": 992,
+          "quote_count": 19,
+          "reply_count": 103,
+          "retweet_count": 101
+        },
+        "reply_settings": "everyone",
+        "text": "【血腥慎入】\n网友投稿： 10月8日，山东省菏泽市成武县发生一起持刀杀人事件，一男子持刀多次向另一男子胸部连刺数十刀。 https://t.co/yCOZ4ECvrU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x/pub",
+                "start": 0,
+                "url": "https://t.co/QEp5sn5Pwy"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "应许记忆之城",
+        "most_recent_tweet_id": "2108211076294955193",
+        "name": "嚼嚼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1789143945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105903302756139008/ZZtPcn-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 343,
+          "like_count": 3551,
+          "listed_count": 0,
+          "media_count": 343,
+          "tweet_count": 3026
+        },
+        "url": "https://t.co/QEp5sn5Pwy",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "is_identity_verified": false,
+        "location": "偷乐星球",
+        "most_recent_tweet_id": "2108210823235555368",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2092920054601990188",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1260553941714186241/1650306568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2269701,
+          "following_count": 1083,
+          "like_count": 10581,
+          "listed_count": 8921,
+          "media_count": 54829,
+          "tweet_count": 62192
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

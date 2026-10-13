@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2105612613564748232",
+    "created_at": "2026-10-01T10:55:42.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T11:55:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105612613564748232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2082428005658345472",
+          "start": 3,
+          "username": "passionofchrt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105612613564748232",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 489
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104227243845149136",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @passionofchrt: He was nailed to the Cross. ✝️ He suffered to set us free. This Sunday, remember: Jesus sees your pain and has not forgo…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 149791,
+        "height": 480,
+        "media_key": "13_2104227171854139392",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2104227171854139392/img/pmAJ3GikX-vK4kRG.jpg",
+        "public_metrics": {
+          "view_count": 1307634
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104227171854139392/vid/avc1/480x270/zZn6Fd8_cKuYzE8i.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104227171854139392/vid/avc1/640x360/wH03bDKO3_vOmz6u.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104227171854139392/vid/avc1/854x480/q40lqyK-KxRQQqHB.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2104227171854139392/pl/F68KkKi9UO_7U1gM.m3u8"
+          }
+        ],
+        "width": 854
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2105612613564748232",
+        "created_at": "2026-10-01T10:55:42.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T11:55:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105612613564748232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2082428005658345472",
+              "start": 3,
+              "username": "passionofchrt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105612613564748232",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 489
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104227243845149136",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @passionofchrt: He was nailed to the Cross. ✝️ He suffered to set us free. This Sunday, remember: Jesus sees your pain and has not forgo…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2104227171854139392"
+          ]
+        },
+        "author_id": "2082428005658345472",
+        "conversation_id": "2104227243845149136",
+        "created_at": "2026-09-27T15:10:44.000Z",
+        "display_text_range": [
+          0,
+          246
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T16:10:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104227243845149136"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zl4tqI0W6R",
+              "end": 270,
+              "expanded_url": "https://x.com/passionofchrt/status/2104227243845149136/video/1",
+              "media_key": "13_2104227171854139392",
+              "start": 247,
+              "url": "https://t.co/zl4tqI0W6R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104227243845149136",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2104227171854139392"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2627,
+          "impression_count": 1078998,
+          "like_count": 8392,
+          "quote_count": 27,
+          "reply_count": 137,
+          "retweet_count": 489
+        },
+        "reply_settings": "everyone",
+        "text": "He was nailed to the Cross. ✝️ He suffered to set us free. This Sunday, remember: Jesus sees your pain and has not forgotten you. Hold on to your faith—His love is greater than every burden. \n\nDo you trust Jesus with your pain today? YES or NO? 🙏 https://t.co/zl4tqI0W6R"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x/pub",
+                "start": 0,
+                "url": "https://t.co/QEp5sn5Pwy"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "应许记忆之城",
+        "most_recent_tweet_id": "2105612613564748232",
+        "name": "嚼嚼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1789143945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105575124732956673/1bznErqP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 323,
+          "like_count": 3391,
+          "listed_count": 0,
+          "media_count": 333,
+          "tweet_count": 2921
+        },
+        "url": "https://t.co/QEp5sn5Pwy",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-29T11:30:40.000Z",
+        "description": "Standing boldly for Christ, defending the family, and living according to the truth. ✝️🙏",
+        "id": "2082428005658345472",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2105465152367648860",
+        "name": "Mel Gibson",
+        "pinned_tweet_id": "2090470642030113004",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082428005658345472/1786039834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085428331399221248/n6r6zsI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6356,
+          "following_count": 208,
+          "like_count": 748,
+          "listed_count": 0,
+          "media_count": 483,
+          "tweet_count": 774
+        },
+        "url": "",
+        "username": "passionofchrt",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

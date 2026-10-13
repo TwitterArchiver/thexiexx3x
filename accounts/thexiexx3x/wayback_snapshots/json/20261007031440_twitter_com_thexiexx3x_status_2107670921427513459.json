@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2106774252703842421",
+    "created_at": "2026-10-07T03:14:40.000Z",
+    "display_text_range": [
+      14,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T04:14:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107670921427513459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2092680299796905984",
+          "start": 0,
+          "username": "xiaozhi_0801"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107670921427513459",
+    "in_reply_to_user_id": "2092680299796905984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106774252703842421",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaozhi_0801 蹲蹲 恭喜呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 896,
+        "media_key": "3_2106774244889858048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTzEA3iaEAAYQiq.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2106774252703842421",
+        "created_at": "2026-10-07T03:14:40.000Z",
+        "display_text_range": [
+          14,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T04:14:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107670921427513459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2092680299796905984",
+              "start": 0,
+              "username": "xiaozhi_0801"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107670921427513459",
+        "in_reply_to_user_id": "2092680299796905984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106774252703842421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaozhi_0801 蹲蹲 恭喜呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106774244889858048"
+          ]
+        },
+        "author_id": "2092680299796905984",
+        "conversation_id": "2106774252703842421",
+        "created_at": "2026-10-04T15:51:38.000Z",
+        "display_text_range": [
+          0,
+          124
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T16:51:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106774252703842421"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/862kXcWLlw",
+              "end": 148,
+              "expanded_url": "https://x.com/xiaozhi_0801/status/2106774252703842421/photo/1",
+              "media_key": "3_2106774244889858048",
+              "start": 125,
+              "url": "https://t.co/862kXcWLlw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106774252703842421",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106774244889858048"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 5116,
+          "like_count": 142,
+          "quote_count": 1,
+          "reply_count": 131,
+          "retweet_count": 129
+        },
+        "reply_settings": "everyone",
+        "text": "媽呀！！我居然能100fo了！！來來來給大家抽個獎\n參與條件：關+轉+評\n一等獎：玉米片兩板（折現28）*1\n二等獎：雞塵30t（折現4.5r）*2\n三等獎：給你畫一張qq人（折現2.5r）*3\n\n感謝大家陪我玩呀……我沒什麼錢只能給大家抽點這個了 https://t.co/862kXcWLlw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x/pub",
+                "start": 0,
+                "url": "https://t.co/QEp5sn5Pwy"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "应许记忆之城",
+        "most_recent_tweet_id": "2107670921427513459",
+        "name": "嚼嚼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1789143945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105903302756139008/ZZtPcn-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 341,
+          "like_count": 3527,
+          "listed_count": 0,
+          "media_count": 343,
+          "tweet_count": 3017
+        },
+        "url": "https://t.co/QEp5sn5Pwy",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-26T18:29:22.000Z",
+        "description": "只是一個善良的人呀。\n互fo互轉請大膽私信…長期開放閑聊模塊\n匿名提問箱https://t.co/eJ9W79m8Ac",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zhi68399/bit",
+                "end": 59,
+                "expanded_url": "https://ngl.link/zhi68399/bit",
+                "start": 36,
+                "url": "https://t.co/eJ9W79m8Ac"
+              }
+            ]
+          }
+        },
+        "id": "2092680299796905984",
+        "is_identity_verified": false,
+        "location": "距離你2.778km",
+        "most_recent_tweet_id": "2107670849113530824",
+        "name": "滯⁶",
+        "pinned_tweet_id": "2092684925942256007",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092680299796905984/1787769409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092680953135276032/KdZz1L4l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 130,
+          "like_count": 314,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 596
+        },
+        "url": "",
+        "username": "xiaozhi_0801",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

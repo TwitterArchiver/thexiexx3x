@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2105747633461694464",
+        "13_2105747845131472896"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2105747908809425042",
+    "created_at": "2026-10-01T19:53:19.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T20:53:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105747908809425042"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZQEFOwOsTP",
+          "end": 28,
+          "expanded_url": "https://x.com/thexiexx3x/status/2105747908809425042/video/1",
+          "media_key": "13_2105747633461694464",
+          "start": 5,
+          "url": "https://t.co/ZQEFOwOsTP"
+        },
+        {
+          "display_url": "pic.x.com/ZQEFOwOsTP",
+          "end": 28,
+          "expanded_url": "https://x.com/thexiexx3x/status/2105747908809425042/video/1",
+          "media_key": "13_2105747845131472896",
+          "start": 5,
+          "url": "https://t.co/ZQEFOwOsTP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105747908809425042",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2105747633461694464"
+      },
+      {
+        "media_key": "13_2105747845131472896"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "快四点了 https://t.co/ZQEFOwOsTP"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20498,
+        "height": 1280,
+        "media_key": "13_2105747633461694464",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2105747633461694464/img/WEkD9T1q3-mMztz3.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105747633461694464/vid/avc1/320x568/OX3fBvZAoPx9dOfZ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105747633461694464/vid/avc1/480x852/JxOmVD4vm48lFbSt.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105747633461694464/vid/avc1/720x1280/SRsf-dDFdNa92rHW.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2105747633461694464/pl/9nHC12e8m611V1R4.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 32119,
+        "height": 1280,
+        "media_key": "13_2105747845131472896",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2105747845131472896/img/rAqYJSrdDA109UZf.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105747845131472896/vid/avc1/320x568/1Wbqic4OYJFNiwy5.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105747845131472896/vid/avc1/480x852/M2n4ilE9JHivi3zE.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105747845131472896/vid/avc1/720x1280/zXM27rAF8tOmPn3t.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2105747845131472896/pl/2Oz10s1gbx7DvIxi.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2105747633461694464",
+            "13_2105747845131472896"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2105747908809425042",
+        "created_at": "2026-10-01T19:53:19.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T20:53:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105747908809425042"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZQEFOwOsTP",
+              "end": 28,
+              "expanded_url": "https://x.com/thexiexx3x/status/2105747908809425042/video/1",
+              "media_key": "13_2105747633461694464",
+              "start": 5,
+              "url": "https://t.co/ZQEFOwOsTP"
+            },
+            {
+              "display_url": "pic.x.com/ZQEFOwOsTP",
+              "end": 28,
+              "expanded_url": "https://x.com/thexiexx3x/status/2105747908809425042/video/1",
+              "media_key": "13_2105747845131472896",
+              "start": 5,
+              "url": "https://t.co/ZQEFOwOsTP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105747908809425042",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2105747633461694464"
+          },
+          {
+            "media_key": "13_2105747845131472896"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "快四点了 https://t.co/ZQEFOwOsTP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x/pub",
+                "start": 0,
+                "url": "https://t.co/QEp5sn5Pwy"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "应许记忆之城",
+        "most_recent_tweet_id": "2105747908809425042",
+        "name": "嚼嚼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1789143945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105575124732956673/1bznErqP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 325,
+          "like_count": 3412,
+          "listed_count": 0,
+          "media_count": 335,
+          "tweet_count": 2929
+        },
+        "url": "https://t.co/QEp5sn5Pwy",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

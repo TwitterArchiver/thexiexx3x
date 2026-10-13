@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105478456230244352",
+        "3_2105478456490205184"
+      ],
+      "media_source_tweet_id": [
+        "2105478464979743195",
+        "2105478464979743195"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2105484430647435673",
+    "created_at": "2026-10-01T02:26:20.000Z",
+    "display_text_range": [
+      0,
+      94
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T03:26:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105484430647435673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1403120401199341571",
+          "start": 3,
+          "username": "horrorsthetics"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Stxgv1ZJdz",
+          "end": 94,
+          "expanded_url": "https://x.com/horrorsthetics/status/2105478464979743195/photo/1",
+          "media_key": "3_2105478456230244352",
+          "start": 71,
+          "url": "https://t.co/Stxgv1ZJdz"
+        },
+        {
+          "display_url": "pic.x.com/Stxgv1ZJdz",
+          "end": 94,
+          "expanded_url": "https://x.com/horrorsthetics/status/2105478464979743195/photo/1",
+          "media_key": "3_2105478456490205184",
+          "start": 71,
+          "url": "https://t.co/Stxgv1ZJdz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105484430647435673",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2105478456230244352"
+      },
+      {
+        "media_key": "3_2105478456490205184"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105478464979743195",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @horrorsthetics: GINGER SNAPS (2000)\nGINGER SNAPS: UNLEASHED (2004) https://t.co/Stxgv1ZJdz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1197,
+        "media_key": "3_2105478456230244352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTgpgCnXcAA78NS.jpg",
+        "width": 1071
+      },
+      {
+        "height": 976,
+        "media_key": "3_2105478456490205184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTgpgDlWIAAh_mh.jpg",
+        "width": 699
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105478456230244352",
+            "3_2105478456490205184"
+          ],
+          "media_source_tweet_id": [
+            "2105478464979743195",
+            "2105478464979743195"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2105484430647435673",
+        "created_at": "2026-10-01T02:26:20.000Z",
+        "display_text_range": [
+          0,
+          94
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T03:26:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105484430647435673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1403120401199341571",
+              "start": 3,
+              "username": "horrorsthetics"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Stxgv1ZJdz",
+              "end": 94,
+              "expanded_url": "https://x.com/horrorsthetics/status/2105478464979743195/photo/1",
+              "media_key": "3_2105478456230244352",
+              "start": 71,
+              "url": "https://t.co/Stxgv1ZJdz"
+            },
+            {
+              "display_url": "pic.x.com/Stxgv1ZJdz",
+              "end": 94,
+              "expanded_url": "https://x.com/horrorsthetics/status/2105478464979743195/photo/1",
+              "media_key": "3_2105478456490205184",
+              "start": 71,
+              "url": "https://t.co/Stxgv1ZJdz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105484430647435673",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2105478456230244352"
+          },
+          {
+            "media_key": "3_2105478456490205184"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105478464979743195",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @horrorsthetics: GINGER SNAPS (2000)\nGINGER SNAPS: UNLEASHED (2004) https://t.co/Stxgv1ZJdz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105478456230244352",
+            "3_2105478456490205184"
+          ]
+        },
+        "author_id": "1403120401199341571",
+        "conversation_id": "2105478464979743195",
+        "created_at": "2026-10-01T02:02:38.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T03:02:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105478464979743195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Stxgv1ZJdz",
+              "end": 74,
+              "expanded_url": "https://x.com/horrorsthetics/status/2105478464979743195/photo/1",
+              "media_key": "3_2105478456230244352",
+              "start": 51,
+              "url": "https://t.co/Stxgv1ZJdz"
+            },
+            {
+              "display_url": "pic.x.com/Stxgv1ZJdz",
+              "end": 74,
+              "expanded_url": "https://x.com/horrorsthetics/status/2105478464979743195/photo/1",
+              "media_key": "3_2105478456490205184",
+              "start": 51,
+              "url": "https://t.co/Stxgv1ZJdz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105478464979743195",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2105478456230244352"
+          },
+          {
+            "media_key": "3_2105478456490205184"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 853,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "GINGER SNAPS (2000)\nGINGER SNAPS: UNLEASHED (2004) https://t.co/Stxgv1ZJdz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x/pub",
+                "start": 0,
+                "url": "https://t.co/QEp5sn5Pwy"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "应许记忆之城",
+        "most_recent_tweet_id": "2105484430647435673",
+        "name": "嚼嚼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1789143945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098448361116557312/v8ICxkHS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 317,
+          "like_count": 3375,
+          "listed_count": 0,
+          "media_count": 329,
+          "tweet_count": 2910
+        },
+        "url": "https://t.co/QEp5sn5Pwy",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-06-10T22:42:41.000Z",
+        "description": "𝒔𝒉𝒆 𝒘𝒉𝒐 𝒉𝒂𝒏𝒈𝒔 𝒐𝒖𝒕 𝒂 𝒍𝒐𝒕 𝒊𝒏 𝒄𝒆𝒎𝒆𝒕𝒆𝒓𝒊𝒆𝒔 ⚰️ • 𝐞𝐧𝐭𝐞𝐫 𝐚𝐭 𝐲𝐨𝐮𝐫 𝐨𝐰𝐧 𝐫𝐢𝐬𝐤! 🕸️ • follow if you 🖤 daily 𝗰𝗼𝗻𝘁𝗲𝗻𝘁 •",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/horrorsthetics",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/horrorsthetics",
+                "start": 0,
+                "url": "https://t.co/I0X0fbQILB"
+              }
+            ]
+          }
+        },
+        "id": "1403120401199341571",
+        "is_identity_verified": true,
+        "location": "hellmouth  | 18+",
+        "most_recent_tweet_id": "2105478561196818559",
+        "name": "🦇 𝐭𝐡𝐞 𝐯𝐚𝐦𝐩𝐢𝐫𝐚 𝐬𝐡𝐨𝐰 | nsfw",
+        "pinned_tweet_id": "2105117442259210247",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1403120401199341571/1755051257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991990580881043456/c6ptQ8xz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255608,
+          "following_count": 2893,
+          "like_count": 55040,
+          "listed_count": 453,
+          "media_count": 18754,
+          "tweet_count": 31344
+        },
+        "url": "https://t.co/I0X0fbQILB",
+        "username": "horrorsthetics",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

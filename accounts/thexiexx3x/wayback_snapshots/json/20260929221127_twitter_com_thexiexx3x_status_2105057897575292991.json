@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105057717224419328",
+        "3_2105057891355152384",
+        "3_2105057717224411136"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2105057897575292991",
+    "created_at": "2026-09-29T22:11:27.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T23:11:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105057897575292991"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 7,
+          "start": 0,
+          "tag": "SKC美術部"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/umImt535mF",
+          "end": 31,
+          "expanded_url": "https://x.com/thexiexx3x/status/2105057897575292991/photo/1",
+          "media_key": "3_2105057717224419328",
+          "start": 8,
+          "url": "https://t.co/umImt535mF"
+        },
+        {
+          "display_url": "pic.x.com/umImt535mF",
+          "end": 31,
+          "expanded_url": "https://x.com/thexiexx3x/status/2105057897575292991/photo/1",
+          "media_key": "3_2105057891355152384",
+          "start": 8,
+          "url": "https://t.co/umImt535mF"
+        },
+        {
+          "display_url": "pic.x.com/umImt535mF",
+          "end": 31,
+          "expanded_url": "https://x.com/thexiexx3x/status/2105057897575292991/photo/1",
+          "media_key": "3_2105057717224411136",
+          "start": 8,
+          "url": "https://t.co/umImt535mF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105057897575292991",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2105057717224419328"
+      },
+      {
+        "media_key": "3_2105057891355152384"
+      },
+      {
+        "media_key": "3_2105057717224411136"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#SKC美術部 https://t.co/umImt535mF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2105057717224419328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTaq1zrbMAAhFNC.jpg",
+        "width": 2041
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2105057891355152384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTaq_8XbUAAxOgQ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2105057717224411136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTaq1zrbEAAYbN5.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105057717224419328",
+            "3_2105057891355152384",
+            "3_2105057717224411136"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2105057897575292991",
+        "created_at": "2026-09-29T22:11:27.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T23:11:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105057897575292991"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "SKC美術部"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/umImt535mF",
+              "end": 31,
+              "expanded_url": "https://x.com/thexiexx3x/status/2105057897575292991/photo/1",
+              "media_key": "3_2105057717224419328",
+              "start": 8,
+              "url": "https://t.co/umImt535mF"
+            },
+            {
+              "display_url": "pic.x.com/umImt535mF",
+              "end": 31,
+              "expanded_url": "https://x.com/thexiexx3x/status/2105057897575292991/photo/1",
+              "media_key": "3_2105057891355152384",
+              "start": 8,
+              "url": "https://t.co/umImt535mF"
+            },
+            {
+              "display_url": "pic.x.com/umImt535mF",
+              "end": 31,
+              "expanded_url": "https://x.com/thexiexx3x/status/2105057897575292991/photo/1",
+              "media_key": "3_2105057717224411136",
+              "start": 8,
+              "url": "https://t.co/umImt535mF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105057897575292991",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2105057717224419328"
+          },
+          {
+            "media_key": "3_2105057891355152384"
+          },
+          {
+            "media_key": "3_2105057717224411136"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#SKC美術部 https://t.co/umImt535mF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x/pub",
+                "start": 0,
+                "url": "https://t.co/QEp5sn5Pwy"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "应许记忆之城",
+        "most_recent_tweet_id": "2105057897575292991",
+        "name": "嚼嚼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1789143945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098448361116557312/v8ICxkHS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 317,
+          "like_count": 3351,
+          "listed_count": 0,
+          "media_count": 329,
+          "tweet_count": 2895
+        },
+        "url": "https://t.co/QEp5sn5Pwy",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

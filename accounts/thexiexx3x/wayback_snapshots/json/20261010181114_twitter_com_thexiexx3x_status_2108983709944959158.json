@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2108983709944959158",
+    "created_at": "2026-10-10T18:11:14.000Z",
+    "display_text_range": [
+      0,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-10T19:11:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108983709944959158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2082727251372847104",
+          "start": 3,
+          "username": "yume_034"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108983709944959158",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108738154278916270",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yume_034: 生活就是一场badtrip"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2108983709944959158",
+        "created_at": "2026-10-10T18:11:14.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T19:11:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108983709944959158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2082727251372847104",
+              "start": 3,
+              "username": "yume_034"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108983709944959158",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108738154278916270",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yume_034: 生活就是一场badtrip"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082727251372847104",
+        "conversation_id": "2108738154278916270",
+        "created_at": "2026-10-10T01:55:29.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T02:55:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108738154278916270"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2108738154278916270",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 605,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "生活就是一场badtrip"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n画画的东西在@lkuaix_xie\n以前的号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "lkuaix_xie"
+              },
+              {
+                "end": 37,
+                "start": 28,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x/pub",
+                "start": 0,
+                "url": "https://t.co/QEp5sn6nm6"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "应许记忆之城",
+        "most_recent_tweet_id": "2108983709944959158",
+        "name": "嚼嚼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1789143945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105903302756139008/ZZtPcn-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 343,
+          "like_count": 3566,
+          "listed_count": 0,
+          "media_count": 344,
+          "tweet_count": 3040
+        },
+        "url": "https://t.co/QEp5sn6nm6",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-30T07:19:51.000Z",
+        "description": "可以叫我梦境！友跨顺女，中焦中抑，可以找我聊天喵，直fo就是眼熟你喜欢你😽，查成分回fo\n防炸号备用@yume_047\n正在寻找活着的意义...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "yume_047"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qi56064",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qi56064",
+                "start": 0,
+                "url": "https://t.co/yyjHf709bL"
+              }
+            ]
+          }
+        },
+        "id": "2082727251372847104",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108982372452708693",
+        "name": "🦋2.0",
+        "pinned_tweet_id": "2082737344374006148",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082727251372847104/1785396639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082730573668536320/LAcfOek0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 285,
+          "like_count": 582,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 1471
+        },
+        "url": "https://t.co/yyjHf709bL",
+        "username": "yume_034",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2107344858696564774",
+    "created_at": "2026-10-06T11:25:05.000Z",
+    "display_text_range": [
+      27,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T12:25:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107431950294368644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1811393690008756225",
+          "start": 0,
+          "username": "_korekuni_ryuji"
+        },
+        {
+          "end": 26,
+          "id": "2047425753227333632",
+          "start": 17,
+          "username": "YuganQwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107431950294368644",
+    "in_reply_to_user_id": "1811393690008756225",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107344858696564774",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_korekuni_ryuji @YuganQwQ 蹲蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2107344858696564774",
+        "created_at": "2026-10-06T11:25:05.000Z",
+        "display_text_range": [
+          27,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T12:25:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107431950294368644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1811393690008756225",
+              "start": 0,
+              "username": "_korekuni_ryuji"
+            },
+            {
+              "end": 26,
+              "id": "2047425753227333632",
+              "start": 17,
+              "username": "YuganQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107431950294368644",
+        "in_reply_to_user_id": "1811393690008756225",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107344858696564774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_korekuni_ryuji @YuganQwQ 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811393690008756225",
+        "conversation_id": "2107344858696564774",
+        "created_at": "2026-10-06T05:39:01.000Z",
+        "display_text_range": [
+          0,
+          150
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T06:39:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107344858696564774"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2107344858696564774",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2379,
+          "like_count": 94,
+          "quote_count": 0,
+          "reply_count": 54,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "一百粉丝啦我也来抽个奖好了，因为我是没有💊嗑的疯癫欧弟妹所以忍痛割爱抛弃毛爷爷\n一等奖:一杯奶茶（可以折20）\n二等奖:一个嗯嗯是什么呢（可以折13.14）\n三等奖:5.2两个！\n参与奖:到底有什么用啊?！物语的香吻一枚。（?）\n就转关评赞就好\n虽然不多也是我扣扣搜搜扣出来的桀桀桀桀，10.10开奖"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x/pub",
+                "start": 0,
+                "url": "https://t.co/QEp5sn5Pwy"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "应许记忆之城",
+        "most_recent_tweet_id": "2107431950294368644",
+        "name": "嚼嚼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1789143945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105903302756139008/ZZtPcn-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 335,
+          "like_count": 3499,
+          "listed_count": 0,
+          "media_count": 342,
+          "tweet_count": 3001
+        },
+        "url": "https://t.co/QEp5sn5Pwy",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-11T13:34:50.000Z",
+        "description": "我是物语\n前世:@Mikatsuki_iryu\n地雷系/重力系/病娇全肯定bot\n想骚扰我🚪68纯绿，不打钱别逼我骂你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "Mikatsuki_iryu"
+              }
+            ]
+          }
+        },
+        "id": "1811393690008756225",
+        "is_identity_verified": false,
+        "location": "Kasukabe-shi, Saitama",
+        "most_recent_tweet_id": "2107428846836535483",
+        "name": "♪物語炸薯條♪🐈‍⬛",
+        "pinned_tweet_id": "2105995622876881388",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1811393690008756225/1763210288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106793773917462528/mEjJpC7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 131,
+          "like_count": 1049,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 941
+        },
+        "url": "",
+        "username": "_korekuni_ryuji",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 查成分回fo 直fo是因为喜欢你呀 |\n前世@yuganbb823 宝宝@ci_shang85157\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "yuganbb823"
+              },
+              {
+                "end": 78,
+                "start": 64,
+                "username": "ci_shang85157"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuganqwq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuganqwq",
+                "start": 0,
+                "url": "https://t.co/19gBB14uzC"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "is_identity_verified": false,
+        "location": "距离你4.5km",
+        "most_recent_tweet_id": "2107416011263955215",
+        "name": "为何人生如此悲惨2.0",
+        "pinned_tweet_id": "2105458187768131727",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047425753227333632/1786741767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 670,
+          "following_count": 563,
+          "like_count": 7181,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 1783
+        },
+        "url": "https://t.co/19gBB14uzC",
+        "username": "YuganQwQ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

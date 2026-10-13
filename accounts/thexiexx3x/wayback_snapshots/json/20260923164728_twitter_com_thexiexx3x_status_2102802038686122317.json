@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2054583279257583616",
+    "conversation_id": "2102710632592327057",
+    "created_at": "2026-09-23T16:47:28.000Z",
+    "display_text_range": [
+      17,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T17:47:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102802038686122317"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2008170070573510656",
+          "start": 0,
+          "username": "HugangGangh9300"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102802038686122317",
+    "in_reply_to_user_id": "2008170070573510656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102733174031925709",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HugangGangh9300 好的 首先谢谢你的关心 和父母讲钱也回不来只会给他们造成负担毕竟他们也不富裕自己也天天要用钱。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2102710632592327057",
+        "created_at": "2026-09-23T16:47:28.000Z",
+        "display_text_range": [
+          17,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T17:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102802038686122317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2008170070573510656",
+              "start": 0,
+              "username": "HugangGangh9300"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102802038686122317",
+        "in_reply_to_user_id": "2008170070573510656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102733174031925709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HugangGangh9300 好的 首先谢谢你的关心 和父母讲钱也回不来只会给他们造成负担毕竟他们也不富裕自己也天天要用钱。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008170070573510656",
+        "conversation_id": "2102710632592327057",
+        "created_at": "2026-09-23T12:13:50.000Z",
+        "display_text_range": [
+          12,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T13:13:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102733174031925709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2054583279257583616",
+              "start": 0,
+              "username": "thexiexx3x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102733174031925709",
+        "in_reply_to_user_id": "2054583279257583616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102710632592327057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thexiexx3x 小妹妹如果1500让你长个教训，以后遇到大骗局可以识别，那么这就值了，和爸爸妈妈讲就行别怕，又不是1500万"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x/pub",
+                "start": 0,
+                "url": "https://t.co/QEp5sn5Pwy"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "应许记忆之城",
+        "most_recent_tweet_id": "2102802038686122317",
+        "name": "嚼嚼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1789143945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098448361116557312/v8ICxkHS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 307,
+          "like_count": 3255,
+          "listed_count": 0,
+          "media_count": 315,
+          "tweet_count": 2827
+        },
+        "url": "https://t.co/QEp5sn5Pwy",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-05T13:33:58.000Z",
+        "description": "别把我当傻逼，算了我就是傻逼，我就安安静静当我的傻逼，不骚扰任何人，在这里能有几个好朋友就更好了",
+        "id": "2008170070573510656",
+        "is_identity_verified": false,
+        "location": "几把岛",
+        "most_recent_tweet_id": "2102791369920237878",
+        "name": "hugang",
+        "pinned_tweet_id": "2102274731227631821",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060976140618170369/4alerkcv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 4,
+          "like_count": 56,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 86
+        },
+        "url": "",
+        "username": "HugangGangh9300",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

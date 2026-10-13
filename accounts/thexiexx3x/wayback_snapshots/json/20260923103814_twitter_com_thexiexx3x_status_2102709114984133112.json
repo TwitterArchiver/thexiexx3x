@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102709107769880576",
+        "3_2102709107744780288"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2102709114984133112",
+    "created_at": "2026-09-23T10:38:14.000Z",
+    "display_text_range": [
+      0,
+      132
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T11:38:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102709114984133112"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mdIvV0ncGq",
+          "end": 156,
+          "expanded_url": "https://x.com/thexiexx3x/status/2102709114984133112/photo/1",
+          "media_key": "3_2102709107769880576",
+          "start": 133,
+          "url": "https://t.co/mdIvV0ncGq"
+        },
+        {
+          "display_url": "pic.x.com/mdIvV0ncGq",
+          "end": 156,
+          "expanded_url": "https://x.com/thexiexx3x/status/2102709114984133112/photo/1",
+          "media_key": "3_2102709107744780288",
+          "start": 133,
+          "url": "https://t.co/mdIvV0ncGq"
+        },
+        {
+          "display_url": "x.com/thexiexx3x/sta…",
+          "end": 180,
+          "expanded_url": "https://twitter.com/thexiexx3x/status/2102536115601510704",
+          "start": 157,
+          "url": "https://t.co/yq9UkN0QSu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102709114984133112",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2102709107769880576"
+      },
+      {
+        "media_key": "3_2102709107744780288"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102536115601510704",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "骗子死全家我靠一个十六岁小女孩他妈的日日夜夜省吃俭用五年的钱几秒就没了这你也骗你妈逼一点人性没有啊本来我就没钱精神状态也很差为什么还要让我发生这种事。。你妈逼全家被我操死了把你全家送走被轮奸惨死操你妈了个逼信不信给你和你家后代器官挖了几杯的还老子钱这种东西不得好死 https://t.co/mdIvV0ncGq https://t.co/yq9UkN0QSu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1196,
+        "media_key": "3_2102709107769880576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS5SyvqaMAAbV0A.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1213,
+        "media_key": "3_2102709107744780288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS5SyvkbMAAWlXo.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102709107769880576",
+            "3_2102709107744780288"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2102709114984133112",
+        "created_at": "2026-09-23T10:38:14.000Z",
+        "display_text_range": [
+          0,
+          132
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T11:38:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102709114984133112"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mdIvV0ncGq",
+              "end": 156,
+              "expanded_url": "https://x.com/thexiexx3x/status/2102709114984133112/photo/1",
+              "media_key": "3_2102709107769880576",
+              "start": 133,
+              "url": "https://t.co/mdIvV0ncGq"
+            },
+            {
+              "display_url": "pic.x.com/mdIvV0ncGq",
+              "end": 156,
+              "expanded_url": "https://x.com/thexiexx3x/status/2102709114984133112/photo/1",
+              "media_key": "3_2102709107744780288",
+              "start": 133,
+              "url": "https://t.co/mdIvV0ncGq"
+            },
+            {
+              "display_url": "x.com/thexiexx3x/sta…",
+              "end": 180,
+              "expanded_url": "https://twitter.com/thexiexx3x/status/2102536115601510704",
+              "start": 157,
+              "url": "https://t.co/yq9UkN0QSu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102709114984133112",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102709107769880576"
+          },
+          {
+            "media_key": "3_2102709107744780288"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102536115601510704",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "骗子死全家我靠一个十六岁小女孩他妈的日日夜夜省吃俭用五年的钱几秒就没了这你也骗你妈逼一点人性没有啊本来我就没钱精神状态也很差为什么还要让我发生这种事。。你妈逼全家被我操死了把你全家送走被轮奸惨死操你妈了个逼信不信给你和你家后代器官挖了几杯的还老子钱这种东西不得好死 https://t.co/mdIvV0ncGq https://t.co/yq9UkN0QSu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054583279257583616",
+        "conversation_id": "2102536115601510704",
+        "created_at": "2026-09-22T23:10:47.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T00:10:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102536115601510704"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102536115601510704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1413,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我被骗了1500买ustd攒了五年的钱全没了 我自杀去了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x/pub",
+                "start": 0,
+                "url": "https://t.co/QEp5sn5Pwy"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "应许记忆之城",
+        "most_recent_tweet_id": "2102709114984133112",
+        "name": "嚼嚼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1789143945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098448361116557312/v8ICxkHS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 300,
+          "like_count": 3237,
+          "listed_count": 0,
+          "media_count": 314,
+          "tweet_count": 2820
+        },
+        "url": "https://t.co/QEp5sn5Pwy",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

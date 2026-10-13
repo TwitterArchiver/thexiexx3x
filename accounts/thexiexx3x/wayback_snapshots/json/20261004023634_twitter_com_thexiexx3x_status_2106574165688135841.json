@@ -1,0 +1,390 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106473135059197952",
+        "3_2106473135059181568",
+        "3_2106473135059165184"
+      ],
+      "media_source_tweet_id": [
+        "2106473152859742471",
+        "2106473152859742471",
+        "2106473152859742471"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2106574165688135841",
+    "created_at": "2026-10-04T02:36:34.000Z",
+    "display_text_range": [
+      0,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T03:36:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106574165688135841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1960573595798921254",
+          "start": 3,
+          "username": "bailanlam"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9Y0Xj4y8O9",
+          "end": 54,
+          "expanded_url": "https://x.com/bailanlam/status/2106473152859742471/photo/1",
+          "media_key": "3_2106473135059197952",
+          "start": 31,
+          "url": "https://t.co/9Y0Xj4y8O9"
+        },
+        {
+          "display_url": "pic.x.com/9Y0Xj4y8O9",
+          "end": 54,
+          "expanded_url": "https://x.com/bailanlam/status/2106473152859742471/photo/1",
+          "media_key": "3_2106473135059181568",
+          "start": 31,
+          "url": "https://t.co/9Y0Xj4y8O9"
+        },
+        {
+          "display_url": "pic.x.com/9Y0Xj4y8O9",
+          "end": 54,
+          "expanded_url": "https://x.com/bailanlam/status/2106473152859742471/photo/1",
+          "media_key": "3_2106473135059165184",
+          "start": 31,
+          "url": "https://t.co/9Y0Xj4y8O9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106574165688135841",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2106473135059197952"
+      },
+      {
+        "media_key": "3_2106473135059181568"
+      },
+      {
+        "media_key": "3_2106473135059165184"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 115
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106473152859742471",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bailanlam: 回看过去，居然凑齐了三种颜色… https://t.co/9Y0Xj4y8O9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2106473135059197952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTuyJ-AbYAAuPNy.jpg",
+        "width": 1448
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2106473135059181568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTuyJ-AbIAAHclK.jpg",
+        "width": 1448
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2106473135059165184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTuyJ-Aa4AAfuGx.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106473135059197952",
+            "3_2106473135059181568",
+            "3_2106473135059165184"
+          ],
+          "media_source_tweet_id": [
+            "2106473152859742471",
+            "2106473152859742471",
+            "2106473152859742471"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2106574165688135841",
+        "created_at": "2026-10-04T02:36:34.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T03:36:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106574165688135841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1960573595798921254",
+              "start": 3,
+              "username": "bailanlam"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9Y0Xj4y8O9",
+              "end": 54,
+              "expanded_url": "https://x.com/bailanlam/status/2106473152859742471/photo/1",
+              "media_key": "3_2106473135059197952",
+              "start": 31,
+              "url": "https://t.co/9Y0Xj4y8O9"
+            },
+            {
+              "display_url": "pic.x.com/9Y0Xj4y8O9",
+              "end": 54,
+              "expanded_url": "https://x.com/bailanlam/status/2106473152859742471/photo/1",
+              "media_key": "3_2106473135059181568",
+              "start": 31,
+              "url": "https://t.co/9Y0Xj4y8O9"
+            },
+            {
+              "display_url": "pic.x.com/9Y0Xj4y8O9",
+              "end": 54,
+              "expanded_url": "https://x.com/bailanlam/status/2106473152859742471/photo/1",
+              "media_key": "3_2106473135059165184",
+              "start": 31,
+              "url": "https://t.co/9Y0Xj4y8O9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106574165688135841",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106473135059197952"
+          },
+          {
+            "media_key": "3_2106473135059181568"
+          },
+          {
+            "media_key": "3_2106473135059165184"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 115
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106473152859742471",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bailanlam: 回看过去，居然凑齐了三种颜色… https://t.co/9Y0Xj4y8O9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106473135059197952",
+            "3_2106473135059181568",
+            "3_2106473135059165184"
+          ]
+        },
+        "author_id": "1960573595798921254",
+        "conversation_id": "2106473152859742471",
+        "created_at": "2026-10-03T19:55:10.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T20:55:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106473152859742471"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9Y0Xj4y8O9",
+              "end": 39,
+              "expanded_url": "https://x.com/bailanlam/status/2106473152859742471/photo/1",
+              "media_key": "3_2106473135059197952",
+              "start": 16,
+              "url": "https://t.co/9Y0Xj4y8O9"
+            },
+            {
+              "display_url": "pic.x.com/9Y0Xj4y8O9",
+              "end": 39,
+              "expanded_url": "https://x.com/bailanlam/status/2106473152859742471/photo/1",
+              "media_key": "3_2106473135059181568",
+              "start": 16,
+              "url": "https://t.co/9Y0Xj4y8O9"
+            },
+            {
+              "display_url": "pic.x.com/9Y0Xj4y8O9",
+              "end": 39,
+              "expanded_url": "https://x.com/bailanlam/status/2106473152859742471/photo/1",
+              "media_key": "3_2106473135059165184",
+              "start": 16,
+              "url": "https://t.co/9Y0Xj4y8O9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106473152859742471",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106473135059197952"
+          },
+          {
+            "media_key": "3_2106473135059181568"
+          },
+          {
+            "media_key": "3_2106473135059165184"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 227,
+          "impression_count": 19370,
+          "like_count": 2082,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 115
+        },
+        "reply_settings": "everyone",
+        "text": "回看过去，居然凑齐了三种颜色… https://t.co/9Y0Xj4y8O9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x/pub",
+                "start": 0,
+                "url": "https://t.co/QEp5sn5Pwy"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "应许记忆之城",
+        "most_recent_tweet_id": "2106574165688135841",
+        "name": "嚼嚼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1789143945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105903302756139008/ZZtPcn-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 332,
+          "like_count": 3454,
+          "listed_count": 0,
+          "media_count": 341,
+          "tweet_count": 2990
+        },
+        "url": "https://t.co/QEp5sn5Pwy",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-27T05:22:39.000Z",
+        "description": "18+/🇨🇳中文/English/不授权转载🚫\n好事多磨",
+        "id": "1960573595798921254",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106473152859742471",
+        "name": "白蓝蓝蓝蓝",
+        "pinned_tweet_id": "2058238458154598495",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1960573595798921254/1786456481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096153505040068608/-3o3XKkA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13393,
+          "following_count": 18,
+          "like_count": 597,
+          "listed_count": 59,
+          "media_count": 119,
+          "tweet_count": 411
+        },
+        "url": "",
+        "username": "bailanlam",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

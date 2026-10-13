@@ -1,0 +1,460 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106272124281470976",
+        "3_2106272124348596224",
+        "3_2106272124331790336",
+        "3_2106272124348592128"
+      ],
+      "media_source_tweet_id": [
+        "2106272129998311729",
+        "2106272129998311729",
+        "2106272129998311729",
+        "2106272129998311729"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2106325363773395452",
+    "created_at": "2026-10-03T10:07:55.000Z",
+    "display_text_range": [
+      0,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T11:07:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106325363773395452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1311722408009637889",
+          "start": 3,
+          "username": "enigmacuration"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kd6WOR3B34",
+          "end": 43,
+          "expanded_url": "https://x.com/enigmacuration/status/2106272129998311729/photo/1",
+          "media_key": "3_2106272124281470976",
+          "start": 20,
+          "url": "https://t.co/kd6WOR3B34"
+        },
+        {
+          "display_url": "pic.x.com/kd6WOR3B34",
+          "end": 43,
+          "expanded_url": "https://x.com/enigmacuration/status/2106272129998311729/photo/1",
+          "media_key": "3_2106272124348596224",
+          "start": 20,
+          "url": "https://t.co/kd6WOR3B34"
+        },
+        {
+          "display_url": "pic.x.com/kd6WOR3B34",
+          "end": 43,
+          "expanded_url": "https://x.com/enigmacuration/status/2106272129998311729/photo/1",
+          "media_key": "3_2106272124331790336",
+          "start": 20,
+          "url": "https://t.co/kd6WOR3B34"
+        },
+        {
+          "display_url": "pic.x.com/kd6WOR3B34",
+          "end": 43,
+          "expanded_url": "https://x.com/enigmacuration/status/2106272129998311729/photo/1",
+          "media_key": "3_2106272124348592128",
+          "start": 20,
+          "url": "https://t.co/kd6WOR3B34"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106325363773395452",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2106272124281470976"
+      },
+      {
+        "media_key": "3_2106272124348596224"
+      },
+      {
+        "media_key": "3_2106272124331790336"
+      },
+      {
+        "media_key": "3_2106272124348592128"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106272129998311729",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @enigmacuration: https://t.co/kd6WOR3B34"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1140,
+        "media_key": "3_2106272124281470976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTr7VmgawAAIJ8Q.jpg",
+        "width": 760
+      },
+      {
+        "height": 707,
+        "media_key": "3_2106272124348596224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTr7VmwbAAASGcv.jpg",
+        "width": 500
+      },
+      {
+        "height": 2010,
+        "media_key": "3_2106272124331790336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTr7VmsakAArRbh.jpg",
+        "width": 1340
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2106272124348592128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTr7Vmwa8AAE-7U.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106272124281470976",
+            "3_2106272124348596224",
+            "3_2106272124331790336",
+            "3_2106272124348592128"
+          ],
+          "media_source_tweet_id": [
+            "2106272129998311729",
+            "2106272129998311729",
+            "2106272129998311729",
+            "2106272129998311729"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2106325363773395452",
+        "created_at": "2026-10-03T10:07:55.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T11:07:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106325363773395452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1311722408009637889",
+              "start": 3,
+              "username": "enigmacuration"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kd6WOR3B34",
+              "end": 43,
+              "expanded_url": "https://x.com/enigmacuration/status/2106272129998311729/photo/1",
+              "media_key": "3_2106272124281470976",
+              "start": 20,
+              "url": "https://t.co/kd6WOR3B34"
+            },
+            {
+              "display_url": "pic.x.com/kd6WOR3B34",
+              "end": 43,
+              "expanded_url": "https://x.com/enigmacuration/status/2106272129998311729/photo/1",
+              "media_key": "3_2106272124348596224",
+              "start": 20,
+              "url": "https://t.co/kd6WOR3B34"
+            },
+            {
+              "display_url": "pic.x.com/kd6WOR3B34",
+              "end": 43,
+              "expanded_url": "https://x.com/enigmacuration/status/2106272129998311729/photo/1",
+              "media_key": "3_2106272124331790336",
+              "start": 20,
+              "url": "https://t.co/kd6WOR3B34"
+            },
+            {
+              "display_url": "pic.x.com/kd6WOR3B34",
+              "end": 43,
+              "expanded_url": "https://x.com/enigmacuration/status/2106272129998311729/photo/1",
+              "media_key": "3_2106272124348592128",
+              "start": 20,
+              "url": "https://t.co/kd6WOR3B34"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106325363773395452",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2106272124281470976"
+          },
+          {
+            "media_key": "3_2106272124348596224"
+          },
+          {
+            "media_key": "3_2106272124331790336"
+          },
+          {
+            "media_key": "3_2106272124348592128"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106272129998311729",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @enigmacuration: https://t.co/kd6WOR3B34"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106272124281470976",
+            "3_2106272124348596224",
+            "3_2106272124331790336",
+            "3_2106272124348592128"
+          ]
+        },
+        "author_id": "1311722408009637889",
+        "conversation_id": "2106272129998311729",
+        "created_at": "2026-10-03T06:36:23.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T07:36:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106272129998311729"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kd6WOR3B34",
+              "end": 23,
+              "expanded_url": "https://x.com/enigmacuration/status/2106272129998311729/photo/1",
+              "media_key": "3_2106272124281470976",
+              "start": 0,
+              "url": "https://t.co/kd6WOR3B34"
+            },
+            {
+              "display_url": "pic.x.com/kd6WOR3B34",
+              "end": 23,
+              "expanded_url": "https://x.com/enigmacuration/status/2106272129998311729/photo/1",
+              "media_key": "3_2106272124348596224",
+              "start": 0,
+              "url": "https://t.co/kd6WOR3B34"
+            },
+            {
+              "display_url": "pic.x.com/kd6WOR3B34",
+              "end": 23,
+              "expanded_url": "https://x.com/enigmacuration/status/2106272129998311729/photo/1",
+              "media_key": "3_2106272124331790336",
+              "start": 0,
+              "url": "https://t.co/kd6WOR3B34"
+            },
+            {
+              "display_url": "pic.x.com/kd6WOR3B34",
+              "end": 23,
+              "expanded_url": "https://x.com/enigmacuration/status/2106272129998311729/photo/1",
+              "media_key": "3_2106272124348592128",
+              "start": 0,
+              "url": "https://t.co/kd6WOR3B34"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106272129998311729",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2106272124281470976"
+          },
+          {
+            "media_key": "3_2106272124348596224"
+          },
+          {
+            "media_key": "3_2106272124331790336"
+          },
+          {
+            "media_key": "3_2106272124348592128"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 548,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/kd6WOR3B34"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x/pub",
+                "start": 0,
+                "url": "https://t.co/QEp5sn5Pwy"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "应许记忆之城",
+        "most_recent_tweet_id": "2106325363773395452",
+        "name": "嚼嚼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1789143945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105903302756139008/ZZtPcn-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 328,
+          "like_count": 3443,
+          "listed_count": 0,
+          "media_count": 340,
+          "tweet_count": 2980
+        },
+        "url": "https://t.co/QEp5sn5Pwy",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-10-01T17:39:34.000Z",
+        "description": "Portfolio and inquiries \nhttps://t.co/FOQ3pEL92s",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "enigmacuration.com/archive",
+                "end": 48,
+                "expanded_url": "http://enigmacuration.com/archive",
+                "start": 25,
+                "url": "https://t.co/FOQ3pEL92s"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/enigma.curation",
+                "end": 23,
+                "expanded_url": "http://instagram.com/enigma.curation",
+                "start": 0,
+                "url": "https://t.co/efjqxSgihM"
+              }
+            ]
+          }
+        },
+        "id": "1311722408009637889",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA",
+        "most_recent_tweet_id": "2106272129998311729",
+        "name": "Enigma",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1311722408009637889/1787667523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094524794750554112/kKFQVQqh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9708,
+          "following_count": 237,
+          "like_count": 8118,
+          "listed_count": 40,
+          "media_count": 5022,
+          "tweet_count": 11018
+        },
+        "url": "https://t.co/efjqxSgihM",
+        "username": "enigmacuration",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

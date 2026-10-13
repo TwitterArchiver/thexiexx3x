@@ -1,0 +1,402 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105144401517510656",
+        "3_2105144401521774592",
+        "3_2105144401517502464"
+      ],
+      "media_source_tweet_id": [
+        "2105144405317521512",
+        "2105144405317521512",
+        "2105144405317521512"
+      ]
+    },
+    "author_id": "2054583279257583616",
+    "conversation_id": "2105312618034712579",
+    "created_at": "2026-09-30T15:03:37.000Z",
+    "display_text_range": [
+      0,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T16:03:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105312618034712579"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1778106869908905988",
+          "start": 3,
+          "username": "kawawawaiida"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jjLU0nYRsk",
+          "end": 53,
+          "expanded_url": "https://x.com/kawawawaiida/status/2105144405317521512/photo/1",
+          "media_key": "3_2105144401517510656",
+          "start": 30,
+          "url": "https://t.co/jjLU0nYRsk"
+        },
+        {
+          "display_url": "pic.x.com/jjLU0nYRsk",
+          "end": 53,
+          "expanded_url": "https://x.com/kawawawaiida/status/2105144405317521512/photo/1",
+          "media_key": "3_2105144401521774592",
+          "start": 30,
+          "url": "https://t.co/jjLU0nYRsk"
+        },
+        {
+          "display_url": "pic.x.com/jjLU0nYRsk",
+          "end": 53,
+          "expanded_url": "https://x.com/kawawawaiida/status/2105144405317521512/photo/1",
+          "media_key": "3_2105144401517502464",
+          "start": 30,
+          "url": "https://t.co/jjLU0nYRsk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105312618034712579",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2105144401517510656"
+      },
+      {
+        "media_key": "3_2105144401521774592"
+      },
+      {
+        "media_key": "3_2105144401517502464"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 363
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105144405317521512",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kawawawaiida: 出演ぉめでとぅ(大嘘) https://t.co/jjLU0nYRsk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 942,
+        "media_key": "3_2105144401517510656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTb5rf1agAAgQY9.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2105144401521774592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTb5rf2bkAA1itd.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2105144401517502464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTb5rf1aYAAB65T.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105144401517510656",
+            "3_2105144401521774592",
+            "3_2105144401517502464"
+          ],
+          "media_source_tweet_id": [
+            "2105144405317521512",
+            "2105144405317521512",
+            "2105144405317521512"
+          ]
+        },
+        "author_id": "2054583279257583616",
+        "conversation_id": "2105312618034712579",
+        "created_at": "2026-09-30T15:03:37.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T16:03:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105312618034712579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1778106869908905988",
+              "start": 3,
+              "username": "kawawawaiida"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jjLU0nYRsk",
+              "end": 53,
+              "expanded_url": "https://x.com/kawawawaiida/status/2105144405317521512/photo/1",
+              "media_key": "3_2105144401517510656",
+              "start": 30,
+              "url": "https://t.co/jjLU0nYRsk"
+            },
+            {
+              "display_url": "pic.x.com/jjLU0nYRsk",
+              "end": 53,
+              "expanded_url": "https://x.com/kawawawaiida/status/2105144405317521512/photo/1",
+              "media_key": "3_2105144401521774592",
+              "start": 30,
+              "url": "https://t.co/jjLU0nYRsk"
+            },
+            {
+              "display_url": "pic.x.com/jjLU0nYRsk",
+              "end": 53,
+              "expanded_url": "https://x.com/kawawawaiida/status/2105144405317521512/photo/1",
+              "media_key": "3_2105144401517502464",
+              "start": 30,
+              "url": "https://t.co/jjLU0nYRsk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105312618034712579",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2105144401517510656"
+          },
+          {
+            "media_key": "3_2105144401521774592"
+          },
+          {
+            "media_key": "3_2105144401517502464"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 363
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105144405317521512",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kawawawaiida: 出演ぉめでとぅ(大嘘) https://t.co/jjLU0nYRsk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105144401517510656",
+            "3_2105144401521774592",
+            "3_2105144401517502464"
+          ]
+        },
+        "author_id": "1778106869908905988",
+        "conversation_id": "2105144405317521512",
+        "created_at": "2026-09-30T03:55:12.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T04:55:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105144405317521512"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jjLU0nYRsk",
+              "end": 35,
+              "expanded_url": "https://x.com/kawawawaiida/status/2105144405317521512/photo/1",
+              "media_key": "3_2105144401517510656",
+              "start": 12,
+              "url": "https://t.co/jjLU0nYRsk"
+            },
+            {
+              "display_url": "pic.x.com/jjLU0nYRsk",
+              "end": 35,
+              "expanded_url": "https://x.com/kawawawaiida/status/2105144405317521512/photo/1",
+              "media_key": "3_2105144401521774592",
+              "start": 12,
+              "url": "https://t.co/jjLU0nYRsk"
+            },
+            {
+              "display_url": "pic.x.com/jjLU0nYRsk",
+              "end": 35,
+              "expanded_url": "https://x.com/kawawawaiida/status/2105144405317521512/photo/1",
+              "media_key": "3_2105144401517502464",
+              "start": 12,
+              "url": "https://t.co/jjLU0nYRsk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105144405317521512",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2105144401517510656"
+          },
+          {
+            "media_key": "3_2105144401521774592"
+          },
+          {
+            "media_key": "3_2105144401517502464"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 267,
+          "impression_count": 28197,
+          "like_count": 2529,
+          "quote_count": 11,
+          "reply_count": 6,
+          "retweet_count": 363
+        },
+        "reply_settings": "everyone",
+        "text": "出演ぉめでとぅ(大嘘) https://t.co/jjLU0nYRsk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "人类的嚎叫\n大号@thexiexx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "thexiexx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liangkuaixiex_…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liangkuaixiex_x/pub",
+                "start": 0,
+                "url": "https://t.co/QEp5sn5Pwy"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "is_identity_verified": false,
+        "location": "应许记忆之城",
+        "most_recent_tweet_id": "2105312618034712579",
+        "name": "嚼嚼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054583279257583616/1789143945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098448361116557312/v8ICxkHS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 318,
+          "like_count": 3373,
+          "listed_count": 0,
+          "media_count": 329,
+          "tweet_count": 2904
+        },
+        "url": "https://t.co/QEp5sn5Pwy",
+        "username": "thexiexx3x",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-10T17:05:18.000Z",
+        "description": "女臣≠″ｬ｣ﾚﾚﾆﾅょ丶)ﾅﾆﾚヽ 👑🎀🍓🧠🔪˚✧₊⁎ 最惡、ゐωﾅょ歹ヒωτ″ιまぇ\nｷﾓﾂｨぁかぅんとっヽ(*´∀｀)→@kawaiimayuura",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 62,
+                "username": "kawaiimayuura"
+              }
+            ]
+          }
+        },
+        "id": "1778106869908905988",
+        "is_identity_verified": false,
+        "location": "考えも否定されて泣きそうな君の顔は",
+        "most_recent_tweet_id": "2105144405317521512",
+        "name": "〒″ヵ丶)ﾚま″ω 🎀👁️@世界の底辺★彡",
+        "pinned_tweet_id": "1780605958512923096",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1778106869908905988/1787308118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865767179372871680/byctIi4i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 355,
+          "like_count": 54779,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 1205
+        },
+        "url": "",
+        "username": "kawawawaiida",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
