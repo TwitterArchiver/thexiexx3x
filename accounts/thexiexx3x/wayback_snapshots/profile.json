@@ -1,7 +1,7 @@
 {
   "name": "嚼嚼",
   "username": "@thexiexx3x",
-  "bio": "人类的嚎叫\n大号@thexiexx",
+  "bio": "人类的嚎叫\n画画的东西在@lkuaix_xie\n以前的号@thexiexx",
   "location": "应许记忆之城",
   "link": "https://ngl.link/liangkuaixiex_x/pub",
   "avatar": "avatar/avatar.jpg",
@@ -10,11 +10,16 @@
   "bio_entities": {
     "mentions": [
       {
-        "end": 17,
-        "start": 8,
+        "end": 23,
+        "start": 12,
+        "username": "lkuaix_xie"
+      },
+      {
+        "end": 37,
+        "start": 28,
         "username": "thexiexx"
       }
     ]
   },
-  "_avatar_source": "https://pbs.twimg.com/profile_images/2098448361116557312/v8ICxkHS_normal.jpg"
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2105903302756139008/ZZtPcn-T_normal.jpg"
 }
